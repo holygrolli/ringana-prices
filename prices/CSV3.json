@@ -1,0 +1,78 @@
+{
+  "matchcode" : "CSV3",
+  "availableVariants" : [ {
+    "matchcode" : "CSV",
+    "set" : false,
+    "travelSize" : false
+  } ],
+  "basePrice" : {
+    "amount" : 1,
+    "brutto" : 0.59,
+    "unit" : "Kapsel",
+    "unitId" : 43580
+  },
+  "contentsAmount" : "270",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/wp-content/uploads/2018/08/21175331/RINGANA-CAPS-protect-3-Set.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/caps-protect-set/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 159.1,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 159.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 89.5
+      },
+      "provisionPoints" : 89.5
+    },
+    "partner" : {
+      "brutto" : 159.1,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 159.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 89.5
+      },
+      "provisionPoints" : 89.5
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : {
+    "0" : {
+      "amount" : 3,
+      "gratis" : false,
+      "matchcode" : "CSV"
+    }
+  },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "CAPS protect, Set of 3",
+  "unit" : "Set",
+  "unitContents" : "Kap.",
+  "unitContentsId" : 804,
+  "unitId" : 43586,
+  "usp" : "Innerer Schutzschild"
+}

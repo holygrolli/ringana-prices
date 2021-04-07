@@ -1,0 +1,72 @@
+{
+  "matchcode" : "CAV",
+  "availableVariants" : [ {
+    "matchcode" : "CAV3",
+    "set" : false,
+    "travelSize" : false
+  } ],
+  "basePrice" : {
+    "amount" : 1,
+    "brutto" : 0.44,
+    "unit" : "Kapsel",
+    "unitId" : 43580
+  },
+  "contentsAmount" : "90",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/wp-content/uploads/2018/04/04092642/RINGANA-CAPS-move.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/caps-move/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "81e9cf",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 39.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 39.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 23.9
+      },
+      "provisionPoints" : 23.9
+    },
+    "partner" : {
+      "brutto" : 39.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 39.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 23.9
+      },
+      "provisionPoints" : 23.9
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "CAPS move",
+  "unit" : "Stk.",
+  "unitContents" : "Kap.",
+  "unitContentsId" : 804,
+  "unitId" : 996,
+  "usp" : "Bewegungsfreiheit"
+}

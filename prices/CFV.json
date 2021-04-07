@@ -1,0 +1,72 @@
+{
+  "matchcode" : "CFV",
+  "availableVariants" : [ {
+    "matchcode" : "CFV3",
+    "set" : false,
+    "travelSize" : false
+  } ],
+  "basePrice" : {
+    "amount" : 1,
+    "brutto" : 0.55,
+    "unit" : "Kapsel",
+    "unitId" : 43580
+  },
+  "contentsAmount" : "90",
+  "currency" : "eur",
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/wp-content/uploads/2018/04/04092639/RINGANA-CAPS-fem.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/caps-fem/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "e9a2b2",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 49.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 49.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 30.6
+      },
+      "provisionPoints" : 30.6
+    },
+    "partner" : {
+      "brutto" : 49.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 49.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 30.6
+      },
+      "provisionPoints" : 30.6
+    }
+  },
+  "purchasePossible" : false,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : true,
+  "title" : "CAPS fem",
+  "unit" : "Stk.",
+  "unitContents" : "Kap.",
+  "unitContentsId" : 804,
+  "unitId" : 996,
+  "usp" : "Women?s Essentials"
+}

@@ -1,0 +1,78 @@
+{
+  "matchcode" : "D-EAT3",
+  "availableVariants" : [ {
+    "matchcode" : "D-EAT",
+    "set" : false,
+    "travelSize" : false
+  } ],
+  "basePrice" : {
+    "amount" : 1000,
+    "brutto" : 78,
+    "unit" : "g",
+    "unitId" : 812
+  },
+  "contentsAmount" : "2100",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2019/10/COMPLETE-d-eat-set.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/complete-d-eat-set/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 164,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 164,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 88.4
+      },
+      "provisionPoints" : 88.4
+    },
+    "partner" : {
+      "brutto" : 164,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 164,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 88.4
+      },
+      "provisionPoints" : 88.4
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : {
+    "0" : {
+      "amount" : 3,
+      "gratis" : false,
+      "matchcode" : "D-EAT"
+    }
+  },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "COMPLETE d-eat, Set of 3",
+  "unit" : "Set",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 43586,
+  "usp" : "Mahlzeitersatz mit nur 200 kcal"
+}

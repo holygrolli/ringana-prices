@@ -1,0 +1,80 @@
+{
+  "matchcode" : "CCB3",
+  "availableVariants" : [ {
+    "matchcode" : "CCB",
+    "set" : false,
+    "travelSize" : false,
+    "unit" : "Stk.",
+    "unitId" : 996
+  } ],
+  "basePrice" : {
+    "amount" : 1,
+    "brutto" : 0.44,
+    "unit" : "Kapsel",
+    "unitId" : 43580
+  },
+  "contentsAmount" : "270",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/wp-content/uploads/2018/08/21181112/RINGANA-CAPS-cerebro-3-Set.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/caps-cerebro-set/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 118.89,
+      "bruttoWithoutDiscount" : 132.1,
+      "discountPercentage" : 10,
+      "discountUntil" : "2021-04-16T08:00:00Z",
+      "initialPurchase" : {
+        "brutto" : 118.89,
+        "bruttoWithoutDiscount" : 132.1,
+        "discountPercentage" : 10,
+        "discountUntil" : "2021-04-16T08:00:00Z",
+        "provisionPoints" : 60.18
+      },
+      "provisionPoints" : 60.18
+    },
+    "partner" : {
+      "brutto" : 118.89,
+      "bruttoWithoutDiscount" : 132.1,
+      "discountPercentage" : 10,
+      "discountUntil" : "2021-04-16T08:00:00Z",
+      "initialPurchase" : {
+        "brutto" : 118.89,
+        "bruttoWithoutDiscount" : 132.1,
+        "discountPercentage" : 10,
+        "discountUntil" : "2021-04-16T08:00:00Z",
+        "provisionPoints" : 60.18
+      },
+      "provisionPoints" : 60.18
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : {
+    "0" : {
+      "amount" : 3,
+      "gratis" : false,
+      "matchcode" : "CCB"
+    }
+  },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "CAPS cerebro, Set of 3",
+  "unit" : "Set",
+  "unitContents" : "Kap.",
+  "unitContentsId" : 804,
+  "unitId" : 43586,
+  "usp" : "Ged?chtnisst?tze"
+}

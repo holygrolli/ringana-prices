@@ -1,0 +1,68 @@
+{
+  "matchcode" : "CDG",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : 1,
+    "brutto" : 0.5,
+    "unit" : "Kapsel",
+    "unitId" : 43580
+  },
+  "contentsAmount" : "90",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/wp-content/uploads/2018/04/22103908/RINGANA-CAPS-d-gest.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/caps-d-gest/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "d4c304",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 45,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 45,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 28
+      },
+      "provisionPoints" : 28
+    },
+    "partner" : {
+      "brutto" : 45,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 45,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 28
+      },
+      "provisionPoints" : 28
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "CAPS d-gest",
+  "unit" : "Stk.",
+  "unitContents" : "Kap.",
+  "unitContentsId" : 804,
+  "unitId" : 996,
+  "usp" : "Gutes Bauchgef?hl"
+}

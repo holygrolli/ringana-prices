@@ -1,0 +1,89 @@
+{
+  "matchcode" : "WP3",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : null,
+    "brutto" : null,
+    "unit" : null,
+    "unitId" : null
+  },
+  "contentsAmount" : "3120",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/wp-content/uploads/2018/04/04092607/PACKS-ABC-3er-Set.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/packs-abc-3er-set/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 454,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 454,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 253.4
+      },
+      "provisionPoints" : 253.4
+    },
+    "partner" : {
+      "brutto" : 454,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 454,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 253.4
+      },
+      "provisionPoints" : 253.4
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : {
+    "0" : {
+      "amount" : 3,
+      "gratis" : false,
+      "matchcode" : "WPA"
+    },
+    "1" : {
+      "amount" : 3,
+      "gratis" : false,
+      "matchcode" : "WPB"
+    },
+    "2" : {
+      "amount" : 3,
+      "gratis" : false,
+      "matchcode" : "WPC"
+    },
+    "3" : {
+      "amount" : 1,
+      "gratis" : true,
+      "matchcode" : "RS"
+    }
+  },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "PACKS ABC, Set of 3",
+  "unit" : "Set",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 43586,
+  "usp" : "Das ABC der Ern?hrung. Je 3x PACKS antiox, balancing und cleansing."
+}

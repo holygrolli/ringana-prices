@@ -1,0 +1,68 @@
+{
+  "matchcode" : "BRS",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : 100,
+    "brutto" : 8.7,
+    "unit" : "ml",
+    "unitId" : 827
+  },
+  "contentsAmount" : "200",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/wp-content/uploads/2018/04/04092653/shampoo.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/fresh-shampoo/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 17.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 17.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 11.8
+      },
+      "provisionPoints" : 11.8
+    },
+    "partner" : {
+      "brutto" : 17.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 17.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 11.8
+      },
+      "provisionPoints" : 11.8
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "FRESH shampoo",
+  "unit" : "Stk.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 996,
+  "usp" : "Haarpflege"
+}

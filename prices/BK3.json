@@ -1,0 +1,73 @@
+{
+  "matchcode" : "BK3",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : 100,
+    "brutto" : 59.77,
+    "unit" : "ml",
+    "unitId" : 827
+  },
+  "contentsAmount" : "45",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2019/09/FRESH-sample-box-face-rich.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/fresh-sample-box-rich/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 26.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 11.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 3
+      },
+      "provisionPoints" : 17.4
+    },
+    "partner" : {
+      "brutto" : 26.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 11.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 3
+      },
+      "provisionPoints" : 17.4
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : {
+    "1" : false,
+    "2" : false,
+    "3" : true,
+    "4" : false
+  },
+  "soldOut" : false,
+  "title" : "FRESH sample box face rich",
+  "unit" : "Reisegr??e",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 43592,
+  "usp" : "zu Trockenheit neigende Haut"
+}

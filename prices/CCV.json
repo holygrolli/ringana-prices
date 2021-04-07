@@ -1,0 +1,74 @@
+{
+  "matchcode" : "CCV",
+  "availableVariants" : [ {
+    "matchcode" : "CCV3",
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
+  } ],
+  "basePrice" : {
+    "amount" : 1,
+    "brutto" : 0.49,
+    "unit" : "Kapsel",
+    "unitId" : 43580
+  },
+  "contentsAmount" : "90",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/wp-content/uploads/2018/04/04092632/RINGANA-CAPS-pump.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/caps-pump/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "ffb3ab",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 44.37,
+      "bruttoWithoutDiscount" : 49.3,
+      "discountPercentage" : 10,
+      "discountUntil" : "2021-04-16T08:00:00Z",
+      "initialPurchase" : {
+        "brutto" : 44.37,
+        "bruttoWithoutDiscount" : 49.3,
+        "discountPercentage" : 10,
+        "discountUntil" : "2021-04-16T08:00:00Z",
+        "provisionPoints" : 24.79
+      },
+      "provisionPoints" : 24.79
+    },
+    "partner" : {
+      "brutto" : 44.37,
+      "bruttoWithoutDiscount" : 49.3,
+      "discountPercentage" : 10,
+      "discountUntil" : "2021-04-16T08:00:00Z",
+      "initialPurchase" : {
+        "brutto" : 44.37,
+        "bruttoWithoutDiscount" : 49.3,
+        "discountPercentage" : 10,
+        "discountUntil" : "2021-04-16T08:00:00Z",
+        "provisionPoints" : 24.79
+      },
+      "provisionPoints" : 24.79
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "CAPS pump",
+  "unit" : "Stk.",
+  "unitContents" : "Kap.",
+  "unitContentsId" : 804,
+  "unitId" : 996,
+  "usp" : "Herz-Kreislauf-System"
+}

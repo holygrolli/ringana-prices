@@ -1,0 +1,72 @@
+{
+  "matchcode" : "CMV",
+  "availableVariants" : [ {
+    "matchcode" : "CMV3",
+    "set" : false,
+    "travelSize" : false
+  } ],
+  "basePrice" : {
+    "amount" : 1,
+    "brutto" : 0.58,
+    "unit" : "Kapsel",
+    "unitId" : 43580
+  },
+  "contentsAmount" : "90",
+  "currency" : "eur",
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/wp-content/uploads/2018/04/04092634/RINGANA-CAPS-mascu.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/caps-mascu/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "c6a992",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 52.1,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 52.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 32.6
+      },
+      "provisionPoints" : 32.6
+    },
+    "partner" : {
+      "brutto" : 52.1,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 52.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 32.6
+      },
+      "provisionPoints" : 32.6
+    }
+  },
+  "purchasePossible" : false,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : true,
+  "title" : "CAPS mascu",
+  "unit" : "Stk.",
+  "unitContents" : "Kap.",
+  "unitContentsId" : 804,
+  "unitId" : 996,
+  "usp" : "Men?s Best"
+}

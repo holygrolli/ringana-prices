@@ -1,0 +1,78 @@
+{
+  "matchcode" : "CFV3",
+  "availableVariants" : [ {
+    "matchcode" : "CFV",
+    "set" : false,
+    "travelSize" : false
+  } ],
+  "basePrice" : {
+    "amount" : 1,
+    "brutto" : 0.49,
+    "unit" : "Kapsel",
+    "unitId" : 43580
+  },
+  "contentsAmount" : "270",
+  "currency" : "eur",
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/wp-content/uploads/2018/08/21182728/RINGANA-CAPS-fem-3-Set.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/caps-fem-set/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 132.1,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 132.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 74.3
+      },
+      "provisionPoints" : 74.3
+    },
+    "partner" : {
+      "brutto" : 132.1,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 132.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 74.3
+      },
+      "provisionPoints" : 74.3
+    }
+  },
+  "purchasePossible" : false,
+  "setContents" : {
+    "0" : {
+      "amount" : 3,
+      "gratis" : false,
+      "matchcode" : "CFV"
+    }
+  },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : true,
+  "title" : "CAPS fem, Set of 3",
+  "unit" : "Set",
+  "unitContents" : "Kap.",
+  "unitContentsId" : 804,
+  "unitId" : 43586,
+  "usp" : "Women?s Essentials"
+}

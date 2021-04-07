@@ -1,0 +1,73 @@
+{
+  "matchcode" : "BK2",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : 100,
+    "brutto" : 52.22,
+    "unit" : "ml",
+    "unitId" : 827
+  },
+  "contentsAmount" : "45",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/wp-content/uploads/2018/04/17100044/FRESH-sample-box-face-medium.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/fresh-sample-box-medium/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 23.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 10,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 3
+      },
+      "provisionPoints" : 15.1
+    },
+    "partner" : {
+      "brutto" : 23.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 10,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 3
+      },
+      "provisionPoints" : 15.1
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : {
+    "1" : false,
+    "2" : true,
+    "3" : false,
+    "4" : false
+  },
+  "soldOut" : false,
+  "title" : "FRESH sample box face medium",
+  "unit" : "Reisegr??e",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 43592,
+  "usp" : "normale Haut / Mischhaut"
+}

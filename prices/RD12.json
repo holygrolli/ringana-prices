@@ -1,0 +1,72 @@
+{
+  "matchcode" : "RD12",
+  "availableVariants" : [ {
+    "matchcode" : "RD24",
+    "set" : false,
+    "travelSize" : false
+  } ],
+  "basePrice" : {
+    "amount" : 1000,
+    "brutto" : 157.5,
+    "unit" : "ml",
+    "unitId" : 827
+  },
+  "contentsAmount" : "360",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2021/01/RINGANAdea_Packung.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/ringanadea/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "9bcbeb",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 56.7,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 56.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 34.6
+      },
+      "provisionPoints" : 34.6
+    },
+    "partner" : {
+      "brutto" : 56.7,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 56.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 34.6
+      },
+      "provisionPoints" : 34.6
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "RINGANAdea",
+  "unit" : "Pck.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 43589,
+  "usp" : "Leichtgewicht"
+}
