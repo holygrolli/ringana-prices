@@ -1,4 +1,4 @@
-name: fetch from shop
+name: fetch
 on:
   schedule:
     - cron: "5 6 * * *"
