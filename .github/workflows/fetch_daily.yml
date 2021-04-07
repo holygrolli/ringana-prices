@@ -7,6 +7,12 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
+    - name: Login to GitHub Container Registry
+      uses: docker/login-action@v1
+      with:
+        registry: ghcr.io
+        username: ${{ github.repository_owner }}
+        password: ${{ secrets.GITHUB_TOKEN }}
     - uses: actions/checkout@v2
     - name: get all prices	    
       uses: docker://ghcr.io/adulescentulus/ringana-shopscraper:latest
