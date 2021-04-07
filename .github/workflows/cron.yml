@@ -1,0 +1,22 @@
+name: fetch from shop
+on:
+  schedule:
+    - cron: "5 6 * * *"
+  workflow_dispatch:
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: get all prices	    
+      uses: docker://ghcr.io/adulescentulus/ringana-shopscraper:latest
+      env:
+        RINGANA_PRODUCTS_URL: https://www.ringana.com/wp-json/ringana/v1/productsByCategory
+        RINGANA_PRICES_URL: https://zapi.ringana.com/products/
+        RINGANA_OUTPUT_FOLDER: /github/workspace/prices
+    - run: |
+        git config user.name cron
+          git config user.email cron@local
+          git add prices
+          git commit -m "$(date --iso-8601=seconds)" || echo "nothing to commit"
+          git push
