@@ -23,7 +23,7 @@
   "lang" : "de",
   "link" : "/produkt/ringanaisi/",
   "maxPerCart" : null,
-  "nemBackgroundColor" : "",
+  "nemBackgroundColor" : "bc204b",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
   "partnerProduct" : false,
