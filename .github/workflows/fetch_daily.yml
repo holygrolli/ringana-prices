@@ -15,7 +15,7 @@ jobs:
         password: ${{ secrets.GITHUB_TOKEN }}
     - uses: actions/checkout@v2
     - name: get all prices	    
-      uses: docker://ghcr.io/holygrolli/ringana-shopscraper:1.0.0
+      uses: docker://ghcr.io/holygrolli/ringana-shopscraper:1.0.1
       env:
         RINGANA_PRODUCTS_URL: https://www.ringana.com/wp-json/ringana/v1/productsByCategory
         RINGANA_PRICES_URL: https://zapi.ringana.com/products/
