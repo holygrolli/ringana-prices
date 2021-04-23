@@ -2,12 +2,14 @@
   "matchcode" : "CSV",
   "availableVariants" : [ {
     "matchcode" : "CSV3",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1,
-    "brutto" : 0.65,
+    "brutto" : 0.66,
     "unit" : "Kapsel",
     "unitId" : 43580
   },
@@ -29,12 +31,12 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 58.8,
+      "brutto" : 59.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 58.8,
+        "brutto" : 59.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -43,12 +45,12 @@
       "provisionPoints" : 36.8
     },
     "partner" : {
-      "brutto" : 58.8,
+      "brutto" : 59.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 58.8,
+        "brutto" : 59.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,

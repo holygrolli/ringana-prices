@@ -2,12 +2,14 @@
   "matchcode" : "CMO",
   "availableVariants" : [ {
     "matchcode" : "CMO3",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1,
-    "brutto" : 0.58,
+    "brutto" : 0.59,
     "unit" : "Kapsel",
     "unitId" : 43580
   },
@@ -29,12 +31,12 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 52.1,
+      "brutto" : 53,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 52.1,
+        "brutto" : 53,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -43,12 +45,12 @@
       "provisionPoints" : 32.6
     },
     "partner" : {
-      "brutto" : 52.1,
+      "brutto" : 53,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 52.1,
+        "brutto" : 53,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,

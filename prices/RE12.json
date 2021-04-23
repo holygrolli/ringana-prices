@@ -3,15 +3,19 @@
   "availableVariants" : [ {
     "matchcode" : "RE3",
     "set" : false,
-    "travelSize" : false
+    "travelSize" : false,
+    "unit" : "Pck.",
+    "unitId" : 43589
   }, {
     "matchcode" : "RE24",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 132.2,
+    "brutto" : 134.4,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -33,12 +37,12 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 47.6,
+      "brutto" : 48.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 47.6,
+        "brutto" : 48.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -47,12 +51,12 @@
       "provisionPoints" : 28.5
     },
     "partner" : {
-      "brutto" : 47.6,
+      "brutto" : 48.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 47.6,
+        "brutto" : 48.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,

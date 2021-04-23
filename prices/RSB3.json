@@ -3,11 +3,13 @@
   "availableVariants" : [ {
     "matchcode" : "RSB",
     "set" : false,
-    "travelSize" : false
+    "travelSize" : false,
+    "unit" : "Pck.",
+    "unitId" : 43589
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 68.8,
+    "brutto" : 70,
     "unit" : "g",
     "unitId" : 812
   },
@@ -29,32 +31,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 144.6,
+      "brutto" : 147.1,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 144.6,
+        "brutto" : 147.1,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 84.4
+        "provisionPoints" : 87.1
       },
-      "provisionPoints" : 84.4
+      "provisionPoints" : 87.1
     },
     "partner" : {
-      "brutto" : 144.6,
+      "brutto" : 147.1,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 144.6,
+        "brutto" : 147.1,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 84.4
+        "provisionPoints" : 87.1
       },
-      "provisionPoints" : 84.4
+      "provisionPoints" : 87.1
     }
   },
   "purchasePossible" : true,
