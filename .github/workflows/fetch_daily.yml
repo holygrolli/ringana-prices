@@ -14,15 +14,23 @@ jobs:
         username: ${{ github.repository_owner }}
         password: ${{ secrets.GITHUB_TOKEN }}
     - uses: actions/checkout@v2
-    - name: get all prices	    
+    - run: |
+        rm prices/* || true
+    - name: get all normal prices	    
       uses: docker://ghcr.io/holygrolli/ringana-shopscraper:1.0.2
       env:
         RINGANA_PRODUCTS_URL: https://www.ringana.com/wp-json/ringana/v1/productsByCategory
         RINGANA_PRICES_URL: https://zapi.ringana.com/products/
         RINGANA_OUTPUT_FOLDER: /github/workspace/prices
+    - name: get all partner prices	    
+      uses: docker://ghcr.io/holygrolli/ringana-shopscraper:1.0.2
+      env:
+        RINGANA_PRODUCTS_URL: https://www.ringana.com/wp-json/ringana/v1/productsByCategory?partnerProducts=true
+        RINGANA_PRICES_URL: https://zapi.ringana.com/products/
+        RINGANA_OUTPUT_FOLDER: /github/workspace/prices
     - run: |
         git config user.name cron
-          git config user.email cron@local
-          git add prices
-          git commit -m "$(date --iso-8601=seconds)" || echo "nothing to commit"
-          git push
+        git config user.email cron@local
+        git add prices
+        git commit -m "$(date --iso-8601=seconds)" || echo "nothing to commit"
+        git push
