@@ -1,5 +1,5 @@
 {
-  "matchcode" : "SPS",
+  "matchcode" : "RBG-DE",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
@@ -7,75 +7,54 @@
     "unit" : null,
     "unitId" : null
   },
-  "contentsAmount" : "300",
+  "contentsAmount" : null,
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/04/Sun_protect_set.png?q=100",
-  "isMerchandise" : false,
+  "image" : "https://i.ringana.com/2021/01/RINGANA_BIZ_GUIDE_DE.png?q=100",
+  "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/produkt/sun-protection-set/",
+  "link" : "/partner-produkt/ringana-business-guide-de/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : false,
+  "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 89,
+      "brutto" : 1.2,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 89,
+        "brutto" : 1.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 42.4
+        "provisionPoints" : 0
       },
-      "provisionPoints" : 42.4
+      "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 89,
+      "brutto" : 1.2,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 89,
+        "brutto" : 1.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 42.4
+        "provisionPoints" : 0
       },
-      "provisionPoints" : 42.4
+      "provisionPoints" : 0
     }
   },
-  "purchasePossible" : false,
-  "setContents" : {
-    "0" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "SSF"
-    },
-    "1" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "BSB"
-    },
-    "2" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "SBA"
-    },
-    "3" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "RBTU-G"
-    }
-  },
+  "purchasePossible" : true,
+  "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : {
@@ -84,11 +63,11 @@
     "3" : true,
     "4" : true
   },
-  "soldOut" : true,
-  "title" : "Sun protection set",
-  "unit" : "ml",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
-  "unitId" : 827,
-  "usp" : "Der optimale Sonnenschutz"
+  "soldOut" : false,
+  "title" : "RINGANA business guide &#8211; DE",
+  "unit" : null,
+  "unitContents" : null,
+  "unitContentsId" : null,
+  "unitId" : null,
+  "usp" : ""
 }
