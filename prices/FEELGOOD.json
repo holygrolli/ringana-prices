@@ -1,23 +1,27 @@
 {
-  "matchcode" : "OFDO-BS",
-  "availableVariants" : [ ],
+  "matchcode" : "FEELGOOD",
+  "availableVariants" : [ {
+    "matchcode" : "BKK",
+    "set" : false,
+    "travelSize" : false
+  } ],
   "basePrice" : {
     "amount" : null,
     "brutto" : null,
     "unit" : null,
     "unitId" : null
   },
-  "contentsAmount" : "215",
+  "contentsAmount" : "300",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/04/ZkBnaHQ6-FRESHdateofferbestseller_042021.png?q=100",
+  "image" : "https://i.ringana.com/2021/04/FRESH_soap_wildrosebodymilk.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/partner-produkt/ofd-bestseller/",
+  "link" : "/produkt/feel-good-set/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -25,32 +29,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 36,
+      "brutto" : 38.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 28.8,
+        "brutto" : 38.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 15.6
+        "provisionPoints" : 21.5
       },
-      "provisionPoints" : 21.7
+      "provisionPoints" : 21.5
     },
     "partner" : {
-      "brutto" : 36,
+      "brutto" : 38.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 28.8,
+        "brutto" : 38.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 15.6
+        "provisionPoints" : 21.5
       },
-      "provisionPoints" : 21.7
+      "provisionPoints" : 21.5
     }
   },
   "purchasePossible" : true,
@@ -58,17 +62,12 @@
     "0" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "RE3"
+      "matchcode" : "BKM"
     },
     "1" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "BSR"
-    },
-    "2" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "BZO"
+      "matchcode" : "BSR-LE-WR"
     }
   },
   "showOnFrontpage" : false,
@@ -80,10 +79,10 @@
     "4" : true
   },
   "soldOut" : false,
-  "title" : "FRESH date offer bestseller",
-  "unit" : null,
+  "title" : "Feel good set",
+  "unit" : "Set",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : null,
-  "usp" : ""
+  "unitId" : 43586,
+  "usp" : "Perfekte Verw?hnung f?r gepflegte Haut"
 }

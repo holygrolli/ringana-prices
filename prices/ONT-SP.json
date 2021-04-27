@@ -1,5 +1,5 @@
 {
-  "matchcode" : "OFDO-BS",
+  "matchcode" : "ONT-SP",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
@@ -7,17 +7,17 @@
     "unit" : null,
     "unitId" : null
   },
-  "contentsAmount" : "215",
+  "contentsAmount" : "155",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/04/ZkBnaHQ6-FRESHdateofferbestseller_042021.png?q=100",
+  "image" : "https://i.ringana.com/2021/04/fvueA7Yp-FRESH_vernight_treatment_special.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/partner-produkt/ofd-bestseller/",
+  "link" : "/produkt/fresh-overnight-treatment-special/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -25,32 +25,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 36,
+      "brutto" : 122.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 28.8,
+        "brutto" : 122.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 15.6
+        "provisionPoints" : 74
       },
-      "provisionPoints" : 21.7
+      "provisionPoints" : 74
     },
     "partner" : {
-      "brutto" : 36,
+      "brutto" : 122.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 28.8,
+        "brutto" : 122.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 15.6
+        "provisionPoints" : 74
       },
-      "provisionPoints" : 21.7
+      "provisionPoints" : 74
     }
   },
   "purchasePossible" : true,
@@ -58,32 +58,32 @@
     "0" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "RE3"
+      "matchcode" : "BCN"
     },
     "1" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "BSR"
+      "matchcode" : "BBN"
     },
     "2" : {
       "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "BZO"
+      "gratis" : true,
+      "matchcode" : "RMBR"
     }
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : {
     "1" : true,
-    "2" : true,
-    "3" : true,
-    "4" : true
+    "2" : false,
+    "3" : false,
+    "4" : false
   },
   "soldOut" : false,
-  "title" : "FRESH date offer bestseller",
-  "unit" : null,
+  "title" : "FRESH overnight treatment special",
+  "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : null,
-  "usp" : ""
+  "unitId" : 996,
+  "usp" : "Sch?ne Haut ?ber Nacht"
 }
