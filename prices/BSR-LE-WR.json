@@ -55,7 +55,7 @@
   },
   "purchasePossible" : true,
   "setContents" : { },
-  "showOnFrontpage" : false,
+  "showOnFrontpage" : true,
   "singleShipmentOnly" : false,
   "skinTypes" : {
     "1" : true,
