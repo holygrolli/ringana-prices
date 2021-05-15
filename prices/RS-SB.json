@@ -1,62 +1,62 @@
 {
-  "matchcode" : "RFC-RS",
+  "matchcode" : "RS-SB",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 100,
-    "brutto" : 10200,
-    "unit" : null,
-    "unitId" : null
+    "brutto" : 16.69,
+    "unit" : "g",
+    "unitId" : 812
   },
-  "contentsAmount" : "1",
+  "contentsAmount" : "112",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2019/05/RINGANA-SPORT-fair-counter-display.png?q=100",
-  "isMerchandise" : true,
+  "image" : "https://i.ringana.com/2021/04/SPORT_sample_box_inhalte.png?q=100",
+  "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/partner-produkt/ringana-sport-fair-counter-display/",
+  "link" : "/produkt/sport-sample-box/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
+  "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 102,
+      "brutto" : 18.7,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 102,
+        "brutto" : 7.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 0
+        "provisionPoints" : 3
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 8.8
     },
     "partner" : {
-      "brutto" : 102,
+      "brutto" : 18.7,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 102,
+        "brutto" : 7.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 0
+        "provisionPoints" : 3
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 8.8
     }
   },
   "purchasePossible" : true,
   "setContents" : { },
   "showOnFrontpage" : false,
-  "singleShipmentOnly" : true,
+  "singleShipmentOnly" : false,
   "skinTypes" : {
     "1" : true,
     "2" : true,
@@ -64,10 +64,10 @@
     "4" : true
   },
   "soldOut" : false,
-  "title" : "RINGANA SPORT fair counter display",
-  "unit" : "Stk.",
-  "unitContents" : "Stk.",
-  "unitContentsId" : 996,
-  "unitId" : 996,
-  "usp" : ""
+  "title" : "SPORT sample box",
+  "unit" : null,
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : null,
+  "usp" : "Die RINGANA Sportprodukte zum Kennenlernen"
 }
