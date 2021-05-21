@@ -9,8 +9,8 @@
   },
   "contentsAmount" : "440",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -53,7 +53,7 @@
       "provisionPoints" : 48.9
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -94,7 +94,7 @@
     "3" : true,
     "4" : true
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "Summer FRESH date set",
   "unit" : "Set",
   "unitContents" : "ml",
