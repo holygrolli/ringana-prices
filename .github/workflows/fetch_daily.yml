@@ -17,13 +17,13 @@ jobs:
     - run: |
         rm prices/* || true
     - name: get all normal prices	    
-      uses: docker://ghcr.io/holygrolli/ringana-shopscraper:1.0.3
+      uses: docker://ghcr.io/holygrolli/ringana-shopscraper:1.0.4
       env:
         RINGANA_PRODUCTS_URL: https://www.ringana.com/wp-json/ringana/v1/productsByCategory
         RINGANA_PRICES_URL: https://zapi.ringana.com/products/
         RINGANA_OUTPUT_FOLDER: /github/workspace/prices
     - name: get all partner prices	    
-      uses: docker://ghcr.io/holygrolli/ringana-shopscraper:1.0.3
+      uses: docker://ghcr.io/holygrolli/ringana-shopscraper:1.0.4
       env:
         RINGANA_PRODUCTS_URL: https://www.ringana.com/wp-json/ringana/v1/productsByCategory?partnerProducts=true
         RINGANA_PRICES_URL: https://zapi.ringana.com/products/
