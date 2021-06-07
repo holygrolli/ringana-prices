@@ -7,14 +7,14 @@
   } ],
   "basePrice" : {
     "amount" : 1,
-    "brutto" : 0.46,
+    "brutto" : 0.58,
     "unit" : "Kapsel",
     "unitId" : 43580
   },
   "contentsAmount" : "90",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -29,40 +29,40 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 41.68,
-      "bruttoWithoutDiscount" : 52.1,
-      "discountPercentage" : 20,
-      "discountUntil" : "2021-06-09T08:00:00Z",
+      "brutto" : 52.1,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 41.68,
-        "bruttoWithoutDiscount" : 52.1,
-        "discountPercentage" : 20,
-        "discountUntil" : "2021-06-09T08:00:00Z",
-        "provisionPoints" : 23.47
+        "brutto" : 52.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 32.6
       },
-      "provisionPoints" : 23.47
+      "provisionPoints" : 32.6
     },
     "partner" : {
-      "brutto" : 41.68,
-      "bruttoWithoutDiscount" : 52.1,
-      "discountPercentage" : 20,
-      "discountUntil" : "2021-06-09T08:00:00Z",
+      "brutto" : 52.1,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 41.68,
-        "bruttoWithoutDiscount" : 52.1,
-        "discountPercentage" : 20,
-        "discountUntil" : "2021-06-09T08:00:00Z",
-        "provisionPoints" : 23.47
+        "brutto" : 52.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 32.6
       },
-      "provisionPoints" : 23.47
+      "provisionPoints" : 32.6
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "CAPS mascu",
   "unit" : "Stk.",
   "unitContents" : "Kap.",
