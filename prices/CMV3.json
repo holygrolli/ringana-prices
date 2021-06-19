@@ -3,9 +3,7 @@
   "availableVariants" : [ {
     "matchcode" : "CMV",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Stk.",
-    "unitId" : 996
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1,
@@ -15,8 +13,8 @@
   },
   "contentsAmount" : "270",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -59,7 +57,7 @@
       "provisionPoints" : 79.1
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 3,
@@ -70,11 +68,11 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : true,
+  "soldOut" : false,
   "title" : "CAPS mascu, Set of 3",
   "unit" : "Set",
   "unitContents" : "Kap.",
   "unitContentsId" : 804,
   "unitId" : 43586,
-  "usp" : "Men's Best"
+  "usp" : "Men’s Best"
 }
