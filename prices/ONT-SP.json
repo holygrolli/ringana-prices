@@ -9,8 +9,8 @@
   },
   "contentsAmount" : "155",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -53,7 +53,7 @@
       "provisionPoints" : 74
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -79,7 +79,7 @@
     "3" : false,
     "4" : false
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "FRESH overnight treatment special",
   "unit" : "Stk.",
   "unitContents" : "ml",
