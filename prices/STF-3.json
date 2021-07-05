@@ -3,14 +3,14 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 100,
-    "brutto" : 12.26,
+    "brutto" : 18.4,
     "unit" : "ml",
     "unitId" : 827
   },
   "contentsAmount" : "150",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -25,35 +25,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 18.4,
-      "bruttoWithoutDiscount" : 27.6,
-      "discountPercentage" : 33.33,
-      "discountUntil" : "2021-07-04T21:59:00Z",
+      "brutto" : 27.6,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 18.4,
-        "bruttoWithoutDiscount" : 27.6,
-        "discountPercentage" : 33.33,
-        "discountUntil" : "2021-07-04T21:59:00Z",
-        "provisionPoints" : 9.9
+        "brutto" : 27.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 16.5
       },
-      "provisionPoints" : 9.9
+      "provisionPoints" : 16.5
     },
     "partner" : {
-      "brutto" : 18.4,
-      "bruttoWithoutDiscount" : 27.6,
-      "discountPercentage" : 33.33,
-      "discountUntil" : "2021-07-04T21:59:00Z",
+      "brutto" : 27.6,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 18.4,
-        "bruttoWithoutDiscount" : 27.6,
-        "discountPercentage" : 33.33,
-        "discountUntil" : "2021-07-04T21:59:00Z",
-        "provisionPoints" : 9.9
+        "brutto" : 27.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 16.5
       },
-      "provisionPoints" : 9.9
+      "provisionPoints" : 16.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 3,
@@ -64,7 +64,7 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "FRESH stay fresh, 2+1 free",
   "unit" : "Stk.",
   "unitContents" : "ml",
