@@ -25,32 +25,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 57,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 45.6,
+      "bruttoWithoutDiscount" : 57,
+      "discountPercentage" : 20,
+      "discountUntil" : "2021-07-04T21:59:59Z",
       "initialPurchase" : {
-        "brutto" : 57,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 38.3
+        "brutto" : 45.6,
+        "bruttoWithoutDiscount" : 57,
+        "discountPercentage" : 20,
+        "discountUntil" : "2021-07-04T21:59:59Z",
+        "provisionPoints" : 27.58
       },
-      "provisionPoints" : 38.3
+      "provisionPoints" : 27.58
     },
     "partner" : {
-      "brutto" : 57,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 45.6,
+      "bruttoWithoutDiscount" : 57,
+      "discountPercentage" : 20,
+      "discountUntil" : "2021-07-04T21:59:59Z",
       "initialPurchase" : {
-        "brutto" : 57,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 38.3
+        "brutto" : 45.6,
+        "bruttoWithoutDiscount" : 57,
+        "discountPercentage" : 20,
+        "discountUntil" : "2021-07-04T21:59:59Z",
+        "provisionPoints" : 27.58
       },
-      "provisionPoints" : 38.3
+      "provisionPoints" : 27.58
     }
   },
   "purchasePossible" : true,
