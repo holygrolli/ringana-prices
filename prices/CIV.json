@@ -2,12 +2,14 @@
   "matchcode" : "CIV",
   "availableVariants" : [ {
     "matchcode" : "CIV3",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1,
-    "brutto" : 0.56,
+    "brutto" : 0.5,
     "unit" : "Kapsel",
     "unitId" : 43580
   },
@@ -29,32 +31,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 50.1,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 45.09,
+      "bruttoWithoutDiscount" : 50.1,
+      "discountPercentage" : 10,
+      "discountUntil" : "2021-07-23T08:00:00Z",
       "initialPurchase" : {
-        "brutto" : 50.1,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 30.6
+        "brutto" : 45.09,
+        "bruttoWithoutDiscount" : 50.1,
+        "discountPercentage" : 10,
+        "discountUntil" : "2021-07-23T08:00:00Z",
+        "provisionPoints" : 24.79
       },
-      "provisionPoints" : 30.6
+      "provisionPoints" : 24.79
     },
     "partner" : {
-      "brutto" : 50.1,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 45.09,
+      "bruttoWithoutDiscount" : 50.1,
+      "discountPercentage" : 10,
+      "discountUntil" : "2021-07-23T08:00:00Z",
       "initialPurchase" : {
-        "brutto" : 50.1,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 30.6
+        "brutto" : 45.09,
+        "bruttoWithoutDiscount" : 50.1,
+        "discountPercentage" : 10,
+        "discountUntil" : "2021-07-23T08:00:00Z",
+        "provisionPoints" : 24.79
       },
-      "provisionPoints" : 30.6
+      "provisionPoints" : 24.79
     }
   },
   "purchasePossible" : true,
