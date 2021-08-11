@@ -32,6 +32,8 @@ jobs:
         git config user.name cron
         git config user.email cron@local
         git fetch
+        git pull
+        git status
         git add prices
         git commit -m "$(date --iso-8601=seconds)" || echo "nothing to commit"
         git push
