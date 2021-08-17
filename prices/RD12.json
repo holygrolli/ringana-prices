@@ -2,14 +2,12 @@
   "matchcode" : "RD12",
   "availableVariants" : [ {
     "matchcode" : "RD24",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 160.2,
+    "brutto" : 128.2,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -31,32 +29,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 57.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 46.16,
+      "bruttoWithoutDiscount" : 57.7,
+      "discountPercentage" : 20,
+      "discountUntil" : "2021-08-17T21:59:59Z",
       "initialPurchase" : {
-        "brutto" : 57.7,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 34.6
+        "brutto" : 46.16,
+        "bruttoWithoutDiscount" : 57.7,
+        "discountPercentage" : 20,
+        "discountUntil" : "2021-08-17T21:59:59Z",
+        "provisionPoints" : 24.91
       },
-      "provisionPoints" : 34.6
+      "provisionPoints" : 24.91
     },
     "partner" : {
-      "brutto" : 57.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 46.16,
+      "bruttoWithoutDiscount" : 57.7,
+      "discountPercentage" : 20,
+      "discountUntil" : "2021-08-17T21:59:59Z",
       "initialPurchase" : {
-        "brutto" : 57.7,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 34.6
+        "brutto" : 46.16,
+        "bruttoWithoutDiscount" : 57.7,
+        "discountPercentage" : 20,
+        "discountUntil" : "2021-08-17T21:59:59Z",
+        "provisionPoints" : 24.91
       },
-      "provisionPoints" : 34.6
+      "provisionPoints" : 24.91
     }
   },
   "purchasePossible" : true,
