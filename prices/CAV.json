@@ -2,14 +2,12 @@
   "matchcode" : "CAV",
   "availableVariants" : [ {
     "matchcode" : "CAV3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1,
-    "brutto" : 0.45,
+    "brutto" : 0.36,
     "unit" : "Kapsel",
     "unitId" : 43580
   },
@@ -31,32 +29,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 40.5,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 32.4,
+      "bruttoWithoutDiscount" : 40.5,
+      "discountPercentage" : 20,
+      "discountUntil" : "2021-08-19T21:59:59Z",
       "initialPurchase" : {
-        "brutto" : 40.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 23.9
+        "brutto" : 32.4,
+        "bruttoWithoutDiscount" : 40.5,
+        "discountPercentage" : 20,
+        "discountUntil" : "2021-08-19T21:59:59Z",
+        "provisionPoints" : 17.21
       },
-      "provisionPoints" : 23.9
+      "provisionPoints" : 17.21
     },
     "partner" : {
-      "brutto" : 40.5,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 32.4,
+      "bruttoWithoutDiscount" : 40.5,
+      "discountPercentage" : 20,
+      "discountUntil" : "2021-08-19T21:59:59Z",
       "initialPurchase" : {
-        "brutto" : 40.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 23.9
+        "brutto" : 32.4,
+        "bruttoWithoutDiscount" : 40.5,
+        "discountPercentage" : 20,
+        "discountUntil" : "2021-08-19T21:59:59Z",
+        "provisionPoints" : 17.21
       },
-      "provisionPoints" : 23.9
+      "provisionPoints" : 17.21
     }
   },
   "purchasePossible" : true,
