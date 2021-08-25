@@ -3,19 +3,15 @@
   "availableVariants" : [ {
     "matchcode" : "RE3",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "travelSize" : false
   }, {
     "matchcode" : "RE24",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 134.4,
+    "brutto" : 107.5,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -37,32 +33,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 48.4,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 38.72,
+      "bruttoWithoutDiscount" : 48.4,
+      "discountPercentage" : 20,
+      "discountUntil" : "2021-08-25T21:59:59Z",
       "initialPurchase" : {
-        "brutto" : 48.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 28.5
+        "brutto" : 38.72,
+        "bruttoWithoutDiscount" : 48.4,
+        "discountPercentage" : 20,
+        "discountUntil" : "2021-08-25T21:59:59Z",
+        "provisionPoints" : 20.52
       },
-      "provisionPoints" : 28.5
+      "provisionPoints" : 20.52
     },
     "partner" : {
-      "brutto" : 48.4,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 38.72,
+      "bruttoWithoutDiscount" : 48.4,
+      "discountPercentage" : 20,
+      "discountUntil" : "2021-08-25T21:59:59Z",
       "initialPurchase" : {
-        "brutto" : 48.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 28.5
+        "brutto" : 38.72,
+        "bruttoWithoutDiscount" : 48.4,
+        "discountPercentage" : 20,
+        "discountUntil" : "2021-08-25T21:59:59Z",
+        "provisionPoints" : 20.52
       },
-      "provisionPoints" : 28.5
+      "provisionPoints" : 20.52
     }
   },
   "purchasePossible" : true,
