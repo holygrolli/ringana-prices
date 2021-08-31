@@ -2,10 +2,8 @@
   "matchcode" : "RI12",
   "availableVariants" : [ {
     "matchcode" : "RI24",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
