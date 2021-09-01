@@ -3,7 +3,7 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1,
-    "brutto" : 0.53,
+    "brutto" : 0.48,
     "unit" : "Kapsel",
     "unitId" : 43580
   },
@@ -25,32 +25,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 142.6,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 128.34,
+      "bruttoWithoutDiscount" : 142.6,
+      "discountPercentage" : 10,
+      "discountUntil" : "2021-09-10T08:00:00Z",
       "initialPurchase" : {
-        "brutto" : 142.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 79.1
+        "brutto" : 128.34,
+        "bruttoWithoutDiscount" : 142.6,
+        "discountPercentage" : 10,
+        "discountUntil" : "2021-09-10T08:00:00Z",
+        "provisionPoints" : 64.07
       },
-      "provisionPoints" : 79.1
+      "provisionPoints" : 64.07
     },
     "partner" : {
-      "brutto" : 142.6,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 128.34,
+      "bruttoWithoutDiscount" : 142.6,
+      "discountPercentage" : 10,
+      "discountUntil" : "2021-09-10T08:00:00Z",
       "initialPurchase" : {
-        "brutto" : 142.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 79.1
+        "brutto" : 128.34,
+        "bruttoWithoutDiscount" : 142.6,
+        "discountPercentage" : 10,
+        "discountUntil" : "2021-09-10T08:00:00Z",
+        "provisionPoints" : 64.07
       },
-      "provisionPoints" : 79.1
+      "provisionPoints" : 64.07
     }
   },
   "purchasePossible" : true,
