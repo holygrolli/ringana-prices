@@ -1,5 +1,5 @@
 {
-  "matchcode" : "PE-WP1",
+  "matchcode" : "PE-BP1-BSA",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
@@ -7,17 +7,17 @@
     "unit" : null,
     "unitId" : null
   },
-  "contentsAmount" : null,
+  "contentsAmount" : "330",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/08/Partner-Exclusive-PACKS-ABC.png?q=100",
+  "image" : "https://i.ringana.com/2020/09/Partner-Exclusive-skin-care-set-light-alternative-serum.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/partner-produkt/partner-exclusive-packs-abc/",
+  "link" : "/partner-produkt/partner-exclusive-skin-care-set-light-alternative-serum/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : true,
@@ -25,32 +25,32 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 127.36,
+      "brutto" : 112.2,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 127.36,
+        "brutto" : 112.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 62.86
+        "provisionPoints" : 56.3
       },
-      "provisionPoints" : 62.86
+      "provisionPoints" : 56.3
     },
     "partner" : {
-      "brutto" : 127.36,
+      "brutto" : 112.2,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 127.36,
+        "brutto" : 112.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 62.86
+        "provisionPoints" : 56.3
       },
-      "provisionPoints" : 62.86
+      "provisionPoints" : 56.3
     }
   },
   "purchasePossible" : true,
@@ -58,27 +58,42 @@
     "0" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "WPA"
+      "matchcode" : "BRM"
     },
     "1" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "WPB"
+      "matchcode" : "BGS"
     },
     "2" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "WPC"
+      "matchcode" : "BSA"
+    },
+    "3" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "BCE"
+    },
+    "4" : {
+      "amount" : 1,
+      "gratis" : true,
+      "matchcode" : "RHT"
     }
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : {
+    "1" : true,
+    "2" : false,
+    "3" : false,
+    "4" : false
+  },
   "soldOut" : false,
-  "title" : "Partner Exclusive PACKS ABC",
+  "title" : "Partner Exclusive skin care set light &#8211; alternative serum",
   "unit" : "Set",
-  "unitContents" : "Set",
-  "unitContentsId" : 43586,
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
   "unitId" : 43586,
   "usp" : ""
 }
