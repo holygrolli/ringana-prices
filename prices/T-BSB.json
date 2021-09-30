@@ -3,14 +3,14 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 100,
-    "brutto" : 20.2,
+    "brutto" : 40.4,
     "unit" : "ml",
     "unitId" : 827
   },
   "contentsAmount" : "50",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -25,40 +25,40 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 10.1,
-      "bruttoWithoutDiscount" : 20.2,
-      "discountPercentage" : 50,
-      "discountUntil" : "2021-10-01T21:59:59Z",
+      "brutto" : 20.2,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 10.1,
-        "bruttoWithoutDiscount" : 20.2,
-        "discountPercentage" : 50,
-        "discountUntil" : "2021-10-01T21:59:59Z",
-        "provisionPoints" : 4.72
+        "brutto" : 20.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 10.5
       },
-      "provisionPoints" : 4.72
+      "provisionPoints" : 10.5
     },
     "partner" : {
-      "brutto" : 10.1,
-      "bruttoWithoutDiscount" : 20.2,
-      "discountPercentage" : 50,
-      "discountUntil" : "2021-10-01T21:59:59Z",
+      "brutto" : 20.2,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 10.1,
-        "bruttoWithoutDiscount" : 20.2,
-        "discountPercentage" : 50,
-        "discountUntil" : "2021-10-01T21:59:59Z",
-        "provisionPoints" : 4.72
+        "brutto" : 20.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 10.5
       },
-      "provisionPoints" : 4.72
+      "provisionPoints" : 10.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "FRESH sunscreen pocket",
   "unit" : "Reisegröße",
   "unitContents" : "ml",
