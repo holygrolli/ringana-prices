@@ -1,27 +1,23 @@
 {
-  "matchcode" : "CBI-NBC10",
-  "availableVariants" : [ {
-    "matchcode" : "CSP3",
-    "set" : false,
-    "travelSize" : false
-  } ],
+  "matchcode" : "RS-SB",
+  "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 1,
-    "brutto" : 1.47,
-    "unit" : "Kapsel",
-    "unitId" : 43580
+    "amount" : 100,
+    "brutto" : 16.69,
+    "unit" : "g",
+    "unitId" : 812
   },
-  "contentsAmount" : "60",
+  "contentsAmount" : "112",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/10/beyond-biotic_csoon.png?q=100",
+  "image" : "https://i.ringana.com/2021/04/SPORT_sample_box_inhalte.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/beyond-biotic/",
+  "link" : "/produkt/sport-sample-box/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -29,44 +25,49 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 88.2,
+      "brutto" : 18.7,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 88.2,
+        "brutto" : 7.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 53.8
+        "provisionPoints" : 3
       },
-      "provisionPoints" : 53.8
+      "provisionPoints" : 8.8
     },
     "partner" : {
-      "brutto" : 88.2,
+      "brutto" : 18.7,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 88.2,
+        "brutto" : 7.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 53.8
+        "provisionPoints" : 3
       },
-      "provisionPoints" : 53.8
+      "provisionPoints" : 8.8
     }
   },
   "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
-  "soldOut" : false,
-  "title" : "BEYOND biotic",
-  "unit" : "Stk.",
-  "unitContents" : "Kap.",
-  "unitContentsId" : 804,
-  "unitId" : 996,
-  "usp" : "Darm gut, alles gut"
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
+  "soldOut" : true,
+  "title" : "SPORT sample box",
+  "unit" : null,
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : null,
+  "usp" : "Die RINGANA Sportprodukte zum Kennenlernen"
 }
