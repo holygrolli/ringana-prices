@@ -1,23 +1,23 @@
 {
-  "matchcode" : "RMGN-DE-A5",
+  "matchcode" : "RBF-DE-30",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 30,
+    "amount" : null,
+    "brutto" : null,
     "unit" : null,
     "unitId" : null
   },
-  "contentsAmount" : "50",
+  "contentsAmount" : null,
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/04/MIchAanw-RINGANA-magazine-DE_01_21.png?q=100",
+  "image" : "https://i.ringana.com/2021/09/Mikrobiom_Conventionfolder_EN_2021_Produktbild.jpg?q=100",
   "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/partner-produkt/ringana-magazine-de/",
+  "link" : "/partner-produkt/ringana-biotics-folder/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -25,12 +25,12 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 15,
+      "brutto" : 3.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 15,
+        "brutto" : 3.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -39,12 +39,12 @@
       "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 15,
+      "brutto" : 3.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 15,
+        "brutto" : 3.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -53,12 +53,12 @@
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
-      "amount" : 50,
+      "amount" : 30,
       "gratis" : false,
-      "matchcode" : "RM-DE-211A5"
+      "matchcode" : "RBF-DE-21-1.0"
     }
   },
   "showOnFrontpage" : false,
@@ -69,11 +69,11 @@
     "3" : true,
     "4" : true
   },
-  "soldOut" : true,
-  "title" : "RINGANA magazine &#8211; DE",
+  "soldOut" : false,
+  "title" : "RINGANA biotics folder, Set of 30 &#8211; DE",
   "unit" : null,
-  "unitContents" : "Stk.",
-  "unitContentsId" : 996,
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
   "unitId" : null,
   "usp" : ""
 }
