@@ -13,8 +13,8 @@
   },
   "contentsAmount" : "60",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -24,9 +24,9 @@
   "link" : "/produkt/beyond-biotic/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
-  "notSearchable" : true,
+  "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
+  "partnerProduct" : false,
   "prices" : {
     "customer" : {
       "brutto" : 88.2,
@@ -57,7 +57,7 @@
       "provisionPoints" : 53.8
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
