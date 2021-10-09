@@ -62,7 +62,7 @@
     }
   },
   "showOnFrontpage" : false,
-  "singleShipmentOnly" : false,
+  "singleShipmentOnly" : true,
   "skinTypes" : {
     "1" : true,
     "2" : true,
