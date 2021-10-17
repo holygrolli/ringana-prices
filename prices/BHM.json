@@ -3,14 +3,14 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 100,
-    "brutto" : 8.79,
+    "brutto" : 12.56,
     "unit" : "ml",
     "unitId" : 827
   },
   "contentsAmount" : "125",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -25,40 +25,40 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 10.99,
-      "bruttoWithoutDiscount" : 15.7,
-      "discountPercentage" : 30,
-      "discountUntil" : "2021-10-31T22:59:59Z",
+      "brutto" : 15.7,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 10.99,
-        "bruttoWithoutDiscount" : 15.7,
-        "discountPercentage" : 30,
-        "discountUntil" : "2021-10-31T22:59:59Z",
-        "provisionPoints" : 6.93
+        "brutto" : 15.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 11
       },
-      "provisionPoints" : 6.93
+      "provisionPoints" : 11
     },
     "partner" : {
-      "brutto" : 10.99,
-      "bruttoWithoutDiscount" : 15.7,
-      "discountPercentage" : 30,
-      "discountUntil" : "2021-10-31T22:59:59Z",
+      "brutto" : 15.7,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 10.99,
-        "bruttoWithoutDiscount" : 15.7,
-        "discountPercentage" : 30,
-        "discountUntil" : "2021-10-31T22:59:59Z",
-        "provisionPoints" : 6.93
+        "brutto" : 15.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 11
       },
-      "provisionPoints" : 6.93
+      "provisionPoints" : 11
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "FRESH conditioner",
   "unit" : "Stk.",
   "unitContents" : "ml",
