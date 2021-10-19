@@ -13,12 +13,12 @@
   },
   "contentsAmount" : "700",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/02/FRESH-wash-care_012021.png?q=100",
+  "image" : "https://i.ringana.com/2021/10/FRESH-wash-care_102021.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/fresh-wash-care-set/",
@@ -29,35 +29,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 77.2,
+      "brutto" : 78.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 77.2,
+        "brutto" : 78.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 43.9
+        "provisionPoints" : 44.8
       },
-      "provisionPoints" : 43.9
+      "provisionPoints" : 44.8
     },
     "partner" : {
-      "brutto" : 77.2,
+      "brutto" : 78.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 77.2,
+        "brutto" : 78.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 43.9
+        "provisionPoints" : 44.8
       },
-      "provisionPoints" : 43.9
+      "provisionPoints" : 44.8
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -98,7 +98,7 @@
     "3" : true,
     "4" : true
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "title" : "FRESH wash care set",
   "unit" : "Set",
   "unitContents" : "ml",

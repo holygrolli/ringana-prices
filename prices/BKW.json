@@ -9,12 +9,12 @@
   },
   "contentsAmount" : "175",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/02/FRESH-sample-box-wash_012021.png?q=100",
+  "image" : "https://i.ringana.com/2021/10/FRESH-sample-box-wash_102021.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/fresh-sample-box-wash/",
@@ -25,35 +25,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 26.4,
+      "brutto" : 26.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 26.4,
+        "brutto" : 26.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 19
+        "provisionPoints" : 19.4
       },
-      "provisionPoints" : 19
+      "provisionPoints" : 19.4
     },
     "partner" : {
-      "brutto" : 26.4,
+      "brutto" : 26.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 26.4,
+        "brutto" : 26.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 19
+        "provisionPoints" : 19.4
       },
-      "provisionPoints" : 19
+      "provisionPoints" : 19.4
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -89,7 +89,7 @@
     "3" : true,
     "4" : true
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "title" : "FRESH sample box wash",
   "unit" : "Pck.",
   "unitContents" : "ml",

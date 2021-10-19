@@ -9,12 +9,12 @@
   },
   "contentsAmount" : "255",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/02/FRESH-travel-set-for-men_012021.png?q=100",
+  "image" : "https://i.ringana.com/2021/10/wa12WVP7-FRESH_travel_set_for_men.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/travel-set-for-men/",
@@ -25,35 +25,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 57,
+      "brutto" : 57.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 57,
+        "brutto" : 57.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 38.3
+        "provisionPoints" : 38.6
       },
-      "provisionPoints" : 38.3
+      "provisionPoints" : 38.6
     },
     "partner" : {
-      "brutto" : 57,
+      "brutto" : 57.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 57,
+        "brutto" : 57.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 38.3
+        "provisionPoints" : 38.6
       },
-      "provisionPoints" : 38.3
+      "provisionPoints" : 38.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -84,7 +84,7 @@
     "3" : true,
     "4" : true
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "title" : "FRESH travel set for men",
   "unit" : "Pck.",
   "unitContents" : "ml",

@@ -1,5 +1,5 @@
 {
-  "matchcode" : "BKT-1",
+  "matchcode" : "RBF-NL-30",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
@@ -7,73 +7,58 @@
     "unit" : null,
     "unitId" : null
   },
-  "contentsAmount" : "265",
+  "contentsAmount" : null,
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/10/Mc3CYWsJ-FRESH_travel_set_light.png?q=100",
-  "isMerchandise" : false,
+  "image" : "https://i.ringana.com/2021/09/Mikrobiom_Conventionfolder_EN_2021_Produktbild.jpg?q=100",
+  "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/produkt/fresh-travel-set-light/",
+  "link" : "/partner-produkt/ringana-biotics-folder-nl/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : false,
+  "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 63.4,
+      "brutto" : 3.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 63.4,
+        "brutto" : 3.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 42.4
+        "provisionPoints" : 0
       },
-      "provisionPoints" : 42.4
+      "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 63.4,
+      "brutto" : 3.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 63.4,
+        "brutto" : 3.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 42.4
+        "provisionPoints" : 0
       },
-      "provisionPoints" : 42.4
+      "provisionPoints" : 0
     }
   },
   "purchasePossible" : true,
   "setContents" : {
     "0" : {
-      "amount" : 1,
+      "amount" : 30,
       "gratis" : false,
-      "matchcode" : "BKW"
-    },
-    "1" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "BKK"
-    },
-    "2" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "BK1"
-    },
-    "3" : {
-      "amount" : 1,
-      "gratis" : true,
-      "matchcode" : "RTB"
+      "matchcode" : "RBF-NL-21-1.0"
     }
   },
   "showOnFrontpage" : false,
@@ -85,10 +70,10 @@
     "4" : true
   },
   "soldOut" : false,
-  "title" : "FRESH travel set light",
-  "unit" : "Pck.",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
-  "unitId" : 43589,
-  "usp" : "Reiseset für ölige Haut"
+  "title" : "RINGANA biotics folder, Set of 30 &#8211; NL",
+  "unit" : null,
+  "unitContents" : null,
+  "unitContentsId" : null,
+  "unitId" : null,
+  "usp" : ""
 }

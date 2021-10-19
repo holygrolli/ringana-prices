@@ -3,21 +3,21 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 100,
-    "brutto" : 6.19,
+    "brutto" : 9.15,
     "unit" : "ml",
     "unitId" : 827
   },
   "contentsAmount" : "200",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/wp-content/uploads/2018/04/04092653/shampoo.png?q=100",
+  "image" : "https://i.ringana.com/2021/10/ringana-fresh-200ml-shampoo-H.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/fresh-shampoo/",
+  "link" : "/produkt/fresh-shampoonbc7/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -25,44 +25,44 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 12.39,
-      "bruttoWithoutDiscount" : 17.7,
-      "discountPercentage" : 30,
-      "discountUntil" : "2021-10-18T06:30:00Z",
+      "brutto" : 18.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 12.39,
-        "bruttoWithoutDiscount" : 17.7,
-        "discountPercentage" : 30,
-        "discountUntil" : "2021-10-18T06:30:00Z",
-        "provisionPoints" : 7.43
+        "brutto" : 18.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 12
       },
-      "provisionPoints" : 7.43
+      "provisionPoints" : 12
     },
     "partner" : {
-      "brutto" : 12.39,
-      "bruttoWithoutDiscount" : 17.7,
-      "discountPercentage" : 30,
-      "discountUntil" : "2021-10-18T06:30:00Z",
+      "brutto" : 18.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 12.39,
-        "bruttoWithoutDiscount" : 17.7,
-        "discountPercentage" : 30,
-        "discountUntil" : "2021-10-18T06:30:00Z",
-        "provisionPoints" : 7.43
+        "brutto" : 18.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 12
       },
-      "provisionPoints" : 7.43
+      "provisionPoints" : 12
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : true,
+  "soldOut" : false,
   "title" : "FRESH shampoo",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Haarpflege"
+  "usp" : "Mikrobiom-freundliche Haarpflege"
 }
