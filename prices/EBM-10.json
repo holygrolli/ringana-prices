@@ -1,31 +1,31 @@
 {
-  "matchcode" : "BKK",
+  "matchcode" : "EBM-10",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 100,
-    "brutto" : 30.22,
-    "unit" : "ml",
-    "unitId" : 827
+    "brutto" : 90,
+    "unit" : null,
+    "unitId" : null
   },
-  "contentsAmount" : "45",
+  "contentsAmount" : "10",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/10/FRESH_sample_box_body.png?q=100",
-  "isMerchandise" : false,
+  "image" : "https://i.ringana.com/2021/10/exclusive_bag_medium_10er_bubble.png?q=100",
+  "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/produkt/fresh-sample-box-body/",
+  "link" : "/partner-produkt/ringana-exclusive-bag-medium-set-of-10/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : false,
+  "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 13.6,
+      "brutto" : 9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -34,12 +34,12 @@
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 3
+        "provisionPoints" : 0
       },
-      "provisionPoints" : 8.5
+      "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 13.6,
+      "brutto" : 9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -48,13 +48,19 @@
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 3
+        "provisionPoints" : 0
       },
-      "provisionPoints" : 8.5
+      "provisionPoints" : 0
     }
   },
-  "purchasePossible" : true,
-  "setContents" : { },
+  "purchasePossible" : false,
+  "setContents" : {
+    "0" : {
+      "amount" : 10,
+      "gratis" : false,
+      "matchcode" : "EBM-1"
+    }
+  },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : {
@@ -64,10 +70,10 @@
     "4" : true
   },
   "soldOut" : false,
-  "title" : "FRESH sample box body",
-  "unit" : "Pck.",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
-  "unitId" : 43589,
-  "usp" : "FRESH body milk, foot balm, hand balm"
+  "title" : "RINGANA exclusive bag medium, Set of 10",
+  "unit" : "Set",
+  "unitContents" : "Stk.",
+  "unitContentsId" : 996,
+  "unitId" : 43586,
+  "usp" : ""
 }
