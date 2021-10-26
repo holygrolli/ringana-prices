@@ -1,23 +1,23 @@
 {
-  "matchcode" : "CDG3",
+  "matchcode" : "RFB-ES-WV-10",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 1,
-    "brutto" : 0.46,
-    "unit" : "Kapsel",
-    "unitId" : 43580
+    "amount" : 100,
+    "brutto" : 490,
+    "unit" : null,
+    "unitId" : null
   },
-  "contentsAmount" : "270",
+  "contentsAmount" : "10",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/10/ringana-caps-d-gest_Set_of_3.png?q=100",
-  "isMerchandise" : false,
+  "image" : "https://i.ringana.com/2021/10/2pTyOAmS-Freshbook_with_Voucher_10x.png?q=100",
+  "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/produkt/caps-d-gest-set/",
+  "link" : "/partner-produkt/freshbook-voucher-es/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -25,50 +25,55 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 123.2,
+      "brutto" : 49,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 123.2,
+        "brutto" : 49,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 68.2
+        "provisionPoints" : 0
       },
-      "provisionPoints" : 68.2
+      "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 123.2,
+      "brutto" : 49,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 123.2,
+        "brutto" : 49,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 68.2
+        "provisionPoints" : 0
       },
-      "provisionPoints" : 68.2
+      "provisionPoints" : 0
     }
   },
   "purchasePossible" : true,
   "setContents" : {
     "0" : {
-      "amount" : 3,
+      "amount" : 10,
       "gratis" : false,
-      "matchcode" : "CDG"
+      "matchcode" : "RFB-ES-WV"
     }
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
   "soldOut" : false,
-  "title" : "CAPS d-gest, Set of 3",
+  "title" : "RINGANA freshbook with voucher (€ 20), Set of 10 – ES",
   "unit" : "Set",
-  "unitContents" : "Kap.",
-  "unitContentsId" : 804,
+  "unitContents" : "Stk.",
+  "unitContentsId" : 996,
   "unitId" : 43586,
-  "usp" : "Gutes Bauchgefühl"
+  "usp" : ""
 }
