@@ -1,23 +1,23 @@
 {
-  "matchcode" : "TTS-CM-10",
+  "matchcode" : "BSR-LE-E-B-10",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 21,
-    "unit" : null,
-    "unitId" : null
+    "amount" : 1000,
+    "brutto" : 89.1,
+    "unit" : "g",
+    "unitId" : 812
   },
-  "contentsAmount" : "10",
+  "contentsAmount" : "1000",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/11/RINGANA_paperbag_xmas_small_10er1.png?q=100",
-  "isMerchandise" : true,
+  "image" : "https://i.ringana.com/2021/10/ringana-fresh-soap_eucalyptus_bergamot_10er_bubble.png?q=100",
+  "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/partner-produkt/paperbag-s10/",
+  "link" : "/partner-produkt/fresh-soap-eucalyptus-bergamot-set-of-10/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -25,40 +25,40 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 2.1,
+      "brutto" : 89.1,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 2.1,
+        "brutto" : 89.1,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 0
+        "provisionPoints" : 44.6
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 44.6
     },
     "partner" : {
-      "brutto" : 2.1,
+      "brutto" : 89.1,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 2.1,
+        "brutto" : 89.1,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 0
+        "provisionPoints" : 44.6
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 44.6
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 10,
       "gratis" : false,
-      "matchcode" : "TTS-CM-1"
+      "matchcode" : "BSR-LE-E-B"
     }
   },
   "showOnFrontpage" : false,
@@ -70,10 +70,10 @@
     "4" : true
   },
   "soldOut" : false,
-  "title" : "RINGANA paper bag x-mas small, Set of 10",
-  "unit" : null,
-  "unitContents" : "Stk.",
-  "unitContentsId" : 996,
-  "unitId" : null,
+  "title" : "FRESH soap eucalyptus & bergamot , Set of 10",
+  "unit" : "g",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 812,
   "usp" : ""
 }
