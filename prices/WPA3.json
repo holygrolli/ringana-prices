@@ -3,9 +3,7 @@
   "availableVariants" : [ {
     "matchcode" : "WPA",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
@@ -34,12 +32,12 @@
       "brutto" : 160.65,
       "bruttoWithoutDiscount" : 178.5,
       "discountPercentage" : 10,
-      "discountUntil" : "2021-11-05T09:00:00Z",
+      "discountUntil" : "2021-11-05T22:59:59Z",
       "initialPurchase" : {
         "brutto" : 160.65,
         "bruttoWithoutDiscount" : 178.5,
         "discountPercentage" : 10,
-        "discountUntil" : "2021-11-05T09:00:00Z",
+        "discountUntil" : "2021-11-05T22:59:59Z",
         "provisionPoints" : 78.25
       },
       "provisionPoints" : 78.25
@@ -48,12 +46,12 @@
       "brutto" : 160.65,
       "bruttoWithoutDiscount" : 178.5,
       "discountPercentage" : 10,
-      "discountUntil" : "2021-11-05T09:00:00Z",
+      "discountUntil" : "2021-11-05T22:59:59Z",
       "initialPurchase" : {
         "brutto" : 160.65,
         "bruttoWithoutDiscount" : 178.5,
         "discountPercentage" : 10,
-        "discountUntil" : "2021-11-05T09:00:00Z",
+        "discountUntil" : "2021-11-05T22:59:59Z",
         "provisionPoints" : 78.25
       },
       "provisionPoints" : 78.25

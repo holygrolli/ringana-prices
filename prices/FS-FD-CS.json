@@ -30,11 +30,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 99.9,
+        "brutto" : 243.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 44.7
+        "provisionPoints" : 110
       },
       "provisionPoints" : 110
     },
@@ -44,11 +44,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 99.9,
+        "brutto" : 243.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 44.7
+        "provisionPoints" : 110
       },
       "provisionPoints" : 110
     }

@@ -2,10 +2,8 @@
   "matchcode" : "CIV",
   "availableVariants" : [ {
     "matchcode" : "CIV3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1,
@@ -34,12 +32,12 @@
       "brutto" : 45.09,
       "bruttoWithoutDiscount" : 50.1,
       "discountPercentage" : 10,
-      "discountUntil" : "2021-11-05T09:00:00Z",
+      "discountUntil" : "2021-11-05T22:59:59Z",
       "initialPurchase" : {
         "brutto" : 45.09,
         "bruttoWithoutDiscount" : 50.1,
         "discountPercentage" : 10,
-        "discountUntil" : "2021-11-05T09:00:00Z",
+        "discountUntil" : "2021-11-05T22:59:59Z",
         "provisionPoints" : 24.79
       },
       "provisionPoints" : 24.79
@@ -48,12 +46,12 @@
       "brutto" : 45.09,
       "bruttoWithoutDiscount" : 50.1,
       "discountPercentage" : 10,
-      "discountUntil" : "2021-11-05T09:00:00Z",
+      "discountUntil" : "2021-11-05T22:59:59Z",
       "initialPurchase" : {
         "brutto" : 45.09,
         "bruttoWithoutDiscount" : 50.1,
         "discountPercentage" : 10,
-        "discountUntil" : "2021-11-05T09:00:00Z",
+        "discountUntil" : "2021-11-05T22:59:59Z",
         "provisionPoints" : 24.79
       },
       "provisionPoints" : 24.79

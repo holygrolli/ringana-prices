@@ -2,10 +2,8 @@
   "matchcode" : "WPA",
   "availableVariants" : [ {
     "matchcode" : "WPA3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
@@ -34,12 +32,12 @@
       "brutto" : 58.95,
       "bruttoWithoutDiscount" : 65.5,
       "discountPercentage" : 10,
-      "discountUntil" : "2021-11-05T09:00:00Z",
+      "discountUntil" : "2021-11-05T22:59:59Z",
       "initialPurchase" : {
         "brutto" : 58.95,
         "bruttoWithoutDiscount" : 65.5,
         "discountPercentage" : 10,
-        "discountUntil" : "2021-11-05T09:00:00Z",
+        "discountUntil" : "2021-11-05T22:59:59Z",
         "provisionPoints" : 31.83
       },
       "provisionPoints" : 31.83
@@ -48,12 +46,12 @@
       "brutto" : 58.95,
       "bruttoWithoutDiscount" : 65.5,
       "discountPercentage" : 10,
-      "discountUntil" : "2021-11-05T09:00:00Z",
+      "discountUntil" : "2021-11-05T22:59:59Z",
       "initialPurchase" : {
         "brutto" : 58.95,
         "bruttoWithoutDiscount" : 65.5,
         "discountPercentage" : 10,
-        "discountUntil" : "2021-11-05T09:00:00Z",
+        "discountUntil" : "2021-11-05T22:59:59Z",
         "provisionPoints" : 31.83
       },
       "provisionPoints" : 31.83
