@@ -1,5 +1,5 @@
 {
-  "matchcode" : "RFB-ES-WV-10",
+  "matchcode" : "RFB-EN-WV20-10",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 100,
@@ -17,7 +17,7 @@
   "image" : "https://i.ringana.com/2021/10/2pTyOAmS-Freshbook_with_Voucher_10x.png?q=100",
   "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/partner-produkt/freshbook-voucher-es/",
+  "link" : "/partner-produkt/freshbook-voucher-en/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -58,7 +58,7 @@
     "0" : {
       "amount" : 10,
       "gratis" : false,
-      "matchcode" : "RFB-ES-WV"
+      "matchcode" : "RFB-EN-WV20"
     }
   },
   "showOnFrontpage" : false,
@@ -70,7 +70,7 @@
     "4" : true
   },
   "soldOut" : false,
-  "title" : "RINGANA freshbook with voucher (€ 20), Set of 10 – ES",
+  "title" : "RINGANA freshbook with voucher (€ 20), Set of 10 – EN",
   "unit" : "Set",
   "unitContents" : "Stk.",
   "unitContentsId" : 996,

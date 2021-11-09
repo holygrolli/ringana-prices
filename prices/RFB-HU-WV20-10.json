@@ -1,5 +1,5 @@
 {
-  "matchcode" : "RFB-HU-WV-10",
+  "matchcode" : "RFB-HU-WV20-10",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 100,
@@ -58,7 +58,7 @@
     "0" : {
       "amount" : 10,
       "gratis" : false,
-      "matchcode" : "RFB-HU-WV"
+      "matchcode" : "RFB-HU-WV20"
     }
   },
   "showOnFrontpage" : false,
