@@ -1,72 +1,79 @@
 {
-  "matchcode" : "WPC",
-  "availableVariants" : [ {
-    "matchcode" : "WPC3",
-    "set" : false,
-    "travelSize" : false
-  } ],
+  "matchcode" : "RFB-HU-WV10-10",
+  "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 123.4,
-    "unit" : "g",
-    "unitId" : 812
+    "amount" : 100,
+    "brutto" : 390,
+    "unit" : null,
+    "unitId" : null
   },
-  "contentsAmount" : "520",
+  "contentsAmount" : "10",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/10/ringana-box-big-cleansing-H.png?q=100",
-  "isMerchandise" : false,
+  "image" : "https://i.ringana.com/2021/11/Freshbook_with_Voucher_10x_10EUR.png?q=100",
+  "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/produkt/pack-cleansing/",
+  "link" : "/partner-produkt/freshbookwithvoucher10-hu/",
   "maxPerCart" : null,
-  "nemBackgroundColor" : "f6eb61",
+  "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 64.2,
+      "brutto" : 39,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 64.2,
+        "brutto" : 39,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 39.4
+        "provisionPoints" : 0
       },
-      "provisionPoints" : 39.4
+      "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 64.2,
+      "brutto" : 39,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 64.2,
+        "brutto" : 39,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 39.4
+        "provisionPoints" : 0
       },
-      "provisionPoints" : 39.4
+      "provisionPoints" : 0
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
+  "setContents" : {
+    "0" : {
+      "amount" : 10,
+      "gratis" : false,
+      "matchcode" : "RFB-HU-WV10"
+    }
+  },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
   "soldOut" : false,
-  "title" : "PACK cleansing",
-  "unit" : "Pck.",
-  "unitContents" : "g",
-  "unitContentsId" : 812,
-  "unitId" : 43589,
-  "usp" : "Verdauung"
+  "title" : "RINGANA freshbook with voucher (€ 10), Set of 10 – HU",
+  "unit" : "Set",
+  "unitContents" : "Stk.",
+  "unitContentsId" : 996,
+  "unitId" : 43586,
+  "usp" : ""
 }
