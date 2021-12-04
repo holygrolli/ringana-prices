@@ -3,7 +3,7 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 100,
-    "brutto" : 75.04,
+    "brutto" : 93.8,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -25,32 +25,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 37.52,
-      "bruttoWithoutDiscount" : 46.9,
-      "discountPercentage" : 20,
-      "discountUntil" : "2021-12-03T22:59:59Z",
+      "brutto" : 46.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 37.52,
-        "bruttoWithoutDiscount" : 46.9,
-        "discountPercentage" : 20,
-        "discountUntil" : "2021-12-03T22:59:59Z",
-        "provisionPoints" : 22.39
+        "brutto" : 46.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 31.1
       },
-      "provisionPoints" : 22.39
+      "provisionPoints" : 31.1
     },
     "partner" : {
-      "brutto" : 37.52,
-      "bruttoWithoutDiscount" : 46.9,
-      "discountPercentage" : 20,
-      "discountUntil" : "2021-12-03T22:59:59Z",
+      "brutto" : 46.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 37.52,
-        "bruttoWithoutDiscount" : 46.9,
-        "discountPercentage" : 20,
-        "discountUntil" : "2021-12-03T22:59:59Z",
-        "provisionPoints" : 22.39
+        "brutto" : 46.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 31.1
       },
-      "provisionPoints" : 22.39
+      "provisionPoints" : 31.1
     }
   },
   "purchasePossible" : true,
@@ -69,5 +69,5 @@
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Basis-Gesichtscreme für normale Haut und Mischhaut"
+  "usp" : "Basis-Gesichtscreme"
 }
