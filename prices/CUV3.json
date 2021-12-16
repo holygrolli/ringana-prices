@@ -3,9 +3,7 @@
   "availableVariants" : [ {
     "matchcode" : "CUV",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Stk.",
-    "unitId" : 996
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1,
@@ -59,7 +57,7 @@
       "provisionPoints" : 55.2
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 3,
