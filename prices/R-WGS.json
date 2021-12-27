@@ -9,8 +9,8 @@
   },
   "contentsAmount" : null,
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -20,7 +20,7 @@
   "link" : "/produkt/winter-glow-set/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
-  "notSearchable" : true,
+  "notSearchable" : false,
   "partnerApplicationProduct" : false,
   "partnerProduct" : false,
   "prices" : {
@@ -53,7 +53,7 @@
       "provisionPoints" : 36.7
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 1,
