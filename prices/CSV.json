@@ -2,8 +2,10 @@
   "matchcode" : "CSV",
   "availableVariants" : [ {
     "matchcode" : "CSV3",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1,
