@@ -3,7 +3,9 @@
   "availableVariants" : [ {
     "matchcode" : "BK2",
     "set" : false,
-    "travelSize" : false
+    "travelSize" : true,
+    "unit" : "Reisegröße",
+    "unitId" : 43592
   } ],
   "basePrice" : {
     "amount" : null,

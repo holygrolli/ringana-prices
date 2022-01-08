@@ -1,5 +1,5 @@
 {
-  "matchcode" : "TTL-CM-10",
+  "matchcode" : "TTL-10",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 100,
@@ -14,15 +14,15 @@
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/11/RINGANA_paperbag_xmas_large_10er.png?q=100",
+  "image" : "https://i.ringana.com/2019/05/RINGANA-paper-bag-large.png?q=100",
   "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/partner-produkt/paperbag-l10/",
+  "link" : "/partner-produkt/ringana-paper-bag-large/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
+  "partnerProduct" : false,
   "prices" : {
     "customer" : {
       "brutto" : 3.3,
@@ -58,7 +58,7 @@
     "0" : {
       "amount" : 10,
       "gratis" : false,
-      "matchcode" : "TTL-CM-1"
+      "matchcode" : "TTL-1"
     }
   },
   "showOnFrontpage" : false,
@@ -70,10 +70,10 @@
     "4" : true
   },
   "soldOut" : false,
-  "title" : "RINGANA paper bag x-mas large, Set of 10",
-  "unit" : null,
+  "title" : "RINGANA paper bag large",
+  "unit" : "Set",
   "unitContents" : "Stk.",
   "unitContentsId" : 996,
-  "unitId" : null,
+  "unitId" : 43586,
   "usp" : ""
 }
