@@ -3,9 +3,7 @@
   "availableVariants" : [ {
     "matchcode" : "RD12",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : null,
@@ -34,12 +32,12 @@
       "brutto" : 98.73,
       "bruttoWithoutDiscount" : 109.7,
       "discountPercentage" : 10,
-      "discountUntil" : "2022-01-19T09:00:00Z",
+      "discountUntil" : "2022-01-21T09:00:00Z",
       "initialPurchase" : {
         "brutto" : 98.73,
         "bruttoWithoutDiscount" : 109.7,
         "discountPercentage" : 10,
-        "discountUntil" : "2022-01-19T09:00:00Z",
+        "discountUntil" : "2022-01-21T09:00:00Z",
         "provisionPoints" : 51.92
       },
       "provisionPoints" : 51.92
@@ -48,12 +46,12 @@
       "brutto" : 98.73,
       "bruttoWithoutDiscount" : 109.7,
       "discountPercentage" : 10,
-      "discountUntil" : "2022-01-19T09:00:00Z",
+      "discountUntil" : "2022-01-21T09:00:00Z",
       "initialPurchase" : {
         "brutto" : 98.73,
         "bruttoWithoutDiscount" : 109.7,
         "discountPercentage" : 10,
-        "discountUntil" : "2022-01-19T09:00:00Z",
+        "discountUntil" : "2022-01-21T09:00:00Z",
         "provisionPoints" : 51.92
       },
       "provisionPoints" : 51.92

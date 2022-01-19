@@ -2,10 +2,8 @@
   "matchcode" : "RD12",
   "availableVariants" : [ {
     "matchcode" : "RD24",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
@@ -34,12 +32,12 @@
       "brutto" : 51.93,
       "bruttoWithoutDiscount" : 57.7,
       "discountPercentage" : 10,
-      "discountUntil" : "2022-01-19T09:00:00Z",
+      "discountUntil" : "2022-01-21T09:00:00Z",
       "initialPurchase" : {
         "brutto" : 51.93,
         "bruttoWithoutDiscount" : 57.7,
         "discountPercentage" : 10,
-        "discountUntil" : "2022-01-19T09:00:00Z",
+        "discountUntil" : "2022-01-21T09:00:00Z",
         "provisionPoints" : 28.03
       },
       "provisionPoints" : 28.03
@@ -48,12 +46,12 @@
       "brutto" : 51.93,
       "bruttoWithoutDiscount" : 57.7,
       "discountPercentage" : 10,
-      "discountUntil" : "2022-01-19T09:00:00Z",
+      "discountUntil" : "2022-01-21T09:00:00Z",
       "initialPurchase" : {
         "brutto" : 51.93,
         "bruttoWithoutDiscount" : 57.7,
         "discountPercentage" : 10,
-        "discountUntil" : "2022-01-19T09:00:00Z",
+        "discountUntil" : "2022-01-21T09:00:00Z",
         "provisionPoints" : 28.03
       },
       "provisionPoints" : 28.03

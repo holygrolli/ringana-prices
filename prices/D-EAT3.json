@@ -3,9 +3,7 @@
   "availableVariants" : [ {
     "matchcode" : "D-EAT",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
@@ -34,12 +32,12 @@
       "brutto" : 133.44,
       "bruttoWithoutDiscount" : 166.8,
       "discountPercentage" : 20,
-      "discountUntil" : "2022-01-19T09:00:00Z",
+      "discountUntil" : "2022-01-21T09:00:00Z",
       "initialPurchase" : {
         "brutto" : 133.44,
         "bruttoWithoutDiscount" : 166.8,
         "discountPercentage" : 20,
-        "discountUntil" : "2022-01-19T09:00:00Z",
+        "discountUntil" : "2022-01-21T09:00:00Z",
         "provisionPoints" : 63.65
       },
       "provisionPoints" : 63.65
@@ -48,12 +46,12 @@
       "brutto" : 133.44,
       "bruttoWithoutDiscount" : 166.8,
       "discountPercentage" : 20,
-      "discountUntil" : "2022-01-19T09:00:00Z",
+      "discountUntil" : "2022-01-21T09:00:00Z",
       "initialPurchase" : {
         "brutto" : 133.44,
         "bruttoWithoutDiscount" : 166.8,
         "discountPercentage" : 20,
-        "discountUntil" : "2022-01-19T09:00:00Z",
+        "discountUntil" : "2022-01-21T09:00:00Z",
         "provisionPoints" : 63.65
       },
       "provisionPoints" : 63.65
