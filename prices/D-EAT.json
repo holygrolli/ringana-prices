@@ -2,12 +2,14 @@
   "matchcode" : "D-EAT",
   "availableVariants" : [ {
     "matchcode" : "D-EAT3",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 69.9,
+    "brutto" : 87.4,
     "unit" : "g",
     "unitId" : 812
   },
@@ -29,32 +31,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 48.96,
-      "bruttoWithoutDiscount" : 61.2,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-01-21T09:00:00Z",
+      "brutto" : 61.2,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 48.96,
-        "bruttoWithoutDiscount" : 61.2,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-01-21T09:00:00Z",
-        "provisionPoints" : 25.92
+        "brutto" : 61.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 36
       },
-      "provisionPoints" : 25.92
+      "provisionPoints" : 36
     },
     "partner" : {
-      "brutto" : 48.96,
-      "bruttoWithoutDiscount" : 61.2,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-01-21T09:00:00Z",
+      "brutto" : 61.2,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 48.96,
-        "bruttoWithoutDiscount" : 61.2,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-01-21T09:00:00Z",
-        "provisionPoints" : 25.92
+        "brutto" : 61.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 36
       },
-      "provisionPoints" : 25.92
+      "provisionPoints" : 36
     }
   },
   "purchasePossible" : true,
