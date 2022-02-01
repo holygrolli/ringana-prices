@@ -53,7 +53,7 @@
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : true,
