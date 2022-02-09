@@ -3,14 +3,14 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 100,
-    "brutto" : 11.82,
+    "brutto" : 14.77,
     "unit" : "ml",
     "unitId" : 827
   },
   "contentsAmount" : "90",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -25,40 +25,40 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 10.64,
-      "bruttoWithoutDiscount" : 13.3,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-02-11T22:59:59Z",
+      "brutto" : 13.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 10.64,
-        "bruttoWithoutDiscount" : 13.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-02-11T22:59:59Z",
-        "provisionPoints" : 5.62
+        "brutto" : 13.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 7.8
       },
-      "provisionPoints" : 5.62
+      "provisionPoints" : 7.8
     },
     "partner" : {
-      "brutto" : 10.64,
-      "bruttoWithoutDiscount" : 13.3,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-02-11T22:59:59Z",
+      "brutto" : 13.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 10.64,
-        "bruttoWithoutDiscount" : 13.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-02-11T22:59:59Z",
-        "provisionPoints" : 5.62
+        "brutto" : 13.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 7.8
       },
-      "provisionPoints" : 5.62
+      "provisionPoints" : 7.8
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "RINGANAchi x 3",
   "unit" : "Pck.",
   "unitContents" : "ml",
