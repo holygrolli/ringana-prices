@@ -1,5 +1,5 @@
 {
-  "matchcode" : "RBF-DE-30",
+  "matchcode" : "OFDO-FSL-WPA",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
@@ -14,51 +14,56 @@
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/09/Mikrobiom_Conventionfolder_EN_2021_Produktbild.jpg?q=100",
-  "isMerchandise" : true,
+  "image" : "https://i.ringana.com/2022/02/OFDO_Set_Antiox_Soap.png?q=100",
+  "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/partner-produkt/ringana-biotics-folder/",
+  "link" : "/partner-produkt/fd-fsl-wpa/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
+  "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 3.6,
+      "brutto" : 78.1,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 3.6,
+        "brutto" : 62.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 0
+        "provisionPoints" : 34.3
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 47.6
     },
     "partner" : {
-      "brutto" : 3.6,
+      "brutto" : 78.1,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 3.6,
+        "brutto" : 62.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 0
+        "provisionPoints" : 34.3
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 47.6
     }
   },
   "purchasePossible" : true,
   "setContents" : {
     "0" : {
-      "amount" : 30,
+      "amount" : 1,
       "gratis" : false,
-      "matchcode" : "RBF-DE-21-1.0"
+      "matchcode" : "FSL"
+    },
+    "1" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "WPA"
     }
   },
   "showOnFrontpage" : false,
@@ -70,10 +75,10 @@
     "4" : true
   },
   "soldOut" : false,
-  "title" : "RINGANA biotics folder, Set of 30 &#8211; DE",
+  "title" : "FRESH date offer soap liquid & antiox",
   "unit" : null,
-  "unitContents" : "Set",
-  "unitContentsId" : 43586,
+  "unitContents" : null,
+  "unitContentsId" : null,
   "unitId" : null,
   "usp" : ""
 }
