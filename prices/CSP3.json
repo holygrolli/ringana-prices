@@ -3,9 +3,7 @@
   "availableVariants" : [ {
     "matchcode" : "CSP",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Stk.",
-    "unitId" : 996
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1,
@@ -34,12 +32,12 @@
       "brutto" : 253.71,
       "bruttoWithoutDiscount" : 281.9,
       "discountPercentage" : 10,
-      "discountUntil" : "2022-03-04T09:00:00Z",
+      "discountUntil" : "2022-03-11T09:00:00Z",
       "initialPurchase" : {
         "brutto" : 253.71,
         "bruttoWithoutDiscount" : 281.9,
         "discountPercentage" : 10,
-        "discountUntil" : "2022-03-04T09:00:00Z",
+        "discountUntil" : "2022-03-11T09:00:00Z",
         "provisionPoints" : 131.08
       },
       "provisionPoints" : 131.08
@@ -48,12 +46,12 @@
       "brutto" : 253.71,
       "bruttoWithoutDiscount" : 281.9,
       "discountPercentage" : 10,
-      "discountUntil" : "2022-03-04T09:00:00Z",
+      "discountUntil" : "2022-03-11T09:00:00Z",
       "initialPurchase" : {
         "brutto" : 253.71,
         "bruttoWithoutDiscount" : 281.9,
         "discountPercentage" : 10,
-        "discountUntil" : "2022-03-04T09:00:00Z",
+        "discountUntil" : "2022-03-11T09:00:00Z",
         "provisionPoints" : 131.08
       },
       "provisionPoints" : 131.08
