@@ -2,12 +2,14 @@
   "matchcode" : "RSB",
   "availableVariants" : [ {
     "matchcode" : "RSB3",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 77,
+    "brutto" : 69.3,
     "unit" : "g",
     "unitId" : 812
   },
@@ -29,32 +31,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 53.9,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 48.51,
+      "bruttoWithoutDiscount" : 53.9,
+      "discountPercentage" : 10,
+      "discountUntil" : "2022-03-13T22:59:59Z",
       "initialPurchase" : {
-        "brutto" : 53.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 35.4
+        "brutto" : 48.51,
+        "bruttoWithoutDiscount" : 53.9,
+        "discountPercentage" : 10,
+        "discountUntil" : "2022-03-13T22:59:59Z",
+        "provisionPoints" : 28.67
       },
-      "provisionPoints" : 35.4
+      "provisionPoints" : 28.67
     },
     "partner" : {
-      "brutto" : 53.9,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 48.51,
+      "bruttoWithoutDiscount" : 53.9,
+      "discountPercentage" : 10,
+      "discountUntil" : "2022-03-13T22:59:59Z",
       "initialPurchase" : {
-        "brutto" : 53.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 35.4
+        "brutto" : 48.51,
+        "bruttoWithoutDiscount" : 53.9,
+        "discountPercentage" : 10,
+        "discountUntil" : "2022-03-13T22:59:59Z",
+        "provisionPoints" : 28.67
       },
-      "provisionPoints" : 35.4
+      "provisionPoints" : 28.67
     }
   },
   "purchasePossible" : true,
