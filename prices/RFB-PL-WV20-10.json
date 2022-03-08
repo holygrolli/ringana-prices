@@ -3,14 +3,14 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 100,
-    "brutto" : 441,
+    "brutto" : 490,
     "unit" : null,
     "unitId" : null
   },
   "contentsAmount" : "10",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -22,38 +22,38 @@
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
+  "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 44.1,
-      "bruttoWithoutDiscount" : 49,
-      "discountPercentage" : 10,
-      "discountUntil" : "2022-05-31T10:00:00Z",
+      "brutto" : 49,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 44.1,
-        "bruttoWithoutDiscount" : 49,
-        "discountPercentage" : 10,
-        "discountUntil" : "2022-05-31T10:00:00Z",
+        "brutto" : 49,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "provisionPoints" : 0
       },
       "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 44.1,
-      "bruttoWithoutDiscount" : 49,
-      "discountPercentage" : 10,
-      "discountUntil" : "2022-05-31T10:00:00Z",
+      "brutto" : 49,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 44.1,
-        "bruttoWithoutDiscount" : 49,
-        "discountPercentage" : 10,
-        "discountUntil" : "2022-05-31T10:00:00Z",
+        "brutto" : 49,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "provisionPoints" : 0
       },
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 10,
@@ -69,7 +69,7 @@
     "3" : true,
     "4" : true
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "RINGANA freshbook with voucher (€ 20), Set of 10 – PL",
   "unit" : "Set",
   "unitContents" : "Stk.",
