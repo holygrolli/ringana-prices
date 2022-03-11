@@ -3,7 +3,7 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1,
-    "brutto" : 0.63,
+    "brutto" : 0.65,
     "unit" : "Kapsel",
     "unitId" : 43580
   },
@@ -25,12 +25,12 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 3.8,
+      "brutto" : 3.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 3.8,
+        "brutto" : 3.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -39,12 +39,12 @@
       "provisionPoints" : 1.5
     },
     "partner" : {
-      "brutto" : 3.8,
+      "brutto" : 3.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 3.8,
+        "brutto" : 3.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,

@@ -25,12 +25,12 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 36,
+      "brutto" : 36.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 28.8,
+        "brutto" : 29.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -39,12 +39,12 @@
       "provisionPoints" : 21.7
     },
     "partner" : {
-      "brutto" : 36,
+      "brutto" : 36.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 28.8,
+        "brutto" : 29.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,

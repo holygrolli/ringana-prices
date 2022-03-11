@@ -9,14 +9,14 @@
   } ],
   "basePrice" : {
     "amount" : 1,
-    "brutto" : 0.5,
+    "brutto" : 0.52,
     "unit" : "Kapsel",
     "unitId" : 43580
   },
   "contentsAmount" : "270",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -31,35 +31,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 134.3,
+      "brutto" : 140.7,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 134.3,
+        "brutto" : 140.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 74.3
+        "provisionPoints" : 74.4
       },
-      "provisionPoints" : 74.3
+      "provisionPoints" : 74.4
     },
     "partner" : {
-      "brutto" : 134.3,
+      "brutto" : 140.7,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 134.3,
+        "brutto" : 140.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 74.3
+        "provisionPoints" : 74.4
       },
-      "provisionPoints" : 74.3
+      "provisionPoints" : 74.4
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 3,
@@ -70,7 +70,7 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "CAPS fem, Set of 3",
   "unit" : "Set",
   "unitContents" : "Kap.",

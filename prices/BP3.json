@@ -3,7 +3,9 @@
   "availableVariants" : [ {
     "matchcode" : "BK3",
     "set" : false,
-    "travelSize" : false
+    "travelSize" : true,
+    "unit" : "Reisegröße",
+    "unitId" : 43592
   } ],
   "basePrice" : {
     "amount" : null,
@@ -29,32 +31,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 150.9,
+      "brutto" : 153,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 150.9,
+        "brutto" : 153,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 90.2
+        "provisionPoints" : 87.9
       },
-      "provisionPoints" : 90.2
+      "provisionPoints" : 87.9
     },
     "partner" : {
-      "brutto" : 150.9,
+      "brutto" : 153,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 150.9,
+        "brutto" : 153,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 90.2
+        "provisionPoints" : 87.9
       },
-      "provisionPoints" : 90.2
+      "provisionPoints" : 87.9
     }
   },
   "purchasePossible" : false,

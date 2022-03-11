@@ -3,7 +3,7 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 100,
-    "brutto" : 14.77,
+    "brutto" : 15,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -14,7 +14,7 @@
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/02/ringana-drinks-3er-chi-H_NF.png?q=100",
+  "image" : "https://i.ringana.com/2022/03/ringana-drinks-3er-chi-H_NE.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/ringanachi-x3/",
@@ -25,12 +25,12 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 13.3,
+      "brutto" : 13.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 13.3,
+        "brutto" : 13.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -39,12 +39,12 @@
       "provisionPoints" : 7.8
     },
     "partner" : {
-      "brutto" : 13.3,
+      "brutto" : 13.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 13.3,
+        "brutto" : 13.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,

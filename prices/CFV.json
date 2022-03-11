@@ -2,19 +2,21 @@
   "matchcode" : "CFV",
   "availableVariants" : [ {
     "matchcode" : "CFV3",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1,
-    "brutto" : 0.45,
+    "brutto" : 0.58,
     "unit" : "Kapsel",
     "unitId" : 43580
   },
   "contentsAmount" : "90",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -29,40 +31,40 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 40.08,
-      "bruttoWithoutDiscount" : 50.1,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-03-10T22:59:59Z",
+      "brutto" : 52.1,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 40.08,
-        "bruttoWithoutDiscount" : 50.1,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-03-10T22:59:59Z",
-        "provisionPoints" : 22.03
+        "brutto" : 52.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 30.6
       },
-      "provisionPoints" : 22.03
+      "provisionPoints" : 30.6
     },
     "partner" : {
-      "brutto" : 40.08,
-      "bruttoWithoutDiscount" : 50.1,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-03-10T22:59:59Z",
+      "brutto" : 52.1,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 40.08,
-        "bruttoWithoutDiscount" : 50.1,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-03-10T22:59:59Z",
-        "provisionPoints" : 22.03
+        "brutto" : 52.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 30.6
       },
-      "provisionPoints" : 22.03
+      "provisionPoints" : 30.6
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "CAPS fem",
   "unit" : "Stk.",
   "unitContents" : "Kap.",

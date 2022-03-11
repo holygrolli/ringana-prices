@@ -3,7 +3,9 @@
   "availableVariants" : [ {
     "matchcode" : "BK-MEN",
     "set" : false,
-    "travelSize" : false
+    "travelSize" : true,
+    "unit" : "Reisegröße",
+    "unitId" : 43592
   } ],
   "basePrice" : {
     "amount" : null,
@@ -29,32 +31,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 93.9,
+      "brutto" : 95.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 93.9,
+        "brutto" : 95.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 55.8
+        "provisionPoints" : 54.8
       },
-      "provisionPoints" : 55.8
+      "provisionPoints" : 54.8
     },
     "partner" : {
-      "brutto" : 93.9,
+      "brutto" : 95.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 93.9,
+        "brutto" : 95.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 55.8
+        "provisionPoints" : 54.8
       },
-      "provisionPoints" : 55.8
+      "provisionPoints" : 54.8
     }
   },
   "purchasePossible" : true,
