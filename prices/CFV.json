@@ -2,10 +2,8 @@
   "matchcode" : "CFV",
   "availableVariants" : [ {
     "matchcode" : "CFV3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1,
@@ -15,8 +13,8 @@
   },
   "contentsAmount" : "90",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -59,12 +57,12 @@
       "provisionPoints" : 30.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : true,
+  "soldOut" : false,
   "title" : "CAPS fem",
   "unit" : "Stk.",
   "unitContents" : "Kap.",
