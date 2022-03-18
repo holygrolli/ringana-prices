@@ -2,14 +2,12 @@
   "matchcode" : "COV",
   "availableVariants" : [ {
     "matchcode" : "COV3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1,
-    "brutto" : 1.47,
+    "brutto" : 1.18,
     "unit" : "Kapsel",
     "unitId" : 43580
   },
@@ -31,32 +29,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 88.4,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 70.72,
+      "bruttoWithoutDiscount" : 88.4,
+      "discountPercentage" : 20,
+      "discountUntil" : "2022-03-18T22:59:59Z",
       "initialPurchase" : {
-        "brutto" : 88.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 52.7
+        "brutto" : 70.72,
+        "bruttoWithoutDiscount" : 88.4,
+        "discountPercentage" : 20,
+        "discountUntil" : "2022-03-18T22:59:59Z",
+        "provisionPoints" : 37.94
       },
-      "provisionPoints" : 52.7
+      "provisionPoints" : 37.94
     },
     "partner" : {
-      "brutto" : 88.4,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 70.72,
+      "bruttoWithoutDiscount" : 88.4,
+      "discountPercentage" : 20,
+      "discountUntil" : "2022-03-18T22:59:59Z",
       "initialPurchase" : {
-        "brutto" : 88.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 52.7
+        "brutto" : 70.72,
+        "bruttoWithoutDiscount" : 88.4,
+        "discountPercentage" : 20,
+        "discountUntil" : "2022-03-18T22:59:59Z",
+        "provisionPoints" : 37.94
       },
-      "provisionPoints" : 52.7
+      "provisionPoints" : 37.94
     }
   },
   "purchasePossible" : true,
