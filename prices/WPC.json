@@ -2,10 +2,8 @@
   "matchcode" : "WPC",
   "availableVariants" : [ {
     "matchcode" : "WPC3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
@@ -34,12 +32,12 @@
       "brutto" : 53.12,
       "bruttoWithoutDiscount" : 66.4,
       "discountPercentage" : 20,
-      "discountUntil" : "2022-03-28T21:59:59Z",
+      "discountUntil" : "2022-03-29T21:59:59Z",
       "initialPurchase" : {
         "brutto" : 53.12,
         "bruttoWithoutDiscount" : 66.4,
         "discountPercentage" : 20,
-        "discountUntil" : "2022-03-28T21:59:59Z",
+        "discountUntil" : "2022-03-29T21:59:59Z",
         "provisionPoints" : 28.37
       },
       "provisionPoints" : 28.37
@@ -48,12 +46,12 @@
       "brutto" : 53.12,
       "bruttoWithoutDiscount" : 66.4,
       "discountPercentage" : 20,
-      "discountUntil" : "2022-03-28T21:59:59Z",
+      "discountUntil" : "2022-03-29T21:59:59Z",
       "initialPurchase" : {
         "brutto" : 53.12,
         "bruttoWithoutDiscount" : 66.4,
         "discountPercentage" : 20,
-        "discountUntil" : "2022-03-28T21:59:59Z",
+        "discountUntil" : "2022-03-29T21:59:59Z",
         "provisionPoints" : 28.37
       },
       "provisionPoints" : 28.37

@@ -3,20 +3,18 @@
   "availableVariants" : [ {
     "matchcode" : "WPB",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 130.9,
+    "brutto" : 163.7,
     "unit" : "g",
     "unitId" : 812
   },
   "contentsAmount" : "780",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -31,35 +29,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 102.16,
-      "bruttoWithoutDiscount" : 127.7,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-03-28T21:59:59Z",
+      "brutto" : 127.7,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 102.16,
-        "bruttoWithoutDiscount" : 127.7,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-03-28T21:59:59Z",
-        "provisionPoints" : 48.96
+        "brutto" : 127.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 68
       },
-      "provisionPoints" : 48.96
+      "provisionPoints" : 68
     },
     "partner" : {
-      "brutto" : 102.16,
-      "bruttoWithoutDiscount" : 127.7,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-03-28T21:59:59Z",
+      "brutto" : 127.7,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 102.16,
-        "bruttoWithoutDiscount" : 127.7,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-03-28T21:59:59Z",
-        "provisionPoints" : 48.96
+        "brutto" : 127.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 68
       },
-      "provisionPoints" : 48.96
+      "provisionPoints" : 68
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 3,
@@ -70,7 +68,7 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "PACK balancing, Set of 3",
   "unit" : "Set",
   "unitContents" : "g",

@@ -2,21 +2,19 @@
   "matchcode" : "WPB",
   "availableVariants" : [ {
     "matchcode" : "WPB3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 145.5,
+    "brutto" : 181.9,
     "unit" : "g",
     "unitId" : 812
   },
   "contentsAmount" : "260",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -31,40 +29,40 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 37.84,
-      "bruttoWithoutDiscount" : 47.3,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-03-28T21:59:59Z",
+      "brutto" : 47.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 37.84,
-        "bruttoWithoutDiscount" : 47.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-03-28T21:59:59Z",
-        "provisionPoints" : 20.16
+        "brutto" : 47.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 28
       },
-      "provisionPoints" : 20.16
+      "provisionPoints" : 28
     },
     "partner" : {
-      "brutto" : 37.84,
-      "bruttoWithoutDiscount" : 47.3,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-03-28T21:59:59Z",
+      "brutto" : 47.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 37.84,
-        "bruttoWithoutDiscount" : 47.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-03-28T21:59:59Z",
-        "provisionPoints" : 20.16
+        "brutto" : 47.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 28
       },
-      "provisionPoints" : 20.16
+      "provisionPoints" : 28
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "PACK balancing",
   "unit" : "Pck.",
   "unitContents" : "g",

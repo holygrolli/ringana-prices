@@ -9,8 +9,8 @@
   },
   "contentsAmount" : "1040",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -25,35 +25,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 130.56,
-      "bruttoWithoutDiscount" : 163.2,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-03-28T21:59:59Z",
+      "brutto" : 163.2,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 130.56,
-        "bruttoWithoutDiscount" : 163.2,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-03-28T21:59:59Z",
-        "provisionPoints" : 62.21
+        "brutto" : 163.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 86.4
       },
-      "provisionPoints" : 62.21
+      "provisionPoints" : 86.4
     },
     "partner" : {
-      "brutto" : 130.56,
-      "bruttoWithoutDiscount" : 163.2,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-03-28T21:59:59Z",
+      "brutto" : 163.2,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 130.56,
-        "bruttoWithoutDiscount" : 163.2,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-03-28T21:59:59Z",
-        "provisionPoints" : 62.21
+        "brutto" : 163.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 86.4
       },
-      "provisionPoints" : 62.21
+      "provisionPoints" : 86.4
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -74,7 +74,7 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "PACKS ABC",
   "unit" : "Set",
   "unitContents" : "g",
