@@ -7,14 +7,14 @@
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 187.4,
+    "brutto" : 234.3,
     "unit" : "g",
     "unitId" : 812
   },
   "contentsAmount" : "780",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -29,35 +29,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 146.24,
-      "bruttoWithoutDiscount" : 182.8,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-03-30T21:59:59Z",
+      "brutto" : 182.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 146.24,
-        "bruttoWithoutDiscount" : 182.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-03-30T21:59:59Z",
-        "provisionPoints" : 68.76
+        "brutto" : 182.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 95.5
       },
-      "provisionPoints" : 68.76
+      "provisionPoints" : 95.5
     },
     "partner" : {
-      "brutto" : 146.24,
-      "bruttoWithoutDiscount" : 182.8,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-03-30T21:59:59Z",
+      "brutto" : 182.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 146.24,
-        "bruttoWithoutDiscount" : 182.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-03-30T21:59:59Z",
-        "provisionPoints" : 68.76
+        "brutto" : 182.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 95.5
       },
-      "provisionPoints" : 68.76
+      "provisionPoints" : 95.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 3,
@@ -68,7 +68,7 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "PACK antiox, Set of 3",
   "unit" : "Set",
   "unitContents" : "g",
