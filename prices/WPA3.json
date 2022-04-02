@@ -7,18 +7,18 @@
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 234.3,
+    "brutto" : 261.4,
     "unit" : "g",
     "unitId" : 812
   },
   "contentsAmount" : "780",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/10/ringana-box-small-antiox-Set_of_3.png?q=100",
+  "image" : "https://i.ringana.com/2022/03/ringana-box-small-antiox-Set_of_3_NEW.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/pack-antiox-set/",
@@ -29,32 +29,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 182.8,
+      "brutto" : 203.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 182.8,
+        "brutto" : 203.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 95.5
+        "provisionPoints" : 109.4
       },
-      "provisionPoints" : 95.5
+      "provisionPoints" : 109.4
     },
     "partner" : {
-      "brutto" : 182.8,
+      "brutto" : 203.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 182.8,
+        "brutto" : 203.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 95.5
+        "provisionPoints" : 109.4
       },
-      "provisionPoints" : 95.5
+      "provisionPoints" : 109.4
     }
   },
   "purchasePossible" : false,
@@ -68,11 +68,11 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : true,
-  "title" : "PACK antiox, Set of 3",
+  "soldOut" : false,
+  "title" : "FRESH pack antiox, Set of 3",
   "unit" : "Set",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43586,
-  "usp" : "Zellschutz"
+  "usp" : "Vitaminbooster"
 }

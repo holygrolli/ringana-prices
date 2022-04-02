@@ -1,78 +1,72 @@
 {
-  "matchcode" : "WPB3",
+  "matchcode" : "WPC-new",
   "availableVariants" : [ {
-    "matchcode" : "WPB",
+    "matchcode" : "WPC3",
     "set" : false,
     "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 165.7,
+    "brutto" : 130.7,
     "unit" : "g",
     "unitId" : 812
   },
-  "contentsAmount" : "780",
+  "contentsAmount" : "520",
   "currency" : "eur",
   "deliveryStatus" : "Coming soon",
   "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/03/ringana-box-small-balancing-Set_of_3_NEW.png?q=100",
+  "image" : "https://i.ringana.com/2022/03/ringana-box-big-cleansing-mit-Sachet-H_NEW.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/pack-balancing-set/",
+  "link" : "/produkt/fresh-pack-cleansing/",
   "maxPerCart" : null,
-  "nemBackgroundColor" : "",
+  "nemBackgroundColor" : "f6eb61",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 129.3,
+      "brutto" : 68,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 129.3,
+        "brutto" : 68,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 70.5
+        "provisionPoints" : 42
       },
-      "provisionPoints" : 70.5
+      "provisionPoints" : 42
     },
     "partner" : {
-      "brutto" : 129.3,
+      "brutto" : 68,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 129.3,
+        "brutto" : 68,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 70.5
+        "provisionPoints" : 42
       },
-      "provisionPoints" : 70.5
+      "provisionPoints" : 42
     }
   },
   "purchasePossible" : false,
-  "setContents" : {
-    "0" : {
-      "amount" : 3,
-      "gratis" : false,
-      "matchcode" : "WPB"
-    }
-  },
+  "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
-  "title" : "FRESH pack balancing, Set of 3",
-  "unit" : "Set",
+  "title" : "FRESH pack cleansing",
+  "unit" : "Pck.",
   "unitContents" : "g",
   "unitContentsId" : 812,
-  "unitId" : 43586,
-  "usp" : "Säure-Basen-Haushalt"
+  "unitId" : 43589,
+  "usp" : "Verdauung"
 }
