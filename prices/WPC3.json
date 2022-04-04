@@ -7,14 +7,14 @@
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 91.9,
+    "brutto" : 114.9,
     "unit" : "g",
     "unitId" : 812
   },
   "contentsAmount" : "1560",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -29,35 +29,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 143.44,
-      "bruttoWithoutDiscount" : 179.3,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-04-03T21:59:59Z",
+      "brutto" : 179.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 143.44,
-        "bruttoWithoutDiscount" : 179.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-04-03T21:59:59Z",
-        "provisionPoints" : 68.9
+        "brutto" : 179.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 95.7
       },
-      "provisionPoints" : 68.9
+      "provisionPoints" : 95.7
     },
     "partner" : {
-      "brutto" : 143.44,
-      "bruttoWithoutDiscount" : 179.3,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-04-03T21:59:59Z",
+      "brutto" : 179.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 143.44,
-        "bruttoWithoutDiscount" : 179.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-04-03T21:59:59Z",
-        "provisionPoints" : 68.9
+        "brutto" : 179.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 95.7
       },
-      "provisionPoints" : 68.9
+      "provisionPoints" : 95.7
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 3,
@@ -68,7 +68,7 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "PACK cleansing, Set of 3",
   "unit" : "Set",
   "unitContents" : "g",
