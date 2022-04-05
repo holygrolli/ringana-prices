@@ -13,8 +13,8 @@
   },
   "contentsAmount" : "260",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -57,7 +57,7 @@
       "provisionPoints" : 29
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
