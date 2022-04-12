@@ -58,7 +58,7 @@
     "0" : {
       "amount" : 10,
       "gratis" : false,
-      "matchcode" : "TTS-1"
+      "matchcode" : "TTS-1-ALT"
     }
   },
   "showOnFrontpage" : false,

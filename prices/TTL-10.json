@@ -58,7 +58,7 @@
     "0" : {
       "amount" : 10,
       "gratis" : false,
-      "matchcode" : "TTL-1"
+      "matchcode" : "TTL-1-ALT"
     }
   },
   "showOnFrontpage" : false,
