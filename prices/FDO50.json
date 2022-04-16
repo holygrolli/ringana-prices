@@ -1,23 +1,23 @@
 {
-  "matchcode" : "RFB-PL-WV20-10",
+  "matchcode" : "FDO50",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 100,
-    "brutto" : 490,
-    "unit" : null,
-    "unitId" : null
+    "brutto" : 21.4,
+    "unit" : "ml",
+    "unitId" : 827
   },
-  "contentsAmount" : "10",
+  "contentsAmount" : "50",
   "currency" : "eur",
   "deliveryStatus" : "Coming soon",
   "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/04/Freshbook_with_20EUR-Voucher_10x.png?q=100",
-  "isMerchandise" : true,
+  "image" : "https://i.ringana.com/2022/04/ringana-fresh-50ml-deodorant-H_abFeb22.png?q=100",
+  "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/partner-produkt/freshbook-voucher-pl/",
+  "link" : "/produkt/fresh-deodorant-pocket/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -25,55 +25,44 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 49,
+      "brutto" : 10.7,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 49,
+        "brutto" : 10.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 0
+        "provisionPoints" : 6.6
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 6.6
     },
     "partner" : {
-      "brutto" : 49,
+      "brutto" : 10.7,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 49,
+        "brutto" : 10.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 0
+        "provisionPoints" : 6.6
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 6.6
     }
   },
   "purchasePossible" : false,
-  "setContents" : {
-    "0" : {
-      "amount" : 10,
-      "gratis" : false,
-      "matchcode" : "RFB-PL-WV20"
-    }
-  },
+  "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
-  "skinTypes" : {
-    "1" : true,
-    "2" : true,
-    "3" : true,
-    "4" : true
-  },
+  "skinTypes" : null,
   "soldOut" : false,
-  "title" : "RINGANA freshbook with voucher (€ 20), Set of 10 – PL",
-  "unit" : "Set",
-  "unitContents" : "Stk.",
-  "unitContentsId" : 996,
-  "unitId" : 43586,
-  "usp" : ""
+  "title" : "FRESH deodorant pocket",
+  "unit" : "Stk.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 996,
+  "usp" : "Deocreme im Pocket-Format"
 }
