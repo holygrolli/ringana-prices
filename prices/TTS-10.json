@@ -9,8 +9,8 @@
   },
   "contentsAmount" : "10",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -53,12 +53,12 @@
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 10,
       "gratis" : false,
-      "matchcode" : "TTS-1-ALT"
+      "matchcode" : "TTS-1"
     }
   },
   "showOnFrontpage" : false,
@@ -69,7 +69,7 @@
     "3" : true,
     "4" : true
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "title" : "RINGANA paper bag small",
   "unit" : "Set",
   "unitContents" : "Stk.",
