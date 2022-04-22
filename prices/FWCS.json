@@ -2,10 +2,8 @@
   "matchcode" : "FWCS",
   "availableVariants" : [ {
     "matchcode" : "BKW",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : null,
@@ -15,12 +13,12 @@
   },
   "contentsAmount" : "700",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/10/FRESH_wash_care_set.png?q=100",
+  "image" : "https://i.ringana.com/2022/04/FRESH_wash_care_set_2204-2.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/fresh-wash-care-set/",
@@ -31,35 +29,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 76.6,
+      "brutto" : 64.3,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 76.6,
+        "brutto" : 64.3,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 42.7
+        "provisionPoints" : 36.2
       },
-      "provisionPoints" : 42.7
+      "provisionPoints" : 36.2
     },
     "partner" : {
-      "brutto" : 76.6,
+      "brutto" : 64.3,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 76.6,
+        "brutto" : 64.3,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 42.7
+        "provisionPoints" : 36.2
       },
-      "provisionPoints" : 42.7
+      "provisionPoints" : 36.2
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -100,7 +98,7 @@
     "3" : true,
     "4" : true
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "FRESH wash care set",
   "unit" : "Set",
   "unitContents" : "ml",
