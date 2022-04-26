@@ -1,23 +1,23 @@
 {
-  "matchcode" : "SSF",
+  "matchcode" : "BSR-LE-MM",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 100,
-    "brutto" : 60,
-    "unit" : "ml",
-    "unitId" : 827
+    "brutto" : 10.2,
+    "unit" : "g",
+    "unitId" : 812
   },
-  "contentsAmount" : "50",
+  "contentsAmount" : "100",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/04/ringana-fresh-50ml-sunscreen-H_NF-1.png?q=100",
+  "image" : "https://i.ringana.com/2022/04/ringana-fresh-soap-mandarine_mimosa_limitededition.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/fresh-sunscreen-face/",
+  "link" : "/produkt/fresh-soap-mandarine-mimosa/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -25,44 +25,49 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 30,
+      "brutto" : 10.2,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 30,
+        "brutto" : 10.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 19.5
+        "provisionPoints" : 5.5
       },
-      "provisionPoints" : 19.5
+      "provisionPoints" : 5.5
     },
     "partner" : {
-      "brutto" : 30,
+      "brutto" : 10.2,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 30,
+        "brutto" : 10.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 19.5
+        "provisionPoints" : 5.5
       },
-      "provisionPoints" : 19.5
+      "provisionPoints" : 5.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
   "soldOut" : false,
-  "title" : "FRESH sunscreen face",
+  "title" : "FRESH soap mandarine & mimosa",
   "unit" : "Stk.",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
+  "unitContents" : "g",
+  "unitContentsId" : 812,
   "unitId" : 996,
-  "usp" : "Gesichtssonnenpflege mittel SPF 15"
+  "usp" : "Naturseife Mandarine & Mimose"
 }

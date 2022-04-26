@@ -1,5 +1,5 @@
 {
-  "matchcode" : "BKT-MEN",
+  "matchcode" : "RMS-2-2022",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
@@ -7,17 +7,17 @@
     "unit" : null,
     "unitId" : null
   },
-  "contentsAmount" : "250",
+  "contentsAmount" : null,
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/02/FRESH_travel_set_for_men.png?q=100",
+  "image" : "https://i.ringana.com/2022/04/Muttertag-set_overnight.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/travel-set-for-men/",
+  "link" : "/produkt/overnight-set/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -25,70 +25,70 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 57.1,
+      "brutto" : 86,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 57.1,
+        "brutto" : 86,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 37.7
+        "provisionPoints" : 49.9
       },
-      "provisionPoints" : 37.7
+      "provisionPoints" : 49.9
     },
     "partner" : {
-      "brutto" : 57.1,
+      "brutto" : 86,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 57.1,
+        "brutto" : 86,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 37.7
+        "provisionPoints" : 49.9
       },
-      "provisionPoints" : 37.7
+      "provisionPoints" : 49.9
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "BKW"
+      "matchcode" : "BCN"
     },
     "1" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "BKK"
+      "matchcode" : "BRM"
     },
     "2" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "BK-MEN"
+      "matchcode" : "TBN"
     },
     "3" : {
       "amount" : 1,
-      "gratis" : true,
-      "matchcode" : "RTB"
+      "gratis" : false,
+      "matchcode" : "RTBG"
     }
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : {
     "1" : true,
-    "2" : true,
-    "3" : true,
-    "4" : true
+    "2" : false,
+    "3" : false,
+    "4" : false
   },
   "soldOut" : false,
-  "title" : "FRESH travel set for men",
-  "unit" : "Pck.",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
-  "unitId" : 43589,
-  "usp" : "Reiseset für den Mann"
+  "title" : "Overnight Set",
+  "unit" : "Stk.",
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
+  "unitId" : 996,
+  "usp" : "Intensives Nachtpflege-Set"
 }
