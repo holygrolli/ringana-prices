@@ -54,7 +54,23 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
+  "setContents" : {
+    "0" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "TKM"
+    },
+    "1" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "TFB"
+    },
+    "2" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "THB"
+    }
+  },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : {

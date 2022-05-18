@@ -2,10 +2,10 @@
   "matchcode" : "BK2",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 54.66,
-    "unit" : "ml",
-    "unitId" : 827
+    "amount" : null,
+    "brutto" : null,
+    "unit" : null,
+    "unitId" : null
   },
   "contentsAmount" : "45",
   "currency" : "eur",
@@ -54,7 +54,28 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
+  "setContents" : {
+    "0" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "TRM"
+    },
+    "1" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "TGS"
+    },
+    "2" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "THS"
+    },
+    "3" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "TCL"
+    }
+  },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : {
