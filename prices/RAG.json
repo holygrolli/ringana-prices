@@ -9,8 +9,8 @@
   },
   "contentsAmount" : "15",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -53,7 +53,7 @@
       "provisionPoints" : 29.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
@@ -63,7 +63,7 @@
     "3" : true,
     "4" : false
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "title" : "ADDS glow",
   "unit" : "Stk.",
   "unitContents" : "ml",
