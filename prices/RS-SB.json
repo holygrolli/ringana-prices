@@ -1,0 +1,73 @@
+{
+  "matchcode" : "RS-SB",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : 100,
+    "brutto" : 17.14,
+    "unit" : "g",
+    "unitId" : 812
+  },
+  "contentsAmount" : "112",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2021/04/SPORT_sample_box_inhalte.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/sport-sample-box/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 19.2,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 7.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 3
+      },
+      "provisionPoints" : 8.8
+    },
+    "partner" : {
+      "brutto" : 19.2,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 7.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 3
+      },
+      "provisionPoints" : 8.8
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
+  "soldOut" : false,
+  "title" : "SPORT sample box",
+  "unit" : null,
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : null,
+  "usp" : "Die RINGANA Sportprodukte zum Kennenlernen"
+}
