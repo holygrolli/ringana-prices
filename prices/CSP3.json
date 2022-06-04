@@ -9,7 +9,7 @@
   } ],
   "basePrice" : {
     "amount" : 1,
-    "brutto" : 1.45,
+    "brutto" : 1.62,
     "unit" : "Kapsel",
     "unitId" : 43580
   },
@@ -20,7 +20,7 @@
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/03/ringana-caps-spermidine_Set_of_3_NF.png?q=100",
+  "image" : "https://i.ringana.com/2022/06/ringana-caps-spermidine_Set_of_3.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/beyond-spermidine-set/",
@@ -31,32 +31,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 261.72,
-      "bruttoWithoutDiscount" : 290.8,
-      "discountPercentage" : 10,
-      "discountUntil" : "2022-06-03T08:00:00Z",
+      "brutto" : 290.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 261.72,
-        "bruttoWithoutDiscount" : 290.8,
-        "discountPercentage" : 10,
-        "discountUntil" : "2022-06-03T08:00:00Z",
-        "provisionPoints" : 125.55
+        "brutto" : 290.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 155
       },
-      "provisionPoints" : 125.55
+      "provisionPoints" : 155
     },
     "partner" : {
-      "brutto" : 261.72,
-      "bruttoWithoutDiscount" : 290.8,
-      "discountPercentage" : 10,
-      "discountUntil" : "2022-06-03T08:00:00Z",
+      "brutto" : 290.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 261.72,
-        "bruttoWithoutDiscount" : 290.8,
-        "discountPercentage" : 10,
-        "discountUntil" : "2022-06-03T08:00:00Z",
-        "provisionPoints" : 125.55
+        "brutto" : 290.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 155
       },
-      "provisionPoints" : 125.55
+      "provisionPoints" : 155
     }
   },
   "purchasePossible" : true,
