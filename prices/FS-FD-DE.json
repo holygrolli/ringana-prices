@@ -22,7 +22,7 @@
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : false,
+  "partnerProduct" : true,
   "prices" : {
     "customer" : {
       "brutto" : 182.9,
@@ -135,7 +135,7 @@
     "4" : true
   },
   "soldOut" : false,
-  "title" : "RINGANA FRESH date bagggggg",
+  "title" : "RINGANA FRESH date bag &#8211; DE",
   "unit" : null,
   "unitContents" : null,
   "unitContentsId" : null,

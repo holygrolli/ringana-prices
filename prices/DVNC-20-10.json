@@ -22,7 +22,7 @@
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : false,
+  "partnerProduct" : true,
   "prices" : {
     "customer" : {
       "brutto" : 44.1,
