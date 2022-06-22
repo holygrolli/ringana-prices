@@ -15,7 +15,7 @@
   "discountDate" : null,
   "discountPercentage" : null,
   "image" : "https://i.ringana.com/2021/12/rgk7ESUG-FRESH-date-bag_2021.png?q=100",
-  "isMerchandise" : false,
+  "isMerchandise" : true,
   "lang" : "de",
   "link" : "/partner-produkt/ringana-fresh-date-bag-hu/",
   "maxPerCart" : null,
