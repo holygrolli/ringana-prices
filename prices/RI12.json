@@ -7,7 +7,7 @@
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 145.5,
+    "brutto" : 116.4,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -29,32 +29,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 52.4,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 41.92,
+      "bruttoWithoutDiscount" : 52.4,
+      "discountPercentage" : 20,
+      "discountUntil" : "2022-07-02T10:00:00Z",
       "initialPurchase" : {
-        "brutto" : 52.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 32
+        "brutto" : 41.92,
+        "bruttoWithoutDiscount" : 52.4,
+        "discountPercentage" : 20,
+        "discountUntil" : "2022-07-02T10:00:00Z",
+        "provisionPoints" : 23.04
       },
-      "provisionPoints" : 32
+      "provisionPoints" : 23.04
     },
     "partner" : {
-      "brutto" : 52.4,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 41.92,
+      "bruttoWithoutDiscount" : 52.4,
+      "discountPercentage" : 20,
+      "discountUntil" : "2022-07-02T10:00:00Z",
       "initialPurchase" : {
-        "brutto" : 52.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 32
+        "brutto" : 41.92,
+        "bruttoWithoutDiscount" : 52.4,
+        "discountPercentage" : 20,
+        "discountUntil" : "2022-07-02T10:00:00Z",
+        "provisionPoints" : 23.04
       },
-      "provisionPoints" : 32
+      "provisionPoints" : 23.04
     }
   },
   "purchasePossible" : true,

@@ -3,7 +3,9 @@
   "availableVariants" : [ {
     "matchcode" : "COV",
     "set" : false,
-    "travelSize" : false
+    "travelSize" : false,
+    "unit" : "Stk.",
+    "unitId" : 996
   } ],
   "basePrice" : {
     "amount" : 1,
