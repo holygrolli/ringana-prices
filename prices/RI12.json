@@ -7,14 +7,14 @@
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 116.4,
+    "brutto" : 145.5,
     "unit" : "ml",
     "unitId" : 827
   },
   "contentsAmount" : "360",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -29,40 +29,40 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 41.92,
-      "bruttoWithoutDiscount" : 52.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-07-02T10:00:00Z",
+      "brutto" : 52.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 41.92,
-        "bruttoWithoutDiscount" : 52.4,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-07-02T10:00:00Z",
-        "provisionPoints" : 23.04
+        "brutto" : 52.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 32
       },
-      "provisionPoints" : 23.04
+      "provisionPoints" : 32
     },
     "partner" : {
-      "brutto" : 41.92,
-      "bruttoWithoutDiscount" : 52.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-07-02T10:00:00Z",
+      "brutto" : 52.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 41.92,
-        "bruttoWithoutDiscount" : 52.4,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-07-02T10:00:00Z",
-        "provisionPoints" : 23.04
+        "brutto" : 52.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 32
       },
-      "provisionPoints" : 23.04
+      "provisionPoints" : 32
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "RINGANAisi",
   "unit" : "Pck.",
   "unitContents" : "ml",

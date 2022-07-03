@@ -3,9 +3,7 @@
   "availableVariants" : [ {
     "matchcode" : "RE12",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "travelSize" : false
   }, {
     "matchcode" : "RE3",
     "set" : false,
@@ -19,8 +17,8 @@
   },
   "contentsAmount" : "720",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -63,7 +61,7 @@
       "provisionPoints" : 48.7
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 2,
@@ -74,7 +72,7 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "RINGANAchi, Set of 2",
   "unit" : "Set",
   "unitContents" : "ml",
