@@ -2,12 +2,14 @@
   "matchcode" : "WPA",
   "availableVariants" : [ {
     "matchcode" : "WPA3",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 261.3,
+    "brutto" : 290.3,
     "unit" : "g",
     "unitId" : 812
   },
@@ -29,32 +31,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 67.95,
-      "bruttoWithoutDiscount" : 75.5,
-      "discountPercentage" : 10,
-      "discountUntil" : "2022-07-15T08:00:00Z",
+      "brutto" : 75.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 67.95,
-        "bruttoWithoutDiscount" : 75.5,
-        "discountPercentage" : 10,
-        "discountUntil" : "2022-07-15T08:00:00Z",
-        "provisionPoints" : 36.45
+        "brutto" : 75.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 45
       },
-      "provisionPoints" : 36.45
+      "provisionPoints" : 45
     },
     "partner" : {
-      "brutto" : 67.95,
-      "bruttoWithoutDiscount" : 75.5,
-      "discountPercentage" : 10,
-      "discountUntil" : "2022-07-15T08:00:00Z",
+      "brutto" : 75.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 67.95,
-        "bruttoWithoutDiscount" : 75.5,
-        "discountPercentage" : 10,
-        "discountUntil" : "2022-07-15T08:00:00Z",
-        "provisionPoints" : 36.45
+        "brutto" : 75.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 45
       },
-      "provisionPoints" : 36.45
+      "provisionPoints" : 45
     }
   },
   "purchasePossible" : true,
