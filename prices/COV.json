@@ -2,8 +2,10 @@
   "matchcode" : "COV",
   "availableVariants" : [ {
     "matchcode" : "COV3",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1,

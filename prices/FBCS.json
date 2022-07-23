@@ -2,7 +2,7 @@
   "matchcode" : "FBCS",
   "availableVariants" : [ {
     "matchcode" : "BKK",
-    "set" : false,
+    "set" : true,
     "travelSize" : false
   } ],
   "basePrice" : {

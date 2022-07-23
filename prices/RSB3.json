@@ -3,7 +3,9 @@
   "availableVariants" : [ {
     "matchcode" : "RSB",
     "set" : false,
-    "travelSize" : false
+    "travelSize" : false,
+    "unit" : "Pck.",
+    "unitId" : 43589
   } ],
   "basePrice" : {
     "amount" : 1000,
