@@ -2,14 +2,12 @@
   "matchcode" : "CUV",
   "availableVariants" : [ {
     "matchcode" : "CUV3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1,
-    "brutto" : 0.43,
+    "brutto" : 0.34,
     "unit" : "Kapsel",
     "unitId" : 43580
   },
@@ -20,7 +18,7 @@
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/10/ringana-caps-hydro-H.png?q=100",
+  "image" : "https://i.ringana.com/2022/07/ringana-caps-hydro.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/caps-hydro/",
@@ -31,32 +29,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 38.8,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 31.04,
+      "bruttoWithoutDiscount" : 38.8,
+      "discountPercentage" : 20,
+      "discountUntil" : "2022-07-29T21:59:59Z",
       "initialPurchase" : {
-        "brutto" : 38.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 22.8
+        "brutto" : 31.04,
+        "bruttoWithoutDiscount" : 38.8,
+        "discountPercentage" : 20,
+        "discountUntil" : "2022-07-29T21:59:59Z",
+        "provisionPoints" : 16.42
       },
-      "provisionPoints" : 22.8
+      "provisionPoints" : 16.42
     },
     "partner" : {
-      "brutto" : 38.8,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 31.04,
+      "bruttoWithoutDiscount" : 38.8,
+      "discountPercentage" : 20,
+      "discountUntil" : "2022-07-29T21:59:59Z",
       "initialPurchase" : {
-        "brutto" : 38.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 22.8
+        "brutto" : 31.04,
+        "bruttoWithoutDiscount" : 38.8,
+        "discountPercentage" : 20,
+        "discountUntil" : "2022-07-29T21:59:59Z",
+        "provisionPoints" : 16.42
       },
-      "provisionPoints" : 22.8
+      "provisionPoints" : 16.42
     }
   },
   "purchasePossible" : true,

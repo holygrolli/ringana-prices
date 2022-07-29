@@ -2,10 +2,8 @@
   "matchcode" : "CCB",
   "availableVariants" : [ {
     "matchcode" : "CCB3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1,
@@ -20,7 +18,7 @@
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/10/ringana-caps-cerebro-H.png?q=100",
+  "image" : "https://i.ringana.com/2022/07/ringana-caps-cerebro.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/caps-cerebro/",

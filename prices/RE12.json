@@ -3,15 +3,11 @@
   "availableVariants" : [ {
     "matchcode" : "RE3",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "travelSize" : false
   }, {
     "matchcode" : "RE24",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
@@ -26,7 +22,7 @@
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/05/ringana-drinks-chi-H.png?q=100",
+  "image" : "https://i.ringana.com/2022/07/ringana-drinks-chi.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/ringanachi/",
