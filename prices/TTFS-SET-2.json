@@ -1,10 +1,6 @@
 {
-  "matchcode" : "LSP-PROTECT",
-  "availableVariants" : [ {
-    "matchcode" : "BKK",
-    "set" : false,
-    "travelSize" : false
-  } ],
+  "matchcode" : "TTFS-SET-2",
+  "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
     "brutto" : null,
@@ -18,10 +14,10 @@
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/07/Live_Special_Set_20220728_1000pxV2.png?q=100",
+  "image" : "https://i.ringana.com/2022/07/uGqmHtBt-FRESH_sample_box_TTFs.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/live-special-protect/",
+  "link" : "/partner-produkt/samplebox-ttf-ttf-tan/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -29,65 +25,40 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 154,
+      "brutto" : 27.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 154,
+        "brutto" : 27.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 99.4
+        "provisionPoints" : 13.7
       },
-      "provisionPoints" : 99.4
+      "provisionPoints" : 13.7
     },
     "partner" : {
-      "brutto" : 154,
+      "brutto" : 27.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 154,
+        "brutto" : 27.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 99.4
+        "provisionPoints" : 13.7
       },
-      "provisionPoints" : 99.4
+      "provisionPoints" : 13.7
     }
   },
   "purchasePossible" : true,
   "setContents" : {
     "0" : {
-      "amount" : 1,
+      "amount" : 2,
       "gratis" : false,
-      "matchcode" : "BSB"
-    },
-    "1" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "SSF"
-    },
-    "2" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "BVS"
-    },
-    "3" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "SBA"
-    },
-    "4" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "CSV"
-    },
-    "5" : {
-      "amount" : 1,
-      "gratis" : true,
-      "matchcode" : "RHMT"
+      "matchcode" : "TTFS-SET"
     }
   },
   "showOnFrontpage" : false,
@@ -99,10 +70,10 @@
     "4" : true
   },
   "soldOut" : false,
-  "title" : "LIVE SPECIAL &#8211; protect",
-  "unit" : "Set",
+  "title" : "FRESH sample box tinted moisturisers, Set of 2",
+  "unit" : "Pck.",
   "unitContents" : "Set",
   "unitContentsId" : 43586,
-  "unitId" : 43586,
-  "usp" : "Offer only valid while stocks last"
+  "unitId" : 43589,
+  "usp" : ""
 }
