@@ -3,14 +3,14 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 100,
-    "brutto" : 16.51,
+    "brutto" : 20.64,
     "unit" : "ml",
     "unitId" : 827
   },
   "contentsAmount" : "125",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -25,35 +25,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 20.64,
-      "bruttoWithoutDiscount" : 25.8,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-08-01T21:59:59Z",
+      "brutto" : 25.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 20.64,
-        "bruttoWithoutDiscount" : 25.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-08-01T21:59:59Z",
-        "provisionPoints" : 11.88
+        "brutto" : 25.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 16.5
       },
-      "provisionPoints" : 11.88
+      "provisionPoints" : 16.5
     },
     "partner" : {
-      "brutto" : 20.64,
-      "bruttoWithoutDiscount" : 25.8,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-08-01T21:59:59Z",
+      "brutto" : 25.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 20.64,
-        "bruttoWithoutDiscount" : 25.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-08-01T21:59:59Z",
-        "provisionPoints" : 11.88
+        "brutto" : 25.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 16.5
       },
-      "provisionPoints" : 11.88
+      "provisionPoints" : 16.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
@@ -63,7 +63,7 @@
     "3" : true,
     "4" : true
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "FRESH after sun shine",
   "unit" : null,
   "unitContents" : "ml",
