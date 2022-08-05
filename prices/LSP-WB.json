@@ -1,27 +1,23 @@
 {
-  "matchcode" : "RD24",
-  "availableVariants" : [ {
-    "matchcode" : "RD12",
-    "set" : false,
-    "travelSize" : false
-  } ],
+  "matchcode" : "LSP-WB",
+  "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
     "brutto" : null,
     "unit" : null,
     "unitId" : null
   },
-  "contentsAmount" : "24 x 30",
+  "contentsAmount" : null,
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/05/ringana-drinks-dea-Set_of_2.png?q=100",
+  "image" : "https://i.ringana.com/2022/08/LiveSpecial_220804.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/ringanadea-set/",
+  "link" : "/produkt/live-special-womens-essentials/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -29,50 +25,65 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 106.9,
+      "brutto" : 85.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 106.9,
+        "brutto" : 85.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 59.2
+        "provisionPoints" : 45.5
       },
-      "provisionPoints" : 59.2
+      "provisionPoints" : 45.5
     },
     "partner" : {
-      "brutto" : 106.9,
+      "brutto" : 85.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 106.9,
+        "brutto" : 85.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 59.2
+        "provisionPoints" : 45.5
       },
-      "provisionPoints" : 59.2
+      "provisionPoints" : 45.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
-      "amount" : 2,
+      "amount" : 1,
       "gratis" : false,
-      "matchcode" : "RD12"
+      "matchcode" : "CBH"
+    },
+    "1" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "CFV"
+    },
+    "2" : {
+      "amount" : 1,
+      "gratis" : true,
+      "matchcode" : "BLB"
     }
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
-  "soldOut" : false,
-  "title" : "RINGANAdea, Set of 2",
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
+  "soldOut" : true,
+  "title" : "LIVE SPECIAL &#8211; Women&#8217;s essentials",
   "unit" : "Set",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
   "unitId" : 43586,
-  "usp" : "Leichtgewicht"
+  "usp" : "Available on 4.8.2022 from 7.30 p.m. to 9.30 p.m."
 }
