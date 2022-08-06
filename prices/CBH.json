@@ -2,12 +2,14 @@
   "matchcode" : "CBH",
   "availableVariants" : [ {
     "matchcode" : "CBH3",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1,
-    "brutto" : 0.49,
+    "brutto" : 0.61,
     "unit" : "Kapsel",
     "unitId" : 43580
   },
@@ -29,32 +31,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 43.84,
-      "bruttoWithoutDiscount" : 54.8,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-08-05T21:59:59Z",
+      "brutto" : 54.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 43.84,
-        "bruttoWithoutDiscount" : 54.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-08-05T21:59:59Z",
-        "provisionPoints" : 23.47
+        "brutto" : 54.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 32.6
       },
-      "provisionPoints" : 23.47
+      "provisionPoints" : 32.6
     },
     "partner" : {
-      "brutto" : 43.84,
-      "bruttoWithoutDiscount" : 54.8,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-08-05T21:59:59Z",
+      "brutto" : 54.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 43.84,
-        "bruttoWithoutDiscount" : 54.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-08-05T21:59:59Z",
-        "provisionPoints" : 23.47
+        "brutto" : 54.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 32.6
       },
-      "provisionPoints" : 23.47
+      "provisionPoints" : 32.6
     }
   },
   "purchasePossible" : true,
