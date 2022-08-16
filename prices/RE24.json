@@ -9,13 +9,11 @@
   }, {
     "matchcode" : "RE3",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 122.2,
+    "brutto" : 97.7,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -37,32 +35,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 88,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 70.4,
+      "bruttoWithoutDiscount" : 88,
+      "discountPercentage" : 20,
+      "discountUntil" : "2022-08-16T21:59:59Z",
       "initialPurchase" : {
-        "brutto" : 88,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 48.7
+        "brutto" : 70.4,
+        "bruttoWithoutDiscount" : 88,
+        "discountPercentage" : 20,
+        "discountUntil" : "2022-08-16T21:59:59Z",
+        "provisionPoints" : 35.06
       },
-      "provisionPoints" : 48.7
+      "provisionPoints" : 35.06
     },
     "partner" : {
-      "brutto" : 88,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 70.4,
+      "bruttoWithoutDiscount" : 88,
+      "discountPercentage" : 20,
+      "discountUntil" : "2022-08-16T21:59:59Z",
       "initialPurchase" : {
-        "brutto" : 88,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 48.7
+        "brutto" : 70.4,
+        "bruttoWithoutDiscount" : 88,
+        "discountPercentage" : 20,
+        "discountUntil" : "2022-08-16T21:59:59Z",
+        "provisionPoints" : 35.06
       },
-      "provisionPoints" : 48.7
+      "provisionPoints" : 35.06
     }
   },
   "purchasePossible" : true,
