@@ -1,23 +1,23 @@
 {
-  "matchcode" : "CDG3",
+  "matchcode" : "SBA-S-50",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 1,
-    "brutto" : 0.38,
-    "unit" : "Kapsel",
-    "unitId" : 43580
+    "amount" : 100,
+    "brutto" : 18.4,
+    "unit" : "ml",
+    "unitId" : 827
   },
-  "contentsAmount" : "270",
+  "contentsAmount" : "50",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/10/ringana-caps-d-gest_Set_of_3.png?q=100",
+  "image" : "https://i.ringana.com/2022/08/ringana-fresh-50ml-after-sun-shine-H.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/caps-d-gest-set/",
+  "link" : "/produkt/fresh-after-sun-shine-pocket/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -25,50 +25,49 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 102.8,
-      "bruttoWithoutDiscount" : 128.5,
+      "brutto" : 9.2,
+      "bruttoWithoutDiscount" : 11.5,
       "discountPercentage" : 20,
       "discountUntil" : "2022-08-17T21:59:59Z",
       "initialPurchase" : {
-        "brutto" : 102.8,
-        "bruttoWithoutDiscount" : 128.5,
+        "brutto" : 9.2,
+        "bruttoWithoutDiscount" : 11.5,
         "discountPercentage" : 20,
         "discountUntil" : "2022-08-17T21:59:59Z",
-        "provisionPoints" : 48.96
+        "provisionPoints" : 4.97
       },
-      "provisionPoints" : 48.96
+      "provisionPoints" : 4.97
     },
     "partner" : {
-      "brutto" : 102.8,
-      "bruttoWithoutDiscount" : 128.5,
+      "brutto" : 9.2,
+      "bruttoWithoutDiscount" : 11.5,
       "discountPercentage" : 20,
       "discountUntil" : "2022-08-17T21:59:59Z",
       "initialPurchase" : {
-        "brutto" : 102.8,
-        "bruttoWithoutDiscount" : 128.5,
+        "brutto" : 9.2,
+        "bruttoWithoutDiscount" : 11.5,
         "discountPercentage" : 20,
         "discountUntil" : "2022-08-17T21:59:59Z",
-        "provisionPoints" : 48.96
+        "provisionPoints" : 4.97
       },
-      "provisionPoints" : 48.96
+      "provisionPoints" : 4.97
     }
   },
   "purchasePossible" : true,
-  "setContents" : {
-    "0" : {
-      "amount" : 3,
-      "gratis" : false,
-      "matchcode" : "CDG"
-    }
-  },
+  "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
   "soldOut" : false,
-  "title" : "CAPS d-gest, Set of 3",
-  "unit" : "Set",
-  "unitContents" : "Kap.",
-  "unitContentsId" : 804,
-  "unitId" : 43586,
-  "usp" : "Gutes Bauchgefühl"
+  "title" : "FRESH after sun shine pocket",
+  "unit" : "Reisegröße",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 43592,
+  "usp" : "Bräunungspflege im Pocket-Format"
 }
