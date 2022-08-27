@@ -2,8 +2,8 @@
   "matchcode" : "BSB",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 33.28,
+    "amount" : 1000,
+    "brutto" : 332.8,
     "unit" : "ml",
     "unitId" : 827
   },

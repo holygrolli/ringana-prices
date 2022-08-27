@@ -2,8 +2,8 @@
   "matchcode" : "BTF",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 147.33,
+    "amount" : 1000,
+    "brutto" : 1473.3,
     "unit" : "ml",
     "unitId" : 827
   },

@@ -2,8 +2,8 @@
   "matchcode" : "RAE",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 367.33,
+    "amount" : 1000,
+    "brutto" : 3673.3,
     "unit" : "ml",
     "unitId" : 827
   },

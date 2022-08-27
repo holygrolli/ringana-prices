@@ -2,8 +2,8 @@
   "matchcode" : "BSR",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 7.68,
+    "amount" : 1000,
+    "brutto" : 76.8,
     "unit" : "g",
     "unitId" : 812
   },
@@ -28,12 +28,12 @@
       "brutto" : 7.68,
       "bruttoWithoutDiscount" : 9.6,
       "discountPercentage" : 20,
-      "discountUntil" : "2022-08-26T21:59:59Z",
+      "discountUntil" : "2022-08-27T21:59:59Z",
       "initialPurchase" : {
         "brutto" : 7.68,
         "bruttoWithoutDiscount" : 9.6,
         "discountPercentage" : 20,
-        "discountUntil" : "2022-08-26T21:59:59Z",
+        "discountUntil" : "2022-08-27T21:59:59Z",
         "provisionPoints" : 3.6
       },
       "provisionPoints" : 3.6
@@ -42,12 +42,12 @@
       "brutto" : 7.68,
       "bruttoWithoutDiscount" : 9.6,
       "discountPercentage" : 20,
-      "discountUntil" : "2022-08-26T21:59:59Z",
+      "discountUntil" : "2022-08-27T21:59:59Z",
       "initialPurchase" : {
         "brutto" : 7.68,
         "bruttoWithoutDiscount" : 9.6,
         "discountPercentage" : 20,
-        "discountUntil" : "2022-08-26T21:59:59Z",
+        "discountUntil" : "2022-08-27T21:59:59Z",
         "provisionPoints" : 3.6
       },
       "provisionPoints" : 3.6
