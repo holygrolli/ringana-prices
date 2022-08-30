@@ -2,12 +2,14 @@
   "matchcode" : "RSP",
   "availableVariants" : [ {
     "matchcode" : "RSP3",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1,
-    "brutto" : 0.69,
+    "brutto" : 0.55,
     "unit" : "Kapsel",
     "unitId" : 43580
   },
@@ -29,32 +31,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 61.8,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 49.44,
+      "bruttoWithoutDiscount" : 61.8,
+      "discountPercentage" : 20,
+      "discountUntil" : "2022-08-30T21:59:59Z",
       "initialPurchase" : {
-        "brutto" : 61.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 38
+        "brutto" : 49.44,
+        "bruttoWithoutDiscount" : 61.8,
+        "discountPercentage" : 20,
+        "discountUntil" : "2022-08-30T21:59:59Z",
+        "provisionPoints" : 27.36
       },
-      "provisionPoints" : 38
+      "provisionPoints" : 27.36
     },
     "partner" : {
-      "brutto" : 61.8,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 49.44,
+      "bruttoWithoutDiscount" : 61.8,
+      "discountPercentage" : 20,
+      "discountUntil" : "2022-08-30T21:59:59Z",
       "initialPurchase" : {
-        "brutto" : 61.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 38
+        "brutto" : 49.44,
+        "bruttoWithoutDiscount" : 61.8,
+        "discountPercentage" : 20,
+        "discountUntil" : "2022-08-30T21:59:59Z",
+        "provisionPoints" : 27.36
       },
-      "provisionPoints" : 38
+      "provisionPoints" : 27.36
     }
   },
   "purchasePossible" : true,
