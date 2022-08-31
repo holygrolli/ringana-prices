@@ -2,8 +2,8 @@
   "matchcode" : "RSG",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 19.36,
+    "amount" : 1000,
+    "brutto" : 193.6,
     "unit" : "ml",
     "unitId" : 827
   },
