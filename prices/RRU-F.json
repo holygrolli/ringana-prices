@@ -2,8 +2,8 @@
   "matchcode" : "RRU-F",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 11880,
+    "amount" : null,
+    "brutto" : null,
     "unit" : null,
     "unitId" : null
   },
@@ -25,29 +25,29 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 118.8,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 95.04,
+      "bruttoWithoutDiscount" : 118.8,
+      "discountPercentage" : 20,
+      "discountUntil" : "2022-09-16T21:59:59Z",
       "initialPurchase" : {
-        "brutto" : 118.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 95.04,
+        "bruttoWithoutDiscount" : 118.8,
+        "discountPercentage" : 20,
+        "discountUntil" : "2022-09-16T21:59:59Z",
         "provisionPoints" : 0
       },
       "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 118.8,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 95.04,
+      "bruttoWithoutDiscount" : 118.8,
+      "discountPercentage" : 20,
+      "discountUntil" : "2022-09-16T21:59:59Z",
       "initialPurchase" : {
-        "brutto" : 118.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 95.04,
+        "bruttoWithoutDiscount" : 118.8,
+        "discountPercentage" : 20,
+        "discountUntil" : "2022-09-16T21:59:59Z",
         "provisionPoints" : 0
       },
       "provisionPoints" : 0
