@@ -9,8 +9,8 @@
   },
   "contentsAmount" : null,
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -53,7 +53,7 @@
       "provisionPoints" : 65.7
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -79,11 +79,11 @@
     "3" : true,
     "4" : true
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "LIVE SPECIAL &#8211; Overnight Set",
   "unit" : "Set",
   "unitContents" : "Set",
   "unitContentsId" : 43586,
   "unitId" : 43586,
-  "usp" : "Available on 8.9.2022 - form 6.00 pm - only while stock lasts"
+  "usp" : "Available on 8.9.2022 - from 6.00 pm - only while stock lasts"
 }
