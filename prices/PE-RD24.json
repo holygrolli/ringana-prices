@@ -1,72 +1,78 @@
 {
-  "matchcode" : "CIV",
+  "matchcode" : "PE-RD24",
   "availableVariants" : [ {
-    "matchcode" : "CIV3",
+    "matchcode" : "RD12",
     "set" : false,
     "travelSize" : false
   } ],
   "basePrice" : {
-    "amount" : 1,
-    "brutto" : 0.58,
-    "unit" : "Kapsel",
-    "unitId" : 43580
+    "amount" : null,
+    "brutto" : null,
+    "unit" : null,
+    "unitId" : null
   },
-  "contentsAmount" : "90",
+  "contentsAmount" : "24 x 30",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/07/ringana-caps-immu.png?q=100",
+  "image" : "https://i.ringana.com/2022/08/RINGANAdea-Set-of-2.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/caps-immu/",
+  "link" : "/partner-produkt/partner-exclusive-dea/",
   "maxPerCart" : null,
-  "nemBackgroundColor" : "ffb990",
+  "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : false,
+  "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 52.1,
+      "brutto" : 85.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 52.1,
+        "brutto" : 85.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 30.6
+        "provisionPoints" : 42.6
       },
-      "provisionPoints" : 30.6
+      "provisionPoints" : 42.6
     },
     "partner" : {
-      "brutto" : 52.1,
+      "brutto" : 85.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 52.1,
+        "brutto" : 85.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 30.6
+        "provisionPoints" : 42.6
       },
-      "provisionPoints" : 30.6
+      "provisionPoints" : 42.6
     }
   },
-  "purchasePossible" : true,
-  "setContents" : { },
+  "purchasePossible" : false,
+  "setContents" : {
+    "0" : {
+      "amount" : 2,
+      "gratis" : false,
+      "matchcode" : "RD12"
+    }
+  },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
-  "title" : "CAPS immu",
-  "unit" : "Stk.",
-  "unitContents" : "Kap.",
-  "unitContentsId" : 804,
-  "unitId" : 996,
-  "usp" : "Immunsystem"
+  "title" : "Partner Exclusive RINGANAdea, Set of 2",
+  "unit" : "Set",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 43586,
+  "usp" : ""
 }
