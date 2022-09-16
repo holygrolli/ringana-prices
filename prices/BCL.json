@@ -2,8 +2,8 @@
   "matchcode" : "BCL",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 97.6,
+    "amount" : 1000,
+    "brutto" : 976,
     "unit" : "ml",
     "unitId" : 827
   },
