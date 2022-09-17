@@ -1,10 +1,6 @@
 {
   "matchcode" : "PE-RD24",
-  "availableVariants" : [ {
-    "matchcode" : "RD12",
-    "set" : false,
-    "travelSize" : false
-  } ],
+  "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
     "brutto" : null,
@@ -13,8 +9,8 @@
   },
   "contentsAmount" : "24 x 30",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -57,7 +53,7 @@
       "provisionPoints" : 42.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 2,
