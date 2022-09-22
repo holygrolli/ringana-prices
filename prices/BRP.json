@@ -2,8 +2,8 @@
   "matchcode" : "BRP",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 34.32,
+    "amount" : 1000,
+    "brutto" : 343.2,
     "unit" : "ml",
     "unitId" : 827
   },

@@ -2,8 +2,8 @@
   "matchcode" : "FDO50",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 21.4,
+    "amount" : 1000,
+    "brutto" : 214,
     "unit" : "ml",
     "unitId" : 827
   },

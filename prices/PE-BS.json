@@ -1,78 +1,84 @@
 {
-  "matchcode" : "WPC3",
-  "availableVariants" : [ {
-    "matchcode" : "WPC",
-    "set" : false,
-    "travelSize" : false
-  } ],
+  "matchcode" : "PE-BS",
+  "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 117.6,
-    "unit" : "g",
-    "unitId" : 812
+    "amount" : null,
+    "brutto" : null,
+    "unit" : null,
+    "unitId" : null
   },
-  "contentsAmount" : "1560",
+  "contentsAmount" : "180",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/03/Uxh6dSMK-ringana-box-small-cleansing-Set_of_3_NEW.png?q=100",
+  "image" : "https://i.ringana.com/2022/09/Beyond-Set.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/pack-cleansing-set/",
+  "link" : "/partner-produkt/partner-exclusive-beyond-set/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : false,
+  "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 183.6,
+      "brutto" : 205.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 183.6,
+        "brutto" : 205.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 102.1
+        "provisionPoints" : 110.4
       },
-      "provisionPoints" : 102.1
+      "provisionPoints" : 110.4
     },
     "partner" : {
-      "brutto" : 183.6,
+      "brutto" : 205.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 183.6,
+        "brutto" : 205.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 102.1
+        "provisionPoints" : 110.4
       },
-      "provisionPoints" : 102.1
+      "provisionPoints" : 110.4
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
-      "amount" : 3,
+      "amount" : 1,
       "gratis" : false,
-      "matchcode" : "WPC"
+      "matchcode" : "COV"
+    },
+    "1" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "CSP"
+    },
+    "2" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "CBI"
     }
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
-  "title" : "FRESH pack cleansing, Set of 3",
+  "title" : "Partner Exclusive BEYOND set",
   "unit" : "Set",
-  "unitContents" : "g",
-  "unitContentsId" : 812,
+  "unitContents" : "Kap.",
+  "unitContentsId" : 804,
   "unitId" : 43586,
-  "usp" : "Verdauung"
+  "usp" : ""
 }

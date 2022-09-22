@@ -1,0 +1,99 @@
+{
+  "matchcode" : "PE-NBC7",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : null,
+    "brutto" : null,
+    "unit" : null,
+    "unitId" : null
+  },
+  "contentsAmount" : null,
+  "currency" : "eur",
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2022/08/NBC7.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/partner-produkt/partner-exclusive-nbc7-set/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : true,
+  "prices" : {
+    "customer" : {
+      "brutto" : 61,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 61,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 34.8
+      },
+      "provisionPoints" : 34.8
+    },
+    "partner" : {
+      "brutto" : 61,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 61,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 34.8
+      },
+      "provisionPoints" : 34.8
+    }
+  },
+  "purchasePossible" : false,
+  "setContents" : {
+    "0" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "BDB"
+    },
+    "1" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "BRS"
+    },
+    "2" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "STF"
+    },
+    "3" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "FSL"
+    },
+    "4" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "FHT"
+    }
+  },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
+  "soldOut" : false,
+  "title" : "Partner Exclusive NBC7 Set",
+  "unit" : "Set",
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
+  "unitId" : 43586,
+  "usp" : ""
+}
