@@ -2,8 +2,8 @@
   "matchcode" : "BSA",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 227.66,
+    "amount" : 1000,
+    "brutto" : 2276.6,
     "unit" : "ml",
     "unitId" : 827
   },
