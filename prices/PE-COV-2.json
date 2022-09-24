@@ -1,10 +1,6 @@
 {
   "matchcode" : "PE-COV-2",
-  "availableVariants" : [ {
-    "matchcode" : "COV",
-    "set" : false,
-    "travelSize" : false
-  } ],
+  "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1,
     "brutto" : 1.06,
@@ -13,8 +9,8 @@
   },
   "contentsAmount" : "120",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -57,7 +53,7 @@
       "provisionPoints" : 61.5
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 2,
