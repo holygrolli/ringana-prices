@@ -2,15 +2,15 @@
   "matchcode" : "RFB-SK-WV20-10",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 490,
+    "amount" : null,
+    "brutto" : null,
     "unit" : null,
     "unitId" : null
   },
   "contentsAmount" : "10",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -53,7 +53,7 @@
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 10,
@@ -69,7 +69,7 @@
     "3" : true,
     "4" : true
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "RINGANA freshbook with voucher (€ 20), Set of 10 – SK",
   "unit" : "Set",
   "unitContents" : "Stk.",
