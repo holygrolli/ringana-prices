@@ -2,8 +2,8 @@
   "matchcode" : "RSG-SBB",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 780,
+    "amount" : null,
+    "brutto" : null,
     "unit" : null,
     "unitId" : null
   },

@@ -2,8 +2,8 @@
   "matchcode" : "FHT",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 20.16,
+    "amount" : 1000,
+    "brutto" : 201.6,
     "unit" : "ml",
     "unitId" : 827
   },

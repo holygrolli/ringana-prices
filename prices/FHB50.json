@@ -2,8 +2,8 @@
   "matchcode" : "FHB50",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 19.8,
+    "amount" : 1000,
+    "brutto" : 198,
     "unit" : "ml",
     "unitId" : 827
   },

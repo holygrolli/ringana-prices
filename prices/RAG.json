@@ -2,8 +2,8 @@
   "matchcode" : "RAG",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 294,
+    "amount" : 1000,
+    "brutto" : 2940,
     "unit" : "ml",
     "unitId" : 827
   },

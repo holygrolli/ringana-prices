@@ -2,8 +2,8 @@
   "matchcode" : "BCE",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 88.4,
+    "amount" : 1000,
+    "brutto" : 884,
     "unit" : "ml",
     "unitId" : 827
   },

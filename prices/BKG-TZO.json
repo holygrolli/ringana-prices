@@ -2,8 +2,8 @@
   "matchcode" : "BKG-TZO",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 16.53,
+    "amount" : 1000,
+    "brutto" : 165.3,
     "unit" : "ml",
     "unitId" : 827
   },

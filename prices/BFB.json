@@ -2,8 +2,8 @@
   "matchcode" : "BFB",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 18.32,
+    "amount" : 1000,
+    "brutto" : 183.2,
     "unit" : "ml",
     "unitId" : 827
   },

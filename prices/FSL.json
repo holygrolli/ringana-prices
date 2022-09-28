@@ -2,8 +2,8 @@
   "matchcode" : "FSL",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 10.08,
+    "amount" : 1000,
+    "brutto" : 100.8,
     "unit" : "ml",
     "unitId" : 827
   },

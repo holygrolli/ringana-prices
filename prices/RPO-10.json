@@ -2,8 +2,8 @@
   "matchcode" : "RPO-10",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 30,
+    "amount" : null,
+    "brutto" : null,
     "unit" : null,
     "unitId" : null
   },

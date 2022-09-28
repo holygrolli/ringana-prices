@@ -2,8 +2,8 @@
   "matchcode" : "IBS",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 2040,
+    "amount" : null,
+    "brutto" : null,
     "unit" : null,
     "unitId" : null
   },

@@ -2,8 +2,8 @@
   "matchcode" : "RVP-PT",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 27,
+    "amount" : null,
+    "brutto" : null,
     "unit" : null,
     "unitId" : null
   },

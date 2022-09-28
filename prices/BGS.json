@@ -2,8 +2,8 @@
   "matchcode" : "BGS",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 18.72,
+    "amount" : 1000,
+    "brutto" : 187.2,
     "unit" : "ml",
     "unitId" : 827
   },

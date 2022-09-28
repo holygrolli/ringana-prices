@@ -2,8 +2,8 @@
   "matchcode" : "BDB",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 9.1,
+    "amount" : 1000,
+    "brutto" : 91,
     "unit" : "ml",
     "unitId" : 827
   },

@@ -2,8 +2,8 @@
   "matchcode" : "TTS-10",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 21,
+    "amount" : null,
+    "brutto" : null,
     "unit" : null,
     "unitId" : null
   },

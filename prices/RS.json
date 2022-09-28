@@ -2,8 +2,8 @@
   "matchcode" : "RS",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 410,
+    "amount" : null,
+    "brutto" : null,
     "unit" : null,
     "unitId" : null
   },

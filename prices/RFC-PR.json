@@ -2,8 +2,8 @@
   "matchcode" : "RFC-PR",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 13900,
+    "amount" : null,
+    "brutto" : null,
     "unit" : null,
     "unitId" : null
   },

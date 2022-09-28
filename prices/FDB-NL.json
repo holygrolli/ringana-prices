@@ -2,8 +2,8 @@
   "matchcode" : "FDB-NL",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 12,
+    "amount" : null,
+    "brutto" : null,
     "unit" : null,
     "unitId" : null
   },

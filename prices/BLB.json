@@ -2,8 +2,8 @@
   "matchcode" : "BLB",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 218,
+    "amount" : 1000,
+    "brutto" : 2180,
     "unit" : "ml",
     "unitId" : 827
   },

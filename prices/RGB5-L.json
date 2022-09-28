@@ -2,8 +2,8 @@
   "matchcode" : "RGB5-L",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 360,
+    "amount" : null,
+    "brutto" : null,
     "unit" : null,
     "unitId" : null
   },

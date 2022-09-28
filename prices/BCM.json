@@ -2,8 +2,8 @@
   "matchcode" : "BCM",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 100,
-    "brutto" : 109.2,
+    "amount" : 1000,
+    "brutto" : 1092,
     "unit" : "ml",
     "unitId" : 827
   },
