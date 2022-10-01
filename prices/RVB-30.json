@@ -1,5 +1,5 @@
 {
-  "matchcode" : "RBG-HU",
+  "matchcode" : "RVB-30",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
@@ -7,17 +7,17 @@
     "unit" : null,
     "unitId" : null
   },
-  "contentsAmount" : null,
+  "contentsAmount" : "30",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/01/RINGANA_BIZ_GUIDE_HU.png?q=100",
+  "image" : "https://i.ringana.com/2022/09/Cs0wGn3k-03_vision_board.png?q=100",
   "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/partner-produkt/ringana-business-guide-hu/",
+  "link" : "/partner-produkt/vision-board/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -25,12 +25,12 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 1.2,
+      "brutto" : 8.1,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 1.2,
+        "brutto" : 8.1,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -39,12 +39,12 @@
       "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 1.2,
+      "brutto" : 8.1,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 1.2,
+        "brutto" : 8.1,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -54,7 +54,13 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
+  "setContents" : {
+    "0" : {
+      "amount" : 30,
+      "gratis" : false,
+      "matchcode" : "RVB"
+    }
+  },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : {
@@ -64,10 +70,10 @@
     "4" : true
   },
   "soldOut" : false,
-  "title" : "RINGANA business guide &#8211; HU",
-  "unit" : null,
-  "unitContents" : null,
-  "unitContentsId" : null,
-  "unitId" : null,
+  "title" : "RINGANA vision board 03, Set of 30",
+  "unit" : "Set",
+  "unitContents" : "Stk.",
+  "unitContentsId" : 996,
+  "unitId" : 43586,
   "usp" : ""
 }

@@ -1,23 +1,23 @@
 {
-  "matchcode" : "PE-CSP-2",
+  "matchcode" : "RBG-02-RBM-PT",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 1,
-    "brutto" : 1.29,
-    "unit" : "Kapsel",
-    "unitId" : 43580
+    "amount" : null,
+    "brutto" : null,
+    "unit" : null,
+    "unitId" : null
   },
-  "contentsAmount" : "120",
+  "contentsAmount" : "1",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/08/BEYOND-spermidine-Set-of-2.png?q=100",
-  "isMerchandise" : false,
+  "image" : "https://i.ringana.com/2022/09/GcYnXo41-02_business_guide.png?q=100",
+  "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/partner-produkt/partner-exclusive-beyond-spermidine-set-of-2/",
+  "link" : "/partner-produkt/ringana-business-guide-pt/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -25,50 +25,60 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 155.1,
+      "brutto" : 1.2,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 155.1,
+        "brutto" : 1.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 74.4
+        "provisionPoints" : 0
       },
-      "provisionPoints" : 74.4
+      "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 155.1,
+      "brutto" : 1.2,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 155.1,
+        "brutto" : 1.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 74.4
+        "provisionPoints" : 0
       },
-      "provisionPoints" : 74.4
+      "provisionPoints" : 0
     }
   },
   "purchasePossible" : true,
   "setContents" : {
     "0" : {
-      "amount" : 2,
+      "amount" : 1,
       "gratis" : false,
-      "matchcode" : "CSP"
+      "matchcode" : "RBG-PT"
+    },
+    "1" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "RBM"
     }
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
   "soldOut" : false,
-  "title" : "Partner Exclusive BEYOND spermidine, Set of 2",
-  "unit" : "Stk.",
-  "unitContents" : "Kap.",
-  "unitContentsId" : 804,
-  "unitId" : 996,
+  "title" : "RINGANA business guide 02 with bookmark &#8211; PT",
+  "unit" : null,
+  "unitContents" : "Stk.",
+  "unitContentsId" : 996,
+  "unitId" : null,
   "usp" : ""
 }

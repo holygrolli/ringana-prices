@@ -1,5 +1,5 @@
 {
-  "matchcode" : "RVP-CS",
+  "matchcode" : "RBG-02-RBM-SK",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
@@ -7,17 +7,17 @@
     "unit" : null,
     "unitId" : null
   },
-  "contentsAmount" : "30",
+  "contentsAmount" : "1",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2020/01/RINGANA-sales-poster-CS.png?q=100",
+  "image" : "https://i.ringana.com/2022/09/GcYnXo41-02_business_guide.png?q=100",
   "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/partner-produkt/ringana-sales-poster-cs/",
+  "link" : "/partner-produkt/ringana-business-guide-sk/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -25,12 +25,12 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 8.1,
+      "brutto" : 1.2,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 8.1,
+        "brutto" : 1.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -39,12 +39,12 @@
       "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 8.1,
+      "brutto" : 1.2,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 8.1,
+        "brutto" : 1.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -56,9 +56,14 @@
   "purchasePossible" : true,
   "setContents" : {
     "0" : {
-      "amount" : 30,
+      "amount" : 1,
       "gratis" : false,
-      "matchcode" : "RVP-CS1"
+      "matchcode" : "RBG-SK"
+    },
+    "1" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "RBM"
     }
   },
   "showOnFrontpage" : false,
@@ -70,7 +75,7 @@
     "4" : true
   },
   "soldOut" : false,
-  "title" : "RINGANA sales poster &#8211; CS",
+  "title" : "RINGANA business guide 02 with bookmark &#8211; SK",
   "unit" : null,
   "unitContents" : "Stk.",
   "unitContentsId" : 996,

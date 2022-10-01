@@ -9,8 +9,8 @@
   },
   "contentsAmount" : "1",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -25,35 +25,35 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 95.04,
-      "bruttoWithoutDiscount" : 118.8,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-09-30T08:00:59Z",
+      "brutto" : 118.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 95.04,
-        "bruttoWithoutDiscount" : 118.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-09-30T08:00:59Z",
+        "brutto" : 118.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "provisionPoints" : 0
       },
       "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 95.04,
-      "bruttoWithoutDiscount" : 118.8,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-09-30T08:00:59Z",
+      "brutto" : 118.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 95.04,
-        "bruttoWithoutDiscount" : 118.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-09-30T08:00:59Z",
+        "brutto" : 118.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "provisionPoints" : 0
       },
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : true,
@@ -63,7 +63,7 @@
     "3" : true,
     "4" : true
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "RINGANA FRESH roll-up",
   "unit" : "Stk.",
   "unitContents" : "Stk.",
