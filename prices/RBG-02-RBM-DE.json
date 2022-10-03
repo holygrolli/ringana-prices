@@ -7,7 +7,7 @@
     "unit" : null,
     "unitId" : null
   },
-  "contentsAmount" : "1",
+  "contentsAmount" : null,
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
@@ -77,8 +77,8 @@
   "soldOut" : false,
   "title" : "RINGANA business guide 02 with bookmark &#8211; DE",
   "unit" : "Stk.",
-  "unitContents" : "Stk.",
-  "unitContentsId" : 996,
+  "unitContents" : null,
+  "unitContentsId" : null,
   "unitId" : 996,
   "usp" : ""
 }
