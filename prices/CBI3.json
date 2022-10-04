@@ -2,12 +2,12 @@
   "matchcode" : "CBI3",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 1,
-    "brutto" : 1.35,
-    "unit" : "Kapsel",
-    "unitId" : 43580
+    "amount" : 1000,
+    "brutto" : 3097,
+    "unit" : "g",
+    "unitId" : 812
   },
-  "contentsAmount" : "180",
+  "contentsAmount" : "78,3",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
@@ -66,9 +66,9 @@
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "BEYOND biotic, Set of 3",
-  "unit" : "Set",
-  "unitContents" : "Kap.",
-  "unitContentsId" : 804,
-  "unitId" : 43586,
+  "unit" : "g",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 812,
   "usp" : "Darm gut, alles gut"
 }

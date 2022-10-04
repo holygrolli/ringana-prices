@@ -2,12 +2,12 @@
   "matchcode" : "CDG",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 1,
-    "brutto" : 0.53,
-    "unit" : "Kapsel",
-    "unitId" : 43580
+    "amount" : 1000,
+    "brutto" : 977.4,
+    "unit" : "g",
+    "unitId" : 812
   },
-  "contentsAmount" : "90",
+  "contentsAmount" : "48,7",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
@@ -60,9 +60,9 @@
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "CAPS d-gest",
-  "unit" : "Stk.",
-  "unitContents" : "Kap.",
-  "unitContentsId" : 804,
-  "unitId" : 996,
+  "unit" : "g",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 812,
   "usp" : "Gutes Bauchgefühl"
 }

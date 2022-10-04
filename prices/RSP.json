@@ -2,18 +2,16 @@
   "matchcode" : "RSP",
   "availableVariants" : [ {
     "matchcode" : "RSP3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
-    "amount" : 1,
-    "brutto" : 0.69,
-    "unit" : "Kapsel",
-    "unitId" : 43580
+    "amount" : 1000,
+    "brutto" : 1248.4,
+    "unit" : "g",
+    "unitId" : 812
   },
-  "contentsAmount" : "90",
+  "contentsAmount" : "49,5",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
@@ -66,9 +64,9 @@
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "SPORT push",
-  "unit" : "Stk.",
-  "unitContents" : "Kap.",
-  "unitContentsId" : 804,
-  "unitId" : 996,
+  "unit" : "g",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 812,
   "usp" : "Radical Performance"
 }

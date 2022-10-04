@@ -2,18 +2,16 @@
   "matchcode" : "CIV",
   "availableVariants" : [ {
     "matchcode" : "CIV3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
-    "amount" : 1,
-    "brutto" : 0.52,
-    "unit" : "Kapsel",
-    "unitId" : 43580
+    "amount" : 1000,
+    "brutto" : 1095.5,
+    "unit" : "g",
+    "unitId" : 812
   },
-  "contentsAmount" : "90",
+  "contentsAmount" : "42,8",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
@@ -66,9 +64,9 @@
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "CAPS immu",
-  "unit" : "Stk.",
-  "unitContents" : "Kap.",
-  "unitContentsId" : 804,
-  "unitId" : 996,
+  "unit" : "g",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 812,
   "usp" : "Immunsystem"
 }

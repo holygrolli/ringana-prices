@@ -4,16 +4,16 @@
     "matchcode" : "CCB",
     "set" : false,
     "travelSize" : false,
-    "unit" : "Stk.",
-    "unitId" : 996
+    "unit" : "g",
+    "unitId" : 812
   } ],
   "basePrice" : {
-    "amount" : 1,
-    "brutto" : 0.52,
-    "unit" : "Kapsel",
-    "unitId" : 43580
+    "amount" : 1000,
+    "brutto" : 934,
+    "unit" : "g",
+    "unitId" : 812
   },
-  "contentsAmount" : "270",
+  "contentsAmount" : "150",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
@@ -72,9 +72,9 @@
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "CAPS cerebro, Set of 3",
-  "unit" : "Set",
-  "unitContents" : "Kap.",
-  "unitContentsId" : 804,
-  "unitId" : 43586,
+  "unit" : "g",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 812,
   "usp" : "Gedächtnisstütze"
 }

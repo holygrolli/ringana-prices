@@ -2,18 +2,16 @@
   "matchcode" : "CFV",
   "availableVariants" : [ {
     "matchcode" : "CFV3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1,
-    "brutto" : 0.58,
+    "brutto" : 1.05,
     "unit" : "Kapsel",
     "unitId" : 43580
   },
-  "contentsAmount" : "90",
+  "contentsAmount" : "49,8",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
@@ -66,9 +64,9 @@
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "CAPS fem",
-  "unit" : "Stk.",
+  "unit" : "g",
   "unitContents" : "Kap.",
   "unitContentsId" : 804,
-  "unitId" : 996,
+  "unitId" : 812,
   "usp" : "Women‘s Essentials"
 }

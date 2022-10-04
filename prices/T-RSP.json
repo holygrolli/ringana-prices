@@ -2,12 +2,12 @@
   "matchcode" : "T-RSP",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 1,
-    "brutto" : 0.83,
-    "unit" : "Kapsel",
-    "unitId" : 43580
+    "amount" : 1000,
+    "brutto" : 1515.1,
+    "unit" : "g",
+    "unitId" : 812
   },
-  "contentsAmount" : "6",
+  "contentsAmount" : "3,3",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
@@ -60,9 +60,9 @@
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "SPORT push trial size",
-  "unit" : null,
-  "unitContents" : "Kap.",
-  "unitContentsId" : 804,
-  "unitId" : null,
+  "unit" : "g",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 812,
   "usp" : "Radical Performance"
 }

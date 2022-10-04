@@ -8,12 +8,12 @@
     "unitId" : 43586
   } ],
   "basePrice" : {
-    "amount" : 1,
-    "brutto" : 0.43,
-    "unit" : "Kapsel",
-    "unitId" : 43580
+    "amount" : 1000,
+    "brutto" : 958,
+    "unit" : "g",
+    "unitId" : 812
   },
-  "contentsAmount" : "90",
+  "contentsAmount" : "40,5",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
@@ -67,8 +67,8 @@
   "soldOut" : false,
   "title" : "CAPS hydro",
   "unit" : "Stk.",
-  "unitContents" : "Kap.",
-  "unitContentsId" : 804,
+  "unitContents" : "g",
+  "unitContentsId" : 812,
   "unitId" : 996,
   "usp" : "Blasengesundheit"
 }

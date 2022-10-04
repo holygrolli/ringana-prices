@@ -4,16 +4,16 @@
     "matchcode" : "COV",
     "set" : false,
     "travelSize" : false,
-    "unit" : "Stk.",
-    "unitId" : 996
+    "unit" : "g",
+    "unitId" : 812
   } ],
   "basePrice" : {
-    "amount" : 1,
-    "brutto" : 1.33,
-    "unit" : "Kapsel",
-    "unitId" : 43580
+    "amount" : 1000,
+    "brutto" : 2034.9,
+    "unit" : "g",
+    "unitId" : 812
   },
-  "contentsAmount" : "180",
+  "contentsAmount" : "117,3",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
@@ -72,9 +72,9 @@
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "BEYOND omega, Set of 3",
-  "unit" : "Set",
-  "unitContents" : "Kap.",
-  "unitContentsId" : 804,
-  "unitId" : 43586,
+  "unit" : "g",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 812,
   "usp" : "Life Essentials"
 }

@@ -9,8 +9,8 @@
   },
   "contentsAmount" : null,
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -28,12 +28,12 @@
       "brutto" : 129.2,
       "bruttoWithoutDiscount" : 161.5,
       "discountPercentage" : 20,
-      "discountUntil" : "2022-10-14T08:00:00Z",
+      "discountUntil" : "2022-10-31T09:00:00Z",
       "initialPurchase" : {
         "brutto" : 129.2,
         "bruttoWithoutDiscount" : 161.5,
         "discountPercentage" : 20,
-        "discountUntil" : "2022-10-14T08:00:00Z",
+        "discountUntil" : "2022-10-31T09:00:00Z",
         "provisionPoints" : 60.19
       },
       "provisionPoints" : 60.19
@@ -42,18 +42,18 @@
       "brutto" : 129.2,
       "bruttoWithoutDiscount" : 161.5,
       "discountPercentage" : 20,
-      "discountUntil" : "2022-10-14T08:00:00Z",
+      "discountUntil" : "2022-10-31T09:00:00Z",
       "initialPurchase" : {
         "brutto" : 129.2,
         "bruttoWithoutDiscount" : 161.5,
         "discountPercentage" : 20,
-        "discountUntil" : "2022-10-14T08:00:00Z",
+        "discountUntil" : "2022-10-31T09:00:00Z",
         "provisionPoints" : 60.19
       },
       "provisionPoints" : 60.19
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -90,5 +90,5 @@
   "unitContents" : "Set",
   "unitContentsId" : 43586,
   "unitId" : 43586,
-  "usp" : "Available from 3.10.2022 at 10.00 a.m. - limited offer"
+  "usp" : "Limited offer"
 }

@@ -8,12 +8,12 @@
     "unitId" : 996
   } ],
   "basePrice" : {
-    "amount" : 1,
-    "brutto" : 1.62,
-    "unit" : "Kapsel",
-    "unitId" : 43580
+    "amount" : 1000,
+    "brutto" : 2793.4,
+    "unit" : "g",
+    "unitId" : 812
   },
-  "contentsAmount" : "180",
+  "contentsAmount" : "104,1",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
@@ -73,8 +73,8 @@
   "soldOut" : false,
   "title" : "BEYOND spermidine, Set of 3",
   "unit" : "Set",
-  "unitContents" : "Kap.",
-  "unitContentsId" : 804,
+  "unitContents" : "g",
+  "unitContentsId" : 812,
   "unitId" : 43586,
   "usp" : "Ageless-Effekt"
 }

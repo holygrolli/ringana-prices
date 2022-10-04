@@ -3,17 +3,15 @@
   "availableVariants" : [ {
     "matchcode" : "CSV",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Stk.",
-    "unitId" : 996
+    "travelSize" : false
   } ],
   "basePrice" : {
-    "amount" : 1,
-    "brutto" : 0.6,
-    "unit" : "Kapsel",
-    "unitId" : 43580
+    "amount" : 1000,
+    "brutto" : 1257.7,
+    "unit" : "g",
+    "unitId" : 812
   },
-  "contentsAmount" : "270",
+  "contentsAmount" : "128,4",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
@@ -72,9 +70,9 @@
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "CAPS protect, Set of 3",
-  "unit" : "Set",
-  "unitContents" : "Kap.",
-  "unitContentsId" : 804,
-  "unitId" : 43586,
+  "unit" : "g",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 812,
   "usp" : "Innerer Schutzschild"
 }

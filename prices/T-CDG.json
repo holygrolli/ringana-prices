@@ -2,12 +2,12 @@
   "matchcode" : "T-CDG",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 1,
-    "brutto" : 0.65,
-    "unit" : "Kapsel",
-    "unitId" : 43580
+    "amount" : 1000,
+    "brutto" : 1218.7,
+    "unit" : "g",
+    "unitId" : 812
   },
-  "contentsAmount" : "6",
+  "contentsAmount" : "3,2",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
@@ -60,9 +60,9 @@
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "CAPS d-gest trial size",
-  "unit" : null,
-  "unitContents" : "Kap.",
-  "unitContentsId" : 804,
-  "unitId" : null,
+  "unit" : "g",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 812,
   "usp" : "Gutes Bauchgefühl"
 }
