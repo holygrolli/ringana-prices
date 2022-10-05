@@ -3,9 +3,7 @@
   "availableVariants" : [ {
     "matchcode" : "COV",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "g",
-    "unitId" : 812
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,

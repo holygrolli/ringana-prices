@@ -2,10 +2,8 @@
   "matchcode" : "CUV",
   "availableVariants" : [ {
     "matchcode" : "CUV3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
@@ -66,9 +64,9 @@
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "CAPS hydro",
-  "unit" : "Stk.",
+  "unit" : "g",
   "unitContents" : "g",
   "unitContentsId" : 812,
-  "unitId" : 996,
+  "unitId" : 812,
   "usp" : "Blasengesundheit"
 }

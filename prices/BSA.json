@@ -3,18 +3,18 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 1821.3,
+    "brutto" : 2276.6,
     "unit" : "ml",
     "unitId" : 827
   },
   "contentsAmount" : "30",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/07/ringana-fresh-30ml-anti-wrinkle-serum.png?q=100",
+  "image" : "https://i.ringana.com/2022/09/ringana-fresh-30ml-anti-wrinkle-serum-new.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/fresh-anti-wrinkle-serum/",
@@ -25,35 +25,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 54.64,
-      "bruttoWithoutDiscount" : 68.3,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-10-14T08:00:00Z",
+      "brutto" : 68.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 54.64,
-        "bruttoWithoutDiscount" : 68.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-10-14T08:00:00Z",
-        "provisionPoints" : 30.96
+        "brutto" : 68.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 43
       },
-      "provisionPoints" : 30.96
+      "provisionPoints" : 43
     },
     "partner" : {
-      "brutto" : 54.64,
-      "bruttoWithoutDiscount" : 68.3,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-10-14T08:00:00Z",
+      "brutto" : 68.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 54.64,
-        "bruttoWithoutDiscount" : 68.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-10-14T08:00:00Z",
-        "provisionPoints" : 30.96
+        "brutto" : 68.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 43
       },
-      "provisionPoints" : 30.96
+      "provisionPoints" : 43
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,

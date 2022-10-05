@@ -2,10 +2,8 @@
   "matchcode" : "CBH",
   "availableVariants" : [ {
     "matchcode" : "CBH3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "g",
-    "unitId" : 812
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,

@@ -3,9 +3,7 @@
   "availableVariants" : [ {
     "matchcode" : "CSP",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Stk.",
-    "unitId" : 996
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
@@ -72,9 +70,9 @@
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "BEYOND spermidine, Set of 3",
-  "unit" : "Set",
+  "unit" : "g",
   "unitContents" : "g",
   "unitContentsId" : 812,
-  "unitId" : 43586,
+  "unitId" : 812,
   "usp" : "Ageless-Effekt"
 }
