@@ -2,10 +2,8 @@
   "matchcode" : "CAV",
   "availableVariants" : [ {
     "matchcode" : "CAV3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "g",
-    "unitId" : 812
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
@@ -66,9 +64,9 @@
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "CAPS move",
-  "unit" : "g",
+  "unit" : "Pck.",
   "unitContents" : "g",
   "unitContentsId" : 812,
-  "unitId" : 812,
+  "unitId" : 43589,
   "usp" : "Bewegungsfreiheit"
 }

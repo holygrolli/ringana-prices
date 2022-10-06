@@ -2,10 +2,8 @@
   "matchcode" : "BP-MEN-BHS",
   "availableVariants" : [ {
     "matchcode" : "BK-MEN",
-    "set" : true,
-    "travelSize" : true,
-    "unit" : "Reisegröße",
-    "unitId" : 43592
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : null,
@@ -15,8 +13,8 @@
   },
   "contentsAmount" : "180",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -59,7 +57,7 @@
       "provisionPoints" : 54.8
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -90,7 +88,7 @@
     "3" : false,
     "4" : false
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "FRESH skin care set for men",
   "unit" : "Set",
   "unitContents" : "ml",

@@ -3,9 +3,7 @@
   "availableVariants" : [ {
     "matchcode" : "CCB",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "g",
-    "unitId" : 812
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
@@ -72,9 +70,9 @@
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "CAPS cerebro, Set of 3",
-  "unit" : "g",
+  "unit" : "Set",
   "unitContents" : "g",
   "unitContentsId" : 812,
-  "unitId" : 812,
+  "unitId" : 43586,
   "usp" : "Gedächtnisstütze"
 }
