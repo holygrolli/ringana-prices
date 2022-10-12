@@ -1,78 +1,79 @@
 {
-  "matchcode" : "RI24",
-  "availableVariants" : [ {
-    "matchcode" : "RI12",
-    "set" : false,
-    "travelSize" : false
-  } ],
+  "matchcode" : "DVST-10-10",
+  "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 127.2,
-    "unit" : "ml",
-    "unitId" : 827
+    "amount" : null,
+    "brutto" : null,
+    "unit" : null,
+    "unitId" : null
   },
-  "contentsAmount" : "720",
+  "contentsAmount" : null,
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/10/ringana-drinks-isi-Set_of_2.png?q=100",
-  "isMerchandise" : false,
+  "image" : "https://i.ringana.com/2022/10/Card_giftcard.png?q=100",
+  "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/produkt/ringanaisi-set/",
+  "link" : "/partner-produkt/dvst-10-10/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : false,
+  "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 91.6,
+      "brutto" : 29,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 91.6,
+        "brutto" : 29,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 54.7
+        "provisionPoints" : 0
       },
-      "provisionPoints" : 54.7
+      "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 91.6,
+      "brutto" : 29,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 91.6,
+        "brutto" : 29,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 54.7
+        "provisionPoints" : 0
       },
-      "provisionPoints" : 54.7
+      "provisionPoints" : 0
     }
   },
   "purchasePossible" : true,
   "setContents" : {
     "0" : {
-      "amount" : 2,
+      "amount" : 10,
       "gratis" : false,
-      "matchcode" : "RI12"
+      "matchcode" : "DVST-10-1"
     }
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
   "soldOut" : false,
-  "title" : "RINGANAisi, Set of 2",
-  "unit" : "Set",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
-  "unitId" : 43586,
-  "usp" : "Entschleunigungsdrink"
+  "title" : "10 € Digital Voucher for Sales Tool, Set of 10",
+  "unit" : null,
+  "unitContents" : null,
+  "unitContentsId" : null,
+  "unitId" : null,
+  "usp" : ""
 }
