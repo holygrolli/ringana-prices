@@ -1,0 +1,68 @@
+{
+  "matchcode" : "BSR-LE-G",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : 1000,
+    "brutto" : 99,
+    "unit" : "g",
+    "unitId" : 812
+  },
+  "contentsAmount" : "100",
+  "currency" : "eur",
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2021/11/hyASbpzI-ringana-fresh-soap-pomegranate.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/fresh-soap-pomegranate/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 9.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 9.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 5.5
+      },
+      "provisionPoints" : 5.5
+    },
+    "partner" : {
+      "brutto" : 9.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 9.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 5.5
+      },
+      "provisionPoints" : 5.5
+    }
+  },
+  "purchasePossible" : false,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "FRESH soap pomegranate",
+  "unit" : null,
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : null,
+  "usp" : "Naturseife Granatapfel - available from 27.10.2022 (10 a.m.)"
+}
