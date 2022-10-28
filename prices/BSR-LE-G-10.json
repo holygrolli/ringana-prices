@@ -9,8 +9,8 @@
   },
   "contentsAmount" : "1000",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -53,7 +53,7 @@
       "provisionPoints" : 44.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 10,
@@ -75,5 +75,5 @@
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : null,
-  "usp" : "Naturseife Granatapfel - available from 27.10.2022 (10 a.m.)"
+  "usp" : "Naturseife Granatapfel"
 }
