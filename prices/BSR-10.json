@@ -1,23 +1,23 @@
 {
-  "matchcode" : "BRM",
+  "matchcode" : "BSR-10",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 189.6,
-    "unit" : "ml",
-    "unitId" : 827
+    "brutto" : 86.4,
+    "unit" : "g",
+    "unitId" : 812
   },
-  "contentsAmount" : "125",
+  "contentsAmount" : "1000",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/07/ringana-fresh-125ml-cleanser.png?q=100",
+  "image" : "https://i.ringana.com/2022/10/ringana-fresh-soap_10x.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/fresh-cleanser/",
+  "link" : "/produkt/fresh-soap-set-of-10/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -25,49 +25,55 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 23.7,
+      "brutto" : 86.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 23.7,
+        "brutto" : 86.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 14.9
+        "provisionPoints" : 40.5
       },
-      "provisionPoints" : 14.9
+      "provisionPoints" : 40.5
     },
     "partner" : {
-      "brutto" : 23.7,
+      "brutto" : 86.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 23.7,
+        "brutto" : 86.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 14.9
+        "provisionPoints" : 40.5
       },
-      "provisionPoints" : 14.9
+      "provisionPoints" : 40.5
     }
   },
-  "purchasePossible" : true,
-  "setContents" : { },
+  "purchasePossible" : false,
+  "setContents" : {
+    "0" : {
+      "amount" : 10,
+      "gratis" : false,
+      "matchcode" : "BSR"
+    }
+  },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : {
     "1" : true,
     "2" : true,
     "3" : true,
-    "4" : false
+    "4" : true
   },
   "soldOut" : false,
-  "title" : "FRESH cleanser",
-  "unit" : "Stk.",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
-  "unitId" : 996,
-  "usp" : "Reinigungsmilch"
+  "title" : "FRESH soap, Set of 10",
+  "unit" : null,
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : null,
+  "usp" : "Seife"
 }
