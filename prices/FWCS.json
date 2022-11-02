@@ -2,10 +2,8 @@
   "matchcode" : "FWCS",
   "availableVariants" : [ {
     "matchcode" : "BKW",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : null,
@@ -15,8 +13,8 @@
   },
   "contentsAmount" : "700",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -59,7 +57,7 @@
       "provisionPoints" : 36.2
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -100,7 +98,7 @@
     "3" : true,
     "4" : true
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "FRESH wash care set",
   "unit" : "Set",
   "unitContents" : "ml",
