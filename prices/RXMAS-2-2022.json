@@ -9,8 +9,8 @@
   },
   "contentsAmount" : null,
   "currency" : "eur",
-  "deliveryStatus" : "Aufgrund der großen Nachfrage vorübergehend nicht lieferbar. ",
-  "deliveryStatusId" : 12268,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -53,7 +53,7 @@
       "provisionPoints" : 30.9
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 1,
