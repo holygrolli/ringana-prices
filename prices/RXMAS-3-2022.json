@@ -9,12 +9,12 @@
   },
   "contentsAmount" : null,
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/10/glittery_xmas_set_22_Bubble.png?q=100",
+  "image" : "https://i.ringana.com/2022/10/glittery_xmas_set_22.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/ringana-glittery-xmas-set/",
@@ -53,7 +53,7 @@
       "provisionPoints" : 51.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 1,
