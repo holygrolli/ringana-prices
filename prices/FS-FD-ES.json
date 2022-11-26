@@ -78,11 +78,6 @@
     "12" : {
       "amount" : 10,
       "gratis" : false,
-      "matchcode" : "RFB-ES-22-1.0"
-    },
-    "13" : {
-      "amount" : 10,
-      "gratis" : false,
       "matchcode" : "RROPC"
     },
     "2" : {
