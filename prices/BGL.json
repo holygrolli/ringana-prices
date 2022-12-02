@@ -3,14 +3,14 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 149.7,
+    "brutto" : 187.2,
     "unit" : "ml",
     "unitId" : 827
   },
   "contentsAmount" : "125",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -25,35 +25,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 18.72,
-      "bruttoWithoutDiscount" : 23.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-12-01T22:59:59Z",
+      "brutto" : 23.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 18.72,
-        "bruttoWithoutDiscount" : 23.4,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-12-01T22:59:59Z",
-        "provisionPoints" : 11.3
+        "brutto" : 23.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 15.7
       },
-      "provisionPoints" : 11.3
+      "provisionPoints" : 15.7
     },
     "partner" : {
-      "brutto" : 18.72,
-      "bruttoWithoutDiscount" : 23.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-12-01T22:59:59Z",
+      "brutto" : 23.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 18.72,
-        "bruttoWithoutDiscount" : 23.4,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-12-01T22:59:59Z",
-        "provisionPoints" : 11.3
+        "brutto" : 23.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 15.7
       },
-      "provisionPoints" : 11.3
+      "provisionPoints" : 15.7
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
@@ -63,7 +63,7 @@
     "3" : true,
     "4" : false
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "FRESH tonic calm",
   "unit" : "Stk.",
   "unitContents" : "ml",

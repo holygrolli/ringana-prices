@@ -3,14 +3,14 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 873.6,
+    "brutto" : 1092,
     "unit" : "ml",
     "unitId" : 827
   },
   "contentsAmount" : "50",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -25,35 +25,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 43.68,
-      "bruttoWithoutDiscount" : 54.6,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-12-01T22:59:59Z",
+      "brutto" : 54.6,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 43.68,
-        "bruttoWithoutDiscount" : 54.6,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-12-01T22:59:59Z",
-        "provisionPoints" : 25.13
+        "brutto" : 54.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 34.9
       },
-      "provisionPoints" : 25.13
+      "provisionPoints" : 34.9
     },
     "partner" : {
-      "brutto" : 43.68,
-      "bruttoWithoutDiscount" : 54.6,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-12-01T22:59:59Z",
+      "brutto" : 54.6,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 43.68,
-        "bruttoWithoutDiscount" : 54.6,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-12-01T22:59:59Z",
-        "provisionPoints" : 25.13
+        "brutto" : 54.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 34.9
       },
-      "provisionPoints" : 25.13
+      "provisionPoints" : 34.9
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
@@ -63,7 +63,7 @@
     "3" : true,
     "4" : false
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "FRESH cream rich",
   "unit" : "Stk.",
   "unitContents" : "ml",

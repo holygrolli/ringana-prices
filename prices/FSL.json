@@ -28,12 +28,12 @@
       "brutto" : 10.08,
       "bruttoWithoutDiscount" : 12.6,
       "discountPercentage" : 20,
-      "discountUntil" : "2022-12-01T22:59:59Z",
+      "discountUntil" : "2022-12-02T22:59:59Z",
       "initialPurchase" : {
         "brutto" : 10.08,
         "bruttoWithoutDiscount" : 12.6,
         "discountPercentage" : 20,
-        "discountUntil" : "2022-12-01T22:59:59Z",
+        "discountUntil" : "2022-12-02T22:59:59Z",
         "provisionPoints" : 5.98
       },
       "provisionPoints" : 5.98
@@ -42,12 +42,12 @@
       "brutto" : 10.08,
       "bruttoWithoutDiscount" : 12.6,
       "discountPercentage" : 20,
-      "discountUntil" : "2022-12-01T22:59:59Z",
+      "discountUntil" : "2022-12-02T22:59:59Z",
       "initialPurchase" : {
         "brutto" : 10.08,
         "bruttoWithoutDiscount" : 12.6,
         "discountPercentage" : 20,
-        "discountUntil" : "2022-12-01T22:59:59Z",
+        "discountUntil" : "2022-12-02T22:59:59Z",
         "provisionPoints" : 5.98
       },
       "provisionPoints" : 5.98
