@@ -3,14 +3,14 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 2282.6,
+    "brutto" : 2853.3,
     "unit" : "ml",
     "unitId" : 827
   },
   "contentsAmount" : "15",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -25,35 +25,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 34.24,
-      "bruttoWithoutDiscount" : 42.8,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-12-05T22:59:59Z",
+      "brutto" : 42.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 34.24,
-        "bruttoWithoutDiscount" : 42.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-12-05T22:59:59Z",
-        "provisionPoints" : 19.8
+        "brutto" : 42.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 27.5
       },
-      "provisionPoints" : 19.8
+      "provisionPoints" : 27.5
     },
     "partner" : {
-      "brutto" : 34.24,
-      "bruttoWithoutDiscount" : 42.8,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-12-05T22:59:59Z",
+      "brutto" : 42.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 34.24,
-        "bruttoWithoutDiscount" : 42.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-12-05T22:59:59Z",
-        "provisionPoints" : 19.8
+        "brutto" : 42.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 27.5
       },
-      "provisionPoints" : 19.8
+      "provisionPoints" : 27.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
@@ -63,7 +63,7 @@
     "3" : true,
     "4" : false
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "FRESH eye serum",
   "unit" : "Stk.",
   "unitContents" : "ml",
