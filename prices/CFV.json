@@ -6,10 +6,10 @@
     "travelSize" : false
   } ],
   "basePrice" : {
-    "amount" : 1,
-    "brutto" : 1.05,
-    "unit" : "Kapsel",
-    "unitId" : 43580
+    "amount" : 1000,
+    "brutto" : 1046.1,
+    "unit" : "g",
+    "unitId" : 812
   },
   "contentsAmount" : "49,8",
   "currency" : "eur",
@@ -65,8 +65,8 @@
   "soldOut" : false,
   "title" : "CAPS fem",
   "unit" : "Pck.",
-  "unitContents" : "Kap.",
-  "unitContentsId" : 804,
+  "unitContents" : "g",
+  "unitContentsId" : 812,
   "unitId" : 43589,
   "usp" : "Women‘s Essentials"
 }

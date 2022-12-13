@@ -9,8 +9,8 @@
   },
   "contentsAmount" : "30",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -53,7 +53,7 @@
       "provisionPoints" : 28.8
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
@@ -63,7 +63,7 @@
     "3" : true,
     "4" : false
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "FRESH tinted moisturiser tan",
   "unit" : "Stk.",
   "unitContents" : "ml",
