@@ -9,8 +9,8 @@
   },
   "contentsAmount" : "45",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -53,7 +53,7 @@
       "provisionPoints" : 14.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -84,7 +84,7 @@
     "3" : false,
     "4" : false
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "title" : "FRESH sample box face light",
   "unit" : "Reisegröße",
   "unitContents" : "ml",
