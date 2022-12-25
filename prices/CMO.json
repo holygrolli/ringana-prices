@@ -2,12 +2,14 @@
   "matchcode" : "CMO",
   "availableVariants" : [ {
     "matchcode" : "CMO3",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 1309.3,
+    "brutto" : 1178.4,
     "unit" : "g",
     "unitId" : 812
   },
@@ -29,32 +31,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 54.6,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 49.14,
+      "bruttoWithoutDiscount" : 54.6,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-01-06T09:00:00Z",
       "initialPurchase" : {
-        "brutto" : 54.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 32.6
+        "brutto" : 49.14,
+        "bruttoWithoutDiscount" : 54.6,
+        "discountPercentage" : 10,
+        "discountUntil" : "2023-01-06T09:00:00Z",
+        "provisionPoints" : 26.41
       },
-      "provisionPoints" : 32.6
+      "provisionPoints" : 26.41
     },
     "partner" : {
-      "brutto" : 54.6,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 49.14,
+      "bruttoWithoutDiscount" : 54.6,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-01-06T09:00:00Z",
       "initialPurchase" : {
-        "brutto" : 54.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 32.6
+        "brutto" : 49.14,
+        "bruttoWithoutDiscount" : 54.6,
+        "discountPercentage" : 10,
+        "discountUntil" : "2023-01-06T09:00:00Z",
+        "provisionPoints" : 26.41
       },
-      "provisionPoints" : 32.6
+      "provisionPoints" : 26.41
     }
   },
   "purchasePossible" : true,
