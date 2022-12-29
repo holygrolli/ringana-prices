@@ -11,7 +11,7 @@
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 109.7,
+    "brutto" : 137.2,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -22,7 +22,7 @@
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/12/MicrosoftTeams-image-10.png?q=100",
+  "image" : "https://i.ringana.com/2022/07/Z7yNGD3L-ringana-drinks-chi.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/ringanachi/",
@@ -33,32 +33,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 39.52,
-      "bruttoWithoutDiscount" : 49.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-12-28T22:59:59Z",
+      "brutto" : 49.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 39.52,
-        "bruttoWithoutDiscount" : 49.4,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-12-28T22:59:59Z",
-        "provisionPoints" : 20.52
+        "brutto" : 49.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 28.5
       },
-      "provisionPoints" : 20.52
+      "provisionPoints" : 28.5
     },
     "partner" : {
-      "brutto" : 39.52,
-      "bruttoWithoutDiscount" : 49.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2022-12-28T22:59:59Z",
+      "brutto" : 49.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 39.52,
-        "bruttoWithoutDiscount" : 49.4,
-        "discountPercentage" : 20,
-        "discountUntil" : "2022-12-28T22:59:59Z",
-        "provisionPoints" : 20.52
+        "brutto" : 49.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 28.5
       },
-      "provisionPoints" : 20.52
+      "provisionPoints" : 28.5
     }
   },
   "purchasePossible" : true,
