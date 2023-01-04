@@ -3,11 +3,13 @@
   "availableVariants" : [ {
     "matchcode" : "CUV",
     "set" : false,
-    "travelSize" : false
+    "travelSize" : false,
+    "unit" : "Pck.",
+    "unitId" : 43589
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 862.5,
+    "brutto" : 915.2,
     "unit" : "g",
     "unitId" : 812
   },
@@ -29,12 +31,12 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 104.8,
+      "brutto" : 111.2,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 104.8,
+        "brutto" : 111.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -43,12 +45,12 @@
       "provisionPoints" : 55.4
     },
     "partner" : {
-      "brutto" : 104.8,
+      "brutto" : 111.2,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 104.8,
+        "brutto" : 111.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,

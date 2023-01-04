@@ -3,11 +3,13 @@
   "availableVariants" : [ {
     "matchcode" : "CCB",
     "set" : false,
-    "travelSize" : false
+    "travelSize" : false,
+    "unit" : "Pck.",
+    "unitId" : 43589
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 934,
+    "brutto" : 993.3,
     "unit" : "g",
     "unitId" : 812
   },
@@ -29,12 +31,12 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 140.1,
+      "brutto" : 149,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 140.1,
+        "brutto" : 149,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -43,12 +45,12 @@
       "provisionPoints" : 74.4
     },
     "partner" : {
-      "brutto" : 140.1,
+      "brutto" : 149,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 140.1,
+        "brutto" : 149,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,

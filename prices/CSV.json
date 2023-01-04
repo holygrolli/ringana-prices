@@ -2,12 +2,14 @@
   "matchcode" : "CSV",
   "availableVariants" : [ {
     "matchcode" : "CSV3",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 1397.1,
+    "brutto" : 1485.9,
     "unit" : "g",
     "unitId" : 812
   },
@@ -29,12 +31,12 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 59.8,
+      "brutto" : 63.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 59.8,
+        "brutto" : 63.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -43,12 +45,12 @@
       "provisionPoints" : 36.8
     },
     "partner" : {
-      "brutto" : 59.8,
+      "brutto" : 63.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 59.8,
+        "brutto" : 63.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,

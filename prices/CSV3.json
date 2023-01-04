@@ -3,11 +3,13 @@
   "availableVariants" : [ {
     "matchcode" : "CSV",
     "set" : false,
-    "travelSize" : false
+    "travelSize" : false,
+    "unit" : "Pck.",
+    "unitId" : 43589
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 1257.7,
+    "brutto" : 1337.2,
     "unit" : "g",
     "unitId" : 812
   },
@@ -29,12 +31,12 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 161.5,
+      "brutto" : 171.7,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 161.5,
+        "brutto" : 171.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -43,12 +45,12 @@
       "provisionPoints" : 89.4
     },
     "partner" : {
-      "brutto" : 161.5,
+      "brutto" : 171.7,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 161.5,
+        "brutto" : 171.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
