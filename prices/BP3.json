@@ -2,10 +2,8 @@
   "matchcode" : "BP3",
   "availableVariants" : [ {
     "matchcode" : "BK3",
-    "set" : true,
-    "travelSize" : true,
-    "unit" : "Reisegröße",
-    "unitId" : 43592
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : null,
