@@ -3,13 +3,11 @@
   "availableVariants" : [ {
     "matchcode" : "CSP",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 2970.2,
+    "brutto" : 2793.4,
     "unit" : "g",
     "unitId" : 812
   },
@@ -31,12 +29,12 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 309.2,
+      "brutto" : 290.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 309.2,
+        "brutto" : 290.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -45,12 +43,12 @@
       "provisionPoints" : 155
     },
     "partner" : {
-      "brutto" : 309.2,
+      "brutto" : 290.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 309.2,
+        "brutto" : 290.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
