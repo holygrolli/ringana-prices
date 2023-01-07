@@ -9,8 +9,8 @@
   },
   "contentsAmount" : "250",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -25,35 +25,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 29.4,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 26.46,
+      "bruttoWithoutDiscount" : 29.4,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-01-20T09:00:00Z",
       "initialPurchase" : {
-        "brutto" : 29.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 17.8
+        "brutto" : 26.46,
+        "bruttoWithoutDiscount" : 29.4,
+        "discountPercentage" : 10,
+        "discountUntil" : "2023-01-20T09:00:00Z",
+        "provisionPoints" : 14.42
       },
-      "provisionPoints" : 17.8
+      "provisionPoints" : 14.42
     },
     "partner" : {
-      "brutto" : 29.4,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 26.46,
+      "bruttoWithoutDiscount" : 29.4,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-01-20T09:00:00Z",
       "initialPurchase" : {
-        "brutto" : 29.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 17.8
+        "brutto" : 26.46,
+        "bruttoWithoutDiscount" : 29.4,
+        "discountPercentage" : 10,
+        "discountUntil" : "2023-01-20T09:00:00Z",
+        "provisionPoints" : 14.42
       },
-      "provisionPoints" : 17.8
+      "provisionPoints" : 14.42
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 1,
