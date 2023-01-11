@@ -2,8 +2,10 @@
   "matchcode" : "FWCS",
   "availableVariants" : [ {
     "matchcode" : "BKW",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Pck.",
+    "unitId" : 43589
   } ],
   "basePrice" : {
     "amount" : null,
