@@ -1,0 +1,73 @@
+{
+  "matchcode" : "RAG-LE-G",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : 1000,
+    "brutto" : 2501.3,
+    "unit" : "ml",
+    "unitId" : 827
+  },
+  "contentsAmount" : "15",
+  "currency" : "eur",
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2022/09/ringana-fresh-add-15ml-glow_Limited_Edition_selfmade.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/adds-glow-limited-edition/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 37.52,
+      "bruttoWithoutDiscount" : 46.9,
+      "discountPercentage" : 20,
+      "discountUntil" : "2023-01-30T22:59:59Z",
+      "initialPurchase" : {
+        "brutto" : 37.52,
+        "bruttoWithoutDiscount" : 46.9,
+        "discountPercentage" : 20,
+        "discountUntil" : "2023-01-30T22:59:59Z",
+        "provisionPoints" : 21.31
+      },
+      "provisionPoints" : 21.31
+    },
+    "partner" : {
+      "brutto" : 37.52,
+      "bruttoWithoutDiscount" : 46.9,
+      "discountPercentage" : 20,
+      "discountUntil" : "2023-01-30T22:59:59Z",
+      "initialPurchase" : {
+        "brutto" : 37.52,
+        "bruttoWithoutDiscount" : 46.9,
+        "discountPercentage" : 20,
+        "discountUntil" : "2023-01-30T22:59:59Z",
+        "provisionPoints" : 21.31
+      },
+      "provisionPoints" : 21.31
+    }
+  },
+  "purchasePossible" : false,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : false
+  },
+  "soldOut" : true,
+  "title" : "ADDS glow limited edition",
+  "unit" : "Stk.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 996,
+  "usp" : "Available from 26.01.2023 at 6.30 p.m. - strictly limited quantity, as long as stock lasts."
+}
