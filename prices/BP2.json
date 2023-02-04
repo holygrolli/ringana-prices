@@ -2,10 +2,8 @@
   "matchcode" : "BP2",
   "availableVariants" : [ {
     "matchcode" : "BK2",
-    "set" : true,
-    "travelSize" : true,
-    "unit" : "Reisegröße",
-    "unitId" : 43592
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : null,
@@ -31,32 +29,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 142.2,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 127.98,
+      "bruttoWithoutDiscount" : 142.2,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-02-17T09:00:00Z",
       "initialPurchase" : {
-        "brutto" : 142.2,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 75.7
+        "brutto" : 127.98,
+        "bruttoWithoutDiscount" : 142.2,
+        "discountPercentage" : 10,
+        "discountUntil" : "2023-02-17T09:00:00Z",
+        "provisionPoints" : 61.32
       },
-      "provisionPoints" : 75.7
+      "provisionPoints" : 61.32
     },
     "partner" : {
-      "brutto" : 142.2,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 127.98,
+      "bruttoWithoutDiscount" : 142.2,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-02-17T09:00:00Z",
       "initialPurchase" : {
-        "brutto" : 142.2,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 75.7
+        "brutto" : 127.98,
+        "bruttoWithoutDiscount" : 142.2,
+        "discountPercentage" : 10,
+        "discountUntil" : "2023-02-17T09:00:00Z",
+        "provisionPoints" : 61.32
       },
-      "provisionPoints" : 75.7
+      "provisionPoints" : 61.32
     }
   },
   "purchasePossible" : true,

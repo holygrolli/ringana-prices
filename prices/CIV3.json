@@ -3,20 +3,18 @@
   "availableVariants" : [ {
     "matchcode" : "CIV",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 1048.5,
+    "brutto" : 1165.1,
     "unit" : "g",
     "unitId" : 812
   },
   "contentsAmount" : "128,4",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -31,35 +29,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 134.64,
-      "bruttoWithoutDiscount" : 149.6,
-      "discountPercentage" : 10,
-      "discountUntil" : "2023-02-03T09:00:00Z",
+      "brutto" : 149.6,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 134.64,
-        "bruttoWithoutDiscount" : 149.6,
-        "discountPercentage" : 10,
-        "discountUntil" : "2023-02-03T09:00:00Z",
-        "provisionPoints" : 60.26
+        "brutto" : 149.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 74.4
       },
-      "provisionPoints" : 60.26
+      "provisionPoints" : 74.4
     },
     "partner" : {
-      "brutto" : 134.64,
-      "bruttoWithoutDiscount" : 149.6,
-      "discountPercentage" : 10,
-      "discountUntil" : "2023-02-03T09:00:00Z",
+      "brutto" : 149.6,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 134.64,
-        "bruttoWithoutDiscount" : 149.6,
-        "discountPercentage" : 10,
-        "discountUntil" : "2023-02-03T09:00:00Z",
-        "provisionPoints" : 60.26
+        "brutto" : 149.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 74.4
       },
-      "provisionPoints" : 60.26
+      "provisionPoints" : 74.4
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 3,
@@ -70,7 +68,7 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "CAPS immu, Set of 3",
   "unit" : "Set",
   "unitContents" : "g",

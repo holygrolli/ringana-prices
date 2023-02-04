@@ -2,10 +2,8 @@
   "matchcode" : "BP-MEN-BHS",
   "availableVariants" : [ {
     "matchcode" : "BK-MEN",
-    "set" : true,
-    "travelSize" : true,
-    "unit" : "Reisegröße",
-    "unitId" : 43592
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : null,
@@ -34,12 +32,12 @@
       "brutto" : 91.44,
       "bruttoWithoutDiscount" : 101.6,
       "discountPercentage" : 10,
-      "discountUntil" : "2023-02-03T08:59:59Z",
+      "discountUntil" : "2023-02-17T09:00:00Z",
       "initialPurchase" : {
         "brutto" : 91.44,
         "bruttoWithoutDiscount" : 101.6,
         "discountPercentage" : 10,
-        "discountUntil" : "2023-02-03T08:59:59Z",
+        "discountUntil" : "2023-02-17T09:00:00Z",
         "provisionPoints" : 44.39
       },
       "provisionPoints" : 44.39
@@ -48,12 +46,12 @@
       "brutto" : 91.44,
       "bruttoWithoutDiscount" : 101.6,
       "discountPercentage" : 10,
-      "discountUntil" : "2023-02-03T08:59:59Z",
+      "discountUntil" : "2023-02-17T09:00:00Z",
       "initialPurchase" : {
         "brutto" : 91.44,
         "bruttoWithoutDiscount" : 101.6,
         "discountPercentage" : 10,
-        "discountUntil" : "2023-02-03T08:59:59Z",
+        "discountUntil" : "2023-02-17T09:00:00Z",
         "provisionPoints" : 44.39
       },
       "provisionPoints" : 44.39
