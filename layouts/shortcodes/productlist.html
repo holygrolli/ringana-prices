@@ -1,0 +1,50 @@
+Alle Produkte zuletzt aktualisiert {{ now.Format "02.01.2006 15:04:05" }}
+
+<div class="table-responsive">
+    <table class="table table-hover">
+        <thead>
+            <tr>
+              <th scope="col">Matchcode</th>
+              <th scope="col">Produkt</th>
+              <th scope="col">Preis</th>
+              <th scope="col">Punkte</th>
+              <th scope="col">Rabatt</th>
+              <th scope="col">Rabattende</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{ range $.Site.Data }}
+            <tr>
+                <th scope="row">{{ .matchcode }}</th>
+                <td><a href="https://ringana.com{{.link}}">{{ .title }}</a></td>
+                <td
+                {{ if .prices.customer.discountUntil }}
+                class="table-success"
+                {{ end }}
+                >
+                    {{.prices.customer.brutto}}
+                    {{ if .prices.customer.discountUntil }}
+                    / <s>{{.prices.customer.bruttoWithoutDiscount}}</s>
+                    {{ end }}
+                </td>
+                <td
+                {{ if and (.prices.customer.discountUntil) (eq .prices.customer.provisionPoints .prices.customer.initialPurchase.provisionPoints) }}
+                class="table-success"
+                {{ end }}
+                >
+                    {{.prices.customer.provisionPoints}}
+                    {{ if .prices.customer.discountUntil }}
+                    / <s>{{.prices.customer.initialPurchase.provisionPoints}}</s>
+                    {{ end }}
+                </td>
+                <td>{{.prices.customer.discountPercentage}}</td>
+                <td>
+                    {{ if .prices.customer.discountUntil }}
+                    {{ time .prices.customer.discountUntil "Europe/Berlin" | time.Format "02.01.2006 15:04" }}
+                    {{ end }}
+                </td>
+            </tr>
+            {{ end }}
+        </tbody>
+    </table>
+</div>
