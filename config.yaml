@@ -4,6 +4,7 @@ title: Ringana Data
 dataDir: prices
 theme: vanilla-bootstrap
 timeZone: Europe/Berlin
+enableGitInfo: true
 
 menu:
   nav:
