@@ -1,0 +1,99 @@
+{
+  "matchcode" : "LSP-NBC7",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : null,
+    "brutto" : null,
+    "unit" : null,
+    "unitId" : null
+  },
+  "contentsAmount" : null,
+  "currency" : "eur",
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2023/01/NBC7-Set.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/live-special-nbc7-set/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 80.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 80.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 48.3
+      },
+      "provisionPoints" : 48.3
+    },
+    "partner" : {
+      "brutto" : 80.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 80.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 48.3
+      },
+      "provisionPoints" : 48.3
+    }
+  },
+  "purchasePossible" : false,
+  "setContents" : {
+    "0" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "BDB"
+    },
+    "1" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "BRS"
+    },
+    "2" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "STF"
+    },
+    "3" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "FSL"
+    },
+    "4" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "FHT"
+    }
+  },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
+  "soldOut" : true,
+  "title" : "LIVE Special &#8211; NBC7 Set",
+  "unit" : "Set",
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
+  "unitId" : 43586,
+  "usp" : "Available from 09.02.2023 at 7.30 p.m."
+}
