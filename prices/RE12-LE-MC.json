@@ -1,0 +1,68 @@
+{
+  "matchcode" : "RE12-LE-MC",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : 1000,
+    "brutto" : 116.6,
+    "unit" : "ml",
+    "unitId" : 827
+  },
+  "contentsAmount" : "360",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2023/02/Mango-chili-chi-limited-edition.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/ringanachi-mango-chili/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "ff9d6e",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 42,
+      "bruttoWithoutDiscount" : 52.5,
+      "discountPercentage" : 20,
+      "discountUntil" : "2023-02-23T12:00:00Z",
+      "initialPurchase" : {
+        "brutto" : 42,
+        "bruttoWithoutDiscount" : 52.5,
+        "discountPercentage" : 20,
+        "discountUntil" : "2023-02-23T12:00:00Z",
+        "provisionPoints" : 20.52
+      },
+      "provisionPoints" : 20.52
+    },
+    "partner" : {
+      "brutto" : 42,
+      "bruttoWithoutDiscount" : 52.5,
+      "discountPercentage" : 20,
+      "discountUntil" : "2023-02-23T12:00:00Z",
+      "initialPurchase" : {
+        "brutto" : 42,
+        "bruttoWithoutDiscount" : 52.5,
+        "discountPercentage" : 20,
+        "discountUntil" : "2023-02-23T12:00:00Z",
+        "provisionPoints" : 20.52
+      },
+      "provisionPoints" : 20.52
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "RINGANAchi mango & chili",
+  "unit" : "Pck.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 43589,
+  "usp" : "Available from 16.02.2023 at 7.30 p.m."
+}

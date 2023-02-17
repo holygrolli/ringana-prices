@@ -1,5 +1,5 @@
 {
-  "matchcode" : "RNH-A6-10",
+  "matchcode" : "LSP-RE-DUO",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
@@ -7,58 +7,63 @@
     "unit" : null,
     "unitId" : null
   },
-  "contentsAmount" : "10",
+  "contentsAmount" : null,
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/wp-content/uploads/2019/05/14165356/RINGANA-pocket-book.png?q=100",
-  "isMerchandise" : true,
+  "image" : "https://i.ringana.com/2023/02/Live-chi-duo-set.png?q=100",
+  "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/partner-produkt/ringana-pocket-book/",
+  "link" : "/produkt/live-special-ringanachi-duo/",
   "maxPerCart" : null,
-  "nemBackgroundColor" : "",
+  "nemBackgroundColor" : "ff9d6e",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
+  "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 10.5,
+      "brutto" : 105,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 10.5,
+        "brutto" : 105,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 0
+        "provisionPoints" : 51.3
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 51.3
     },
     "partner" : {
-      "brutto" : 10.5,
+      "brutto" : 105,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 10.5,
+        "brutto" : 105,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 0
+        "provisionPoints" : 51.3
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 51.3
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
-      "amount" : 10,
+      "amount" : 1,
       "gratis" : false,
-      "matchcode" : "RNH-A6"
+      "matchcode" : "RE12"
+    },
+    "1" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "RE12-LE-MC"
     }
   },
   "showOnFrontpage" : false,
@@ -69,11 +74,11 @@
     "3" : true,
     "4" : true
   },
-  "soldOut" : false,
-  "title" : "RINGANA pocket book, Set of 10",
+  "soldOut" : true,
+  "title" : "LIVE Special &#8211; RINGANAchi DUO",
   "unit" : "Set",
-  "unitContents" : "Stk.",
-  "unitContentsId" : 996,
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
   "unitId" : 43586,
-  "usp" : ""
+  "usp" : "Available from 16.02.2023 at 7.30 p.m."
 }
