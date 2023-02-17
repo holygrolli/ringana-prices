@@ -2,12 +2,14 @@
   "matchcode" : "WPC",
   "availableVariants" : [ {
     "matchcode" : "WPC3",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 134.4,
+    "brutto" : 120.9,
     "unit" : "g",
     "unitId" : 812
   },
@@ -29,32 +31,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 69.9,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 62.91,
+      "bruttoWithoutDiscount" : 69.9,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-03-03T09:00:00Z",
       "initialPurchase" : {
-        "brutto" : 69.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 39.4
+        "brutto" : 62.91,
+        "bruttoWithoutDiscount" : 69.9,
+        "discountPercentage" : 10,
+        "discountUntil" : "2023-03-03T09:00:00Z",
+        "provisionPoints" : 31.91
       },
-      "provisionPoints" : 39.4
+      "provisionPoints" : 31.91
     },
     "partner" : {
-      "brutto" : 69.9,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 62.91,
+      "bruttoWithoutDiscount" : 69.9,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-03-03T09:00:00Z",
       "initialPurchase" : {
-        "brutto" : 69.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 39.4
+        "brutto" : 62.91,
+        "bruttoWithoutDiscount" : 69.9,
+        "discountPercentage" : 10,
+        "discountUntil" : "2023-03-03T09:00:00Z",
+        "provisionPoints" : 31.91
       },
-      "provisionPoints" : 39.4
+      "provisionPoints" : 31.91
     }
   },
   "purchasePossible" : true,
