@@ -9,8 +9,8 @@
   },
   "contentsAmount" : "250",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -53,7 +53,7 @@
       "provisionPoints" : 37.7
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -84,7 +84,7 @@
     "3" : true,
     "4" : true
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "title" : "FRESH travel set for men",
   "unit" : "Pck.",
   "unitContents" : "ml",
