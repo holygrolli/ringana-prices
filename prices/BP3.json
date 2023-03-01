@@ -81,7 +81,7 @@
     },
     "4" : {
       "amount" : 1,
-      "gratis" : true,
+      "gratis" : false,
       "matchcode" : "RHT"
     }
   },

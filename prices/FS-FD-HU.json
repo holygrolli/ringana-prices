@@ -80,6 +80,11 @@
       "gratis" : false,
       "matchcode" : "RROPC"
     },
+    "13" : {
+      "amount" : 10,
+      "gratis" : false,
+      "matchcode" : "RFR-HU"
+    },
     "2" : {
       "amount" : 1,
       "gratis" : false,
