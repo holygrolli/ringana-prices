@@ -3,14 +3,14 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 3125.3,
+    "brutto" : 3906.6,
     "unit" : "ml",
     "unitId" : 827
   },
   "contentsAmount" : "15",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -25,35 +25,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 46.88,
-      "bruttoWithoutDiscount" : 58.6,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-03-15T22:59:59Z",
+      "brutto" : 58.6,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 46.88,
-        "bruttoWithoutDiscount" : 58.6,
-        "discountPercentage" : 20,
-        "discountUntil" : "2023-03-15T22:59:59Z",
-        "provisionPoints" : 26.57
+        "brutto" : 58.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 36.9
       },
-      "provisionPoints" : 26.57
+      "provisionPoints" : 36.9
     },
     "partner" : {
-      "brutto" : 46.88,
-      "bruttoWithoutDiscount" : 58.6,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-03-15T22:59:59Z",
+      "brutto" : 58.6,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 46.88,
-        "bruttoWithoutDiscount" : 58.6,
-        "discountPercentage" : 20,
-        "discountUntil" : "2023-03-15T22:59:59Z",
-        "provisionPoints" : 26.57
+        "brutto" : 58.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 36.9
       },
-      "provisionPoints" : 26.57
+      "provisionPoints" : 36.9
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
@@ -63,7 +63,7 @@
     "3" : true,
     "4" : false
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "ADDS effect",
   "unit" : "Stk.",
   "unitContents" : "ml",
