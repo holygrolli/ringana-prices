@@ -3,14 +3,14 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 94,
+    "brutto" : 117.6,
     "unit" : "ml",
     "unitId" : 827
   },
   "contentsAmount" : "125",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -25,40 +25,40 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 11.76,
-      "bruttoWithoutDiscount" : 14.7,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-03-16T22:59:59Z",
+      "brutto" : 14.7,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 11.76,
-        "bruttoWithoutDiscount" : 14.7,
-        "discountPercentage" : 20,
-        "discountUntil" : "2023-03-16T22:59:59Z",
-        "provisionPoints" : 6.41
+        "brutto" : 14.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 8.9
       },
-      "provisionPoints" : 6.41
+      "provisionPoints" : 8.9
     },
     "partner" : {
-      "brutto" : 11.76,
-      "bruttoWithoutDiscount" : 14.7,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-03-16T22:59:59Z",
+      "brutto" : 14.7,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 11.76,
-        "bruttoWithoutDiscount" : 14.7,
-        "discountPercentage" : 20,
-        "discountUntil" : "2023-03-16T22:59:59Z",
-        "provisionPoints" : 6.41
+        "brutto" : 14.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 8.9
       },
-      "provisionPoints" : 6.41
+      "provisionPoints" : 8.9
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "FRESH tooth balm",
   "unit" : "Stk.",
   "unitContents" : "ml",
