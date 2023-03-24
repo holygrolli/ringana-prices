@@ -2,8 +2,10 @@
   "matchcode" : "CAV",
   "availableVariants" : [ {
     "matchcode" : "CAV3",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1000,
@@ -32,12 +34,12 @@
       "brutto" : 36.08,
       "bruttoWithoutDiscount" : 45.1,
       "discountPercentage" : 20,
-      "discountUntil" : "2023-03-23T22:59:59Z",
+      "discountUntil" : "2023-03-24T22:59:59Z",
       "initialPurchase" : {
         "brutto" : 36.08,
         "bruttoWithoutDiscount" : 45.1,
         "discountPercentage" : 20,
-        "discountUntil" : "2023-03-23T22:59:59Z",
+        "discountUntil" : "2023-03-24T22:59:59Z",
         "provisionPoints" : 17.21
       },
       "provisionPoints" : 17.21
@@ -46,12 +48,12 @@
       "brutto" : 36.08,
       "bruttoWithoutDiscount" : 45.1,
       "discountPercentage" : 20,
-      "discountUntil" : "2023-03-23T22:59:59Z",
+      "discountUntil" : "2023-03-24T22:59:59Z",
       "initialPurchase" : {
         "brutto" : 36.08,
         "bruttoWithoutDiscount" : 45.1,
         "discountPercentage" : 20,
-        "discountUntil" : "2023-03-23T22:59:59Z",
+        "discountUntil" : "2023-03-24T22:59:59Z",
         "provisionPoints" : 17.21
       },
       "provisionPoints" : 17.21
