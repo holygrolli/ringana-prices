@@ -3,14 +3,14 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 168,
+    "brutto" : 210,
     "unit" : "ml",
     "unitId" : 827
   },
   "contentsAmount" : "50",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -25,40 +25,40 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 8.4,
-      "bruttoWithoutDiscount" : 10.5,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-03-28T21:59:59Z",
+      "brutto" : 10.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 8.4,
-        "bruttoWithoutDiscount" : 10.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2023-03-28T21:59:59Z",
-        "provisionPoints" : 4.1
+        "brutto" : 10.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 5.7
       },
-      "provisionPoints" : 4.1
+      "provisionPoints" : 5.7
     },
     "partner" : {
-      "brutto" : 8.4,
-      "bruttoWithoutDiscount" : 10.5,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-03-28T21:59:59Z",
+      "brutto" : 10.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 8.4,
-        "bruttoWithoutDiscount" : 10.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2023-03-28T21:59:59Z",
-        "provisionPoints" : 4.1
+        "brutto" : 10.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 5.7
       },
-      "provisionPoints" : 4.1
+      "provisionPoints" : 5.7
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : true,
+  "soldOut" : false,
   "title" : "FRESH stay fresh",
   "unit" : "Stk.",
   "unitContents" : "ml",

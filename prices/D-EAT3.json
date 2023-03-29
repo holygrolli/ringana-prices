@@ -3,9 +3,7 @@
   "availableVariants" : [ {
     "matchcode" : "D-EAT",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
@@ -15,8 +13,8 @@
   },
   "contentsAmount" : "2100",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -59,7 +57,7 @@
       "provisionPoints" : 87.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 3,
@@ -70,7 +68,7 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "COMPLETE d-eat, Set of 3",
   "unit" : "Set",
   "unitContents" : "g",
