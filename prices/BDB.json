@@ -3,14 +3,14 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 77.6,
+    "brutto" : 97,
     "unit" : "ml",
     "unitId" : 827
   },
   "contentsAmount" : "200",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -25,40 +25,40 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 15.52,
-      "bruttoWithoutDiscount" : 19.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-03-30T21:59:59Z",
+      "brutto" : 19.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 15.52,
-        "bruttoWithoutDiscount" : 19.4,
-        "discountPercentage" : 20,
-        "discountUntil" : "2023-03-30T21:59:59Z",
-        "provisionPoints" : 8.28
+        "brutto" : 19.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 11.5
       },
-      "provisionPoints" : 8.28
+      "provisionPoints" : 11.5
     },
     "partner" : {
-      "brutto" : 15.52,
-      "bruttoWithoutDiscount" : 19.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-03-30T21:59:59Z",
+      "brutto" : 19.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 15.52,
-        "bruttoWithoutDiscount" : 19.4,
-        "discountPercentage" : 20,
-        "discountUntil" : "2023-03-30T21:59:59Z",
-        "provisionPoints" : 8.28
+        "brutto" : 19.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 11.5
       },
-      "provisionPoints" : 8.28
+      "provisionPoints" : 11.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "FRESH body wash",
   "unit" : "Stk.",
   "unitContents" : "ml",
