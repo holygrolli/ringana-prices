@@ -3,14 +3,14 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 1250.6,
+    "brutto" : 1563.3,
     "unit" : "ml",
     "unitId" : 827
   },
   "contentsAmount" : "30",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -25,35 +25,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 37.52,
-      "bruttoWithoutDiscount" : 46.9,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-03-31T21:59:59Z",
+      "brutto" : 46.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 37.52,
-        "bruttoWithoutDiscount" : 46.9,
-        "discountPercentage" : 20,
-        "discountUntil" : "2023-03-31T21:59:59Z",
-        "provisionPoints" : 20.74
+        "brutto" : 46.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 28.8
       },
-      "provisionPoints" : 20.74
+      "provisionPoints" : 28.8
     },
     "partner" : {
-      "brutto" : 37.52,
-      "bruttoWithoutDiscount" : 46.9,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-03-31T21:59:59Z",
+      "brutto" : 46.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 37.52,
-        "bruttoWithoutDiscount" : 46.9,
-        "discountPercentage" : 20,
-        "discountUntil" : "2023-03-31T21:59:59Z",
-        "provisionPoints" : 20.74
+        "brutto" : 46.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 28.8
       },
-      "provisionPoints" : 20.74
+      "provisionPoints" : 28.8
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
@@ -63,7 +63,7 @@
     "3" : true,
     "4" : false
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "FRESH tinted moisturiser",
   "unit" : "Stk.",
   "unitContents" : "ml",

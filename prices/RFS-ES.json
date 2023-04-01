@@ -1,73 +1,79 @@
 {
-  "matchcode" : "BTF-TAN",
+  "matchcode" : "RFS-ES",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 1563.3,
-    "unit" : "ml",
-    "unitId" : 827
+    "amount" : null,
+    "brutto" : null,
+    "unit" : null,
+    "unitId" : null
   },
-  "contentsAmount" : "30",
+  "contentsAmount" : "50",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/07/ringana-fresh-30ml-tinted-moisturizer-tan.png?q=100",
-  "isMerchandise" : false,
+  "image" : "https://i.ringana.com/2023/02/ringana-fresh-stories.png?q=100",
+  "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/produkt/fresh-tinted-moisturiser-tan/",
+  "link" : "/partner-produkt/ringana-fresh-stories-set-of-10-es/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : false,
+  "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 46.9,
+      "brutto" : 3.3,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 46.9,
+        "brutto" : 3.3,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 28.8
+        "provisionPoints" : 0
       },
-      "provisionPoints" : 28.8
+      "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 46.9,
+      "brutto" : 3.3,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 46.9,
+        "brutto" : 3.3,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 28.8
+        "provisionPoints" : 0
       },
-      "provisionPoints" : 28.8
+      "provisionPoints" : 0
     }
   },
-  "purchasePossible" : false,
-  "setContents" : { },
+  "purchasePossible" : true,
+  "setContents" : {
+    "0" : {
+      "amount" : 10,
+      "gratis" : false,
+      "matchcode" : "RFS-ES-1.0"
+    }
+  },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : {
     "1" : true,
     "2" : true,
     "3" : true,
-    "4" : false
+    "4" : true
   },
-  "soldOut" : true,
-  "title" : "FRESH tinted moisturiser tan",
-  "unit" : "Stk.",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
-  "unitId" : 996,
-  "usp" : "Getönte Feuchtigkeitspflege - Nuance 2"
+  "soldOut" : false,
+  "title" : "RINGANA fresh stories, Set of 10 &#8211; ES",
+  "unit" : null,
+  "unitContents" : "Stk.",
+  "unitContentsId" : 996,
+  "unitId" : null,
+  "usp" : ""
 }
