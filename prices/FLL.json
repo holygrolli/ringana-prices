@@ -1,60 +1,56 @@
 {
-  "matchcode" : "CIV",
-  "availableVariants" : [ {
-    "matchcode" : "CIV3",
-    "set" : false,
-    "travelSize" : false
-  } ],
+  "matchcode" : "FLL",
+  "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 1294.3,
-    "unit" : "g",
-    "unitId" : 812
+    "brutto" : 220,
+    "unit" : "ml",
+    "unitId" : 827
   },
-  "contentsAmount" : "42,8",
+  "contentsAmount" : "125",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/07/ringana-caps-immu.png?q=100",
+  "image" : "https://i.ringana.com/2023/04/light-legs-new.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/caps-immu/",
+  "link" : "/produkt/fresh-light-legs/",
   "maxPerCart" : null,
-  "nemBackgroundColor" : "ffb990",
+  "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 55.4,
+      "brutto" : 27.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 55.4,
+        "brutto" : 27.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 30.6
+        "provisionPoints" : 17
       },
-      "provisionPoints" : 30.6
+      "provisionPoints" : 17
     },
     "partner" : {
-      "brutto" : 55.4,
+      "brutto" : 27.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 55.4,
+        "brutto" : 27.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 30.6
+        "provisionPoints" : 17
       },
-      "provisionPoints" : 30.6
+      "provisionPoints" : 17
     }
   },
   "purchasePossible" : true,
@@ -63,10 +59,10 @@
   "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
-  "title" : "CAPS immu",
-  "unit" : "Pck.",
-  "unitContents" : "g",
-  "unitContentsId" : 812,
-  "unitId" : 43589,
-  "usp" : "Immunsystem"
+  "title" : "FRESH light legs",
+  "unit" : "Stk.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 996,
+  "usp" : "Frischekick für müde Beine"
 }
