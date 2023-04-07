@@ -1,68 +1,79 @@
 {
-  "matchcode" : "FSS",
+  "matchcode" : "RFS-ES",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 564,
-    "unit" : "ml",
-    "unitId" : 827
+    "amount" : null,
+    "brutto" : null,
+    "unit" : null,
+    "unitId" : null
   },
-  "contentsAmount" : "50",
+  "contentsAmount" : "10",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/04/MicrosoftTeams-image-47.png?q=100",
-  "isMerchandise" : false,
+  "image" : "https://i.ringana.com/2023/02/ringana-fresh-stories.png?q=100",
+  "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/produkt/fresh-sunscreen-spf-50/",
+  "link" : "/partner-produkt/ringana-fresh-stories-set-of-10-es/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : false,
+  "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 28.2,
+      "brutto" : 3.3,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 28.2,
+        "brutto" : 3.3,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 16.6
+        "provisionPoints" : 0
       },
-      "provisionPoints" : 16.6
+      "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 28.2,
+      "brutto" : 3.3,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 28.2,
+        "brutto" : 3.3,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 16.6
+        "provisionPoints" : 0
       },
-      "provisionPoints" : 16.6
+      "provisionPoints" : 0
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
+  "setContents" : {
+    "0" : {
+      "amount" : 10,
+      "gratis" : false,
+      "matchcode" : "RFS-ES-1.0"
+    }
+  },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
   "soldOut" : false,
-  "title" : "FRESH sunscreen SPF 50",
-  "unit" : "Stk.",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
-  "unitId" : 996,
-  "usp" : "Sonnenschutzbalsam hoch SPF 50"
+  "title" : "RINGANA fresh stories, Set of 10 &#8211; ES",
+  "unit" : null,
+  "unitContents" : "Stk.",
+  "unitContentsId" : 996,
+  "unitId" : null,
+  "usp" : ""
 }

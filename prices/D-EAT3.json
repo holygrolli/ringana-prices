@@ -13,12 +13,12 @@
   },
   "contentsAmount" : "2100",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/10/ringana-box-small-d-eat-Set_of_3.png?q=100",
+  "image" : "https://i.ringana.com/2023/04/MicrosoftTeams-image-49.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/complete-d-eat-set/",
@@ -57,7 +57,7 @@
       "provisionPoints" : 87.5
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 3,
@@ -68,7 +68,7 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : true,
+  "soldOut" : false,
   "title" : "COMPLETE d-eat, Set of 3",
   "unit" : "Set",
   "unitContents" : "g",
