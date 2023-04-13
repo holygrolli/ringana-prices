@@ -1,0 +1,73 @@
+{
+  "matchcode" : "RHMT",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : null,
+    "brutto" : null,
+    "unit" : null,
+    "unitId" : null
+  },
+  "contentsAmount" : "1",
+  "currency" : "eur",
+  "deliveryStatus" : "Derzeit nicht einzeln erhältlich",
+  "deliveryStatusId" : 294714,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2023/04/towel.png?q=100",
+  "isMerchandise" : true,
+  "lang" : "de",
+  "link" : "/produkt/ringana-hamam-towel/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 29.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 29.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 0
+      },
+      "provisionPoints" : 0
+    },
+    "partner" : {
+      "brutto" : 29.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 29.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 0
+      },
+      "provisionPoints" : 0
+    }
+  },
+  "purchasePossible" : false,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
+  "soldOut" : false,
+  "title" : "RINGANA hamam towel",
+  "unit" : "Stk.",
+  "unitContents" : "Stk.",
+  "unitContentsId" : 996,
+  "unitId" : 996,
+  "usp" : "Trendy Strandtuch"
+}
