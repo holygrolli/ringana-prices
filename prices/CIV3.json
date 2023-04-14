@@ -3,11 +3,13 @@
   "availableVariants" : [ {
     "matchcode" : "CIV",
     "set" : false,
-    "travelSize" : false
+    "travelSize" : false,
+    "unit" : "Pck.",
+    "unitId" : 43589
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 1165.1,
+    "brutto" : 1048.5,
     "unit" : "g",
     "unitId" : 812
   },
@@ -29,32 +31,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 149.6,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 134.64,
+      "bruttoWithoutDiscount" : 149.6,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-04-28T08:00:00Z",
       "initialPurchase" : {
-        "brutto" : 149.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 74.4
+        "brutto" : 134.64,
+        "bruttoWithoutDiscount" : 149.6,
+        "discountPercentage" : 10,
+        "discountUntil" : "2023-04-28T08:00:00Z",
+        "provisionPoints" : 60.26
       },
-      "provisionPoints" : 74.4
+      "provisionPoints" : 60.26
     },
     "partner" : {
-      "brutto" : 149.6,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 134.64,
+      "bruttoWithoutDiscount" : 149.6,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-04-28T08:00:00Z",
       "initialPurchase" : {
-        "brutto" : 149.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 74.4
+        "brutto" : 134.64,
+        "bruttoWithoutDiscount" : 149.6,
+        "discountPercentage" : 10,
+        "discountUntil" : "2023-04-28T08:00:00Z",
+        "provisionPoints" : 60.26
       },
-      "provisionPoints" : 74.4
+      "provisionPoints" : 60.26
     }
   },
   "purchasePossible" : true,
