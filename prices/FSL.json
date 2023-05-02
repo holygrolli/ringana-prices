@@ -60,9 +60,9 @@
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "FRESH soap liquid",
-  "unit" : "ml",
+  "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : 827,
+  "unitId" : 996,
   "usp" : "Mikrobiom-freundliche Flüssigseife"
 }
