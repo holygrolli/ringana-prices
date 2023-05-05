@@ -1,6 +1,10 @@
 {
   "matchcode" : "BSR-LE-GPP",
-  "availableVariants" : [ ],
+  "availableVariants" : [ {
+    "matchcode" : "BSR-LE-GPP-10",
+    "set" : false,
+    "travelSize" : false
+  } ],
   "basePrice" : {
     "amount" : 1000,
     "brutto" : 105,

@@ -1,6 +1,10 @@
 {
   "matchcode" : "BSR-LE-YU",
-  "availableVariants" : [ ],
+  "availableVariants" : [ {
+    "matchcode" : "BSR-LE-YU-10",
+    "set" : false,
+    "travelSize" : false
+  } ],
   "basePrice" : {
     "amount" : 1000,
     "brutto" : 105,
