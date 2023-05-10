@@ -58,17 +58,17 @@
     "0" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "BKW"
+      "matchcode" : "FSBW"
     },
     "1" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "BKK"
+      "matchcode" : "FSBB"
     },
     "2" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "BK2"
+      "matchcode" : "FSB2"
     },
     "3" : {
       "amount" : 1,
