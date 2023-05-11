@@ -3,7 +3,7 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 186,
+    "brutto" : 148.8,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -25,32 +25,32 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 27.9,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 22.32,
+      "bruttoWithoutDiscount" : 27.9,
+      "discountPercentage" : 20,
+      "discountUntil" : "2023-06-05T08:00:00Z",
       "initialPurchase" : {
-        "brutto" : 27.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 13.5
+        "brutto" : 22.32,
+        "bruttoWithoutDiscount" : 27.9,
+        "discountPercentage" : 20,
+        "discountUntil" : "2023-06-05T08:00:00Z",
+        "provisionPoints" : 9.72
       },
-      "provisionPoints" : 13.5
+      "provisionPoints" : 9.72
     },
     "partner" : {
-      "brutto" : 27.9,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 22.32,
+      "bruttoWithoutDiscount" : 27.9,
+      "discountPercentage" : 20,
+      "discountUntil" : "2023-06-05T08:00:00Z",
       "initialPurchase" : {
-        "brutto" : 27.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 13.5
+        "brutto" : 22.32,
+        "bruttoWithoutDiscount" : 27.9,
+        "discountPercentage" : 20,
+        "discountUntil" : "2023-06-05T08:00:00Z",
+        "provisionPoints" : 9.72
       },
-      "provisionPoints" : 13.5
+      "provisionPoints" : 9.72
     }
   },
   "purchasePossible" : true,
@@ -65,7 +65,7 @@
   "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
-  "title" : "FRESH giveaway box tooth oil",
+  "title" : "FRESH giveaway box tooth oil &#8211; SALE",
   "unit" : "Reisegröße",
   "unitContents" : "ml",
   "unitContentsId" : 827,
