@@ -1,9 +1,13 @@
 {
   "matchcode" : "CBH3",
-  "availableVariants" : [ ],
+  "availableVariants" : [ {
+    "matchcode" : "CBH",
+    "set" : false,
+    "travelSize" : false
+  } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 1414.1,
+    "brutto" : 1272.7,
     "unit" : "g",
     "unitId" : 812
   },
@@ -25,32 +29,32 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 157.4,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 141.66,
+      "bruttoWithoutDiscount" : 157.4,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-05-26T08:00:00Z",
       "initialPurchase" : {
-        "brutto" : 157.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 79.2
+        "brutto" : 141.66,
+        "bruttoWithoutDiscount" : 157.4,
+        "discountPercentage" : 10,
+        "discountUntil" : "2023-05-26T08:00:00Z",
+        "provisionPoints" : 64.15
       },
-      "provisionPoints" : 79.2
+      "provisionPoints" : 64.15
     },
     "partner" : {
-      "brutto" : 157.4,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 141.66,
+      "bruttoWithoutDiscount" : 157.4,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-05-26T08:00:00Z",
       "initialPurchase" : {
-        "brutto" : 157.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : 79.2
+        "brutto" : 141.66,
+        "bruttoWithoutDiscount" : 157.4,
+        "discountPercentage" : 10,
+        "discountUntil" : "2023-05-26T08:00:00Z",
+        "provisionPoints" : 64.15
       },
-      "provisionPoints" : 79.2
+      "provisionPoints" : 64.15
     }
   },
   "purchasePossible" : true,

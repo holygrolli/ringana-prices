@@ -1,6 +1,14 @@
 {
   "matchcode" : "RE3",
-  "availableVariants" : [ ],
+  "availableVariants" : [ {
+    "matchcode" : "RE12",
+    "set" : false,
+    "travelSize" : false
+  }, {
+    "matchcode" : "RE24",
+    "set" : false,
+    "travelSize" : false
+  } ],
   "basePrice" : {
     "amount" : 1000,
     "brutto" : 158.8,

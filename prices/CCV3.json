@@ -1,6 +1,10 @@
 {
   "matchcode" : "CCV3",
-  "availableVariants" : [ ],
+  "availableVariants" : [ {
+    "matchcode" : "CCV",
+    "set" : false,
+    "travelSize" : false
+  } ],
   "basePrice" : {
     "amount" : 1000,
     "brutto" : 953.8,

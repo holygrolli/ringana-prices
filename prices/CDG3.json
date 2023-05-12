@@ -1,6 +1,10 @@
 {
   "matchcode" : "CDG3",
-  "availableVariants" : [ ],
+  "availableVariants" : [ {
+    "matchcode" : "CDG",
+    "set" : false,
+    "travelSize" : false
+  } ],
   "basePrice" : {
     "amount" : 1000,
     "brutto" : 934.9,
