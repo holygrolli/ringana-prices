@@ -1,12 +1,6 @@
 {
   "matchcode" : "BP-MEN-BHS",
-  "availableVariants" : [ {
-    "matchcode" : "BK-MEN",
-    "set" : true,
-    "travelSize" : true,
-    "unit" : "Reisegröße",
-    "unitId" : 43592
-  } ],
+  "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
     "brutto" : null,
