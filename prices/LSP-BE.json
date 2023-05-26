@@ -9,8 +9,8 @@
   },
   "contentsAmount" : null,
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -25,35 +25,35 @@
   "partnerProduct" : false,
   "prices" : {
     "customer" : {
-      "brutto" : 79.44,
-      "bruttoWithoutDiscount" : 99.3,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-05-25T21:59:59Z",
+      "brutto" : 99.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 79.44,
-        "bruttoWithoutDiscount" : 99.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2023-05-25T21:59:59Z",
-        "provisionPoints" : 41.18
+        "brutto" : 99.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 57.2
       },
-      "provisionPoints" : 41.18
+      "provisionPoints" : 57.2
     },
     "partner" : {
-      "brutto" : 79.44,
-      "bruttoWithoutDiscount" : 99.3,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-05-25T21:59:59Z",
+      "brutto" : 99.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 79.44,
-        "bruttoWithoutDiscount" : 99.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2023-05-25T21:59:59Z",
-        "provisionPoints" : 41.18
+        "brutto" : 99.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 57.2
       },
-      "provisionPoints" : 41.18
+      "provisionPoints" : 57.2
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -84,7 +84,7 @@
     "3" : true,
     "4" : true
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "LIVE Special &#8211; Body essentials",
   "unit" : "Set",
   "unitContents" : "Set",
