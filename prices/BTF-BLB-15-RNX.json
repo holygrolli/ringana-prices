@@ -9,8 +9,8 @@
   },
   "contentsAmount" : "35",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -20,9 +20,9 @@
   "link" : "/partner-produkt/fresh-tinted-moisturiser-spf-15-fresh-lip-balm-nude-spf-15/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
-  "notSearchable" : true,
+  "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : false,
+  "partnerProduct" : true,
   "prices" : {
     "customer" : {
       "brutto" : 59.8,
@@ -53,7 +53,7 @@
       "provisionPoints" : 32.9
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 1,
