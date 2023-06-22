@@ -9,8 +9,8 @@
   },
   "contentsAmount" : "1",
   "currency" : "eur",
-  "deliveryStatus" : "Derzeit nicht einzeln erhältlich",
-  "deliveryStatusId" : 294714,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -53,7 +53,7 @@
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
