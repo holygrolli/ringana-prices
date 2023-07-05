@@ -1,14 +1,6 @@
 {
   "matchcode" : "RE12-LE-CG",
-  "availableVariants" : [ {
-    "matchcode" : "RE3",
-    "set" : false,
-    "travelSize" : false
-  }, {
-    "matchcode" : "RE24",
-    "set" : false,
-    "travelSize" : false
-  } ],
+  "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
     "brutto" : 145.8,
