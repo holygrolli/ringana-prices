@@ -1,10 +1,6 @@
 {
   "matchcode" : "FWCS",
-  "availableVariants" : [ {
-    "matchcode" : "BKW",
-    "set" : false,
-    "travelSize" : false
-  } ],
+  "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
     "brutto" : null,
