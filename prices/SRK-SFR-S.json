@@ -9,8 +9,6 @@
   },
   "contentsAmount" : "1",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
@@ -24,7 +22,7 @@
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
+  "partnerProduct" : false,
   "prices" : {
     "customer" : {
       "brutto" : 11.7,
@@ -32,11 +30,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : null,
+        "brutto" : 11.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : null
+        "provisionPoints" : 0
       },
       "provisionPoints" : 0
     },
@@ -46,11 +44,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : null,
+        "brutto" : 11.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : null
+        "provisionPoints" : 0
       },
       "provisionPoints" : 0
     }
@@ -59,7 +57,12 @@
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
   "soldOut" : false,
   "title" : "RINGANA &#8222;So free&#8220; sticker small black",
   "unit" : "Stk.",

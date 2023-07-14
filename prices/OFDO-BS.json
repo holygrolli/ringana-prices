@@ -9,8 +9,6 @@
   },
   "contentsAmount" : "215",
   "currency" : "eur",
-  "customerProduct" : false,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
@@ -32,11 +30,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : null,
+        "brutto" : 39.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : null
+        "provisionPoints" : 21.7
       },
       "provisionPoints" : 21.7
     },
@@ -46,11 +44,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : null,
+        "brutto" : 39.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : null
+        "provisionPoints" : 21.7
       },
       "provisionPoints" : 21.7
     }
@@ -75,7 +73,12 @@
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
   "soldOut" : false,
   "title" : "FRESH date offer bestseller",
   "unit" : null,

@@ -9,8 +9,6 @@
   },
   "contentsAmount" : "100",
   "currency" : "eur",
-  "customerProduct" : false,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
@@ -32,11 +30,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : null,
+        "brutto" : 24,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : null
+        "provisionPoints" : 0
       },
       "provisionPoints" : 0
     },
@@ -46,11 +44,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : null,
+        "brutto" : 24,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : null
+        "provisionPoints" : 0
       },
       "provisionPoints" : 0
     }
@@ -65,7 +63,12 @@
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : true,
-  "skinTypes" : null,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
   "soldOut" : false,
   "title" : "RINGANA business card, Set of 100",
   "unit" : null,

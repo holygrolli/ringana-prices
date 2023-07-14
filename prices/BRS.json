@@ -1,0 +1,68 @@
+{
+  "matchcode" : "BRS",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : 1000,
+    "brutto" : 89.1,
+    "unit" : "ml",
+    "unitId" : 827
+  },
+  "contentsAmount" : "200",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2022/08/ringana-fresh-200ml-shampoo-NBC7.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/fresh-shampoonbc7/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 17.82,
+      "bruttoWithoutDiscount" : 19.8,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-07-21T08:00:00Z",
+      "initialPurchase" : {
+        "brutto" : 17.82,
+        "bruttoWithoutDiscount" : 19.8,
+        "discountPercentage" : 10,
+        "discountUntil" : "2023-07-21T08:00:00Z",
+        "provisionPoints" : 9.72
+      },
+      "provisionPoints" : 9.72
+    },
+    "partner" : {
+      "brutto" : 17.82,
+      "bruttoWithoutDiscount" : 19.8,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-07-21T08:00:00Z",
+      "initialPurchase" : {
+        "brutto" : 17.82,
+        "bruttoWithoutDiscount" : 19.8,
+        "discountPercentage" : 10,
+        "discountUntil" : "2023-07-21T08:00:00Z",
+        "provisionPoints" : 9.72
+      },
+      "provisionPoints" : 9.72
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "FRESH shampoo",
+  "unit" : "Stk.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 996,
+  "usp" : "Mikrobiom-freundliche Haarpflege"
+}

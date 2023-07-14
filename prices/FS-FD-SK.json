@@ -9,8 +9,6 @@
   },
   "contentsAmount" : null,
   "currency" : "eur",
-  "customerProduct" : false,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
@@ -32,11 +30,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : null,
+        "brutto" : 199,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : null
+        "provisionPoints" : 110
       },
       "provisionPoints" : 110
     },
@@ -46,11 +44,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : null,
+        "brutto" : 199,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : null
+        "provisionPoints" : 110
       },
       "provisionPoints" : 110
     }
@@ -130,7 +128,12 @@
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
   "soldOut" : false,
   "title" : "RINGANA FRESH date bag &#8211; SK",
   "unit" : null,

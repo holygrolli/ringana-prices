@@ -1,0 +1,80 @@
+{
+  "matchcode" : "WPC3",
+  "availableVariants" : [ {
+    "matchcode" : "WPC",
+    "set" : false,
+    "travelSize" : false,
+    "unit" : "Pck.",
+    "unitId" : 43589
+  } ],
+  "basePrice" : {
+    "amount" : 1000,
+    "brutto" : 120.9,
+    "unit" : "g",
+    "unitId" : 812
+  },
+  "contentsAmount" : "1560",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2022/03/Uxh6dSMK-ringana-box-small-cleansing-Set_of_3_NEW.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/pack-cleansing-set/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 188.7,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 188.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 95.7
+      },
+      "provisionPoints" : 95.7
+    },
+    "partner" : {
+      "brutto" : 188.7,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 188.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 95.7
+      },
+      "provisionPoints" : 95.7
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : {
+    "0" : {
+      "amount" : 3,
+      "gratis" : false,
+      "matchcode" : "WPC"
+    }
+  },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "FRESH pack cleansing, Set of 3",
+  "unit" : "Set",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 43586,
+  "usp" : "Verdauung"
+}
