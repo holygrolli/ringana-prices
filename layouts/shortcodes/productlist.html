@@ -33,9 +33,6 @@ Alle Produkte zuletzt aktualisiert {{ .Page.GitInfo.AuthorDate.Format "02.01.200
                 {{ end }}
                 >
                     {{.prices.customer.provisionPoints}}
-                    {{ if .prices.customer.discountUntil }}
-                    / <s>{{.prices.customer.initialPurchase.provisionPoints}}</s>
-                    {{ end }}
                 </td>
                 <td>{{.prices.customer.discountPercentage}}</td>
                 <td>
