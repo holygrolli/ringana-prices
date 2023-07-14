@@ -1,0 +1,99 @@
+{
+  "matchcode" : "BP1",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : null,
+    "brutto" : null,
+    "unit" : null,
+    "unitId" : null
+  },
+  "contentsAmount" : "330",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2021/10/FRESH_skin_care_set_light.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/fresh-skin-care-set-light/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 137.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 137.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 73.3
+      },
+      "provisionPoints" : 73.3
+    },
+    "partner" : {
+      "brutto" : 137.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 137.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 73.3
+      },
+      "provisionPoints" : 73.3
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : {
+    "0" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "BRM"
+    },
+    "1" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "BGS"
+    },
+    "2" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "BHS"
+    },
+    "3" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "BCE"
+    },
+    "4" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "RHT"
+    }
+  },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : {
+    "1" : true,
+    "2" : false,
+    "3" : false,
+    "4" : false
+  },
+  "soldOut" : false,
+  "title" : "FRESH skin care set light",
+  "unit" : "Set",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 43586,
+  "usp" : "Basis-Pflegeset für ölige Haut"
+}

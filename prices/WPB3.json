@@ -1,0 +1,80 @@
+{
+  "matchcode" : "WPB3",
+  "availableVariants" : [ {
+    "matchcode" : "WPB",
+    "set" : false,
+    "travelSize" : false,
+    "unit" : "Pck.",
+    "unitId" : 43589
+  } ],
+  "basePrice" : {
+    "amount" : 1000,
+    "brutto" : 171,
+    "unit" : "g",
+    "unitId" : 812
+  },
+  "contentsAmount" : "780",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2022/03/ringana-box-small-balancing-Set_of_3_NEW.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/pack-balancing-set/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 133.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 133.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 68
+      },
+      "provisionPoints" : 68
+    },
+    "partner" : {
+      "brutto" : 133.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 133.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 68
+      },
+      "provisionPoints" : 68
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : {
+    "0" : {
+      "amount" : 3,
+      "gratis" : false,
+      "matchcode" : "WPB"
+    }
+  },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "FRESH pack balancing, Set of 3",
+  "unit" : "Set",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 43586,
+  "usp" : "Säure-Basen-Haushalt"
+}

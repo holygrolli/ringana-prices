@@ -1,0 +1,68 @@
+{
+  "matchcode" : "BFB",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : 1000,
+    "brutto" : 194.4,
+    "unit" : "ml",
+    "unitId" : 827
+  },
+  "contentsAmount" : "125",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2022/07/ringana-fresh-125ml-foot-balm.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/fresh-foot-balm/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 24.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 24.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 14.2
+      },
+      "provisionPoints" : 14.2
+    },
+    "partner" : {
+      "brutto" : 24.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 24.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 14.2
+      },
+      "provisionPoints" : 14.2
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "FRESH foot balm",
+  "unit" : "Stk.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 996,
+  "usp" : "Fußbalsam"
+}

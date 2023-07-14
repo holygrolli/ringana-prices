@@ -1,0 +1,86 @@
+{
+  "matchcode" : "RE24",
+  "availableVariants" : [ {
+    "matchcode" : "RE12",
+    "set" : false,
+    "travelSize" : false,
+    "unit" : "Pck.",
+    "unitId" : 43589
+  }, {
+    "matchcode" : "RE3",
+    "set" : false,
+    "travelSize" : false,
+    "unit" : "Pck.",
+    "unitId" : 43589
+  } ],
+  "basePrice" : {
+    "amount" : 1000,
+    "brutto" : 131.2,
+    "unit" : "ml",
+    "unitId" : 827
+  },
+  "contentsAmount" : "720",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2022/05/ringana-drinks-chi-Set_of_2.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/ringanachi-set/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 94.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 94.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 48.7
+      },
+      "provisionPoints" : 48.7
+    },
+    "partner" : {
+      "brutto" : 94.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 94.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 48.7
+      },
+      "provisionPoints" : 48.7
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : {
+    "0" : {
+      "amount" : 2,
+      "gratis" : false,
+      "matchcode" : "RE12"
+    }
+  },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "RINGANAchi, Set of 2",
+  "unit" : "Set",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 43586,
+  "usp" : "Wachmacher"
+}

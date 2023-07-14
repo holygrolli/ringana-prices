@@ -1,0 +1,74 @@
+{
+  "matchcode" : "FSBG-PZO",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : 1000,
+    "brutto" : 186,
+    "unit" : "ml",
+    "unitId" : 827
+  },
+  "contentsAmount" : "150",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2023/05/R_sample-giveaway-box-tooth-oil_10x.png?q=100",
+  "isMerchandise" : true,
+  "lang" : "de",
+  "link" : "/partner-produkt/fresh-giveaway-box-tooth-oil/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : true,
+  "prices" : {
+    "customer" : {
+      "brutto" : 27.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 27.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 13.5
+      },
+      "provisionPoints" : 13.5
+    },
+    "partner" : {
+      "brutto" : 27.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 27.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 13.5
+      },
+      "provisionPoints" : 13.5
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : {
+    "0" : {
+      "amount" : 10,
+      "gratis" : false,
+      "matchcode" : "PZO"
+    }
+  },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "FRESH giveaway box tooth oil",
+  "unit" : "Reisegröße",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 43592,
+  "usp" : ""
+}

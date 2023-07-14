@@ -1,0 +1,73 @@
+{
+  "matchcode" : "BGS",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : 1000,
+    "brutto" : 198.4,
+    "unit" : "ml",
+    "unitId" : 827
+  },
+  "contentsAmount" : "125",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2022/07/ringana-fresh-125ml-tonic-pure.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/fresh-tonic-pure/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 24.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 24.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 15.2
+      },
+      "provisionPoints" : 15.2
+    },
+    "partner" : {
+      "brutto" : 24.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 24.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 15.2
+      },
+      "provisionPoints" : 15.2
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : false,
+    "4" : false
+  },
+  "soldOut" : false,
+  "title" : "FRESH tonic pure",
+  "unit" : "Stk.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 996,
+  "usp" : "Klärendes Gesichtswasser"
+}

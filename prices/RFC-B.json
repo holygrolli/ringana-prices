@@ -1,0 +1,73 @@
+{
+  "matchcode" : "RFC-B",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : null,
+    "brutto" : null,
+    "unit" : null,
+    "unitId" : null
+  },
+  "contentsAmount" : "1",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/wp-content/uploads/2019/05/15161831/RINGANA-fair-counter-basic.png?q=100",
+  "isMerchandise" : true,
+  "lang" : "de",
+  "link" : "/partner-produkt/ringana-fair-counter-basic/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : true,
+  "prices" : {
+    "customer" : {
+      "brutto" : 394.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 394.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 0
+      },
+      "provisionPoints" : 0
+    },
+    "partner" : {
+      "brutto" : 394.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 394.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 0
+      },
+      "provisionPoints" : 0
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : true,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
+  "soldOut" : false,
+  "title" : "RINGANA fair counter basic",
+  "unit" : "Stk.",
+  "unitContents" : "Stk.",
+  "unitContentsId" : 996,
+  "unitId" : 996,
+  "usp" : ""
+}

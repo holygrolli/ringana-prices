@@ -1,0 +1,74 @@
+{
+  "matchcode" : "WPA",
+  "availableVariants" : [ {
+    "matchcode" : "WPA3",
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
+  } ],
+  "basePrice" : {
+    "amount" : 1000,
+    "brutto" : 299.6,
+    "unit" : "g",
+    "unitId" : 812
+  },
+  "contentsAmount" : "260",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2022/07/ringana-box-small-pack-A.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/pack-antiox/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "ffa06a",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 77.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 77.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 39.3
+      },
+      "provisionPoints" : 39.3
+    },
+    "partner" : {
+      "brutto" : 77.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 77.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 39.3
+      },
+      "provisionPoints" : 39.3
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "FRESH pack antiox",
+  "unit" : "Pck.",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 43589,
+  "usp" : "Vitaminbooster"
+}

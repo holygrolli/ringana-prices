@@ -1,0 +1,80 @@
+{
+  "matchcode" : "CMO3",
+  "availableVariants" : [ {
+    "matchcode" : "CMO",
+    "set" : false,
+    "travelSize" : false,
+    "unit" : "Pck.",
+    "unitId" : 43589
+  } ],
+  "basePrice" : {
+    "amount" : 1000,
+    "brutto" : 1123,
+    "unit" : "g",
+    "unitId" : 812
+  },
+  "contentsAmount" : "125,1",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2021/10/ringana-caps-moodoo_Set_of_3.png?q=100",
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : "/produkt/caps-moodoo-set/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : false,
+  "prices" : {
+    "customer" : {
+      "brutto" : 140.49,
+      "bruttoWithoutDiscount" : 156.1,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-07-21T08:00:00Z",
+      "initialPurchase" : {
+        "brutto" : 140.49,
+        "bruttoWithoutDiscount" : 156.1,
+        "discountPercentage" : 10,
+        "discountUntil" : "2023-07-21T08:00:00Z",
+        "provisionPoints" : 65.12
+      },
+      "provisionPoints" : 65.12
+    },
+    "partner" : {
+      "brutto" : 140.49,
+      "bruttoWithoutDiscount" : 156.1,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-07-21T08:00:00Z",
+      "initialPurchase" : {
+        "brutto" : 140.49,
+        "bruttoWithoutDiscount" : 156.1,
+        "discountPercentage" : 10,
+        "discountUntil" : "2023-07-21T08:00:00Z",
+        "provisionPoints" : 65.12
+      },
+      "provisionPoints" : 65.12
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : {
+    "0" : {
+      "amount" : 3,
+      "gratis" : false,
+      "matchcode" : "CMO"
+    }
+  },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "CAPS moodoo, Set of 3",
+  "unit" : "Set",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 43586,
+  "usp" : "Gelassenheit"
+}

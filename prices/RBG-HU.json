@@ -1,0 +1,73 @@
+{
+  "matchcode" : "RBG-HU",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : null,
+    "brutto" : null,
+    "unit" : null,
+    "unitId" : null
+  },
+  "contentsAmount" : null,
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2022/09/GcYnXo41-02_business_guide.png?q=100",
+  "isMerchandise" : true,
+  "lang" : "de",
+  "link" : "/partner-produkt/ringana-business-guide-02-hu/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : true,
+  "prices" : {
+    "customer" : {
+      "brutto" : 1.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 1.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 0
+      },
+      "provisionPoints" : 0
+    },
+    "partner" : {
+      "brutto" : 1.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : 1.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : 0
+      },
+      "provisionPoints" : 0
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : { },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : {
+    "1" : true,
+    "2" : true,
+    "3" : true,
+    "4" : true
+  },
+  "soldOut" : false,
+  "title" : "RINGANA business guide 02 &#8211; HU",
+  "unit" : null,
+  "unitContents" : null,
+  "unitContentsId" : null,
+  "unitId" : null,
+  "usp" : ""
+}
