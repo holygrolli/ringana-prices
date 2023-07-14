@@ -19,7 +19,9 @@ jobs:
         token: ${{ secrets.GH_PAT }}
     - run: |
         rm prices/* || true
-        curl -v 'https://zapi.ringana.com/products/?matchcodes\[\]=BSB&matchcodes\[\]=FBS50&matchcodes\[\]=SSF'
+        curl -v 'https://zapi.ringana.com/products/?matchcodes\[\]=BSB&matchcodes\[\]=FBS50&matchcodes\[\]=SSF' \
+          -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36' \
+          --compressed
     - name: get all normal prices	    
       uses: docker://ghcr.io/holygrolli/ringana-shopscraper:1.0.4
       env:
