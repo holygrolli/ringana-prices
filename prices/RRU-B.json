@@ -9,6 +9,8 @@
   },
   "contentsAmount" : "1",
   "currency" : "eur",
+  "customerProduct" : false,
+  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
@@ -30,11 +32,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 130.7,
+        "brutto" : null,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 0
+        "provisionPoints" : null
       },
       "provisionPoints" : 0
     },
@@ -44,11 +46,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 130.7,
+        "brutto" : null,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 0
+        "provisionPoints" : null
       },
       "provisionPoints" : 0
     }
@@ -57,12 +59,7 @@
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : true,
-  "skinTypes" : {
-    "1" : true,
-    "2" : true,
-    "3" : true,
-    "4" : true
-  },
+  "skinTypes" : null,
   "soldOut" : false,
   "title" : "RINGANA BUSINESS roll-up",
   "unit" : "Stk.",

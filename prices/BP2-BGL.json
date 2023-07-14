@@ -9,6 +9,8 @@
   },
   "contentsAmount" : "330",
   "currency" : "eur",
+  "customerProduct" : true,
+  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
@@ -22,7 +24,7 @@
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : false,
+  "partnerProduct" : true,
   "prices" : {
     "customer" : {
       "brutto" : 142.2,
@@ -30,11 +32,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 142.2,
+        "brutto" : null,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 75.7
+        "provisionPoints" : null
       },
       "provisionPoints" : 75.7
     },
@@ -44,11 +46,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 142.2,
+        "brutto" : null,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 75.7
+        "provisionPoints" : null
       },
       "provisionPoints" : 75.7
     }
@@ -83,12 +85,7 @@
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
-  "skinTypes" : {
-    "1" : true,
-    "2" : false,
-    "3" : false,
-    "4" : false
-  },
+  "skinTypes" : null,
   "soldOut" : false,
   "title" : "FRESH skin care set medium &#8211; alternative tonic",
   "unit" : "Set",

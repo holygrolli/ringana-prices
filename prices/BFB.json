@@ -9,6 +9,8 @@
   },
   "contentsAmount" : "125",
   "currency" : "eur",
+  "customerProduct" : true,
+  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
@@ -22,7 +24,7 @@
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : false,
+  "partnerProduct" : true,
   "prices" : {
     "customer" : {
       "brutto" : 24.3,
@@ -30,11 +32,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 24.3,
+        "brutto" : null,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 14.2
+        "provisionPoints" : null
       },
       "provisionPoints" : 14.2
     },
@@ -44,11 +46,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 24.3,
+        "brutto" : null,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 14.2
+        "provisionPoints" : null
       },
       "provisionPoints" : 14.2
     }

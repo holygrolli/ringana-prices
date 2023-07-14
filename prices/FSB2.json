@@ -9,6 +9,8 @@
   },
   "contentsAmount" : "45",
   "currency" : "eur",
+  "customerProduct" : true,
+  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
@@ -22,7 +24,7 @@
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : false,
+  "partnerProduct" : true,
   "prices" : {
     "customer" : {
       "brutto" : 26.1,
@@ -30,11 +32,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 26.1,
+        "brutto" : null,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 15.1
+        "provisionPoints" : null
       },
       "provisionPoints" : 15.1
     },
@@ -44,11 +46,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 26.1,
+        "brutto" : null,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 15.1
+        "provisionPoints" : null
       },
       "provisionPoints" : 15.1
     }
@@ -78,12 +80,7 @@
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
-  "skinTypes" : {
-    "1" : false,
-    "2" : true,
-    "3" : false,
-    "4" : false
-  },
+  "skinTypes" : null,
   "soldOut" : false,
   "title" : "FRESH sample box face medium",
   "unit" : "Reisegröße",

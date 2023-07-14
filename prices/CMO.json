@@ -15,6 +15,8 @@
   },
   "contentsAmount" : "41,7",
   "currency" : "eur",
+  "customerProduct" : true,
+  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
@@ -28,7 +30,7 @@
   "nemBackgroundColor" : "bce194",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : false,
+  "partnerProduct" : true,
   "prices" : {
     "customer" : {
       "brutto" : 52.02,
@@ -36,11 +38,11 @@
       "discountPercentage" : 10,
       "discountUntil" : "2023-07-21T08:00:00Z",
       "initialPurchase" : {
-        "brutto" : 52.02,
-        "bruttoWithoutDiscount" : 57.8,
-        "discountPercentage" : 10,
-        "discountUntil" : "2023-07-21T08:00:00Z",
-        "provisionPoints" : 26.81
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
       },
       "provisionPoints" : 26.81
     },
@@ -50,11 +52,11 @@
       "discountPercentage" : 10,
       "discountUntil" : "2023-07-21T08:00:00Z",
       "initialPurchase" : {
-        "brutto" : 52.02,
-        "bruttoWithoutDiscount" : 57.8,
-        "discountPercentage" : 10,
-        "discountUntil" : "2023-07-21T08:00:00Z",
-        "provisionPoints" : 26.81
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
       },
       "provisionPoints" : 26.81
     }

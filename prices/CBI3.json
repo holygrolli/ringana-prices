@@ -3,7 +3,9 @@
   "availableVariants" : [ {
     "matchcode" : "CBI",
     "set" : false,
-    "travelSize" : false
+    "travelSize" : false,
+    "unit" : "Pck.",
+    "unitId" : 43589
   } ],
   "basePrice" : {
     "amount" : 1000,
@@ -13,6 +15,8 @@
   },
   "contentsAmount" : "78,3",
   "currency" : "eur",
+  "customerProduct" : true,
+  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
@@ -26,7 +30,7 @@
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : false,
+  "partnerProduct" : true,
   "prices" : {
     "customer" : {
       "brutto" : 257.9,
@@ -34,11 +38,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 257.9,
+        "brutto" : null,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 130.7
+        "provisionPoints" : null
       },
       "provisionPoints" : 130.7
     },
@@ -48,11 +52,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 257.9,
+        "brutto" : null,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 130.7
+        "provisionPoints" : null
       },
       "provisionPoints" : 130.7
     }

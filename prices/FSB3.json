@@ -9,8 +9,10 @@
   },
   "contentsAmount" : "45",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "customerProduct" : true,
+  "deliveryAddressIso" : "DE",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -22,7 +24,7 @@
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : false,
+  "partnerProduct" : true,
   "prices" : {
     "customer" : {
       "brutto" : 29.8,
@@ -30,11 +32,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 29.8,
+        "brutto" : null,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 17.4
+        "provisionPoints" : null
       },
       "provisionPoints" : 17.4
     },
@@ -44,16 +46,16 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 29.8,
+        "brutto" : null,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 17.4
+        "provisionPoints" : null
       },
       "provisionPoints" : 17.4
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -78,13 +80,8 @@
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
-  "skinTypes" : {
-    "1" : false,
-    "2" : false,
-    "3" : true,
-    "4" : false
-  },
-  "soldOut" : true,
+  "skinTypes" : null,
+  "soldOut" : false,
   "title" : "FRESH sample box face rich",
   "unit" : "Reisegröße",
   "unitContents" : "ml",

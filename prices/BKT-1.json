@@ -9,8 +9,10 @@
   },
   "contentsAmount" : "260",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "customerProduct" : true,
+  "deliveryAddressIso" : "DE",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -22,7 +24,7 @@
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
-  "partnerProduct" : false,
+  "partnerProduct" : true,
   "prices" : {
     "customer" : {
       "brutto" : 66.9,
@@ -30,11 +32,11 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 66.9,
+        "brutto" : null,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 41.5
+        "provisionPoints" : null
       },
       "provisionPoints" : 41.5
     },
@@ -44,16 +46,16 @@
       "discountPercentage" : null,
       "discountUntil" : null,
       "initialPurchase" : {
-        "brutto" : 66.9,
+        "brutto" : null,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "provisionPoints" : 41.5
+        "provisionPoints" : null
       },
       "provisionPoints" : 41.5
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -78,13 +80,8 @@
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
-  "skinTypes" : {
-    "1" : true,
-    "2" : true,
-    "3" : true,
-    "4" : true
-  },
-  "soldOut" : true,
+  "skinTypes" : null,
+  "soldOut" : false,
   "title" : "FRESH travel set light",
   "unit" : "Pck.",
   "unitContents" : "ml",

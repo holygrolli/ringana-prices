@@ -1,19 +1,13 @@
 {
-  "matchcode" : "RD12",
-  "availableVariants" : [ {
-    "matchcode" : "RD24",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
-  } ],
+  "matchcode" : "SBA-S",
+  "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 174.7,
+    "brutto" : 175.3,
     "unit" : "ml",
     "unitId" : 827
   },
-  "contentsAmount" : "360",
+  "contentsAmount" : "125",
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
@@ -22,21 +16,21 @@
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/07/ringana-drinks-dea.png?q=100",
+  "image" : "https://i.ringana.com/2023/06/R_Produktfoto_aftersun-TAN-shine_2000x2000_1.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/ringanadea/",
+  "link" : "/produkt/fresh-after-sun-shine/",
   "maxPerCart" : null,
-  "nemBackgroundColor" : "9bcbeb",
+  "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 62.9,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 21.92,
+      "bruttoWithoutDiscount" : 27.4,
+      "discountPercentage" : 20,
+      "discountUntil" : "2023-07-14T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -44,13 +38,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 34.6
+      "provisionPoints" : 11.88
     },
     "partner" : {
-      "brutto" : 62.9,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 21.92,
+      "bruttoWithoutDiscount" : 27.4,
+      "discountPercentage" : 20,
+      "discountUntil" : "2023-07-14T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -58,7 +52,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 34.6
+      "provisionPoints" : 11.88
     }
   },
   "purchasePossible" : true,
@@ -67,10 +61,10 @@
   "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
-  "title" : "RINGANAdea",
-  "unit" : "Pck.",
+  "title" : "FRESH after sun shine & tan booster",
+  "unit" : null,
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : 43589,
-  "usp" : "Leichtgewicht"
+  "unitId" : null,
+  "usp" : "Schimmernde Bräunungspflege"
 }
