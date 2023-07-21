@@ -3,11 +3,13 @@
   "availableVariants" : [ {
     "matchcode" : "RI12",
     "set" : false,
-    "travelSize" : false
+    "travelSize" : false,
+    "unit" : "Pck.",
+    "unitId" : 43589
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 139.3,
+    "brutto" : 125.3,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -31,10 +33,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 100.3,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 90.27,
+      "bruttoWithoutDiscount" : 100.3,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-07-31T21:59:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -42,13 +44,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 54.7
+      "provisionPoints" : 44.31
     },
     "partner" : {
-      "brutto" : 100.3,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 90.27,
+      "bruttoWithoutDiscount" : 100.3,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-07-31T21:59:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -56,7 +58,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 54.7
+      "provisionPoints" : 44.31
     }
   },
   "purchasePossible" : true,

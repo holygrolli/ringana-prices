@@ -2,12 +2,14 @@
   "matchcode" : "RI12",
   "availableVariants" : [ {
     "matchcode" : "RI24",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 154.7,
+    "brutto" : 139.2,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -31,10 +33,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 55.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 50.13,
+      "bruttoWithoutDiscount" : 55.7,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-07-31T21:59:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -42,13 +44,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 32
+      "provisionPoints" : 25.92
     },
     "partner" : {
-      "brutto" : 55.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 50.13,
+      "bruttoWithoutDiscount" : 55.7,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-07-31T21:59:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -56,7 +58,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 32
+      "provisionPoints" : 25.92
     }
   },
   "purchasePossible" : true,
