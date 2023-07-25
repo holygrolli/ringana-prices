@@ -7,7 +7,7 @@
     "unit" : null,
     "unitId" : null
   },
-  "contentsAmount" : null,
+  "contentsAmount" : "1",
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
@@ -89,8 +89,8 @@
   "soldOut" : false,
   "title" : "FRESH baby gift box",
   "unit" : "Set",
-  "unitContents" : null,
-  "unitContentsId" : null,
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
   "unitId" : 43586,
   "usp" : "Baby- und Kinderpflege Geschenkset"
 }
