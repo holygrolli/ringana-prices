@@ -9,9 +9,7 @@
   }, {
     "matchcode" : "RE3",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,

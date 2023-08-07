@@ -3,9 +3,7 @@
   "availableVariants" : [ {
     "matchcode" : "RD12",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : null,
