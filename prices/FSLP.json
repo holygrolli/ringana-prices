@@ -3,7 +3,7 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 76.8,
+    "brutto" : 61.4,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -11,8 +11,8 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -27,10 +27,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 19.6,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 15.68,
+      "bruttoWithoutDiscount" : 19.6,
+      "discountPercentage" : 20,
+      "discountUntil" : "2023-08-11T21:59:45Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -38,13 +38,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 11.6
+      "provisionPoints" : 8.35
     },
     "partner" : {
-      "brutto" : 19.6,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 15.68,
+      "bruttoWithoutDiscount" : 19.6,
+      "discountPercentage" : 20,
+      "discountUntil" : "2023-08-11T21:59:45Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -52,19 +52,19 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 11.6
+      "provisionPoints" : 8.35
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "FRESH soap liquid",
-  "unit" : "ml",
+  "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : 827,
+  "unitId" : 996,
   "usp" : "Mikrobiom-freundliche Flüssigseife"
 }
