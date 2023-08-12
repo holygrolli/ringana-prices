@@ -7,7 +7,7 @@
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 75.8,
+    "brutto" : 94.8,
     "unit" : "g",
     "unitId" : 812
   },
@@ -15,8 +15,8 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -31,10 +31,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 46.72,
-      "bruttoWithoutDiscount" : 58.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-08-11T21:59:59Z",
+      "brutto" : 58.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -42,13 +42,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 23.76
+      "provisionPoints" : 33
     },
     "partner" : {
-      "brutto" : 46.72,
-      "bruttoWithoutDiscount" : 58.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-08-11T21:59:59Z",
+      "brutto" : 58.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -56,15 +56,15 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 23.76
+      "provisionPoints" : 33
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "SPORT protein",
   "unit" : "Pck.",
   "unitContents" : "g",
