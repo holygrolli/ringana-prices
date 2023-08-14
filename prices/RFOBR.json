@@ -1,5 +1,5 @@
 {
-  "matchcode" : "RHMT",
+  "matchcode" : "RFOBR",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
@@ -7,19 +7,19 @@
     "unit" : null,
     "unitId" : null
   },
-  "contentsAmount" : "1",
+  "contentsAmount" : null,
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/04/towel.png?q=100",
+  "image" : "https://i.ringana.com/2023/06/Brush_01.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/ringana-hamam-towel/",
+  "link" : "/produkt/ringana-foundation-brush/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -27,7 +27,7 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 29.9,
+      "brutto" : 28.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -41,7 +41,7 @@
       "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 29.9,
+      "brutto" : 28.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -60,11 +60,11 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : true,
-  "title" : "RINGANA hamam towel",
-  "unit" : "Stk.",
-  "unitContents" : "Stk.",
-  "unitContentsId" : 996,
-  "unitId" : 996,
-  "usp" : "Trendy Strandtuch"
+  "soldOut" : false,
+  "title" : "RINGANA foundation brush",
+  "unit" : null,
+  "unitContents" : null,
+  "unitContentsId" : null,
+  "unitId" : null,
+  "usp" : "Make-up Pinsel"
 }
