@@ -11,8 +11,8 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Aufgrund der großen Nachfrage vorübergehend nicht lieferbar. ",
+  "deliveryStatusId" : 12268,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -30,7 +30,7 @@
       "brutto" : 8.4,
       "bruttoWithoutDiscount" : 10.5,
       "discountPercentage" : 20,
-      "discountUntil" : "2023-08-15T21:59:59Z",
+      "discountUntil" : "2023-08-16T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -44,7 +44,7 @@
       "brutto" : 8.4,
       "bruttoWithoutDiscount" : 10.5,
       "discountPercentage" : 20,
-      "discountUntil" : "2023-08-15T21:59:59Z",
+      "discountUntil" : "2023-08-16T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -55,7 +55,7 @@
       "provisionPoints" : 3.6
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
