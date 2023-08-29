@@ -3,7 +3,7 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 926.4,
+    "brutto" : 1158,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -11,8 +11,8 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -27,10 +27,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 46.32,
-      "bruttoWithoutDiscount" : 57.9,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-08-28T21:59:59Z",
+      "brutto" : 57.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -38,13 +38,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 25.13
+      "provisionPoints" : 34.9
     },
     "partner" : {
-      "brutto" : 46.32,
-      "bruttoWithoutDiscount" : 57.9,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-08-28T21:59:59Z",
+      "brutto" : 57.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -52,15 +52,15 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 25.13
+      "provisionPoints" : 34.9
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "FRESH cream rich",
   "unit" : "Stk.",
   "unitContents" : "ml",
