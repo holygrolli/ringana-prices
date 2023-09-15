@@ -3,11 +3,13 @@
   "availableVariants" : [ {
     "matchcode" : "PROTEIN",
     "set" : false,
-    "travelSize" : false
+    "travelSize" : false,
+    "unit" : "Pck.",
+    "unitId" : 43589
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 85.3,
+    "brutto" : 76.8,
     "unit" : "g",
     "unitId" : 812
   },
@@ -31,10 +33,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 157.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 141.93,
+      "bruttoWithoutDiscount" : 157.7,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-09-29T08:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -42,13 +44,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 80.2
+      "provisionPoints" : 64.96
     },
     "partner" : {
-      "brutto" : 157.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 141.93,
+      "bruttoWithoutDiscount" : 157.7,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-09-29T08:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -56,7 +58,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 80.2
+      "provisionPoints" : 64.96
     }
   },
   "purchasePossible" : true,
