@@ -70,19 +70,9 @@
     "10" : {
       "amount" : 10,
       "gratis" : false,
-      "matchcode" : "FDIC-DE-EN-1"
-    },
-    "11" : {
-      "amount" : 10,
-      "gratis" : false,
       "matchcode" : "FDB-SK-1"
     },
-    "12" : {
-      "amount" : 10,
-      "gratis" : false,
-      "matchcode" : "RROPC"
-    },
-    "13" : {
+    "11" : {
       "amount" : 10,
       "gratis" : false,
       "matchcode" : "RFR-SK"
