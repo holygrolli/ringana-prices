@@ -11,12 +11,12 @@
   "currency" : "eur",
   "customerProduct" : false,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/12/rgk7ESUG-FRESH-date-bag_2021.png?q=100",
+  "image" : "https://i.ringana.com/2023/09/09.23.png?q=100",
   "isMerchandise" : true,
   "lang" : "de",
   "link" : "/partner-produkt/ringana-fresh-date-bag-nl/",
@@ -55,17 +55,17 @@
       "provisionPoints" : 110
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "BZO"
+      "matchcode" : "FSC"
     },
     "1" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "BRP"
+      "matchcode" : "BZO"
     },
     "10" : {
       "amount" : 10,
@@ -121,7 +121,7 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "RINGANA FRESH date bag &#8211; NL",
   "unit" : null,
   "unitContents" : null,

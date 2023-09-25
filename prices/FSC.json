@@ -1,25 +1,25 @@
 {
-  "matchcode" : "FLL50",
+  "matchcode" : "FSC",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 258,
+    "brutto" : 238,
     "unit" : "ml",
     "unitId" : 827
   },
-  "contentsAmount" : "50",
+  "contentsAmount" : "200",
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/06/R_Produktfoto_light-legs-pocket_2000x2000_1.png?q=100",
+  "image" : "https://i.ringana.com/2023/09/Scrub_Brandnew_Covention_01.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/fresh-light-legs-pocket/",
+  "link" : "/produkt/fresh-scrub/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -27,7 +27,7 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 12.9,
+      "brutto" : 47.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -38,10 +38,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 7.4
+      "provisionPoints" : 29
     },
     "partner" : {
-      "brutto" : 12.9,
+      "brutto" : 47.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -52,7 +52,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 7.4
+      "provisionPoints" : 29
     }
   },
   "purchasePossible" : false,
@@ -60,11 +60,11 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : true,
-  "title" : "FRESH light legs pocket",
+  "soldOut" : false,
+  "title" : "FRESH scrub face & body",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Frischespray für die Beine im Pocket-Format"
+  "usp" : "Peeling für Gesicht & Körper"
 }
