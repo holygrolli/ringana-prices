@@ -11,15 +11,15 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/05/R_sample-box-face-light.png?q=100",
+  "image" : "https://i.ringana.com/2023/09/R_sample-box-face-light.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/fresh-sample-box-light/",
+  "link" : "/produkt/fresh-sample-box-face-light/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -55,7 +55,7 @@
       "provisionPoints" : 14.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -81,7 +81,7 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : true,
+  "soldOut" : false,
   "title" : "FRESH sample box face light",
   "unit" : "Reisegröße",
   "unitContents" : "ml",
