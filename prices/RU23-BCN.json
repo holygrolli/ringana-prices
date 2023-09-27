@@ -1,9 +1,9 @@
 {
-  "matchcode" : "BCN",
+  "matchcode" : "RU23-BCN",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 2037.3,
+    "brutto" : 2546.6,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -11,15 +11,15 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/07/ringana-fresh-30ml-overnight.png?q=100",
+  "image" : "https://i.ringana.com/2023/09/Overnight_Face_NewForm_Covention_04.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/fresh-overnight-face-treatment-sale/",
+  "link" : "/produkt/fresh-overnight-face-treatment/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -27,10 +27,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 61.12,
-      "bruttoWithoutDiscount" : 76.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-09-28T10:00:00Z",
+      "brutto" : 76.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -38,13 +38,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 33.62
+      "provisionPoints" : 46.7
     },
     "partner" : {
-      "brutto" : 61.12,
-      "bruttoWithoutDiscount" : 76.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-09-28T10:00:00Z",
+      "brutto" : 76.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -52,7 +52,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 33.62
+      "provisionPoints" : 46.7
     }
   },
   "purchasePossible" : false,
@@ -60,11 +60,11 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : true,
-  "title" : "FRESH overnight face treatment &#8211; Sale",
+  "soldOut" : false,
+  "title" : "FRESH overnight face treatment",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Ageless Vitamin-Booster"
+  "usp" : "Intensive Better-Aging-Creme für das Gesicht"
 }
