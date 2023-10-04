@@ -1,25 +1,25 @@
 {
-  "matchcode" : "BRP",
+  "matchcode" : "BSR-LE-LS",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 182.4,
-    "unit" : "ml",
-    "unitId" : 827
+    "brutto" : 84,
+    "unit" : "g",
+    "unitId" : 812
   },
-  "contentsAmount" : "125",
+  "contentsAmount" : "100",
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/07/ringana-fresh-125ml-scrub.png?q=100",
+  "image" : "https://i.ringana.com/2023/07/R_Produktfoto_lemon_and_scrub_2000x2000_01.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/fresh-scrub-cbv7/",
+  "link" : "/produkt/fresh-soap-lemon-scrub/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -27,10 +27,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 22.8,
-      "bruttoWithoutDiscount" : 45.6,
-      "discountPercentage" : 50,
-      "discountUntil" : "2023-10-04T21:59:59Z",
+      "brutto" : 8.4,
+      "bruttoWithoutDiscount" : 10.5,
+      "discountPercentage" : 20,
+      "discountUntil" : "2023-10-05T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -38,13 +38,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 12.56
+      "provisionPoints" : 3.6
     },
     "partner" : {
-      "brutto" : 22.8,
-      "bruttoWithoutDiscount" : 45.6,
-      "discountPercentage" : 50,
-      "discountUntil" : "2023-10-04T21:59:59Z",
+      "brutto" : 8.4,
+      "bruttoWithoutDiscount" : 10.5,
+      "discountPercentage" : 20,
+      "discountUntil" : "2023-10-05T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -52,7 +52,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 12.56
+      "provisionPoints" : 3.6
     }
   },
   "purchasePossible" : false,
@@ -60,11 +60,11 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : true,
-  "title" : "FRESH scrub &#8211; SALE",
+  "soldOut" : false,
+  "title" : "FRESH soap lemon & scrub",
   "unit" : "Stk.",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
+  "unitContents" : "g",
+  "unitContentsId" : 812,
   "unitId" : 996,
-  "usp" : "Peeling für Gesicht & Körper"
+  "usp" : "Naturseife mit Reis-Peeling"
 }
