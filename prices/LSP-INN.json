@@ -11,17 +11,17 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : null,
+  "image" : "https://i.ringana.com/2023/10/innovations-set.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : null,
+  "link" : "/produkt/live-special-innovations-set/",
   "maxPerCart" : null,
-  "nemBackgroundColor" : null,
+  "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
   "partnerProduct" : true,
@@ -55,7 +55,7 @@
       "provisionPoints" : 48.38
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -73,14 +73,14 @@
       "matchcode" : "FSC"
     }
   },
-  "showOnFrontpage" : null,
+  "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
-  "title" : null,
+  "title" : "LIVE SPECIAL &#8211; Innovations Set",
   "unit" : "Set",
   "unitContents" : "Set",
   "unitContentsId" : 43586,
   "unitId" : 43586,
-  "usp" : null
+  "usp" : "Available from 5.10.2023 at 6.30 p.m."
 }
