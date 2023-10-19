@@ -2,12 +2,12 @@
   "matchcode" : "PZO10",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 186,
-    "unit" : "ml",
-    "unitId" : 827
+    "amount" : null,
+    "brutto" : null,
+    "unit" : null,
+    "unitId" : null
   },
-  "contentsAmount" : "150",
+  "contentsAmount" : "10",
   "currency" : "eur",
   "customerProduct" : false,
   "deliveryAddressIso" : "DE",
@@ -68,9 +68,9 @@
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "FRESH tooth oil sample, Set of 10",
-  "unit" : "Reisegröße",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
-  "unitId" : 43592,
+  "unit" : "Pck.",
+  "unitContents" : "Stk.",
+  "unitContentsId" : 996,
+  "unitId" : 43589,
   "usp" : ""
 }
