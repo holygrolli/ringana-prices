@@ -1,40 +1,36 @@
 {
-  "matchcode" : "WPA3",
-  "availableVariants" : [ {
-    "matchcode" : "WPA",
-    "set" : false,
-    "travelSize" : false
-  } ],
+  "matchcode" : "BSR-LE-LS",
+  "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 269.6,
+    "brutto" : 84,
     "unit" : "g",
     "unitId" : 812
   },
-  "contentsAmount" : "780",
+  "contentsAmount" : "100",
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/03/ringana-box-small-antiox-Set_of_3_NEW.png?q=100",
+  "image" : null,
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/pack-antiox-set/",
+  "link" : null,
   "maxPerCart" : null,
-  "nemBackgroundColor" : "",
+  "nemBackgroundColor" : null,
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 210.3,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 8.4,
+      "bruttoWithoutDiscount" : 10.5,
+      "discountPercentage" : 20,
+      "discountUntil" : "2023-10-31T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -42,13 +38,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 95.5
+      "provisionPoints" : 3.6
     },
     "partner" : {
-      "brutto" : 210.3,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 8.4,
+      "bruttoWithoutDiscount" : 10.5,
+      "discountPercentage" : 20,
+      "discountUntil" : "2023-10-31T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -56,25 +52,19 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 95.5
+      "provisionPoints" : 3.6
     }
   },
-  "purchasePossible" : true,
-  "setContents" : {
-    "0" : {
-      "amount" : 3,
-      "gratis" : false,
-      "matchcode" : "WPA"
-    }
-  },
-  "showOnFrontpage" : false,
+  "purchasePossible" : false,
+  "setContents" : { },
+  "showOnFrontpage" : null,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
-  "title" : "FRESH pack antiox, Set of 3",
-  "unit" : "Set",
+  "title" : null,
+  "unit" : "Stk.",
   "unitContents" : "g",
   "unitContentsId" : 812,
-  "unitId" : 43586,
-  "usp" : "Vitaminbooster"
+  "unitId" : 996,
+  "usp" : null
 }
