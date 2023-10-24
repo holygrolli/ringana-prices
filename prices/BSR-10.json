@@ -1,9 +1,9 @@
 {
-  "matchcode" : "BSR-LE-GTT-10",
+  "matchcode" : "BSR-10",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 94.5,
+    "brutto" : 91.8,
     "unit" : "g",
     "unitId" : 812
   },
@@ -16,10 +16,10 @@
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/10/R_Produktfoto_soap-green-tea-tiger-grass_2000x2000_set-of-10_2.png?q=100",
+  "image" : "https://i.ringana.com/2022/11/eDaNPHcc-ringana-fresh-soap_10er.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/fresh-soap-green-tea-tiger-grass-set-of-10/",
+  "link" : "/produkt/fresh-soap-set-of-10/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -27,7 +27,7 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 94.5,
+      "brutto" : 91.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -41,7 +41,7 @@
       "provisionPoints" : 40.5
     },
     "partner" : {
-      "brutto" : 94.5,
+      "brutto" : 91.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -60,17 +60,17 @@
     "0" : {
       "amount" : 10,
       "gratis" : false,
-      "matchcode" : "BSR-LE-GTT"
+      "matchcode" : "BSR"
     }
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
-  "title" : "FRESH soap green tea & tiger grass, Set of 10",
-  "unit" : "g",
+  "title" : "FRESH soap, Set of 10",
+  "unit" : null,
   "unitContents" : "g",
   "unitContentsId" : 812,
-  "unitId" : 812,
-  "usp" : "Limited Edition"
+  "unitId" : null,
+  "usp" : "Seife"
 }
