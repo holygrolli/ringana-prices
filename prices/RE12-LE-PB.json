@@ -1,0 +1,70 @@
+{
+  "matchcode" : "RE12-LE-PB",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : 1000,
+    "brutto" : 145.8,
+    "unit" : "ml",
+    "unitId" : 827
+  },
+  "contentsAmount" : "360",
+  "currency" : "eur",
+  "customerProduct" : true,
+  "deliveryAddressIso" : "DE",
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : null,
+  "isMerchandise" : false,
+  "lang" : "de",
+  "link" : null,
+  "maxPerCart" : null,
+  "nemBackgroundColor" : null,
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : true,
+  "prices" : {
+    "customer" : {
+      "brutto" : 52.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 28.5
+    },
+    "partner" : {
+      "brutto" : 52.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 28.5
+    }
+  },
+  "purchasePossible" : false,
+  "setContents" : { },
+  "showOnFrontpage" : null,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : null,
+  "unit" : "Pck.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 43589,
+  "usp" : null
+}
