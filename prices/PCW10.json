@@ -1,0 +1,76 @@
+{
+  "matchcode" : "PCW10",
+  "availableVariants" : [ ],
+  "basePrice" : {
+    "amount" : null,
+    "brutto" : null,
+    "unit" : null,
+    "unitId" : null
+  },
+  "contentsAmount" : "10",
+  "currency" : "eur",
+  "customerProduct" : false,
+  "deliveryAddressIso" : "DE",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "image" : "https://i.ringana.com/2023/10/FRESH_cleansing_water_sample_set_of_10.png?q=100",
+  "isMerchandise" : true,
+  "lang" : "de",
+  "link" : "/partner-produkt/fresh-cleansing-water-sample-set-of-10/",
+  "maxPerCart" : null,
+  "nemBackgroundColor" : "",
+  "notSearchable" : false,
+  "partnerApplicationProduct" : false,
+  "partnerProduct" : true,
+  "prices" : {
+    "customer" : {
+      "brutto" : 21,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 0
+    },
+    "partner" : {
+      "brutto" : 21,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 0
+    }
+  },
+  "purchasePossible" : true,
+  "setContents" : {
+    "0" : {
+      "amount" : 10,
+      "gratis" : false,
+      "matchcode" : "PCW"
+    }
+  },
+  "showOnFrontpage" : false,
+  "singleShipmentOnly" : false,
+  "skinTypes" : null,
+  "soldOut" : false,
+  "title" : "FRESH cleansing water sample, Set of 10",
+  "unit" : "Pck.",
+  "unitContents" : "Stk.",
+  "unitContentsId" : 996,
+  "unitId" : 43589,
+  "usp" : ""
+}
