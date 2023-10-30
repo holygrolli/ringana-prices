@@ -1,6 +1,10 @@
 {
   "matchcode" : "RE12-LE-PB",
-  "availableVariants" : [ ],
+  "availableVariants" : [ {
+    "matchcode" : "RE24-LE-PB",
+    "set" : false,
+    "travelSize" : false
+  } ],
   "basePrice" : {
     "amount" : 1000,
     "brutto" : 145.8,
@@ -11,8 +15,8 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -55,7 +59,7 @@
       "provisionPoints" : 28.5
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
