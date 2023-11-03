@@ -3,13 +3,11 @@
   "availableVariants" : [ {
     "matchcode" : "CMV",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 1136,
+    "brutto" : 1022.4,
     "unit" : "g",
     "unitId" : 812
   },
@@ -33,10 +31,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 156.1,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 140.49,
+      "bruttoWithoutDiscount" : 156.1,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-11-10T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -44,13 +42,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 79.2
+      "provisionPoints" : 64.15
     },
     "partner" : {
-      "brutto" : 156.1,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 140.49,
+      "bruttoWithoutDiscount" : 156.1,
+      "discountPercentage" : 10,
+      "discountUntil" : "2023-11-10T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -58,7 +56,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 79.2
+      "provisionPoints" : 64.15
     }
   },
   "purchasePossible" : true,
