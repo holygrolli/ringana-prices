@@ -55,7 +55,7 @@
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 10,
