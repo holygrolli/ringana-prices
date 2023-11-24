@@ -7,7 +7,7 @@
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 3299.7,
+    "brutto" : 2752.1,
     "unit" : "g",
     "unitId" : 812
   },
@@ -15,12 +15,12 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/08/ringana-caps-spermidine-new_logo.png?q=100",
+  "image" : "https://i.ringana.com/2023/11/R_Produktfoto_spermedine_2000x2000_5.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/beyond-spermidine/",
@@ -31,7 +31,7 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 114.5,
+      "brutto" : 95.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -42,10 +42,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 63.8
+      "provisionPoints" : 53.8
     },
     "partner" : {
-      "brutto" : 114.5,
+      "brutto" : 95.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -56,7 +56,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 63.8
+      "provisionPoints" : 53.8
     }
   },
   "purchasePossible" : false,
@@ -64,7 +64,7 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : true,
+  "soldOut" : false,
   "title" : "BEYOND spermidine",
   "unit" : "Pck.",
   "unitContents" : "g",

@@ -7,7 +7,7 @@
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 2970.2,
+    "brutto" : 2477.4,
     "unit" : "g",
     "unitId" : 812
   },
@@ -15,12 +15,12 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/06/ringana-caps-spermidine_Set_of_3.png?q=100",
+  "image" : "https://i.ringana.com/2023/11/R_Produktfoto_spermedine_2000x2000_6.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/beyond-spermidine-set/",
@@ -31,7 +31,7 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 309.2,
+      "brutto" : 257.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -42,10 +42,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 155
+      "provisionPoints" : 130.7
     },
     "partner" : {
-      "brutto" : 309.2,
+      "brutto" : 257.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -56,7 +56,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 155
+      "provisionPoints" : 130.7
     }
   },
   "purchasePossible" : false,
@@ -70,7 +70,7 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : true,
+  "soldOut" : false,
   "title" : "BEYOND spermidine, Set of 3",
   "unit" : "Set",
   "unitContents" : "g",
