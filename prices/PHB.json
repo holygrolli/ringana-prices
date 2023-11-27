@@ -1,40 +1,36 @@
 {
-  "matchcode" : "RI12",
-  "availableVariants" : [ {
-    "matchcode" : "RI24",
-    "set" : false,
-    "travelSize" : false
-  } ],
+  "matchcode" : "PHB",
+  "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 123.7,
+    "brutto" : 226.6,
     "unit" : "ml",
     "unitId" : 827
   },
-  "contentsAmount" : "360",
+  "contentsAmount" : "15",
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/09/R_Produktfoto_isi_2000x2000_NewForm.png?q=100",
+  "image" : "https://i.ringana.com/2023/11/R_Produktfoto_pouch_hand-balm_2000x2000.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/ringanaisi/",
+  "link" : "/produkt/fresh-hand-balm-sample/",
   "maxPerCart" : null,
-  "nemBackgroundColor" : "bc204b",
+  "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 44.56,
-      "bruttoWithoutDiscount" : 55.7,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-11-27T22:59:59Z",
+      "brutto" : 3.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -42,13 +38,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 23.04
+      "provisionPoints" : 1.6
     },
     "partner" : {
-      "brutto" : 44.56,
-      "bruttoWithoutDiscount" : 55.7,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-11-27T22:59:59Z",
+      "brutto" : 3.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -56,19 +52,19 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 23.04
+      "provisionPoints" : 1.6
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
-  "title" : "RINGANAisi",
-  "unit" : "Pck.",
+  "title" : "FRESH hand balm sample",
+  "unit" : null,
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : 43589,
-  "usp" : "Entschleunigungsdrink"
+  "unitId" : null,
+  "usp" : "Handbalsam"
 }

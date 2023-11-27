@@ -1,5 +1,5 @@
 {
-  "matchcode" : "FSBB",
+  "matchcode" : "DVPZO-5",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
@@ -9,17 +9,17 @@
   },
   "contentsAmount" : null,
   "currency" : "eur",
-  "customerProduct" : true,
+  "customerProduct" : false,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/11/R_sample-box-body-.png?q=100",
-  "isMerchandise" : false,
+  "image" : "https://i.ringana.com/2023/11/Digital_Voucher_for_FRESH_tooth_oil_sample_set_of_5-1.png?q=100",
+  "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/produkt/fresh-sample-box-body/",
+  "link" : "/partner-produkt/digital-voucher-tooth-oil-sample-set-of-5/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -27,7 +27,7 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 8.5,
+      "brutto" : 2.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -38,10 +38,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 3
+      "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 8.5,
+      "brutto" : 2.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -52,35 +52,25 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 3
+      "provisionPoints" : 0
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
-      "amount" : 1,
+      "amount" : 5,
       "gratis" : false,
-      "matchcode" : "PKM"
-    },
-    "1" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "PFB"
-    },
-    "2" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "PHB"
+      "matchcode" : "DVPZO-1"
     }
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : true,
-  "title" : "FRESH sample box body",
+  "soldOut" : false,
+  "title" : "Digital Voucher for FRESH tooth oil sample, Set of 5",
   "unit" : null,
   "unitContents" : null,
   "unitContentsId" : null,
   "unitId" : null,
-  "usp" : "FRESH body milk, foot balm, hand balm"
+  "usp" : ""
 }
