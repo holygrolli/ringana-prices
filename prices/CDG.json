@@ -34,7 +34,7 @@
       "brutto" : 40.48,
       "bruttoWithoutDiscount" : 50.6,
       "discountPercentage" : 20,
-      "discountUntil" : "2023-12-04T22:59:59Z",
+      "discountUntil" : "2023-12-05T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -48,7 +48,7 @@
       "brutto" : 40.48,
       "bruttoWithoutDiscount" : 50.6,
       "discountPercentage" : 20,
-      "discountUntil" : "2023-12-04T22:59:59Z",
+      "discountUntil" : "2023-12-05T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
