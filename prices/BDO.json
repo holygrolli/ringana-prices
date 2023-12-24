@@ -3,7 +3,7 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 165.7,
+    "brutto" : 207.2,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -27,10 +27,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 20.72,
-      "bruttoWithoutDiscount" : 25.9,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-12-23T22:59:59Z",
+      "brutto" : 25.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -38,13 +38,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 10.51
+      "provisionPoints" : 14.6
     },
     "partner" : {
-      "brutto" : 20.72,
-      "bruttoWithoutDiscount" : 25.9,
-      "discountPercentage" : 20,
-      "discountUntil" : "2023-12-23T22:59:59Z",
+      "brutto" : 25.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -52,7 +52,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 10.51
+      "provisionPoints" : 14.6
     }
   },
   "purchasePossible" : true,
