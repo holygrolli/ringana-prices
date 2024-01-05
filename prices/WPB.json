@@ -2,12 +2,14 @@
   "matchcode" : "WPB",
   "availableVariants" : [ {
     "matchcode" : "WPB3",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 190,
+    "brutto" : 171,
     "unit" : "g",
     "unitId" : 812
   },
@@ -31,10 +33,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 49.4,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 44.46,
+      "bruttoWithoutDiscount" : 49.4,
+      "discountPercentage" : 10,
+      "discountUntil" : "2024-01-19T09:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -42,13 +44,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 28
+      "provisionPoints" : 22.68
     },
     "partner" : {
-      "brutto" : 49.4,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 44.46,
+      "bruttoWithoutDiscount" : 49.4,
+      "discountPercentage" : 10,
+      "discountUntil" : "2024-01-19T09:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -56,7 +58,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 28
+      "provisionPoints" : 22.68
     }
   },
   "purchasePossible" : true,
