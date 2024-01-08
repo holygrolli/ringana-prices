@@ -11,8 +11,8 @@
   "currency" : "eur",
   "customerProduct" : false,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -55,7 +55,7 @@
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 5,
@@ -66,11 +66,11 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : true,
+  "soldOut" : false,
   "title" : "FRESH hand balm sample, Set of 5",
-  "unit" : "Pck.",
+  "unit" : null,
   "unitContents" : "Stk.",
   "unitContentsId" : 996,
-  "unitId" : 43589,
+  "unitId" : null,
   "usp" : ""
 }
