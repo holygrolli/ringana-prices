@@ -2,12 +2,14 @@
   "matchcode" : "RSP",
   "availableVariants" : [ {
     "matchcode" : "RSP3",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 1327.2,
+    "brutto" : 1194.5,
     "unit" : "g",
     "unitId" : 812
   },
@@ -31,10 +33,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 65.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 59.13,
+      "bruttoWithoutDiscount" : 65.7,
+      "discountPercentage" : 10,
+      "discountUntil" : "2024-02-02T09:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -42,13 +44,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 39
+      "provisionPoints" : 31.59
     },
     "partner" : {
-      "brutto" : 65.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 59.13,
+      "bruttoWithoutDiscount" : 65.7,
+      "discountPercentage" : 10,
+      "discountUntil" : "2024-02-02T09:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -56,7 +58,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 39
+      "provisionPoints" : 31.59
     }
   },
   "purchasePossible" : true,
