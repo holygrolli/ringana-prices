@@ -3,7 +3,7 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 3033.3,
+    "brutto" : 3160,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -27,7 +27,7 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 45.5,
+      "brutto" : 47.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -41,7 +41,7 @@
       "provisionPoints" : 27.5
     },
     "partner" : {
-      "brutto" : 45.5,
+      "brutto" : 47.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,

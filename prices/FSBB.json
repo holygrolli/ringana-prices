@@ -11,12 +11,12 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/11/R_sample-box-body-.png?q=100",
+  "image" : "https://i.ringana.com/2024/01/RINGANA-fresh-sample-box-body.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/fresh-sample-box-body/",
@@ -27,7 +27,7 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 8.5,
+      "brutto" : 9.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -41,7 +41,7 @@
       "provisionPoints" : 3
     },
     "partner" : {
-      "brutto" : 8.5,
+      "brutto" : 9.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -55,7 +55,7 @@
       "provisionPoints" : 3
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -71,16 +71,21 @@
       "amount" : 1,
       "gratis" : false,
       "matchcode" : "PHB"
+    },
+    "3" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "PDO"
     }
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : true,
+  "soldOut" : false,
   "title" : "FRESH sample box body",
   "unit" : null,
   "unitContents" : null,
   "unitContentsId" : null,
   "unitId" : null,
-  "usp" : "FRESH body milk, foot balm, hand balm"
+  "usp" : "FRESH body milk, foot balm, hand balm, deodorant"
 }

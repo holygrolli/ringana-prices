@@ -8,14 +8,12 @@
     "unitId" : 43589
   }, {
     "matchcode" : "RE24",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 158.8,
+    "brutto" : 151.1,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -39,7 +37,7 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 14.3,
+      "brutto" : 13.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -50,10 +48,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 7.8
+      "provisionPoints" : 7.4
     },
     "partner" : {
-      "brutto" : 14.3,
+      "brutto" : 13.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -64,7 +62,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 7.8
+      "provisionPoints" : 7.4
     }
   },
   "purchasePossible" : true,
