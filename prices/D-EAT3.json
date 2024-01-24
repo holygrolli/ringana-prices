@@ -3,13 +3,11 @@
   "availableVariants" : [ {
     "matchcode" : "D-EAT",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 67.5,
+    "brutto" : 84.4,
     "unit" : "g",
     "unitId" : 812
   },
@@ -17,8 +15,8 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -33,10 +31,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 141.92,
-      "bruttoWithoutDiscount" : 177.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-01-28T22:59:59Z",
+      "brutto" : 177.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -44,13 +42,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 63
+      "provisionPoints" : 87.5
     },
     "partner" : {
-      "brutto" : 141.92,
-      "bruttoWithoutDiscount" : 177.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-01-28T22:59:59Z",
+      "brutto" : 177.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -58,10 +56,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 63
+      "provisionPoints" : 87.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 3,
@@ -72,7 +70,7 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "COMPLETE d-eat, Set of 3",
   "unit" : "Set",
   "unitContents" : "g",
