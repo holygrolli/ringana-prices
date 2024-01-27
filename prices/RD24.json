@@ -3,9 +3,7 @@
   "availableVariants" : [ {
     "matchcode" : "RD12",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : null,
@@ -17,8 +15,8 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -33,10 +31,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 89.84,
-      "bruttoWithoutDiscount" : 112.3,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-01-28T22:59:59Z",
+      "brutto" : 112.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -44,13 +42,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 42.26
+      "provisionPoints" : 58.7
     },
     "partner" : {
-      "brutto" : 89.84,
-      "bruttoWithoutDiscount" : 112.3,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-01-28T22:59:59Z",
+      "brutto" : 112.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -58,10 +56,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 42.26
+      "provisionPoints" : 58.7
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 2,
@@ -72,7 +70,7 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "RINGANAdea, Set of 2",
   "unit" : "Set",
   "unitContents" : "ml",
