@@ -1,5 +1,5 @@
 {
-  "matchcode" : "RXMAS-2-2023",
+  "matchcode" : "DVPCW-5",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
@@ -9,17 +9,17 @@
   },
   "contentsAmount" : null,
   "currency" : "eur",
-  "customerProduct" : true,
+  "customerProduct" : false,
   "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/11/R_Produktfoto_snowflake-skincare-set_2000x2000_1.png?q=100",
-  "isMerchandise" : false,
+  "image" : "https://i.ringana.com/2023/12/Digital_Voucher_for_FRESH_cleansing_water_set_of_5-1.png?q=100",
+  "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/produkt/ringana-snowflake-skincare-set/",
+  "link" : "/partner-produkt/dvpcw-5/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -27,10 +27,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 47.36,
-      "bruttoWithoutDiscount" : 59.2,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-01-31T22:59:59Z",
+      "brutto" : 4.7,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -38,13 +38,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 21.89
+      "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 47.36,
-      "bruttoWithoutDiscount" : 59.2,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-01-31T22:59:59Z",
+      "brutto" : 4.7,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -52,35 +52,25 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 21.89
+      "provisionPoints" : 0
     }
   },
   "purchasePossible" : true,
   "setContents" : {
     "0" : {
-      "amount" : 1,
+      "amount" : 5,
       "gratis" : false,
-      "matchcode" : "BKM-R"
-    },
-    "1" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "BLB-R-S"
-    },
-    "2" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "BSR-LE-MO"
+      "matchcode" : "DVPCW-1"
     }
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
-  "title" : "RINGANA Snowflake Skincare Set",
-  "unit" : "Set",
-  "unitContents" : "Set",
-  "unitContentsId" : 43586,
-  "unitId" : 43586,
-  "usp" : "Limitierte Weihnachts-Box"
+  "title" : "Digital Voucher for FRESH cleansing water sample, Set of 5",
+  "unit" : null,
+  "unitContents" : null,
+  "unitContentsId" : null,
+  "unitId" : null,
+  "usp" : ""
 }
