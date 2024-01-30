@@ -11,8 +11,8 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -55,7 +55,7 @@
       "provisionPoints" : 29.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -78,9 +78,9 @@
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "Be my Valentine Special &#8211; Nuance 1",
-  "unit" : null,
+  "unit" : "Set",
   "unitContents" : "Set",
   "unitContentsId" : 43586,
-  "unitId" : null,
+  "unitId" : 43586,
   "usp" : "Valentinstags-Special"
 }
