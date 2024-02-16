@@ -86,6 +86,11 @@
       "amount" : 1,
       "gratis" : false,
       "matchcode" : "RBC"
+    },
+    "6" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "RBSTI"
     }
   },
   "showOnFrontpage" : false,
