@@ -3,7 +3,7 @@
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 3160,
+    "brutto" : 2528,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -16,7 +16,7 @@
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/02/R_Produktfoto_eye-serum_2000x2000_1.png?q=100",
+  "image" : "https://i.ringana.com/2024/02/RINGANA-fresh-eye-serum.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/fresh-eye-serum/",
@@ -27,10 +27,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 47.4,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 37.92,
+      "bruttoWithoutDiscount" : 47.4,
+      "discountPercentage" : 20,
+      "discountUntil" : "2024-02-22T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -38,13 +38,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 27.5
+      "provisionPoints" : 19.8
     },
     "partner" : {
-      "brutto" : 47.4,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 37.92,
+      "bruttoWithoutDiscount" : 47.4,
+      "discountPercentage" : 20,
+      "discountUntil" : "2024-02-22T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -52,7 +52,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 27.5
+      "provisionPoints" : 19.8
     }
   },
   "purchasePossible" : true,

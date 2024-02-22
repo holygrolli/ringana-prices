@@ -7,7 +7,7 @@
     "unit" : null,
     "unitId" : null
   },
-  "contentsAmount" : "170",
+  "contentsAmount" : "165",
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
@@ -27,10 +27,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 22.6,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 18.08,
+      "bruttoWithoutDiscount" : 22.6,
+      "discountPercentage" : 20,
+      "discountUntil" : "2024-02-29T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -38,13 +38,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 13
+      "provisionPoints" : 9.36
     },
     "partner" : {
-      "brutto" : 22.6,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 18.08,
+      "bruttoWithoutDiscount" : 22.6,
+      "discountPercentage" : 20,
+      "discountUntil" : "2024-02-29T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -52,7 +52,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 13
+      "provisionPoints" : 9.36
     }
   },
   "purchasePossible" : true,
