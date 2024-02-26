@@ -3,9 +3,7 @@
   "availableVariants" : [ {
     "matchcode" : "RE12",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "travelSize" : false
   }, {
     "matchcode" : "RE24",
     "set" : false,
