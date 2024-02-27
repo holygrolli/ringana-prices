@@ -20,7 +20,7 @@
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/sunglasses/",
-  "maxPerCart" : 1,
+  "maxPerCart" : 12345,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
