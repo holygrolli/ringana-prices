@@ -67,6 +67,16 @@
       "gratis" : false,
       "matchcode" : "BZO"
     },
+    "10" : {
+      "amount" : 10,
+      "gratis" : false,
+      "matchcode" : "RFR-PT"
+    },
+    "11" : {
+      "amount" : 10,
+      "gratis" : false,
+      "matchcode" : "FDB-PT-1"
+    },
     "2" : {
       "amount" : 1,
       "gratis" : false,
