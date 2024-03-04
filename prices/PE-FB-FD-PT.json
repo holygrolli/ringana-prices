@@ -1,5 +1,5 @@
 {
-  "matchcode" : "FS-FD-SK",
+  "matchcode" : "PE-FB-FD-PT",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
@@ -11,15 +11,15 @@
   "currency" : "eur",
   "customerProduct" : false,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/09/FRESH_Date_Bag.png?q=100",
+  "image" : "https://i.ringana.com/2024/03/23VXvioW-V3_Founder_Bonus_Set_FRESH_date_bag.png?q=100",
   "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/partner-produkt/ringana-fresh-date-bag-sk/",
+  "link" : "/partner-produkt/ringana-fresh-date-bag-pt/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -55,7 +55,7 @@
       "provisionPoints" : 110
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -65,32 +65,32 @@
     "1" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "BZO"
+      "matchcode" : "FTB"
     },
     "10" : {
       "amount" : 10,
       "gratis" : false,
-      "matchcode" : "RFR-SK"
+      "matchcode" : "FDB-PT-1"
     },
     "11" : {
       "amount" : 10,
       "gratis" : false,
-      "matchcode" : "FDB-SK-1"
+      "matchcode" : "RFR-PT"
     },
     "2" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "BDO"
+      "matchcode" : "BZO"
     },
     "3" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "D-EAT-2"
+      "matchcode" : "BDO"
     },
     "4" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "RE3"
+      "matchcode" : "BSR"
     },
     "5" : {
       "amount" : 1,
@@ -122,7 +122,7 @@
   "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
-  "title" : "RINGANA FRESH date bag &#8211; SK",
+  "title" : "RINGANA FRESH date bag &#8211; PT",
   "unit" : null,
   "unitContents" : null,
   "unitContentsId" : null,

@@ -1,5 +1,5 @@
 {
-  "matchcode" : "FS-FD-PT",
+  "matchcode" : "PE-FB-FD-DE",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
@@ -16,10 +16,10 @@
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/09/FRESH_Date_Bag.png?q=100",
+  "image" : "https://i.ringana.com/2024/03/23VXvioW-V3_Founder_Bonus_Set_FRESH_date_bag.png?q=100",
   "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/partner-produkt/ringana-fresh-date-bag-pt/",
+  "link" : "/partner-produkt/ringana-fresh-date-bag-de/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -65,32 +65,32 @@
     "1" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "BZO"
+      "matchcode" : "FTB"
     },
     "10" : {
       "amount" : 10,
       "gratis" : false,
-      "matchcode" : "RFR-PT"
+      "matchcode" : "FDB-DE-1"
     },
     "11" : {
       "amount" : 10,
       "gratis" : false,
-      "matchcode" : "FDB-PT-1"
+      "matchcode" : "RFR-DE"
     },
     "2" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "BDO"
+      "matchcode" : "BZO"
     },
     "3" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "D-EAT-2"
+      "matchcode" : "BDO"
     },
     "4" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "RE3"
+      "matchcode" : "BSR"
     },
     "5" : {
       "amount" : 1,
@@ -122,7 +122,7 @@
   "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
-  "title" : "RINGANA FRESH date bag &#8211; PT",
+  "title" : "RINGANA FRESH date bag &#8211; DE",
   "unit" : null,
   "unitContents" : null,
   "unitContentsId" : null,

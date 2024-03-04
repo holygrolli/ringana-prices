@@ -1,25 +1,25 @@
 {
-  "matchcode" : "PZO5",
+  "matchcode" : "RBTG",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : null,
-    "brutto" : null,
-    "unit" : null,
-    "unitId" : null
+    "amount" : 1000,
+    "brutto" : 218,
+    "unit" : "ml",
+    "unitId" : 827
   },
-  "contentsAmount" : "5",
+  "contentsAmount" : "50",
   "currency" : "eur",
-  "customerProduct" : false,
+  "customerProduct" : true,
   "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/11/FRESH_tooth_oil_sample_set_of_5.png?q=100",
-  "isMerchandise" : true,
+  "image" : "https://i.ringana.com/2024/03/Ringana-produkt-fresh-baby-tooth-gel-brand-new.png?q=100",
+  "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/partner-produkt/fresh-tooth-oil-sample-set-of-5/",
+  "link" : "/produkt/fresh-baby-tooth-gel/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -27,7 +27,7 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 6.4,
+      "brutto" : 10.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -38,10 +38,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 5.3
     },
     "partner" : {
-      "brutto" : 6.4,
+      "brutto" : 10.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -52,25 +52,19 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 5.3
     }
   },
   "purchasePossible" : true,
-  "setContents" : {
-    "0" : {
-      "amount" : 5,
-      "gratis" : false,
-      "matchcode" : "PZO"
-    }
-  },
+  "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
-  "title" : "FRESH tooth oil sample, Set of 5",
-  "unit" : "Pck.",
-  "unitContents" : "Stk.",
-  "unitContentsId" : 996,
-  "unitId" : 43589,
-  "usp" : ""
+  "title" : "FRESH baby tooth gel",
+  "unit" : "Stk.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 996,
+  "usp" : "Pflege für Baby- und Kinderzähne"
 }

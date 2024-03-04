@@ -1,5 +1,5 @@
 {
-  "matchcode" : "FS-FD-ES",
+  "matchcode" : "PE-FBS",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
@@ -16,10 +16,10 @@
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/09/FRESH_Date_Bag.png?q=100",
+  "image" : "https://i.ringana.com/2024/02/V3_Founder_Bonus_Sets_Supplements.png?q=100",
   "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/partner-produkt/ringana-fresh-date-bag-es/",
+  "link" : "/partner-produkt/ringana-founder-bonus-supplements/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -27,7 +27,7 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 199,
+      "brutto" : 410,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -38,10 +38,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 110
+      "provisionPoints" : 226.8
     },
     "partner" : {
-      "brutto" : 199,
+      "brutto" : 410,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -52,7 +52,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 110
+      "provisionPoints" : 226.8
     }
   },
   "purchasePossible" : true,
@@ -60,72 +60,47 @@
     "0" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "FSC"
+      "matchcode" : "WPA"
     },
     "1" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "BZO"
-    },
-    "10" : {
-      "amount" : 10,
-      "gratis" : false,
-      "matchcode" : "RFR-ES"
-    },
-    "11" : {
-      "amount" : 10,
-      "gratis" : false,
-      "matchcode" : "FDB-ES-1"
+      "matchcode" : "WPB"
     },
     "2" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "BDO"
+      "matchcode" : "WPC"
     },
     "3" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "D-EAT-2"
+      "matchcode" : "COV"
     },
     "4" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "RE3"
+      "matchcode" : "CIV"
     },
     "5" : {
       "amount" : 1,
       "gratis" : false,
-      "matchcode" : "BFB"
+      "matchcode" : "CSV"
     },
     "6" : {
       "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "BHB"
-    },
-    "7" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "BKM"
-    },
-    "8" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "RFDB"
-    },
-    "9" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "RBPP-10"
+      "gratis" : true,
+      "matchcode" : "RSG-SBB"
     }
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
-  "title" : "RINGANA FRESH date bag &#8211; ES",
-  "unit" : null,
-  "unitContents" : null,
-  "unitContentsId" : null,
-  "unitId" : null,
+  "title" : "RINGANA Founder Bonus Supplements",
+  "unit" : "Set",
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
+  "unitId" : 43586,
   "usp" : ""
 }

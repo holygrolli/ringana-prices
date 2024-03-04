@@ -1,5 +1,5 @@
 {
-  "matchcode" : "PZO5",
+  "matchcode" : "PE-FB-SPORT",
   "availableVariants" : [ ],
   "basePrice" : {
     "amount" : null,
@@ -7,7 +7,7 @@
     "unit" : null,
     "unitId" : null
   },
-  "contentsAmount" : "5",
+  "contentsAmount" : null,
   "currency" : "eur",
   "customerProduct" : false,
   "deliveryAddressIso" : "DE",
@@ -16,10 +16,10 @@
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/11/FRESH_tooth_oil_sample_set_of_5.png?q=100",
+  "image" : "https://i.ringana.com/2024/02/V3_Founder_Bonus_Set_Sport.png?q=100",
   "isMerchandise" : true,
   "lang" : "de",
-  "link" : "/partner-produkt/fresh-tooth-oil-sample-set-of-5/",
+  "link" : "/partner-produkt/ringana-founder-bonus-sport/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -27,7 +27,7 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 6.4,
+      "brutto" : 323.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -38,10 +38,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 186.4
     },
     "partner" : {
-      "brutto" : 6.4,
+      "brutto" : 323.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -52,25 +52,65 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 186.4
     }
   },
   "purchasePossible" : true,
   "setContents" : {
     "0" : {
-      "amount" : 5,
+      "amount" : 1,
       "gratis" : false,
-      "matchcode" : "PZO"
+      "matchcode" : "RSP"
+    },
+    "1" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "RSB"
+    },
+    "2" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "PROTEIN"
+    },
+    "3" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "CAV"
+    },
+    "4" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "BRS"
+    },
+    "5" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "BDB"
+    },
+    "6" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "BDO"
+    },
+    "7" : {
+      "amount" : 1,
+      "gratis" : false,
+      "matchcode" : "FLL"
+    },
+    "8" : {
+      "amount" : 1,
+      "gratis" : true,
+      "matchcode" : "RSBB-LE"
     }
   },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
-  "title" : "FRESH tooth oil sample, Set of 5",
-  "unit" : "Pck.",
-  "unitContents" : "Stk.",
-  "unitContentsId" : 996,
-  "unitId" : 43589,
+  "title" : "RINGANA Founder Bonus SPORT",
+  "unit" : "Set",
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
+  "unitId" : 43586,
   "usp" : ""
 }
