@@ -1,17 +1,13 @@
 {
-  "matchcode" : "CUV",
-  "availableVariants" : [ {
-    "matchcode" : "CUV3",
-    "set" : false,
-    "travelSize" : false
-  } ],
+  "matchcode" : "BKM-R",
+  "availableVariants" : [ ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 813.8,
-    "unit" : "g",
-    "unitId" : 812
+    "brutto" : 151.6,
+    "unit" : "ml",
+    "unitId" : 827
   },
-  "contentsAmount" : "40,5",
+  "contentsAmount" : "200",
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
@@ -20,19 +16,19 @@
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/07/ringana-caps-hydro.png?q=100",
+  "image" : "https://i.ringana.com/2024/03/RINGANA-fresh-body-milk-rose-limited.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/caps-hydro/",
+  "link" : "/produkt/fresh-body-milk-rose/",
   "maxPerCart" : null,
-  "nemBackgroundColor" : "9bcbeb",
+  "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 32.96,
-      "bruttoWithoutDiscount" : 41.2,
+      "brutto" : 30.32,
+      "bruttoWithoutDiscount" : 37.9,
       "discountPercentage" : 20,
       "discountUntil" : "2024-03-08T22:59:59Z",
       "initialPurchase" : {
@@ -42,11 +38,11 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 16.42
+      "provisionPoints" : 15.19
     },
     "partner" : {
-      "brutto" : 32.96,
-      "bruttoWithoutDiscount" : 41.2,
+      "brutto" : 30.32,
+      "bruttoWithoutDiscount" : 37.9,
       "discountPercentage" : 20,
       "discountUntil" : "2024-03-08T22:59:59Z",
       "initialPurchase" : {
@@ -56,7 +52,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 16.42
+      "provisionPoints" : 15.19
     }
   },
   "purchasePossible" : true,
@@ -65,10 +61,10 @@
   "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
-  "title" : "CAPS hydro",
-  "unit" : "Pck.",
-  "unitContents" : "g",
-  "unitContentsId" : 812,
-  "unitId" : 43589,
-  "usp" : "Blasengesundheit"
+  "title" : "FRESH body milk rosé",
+  "unit" : "Stk.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 996,
+  "usp" : "Antioxidative Körpermilch"
 }

@@ -1,29 +1,25 @@
 {
-  "matchcode" : "RD24",
-  "availableVariants" : [ {
-    "matchcode" : "RD12",
-    "set" : false,
-    "travelSize" : false
-  } ],
+  "matchcode" : "FSLP-LE-LB",
+  "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : null,
-    "brutto" : null,
-    "unit" : null,
-    "unitId" : null
+    "amount" : 1000,
+    "brutto" : 80,
+    "unit" : "ml",
+    "unitId" : 827
   },
-  "contentsAmount" : "24 x 30",
+  "contentsAmount" : "255",
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/12/Ringana-Produktfoto-drinks-dea-set.png?q=100",
+  "image" : "https://i.ringana.com/2024/03/RINGANA-Produktfoto-soap-liquid-lemon-basil-limited.png?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/produkt/ringanadea-set/",
+  "link" : "/produkt/fresh-soap-liquid-lemon-basil/",
   "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -31,7 +27,7 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 112.3,
+      "brutto" : 20.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -42,10 +38,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 58.7
+      "provisionPoints" : 11.6
     },
     "partner" : {
-      "brutto" : 112.3,
+      "brutto" : 20.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -56,25 +52,19 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 58.7
+      "provisionPoints" : 11.6
     }
   },
-  "purchasePossible" : false,
-  "setContents" : {
-    "0" : {
-      "amount" : 2,
-      "gratis" : false,
-      "matchcode" : "RD12"
-    }
-  },
+  "purchasePossible" : true,
+  "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : true,
-  "title" : "RINGANAdea, Set of 2",
-  "unit" : "Set",
+  "soldOut" : false,
+  "title" : "FRESH soap liquid lemon & basil",
+  "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : 43586,
-  "usp" : "Leichtgewicht"
+  "unitId" : 996,
+  "usp" : "Flüssigseife mit Zitronen- und Basilikumnote"
 }
