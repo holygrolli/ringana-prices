@@ -2,10 +2,10 @@
   "matchcode" : "RAG",
   "availableVariants" : [ ],
   "basePrice" : {
-    "amount" : 1,
-    "brutto" : 3.25,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "amount" : 1000,
+    "brutto" : 3246.6,
+    "unit" : "ml",
+    "unitId" : 827
   },
   "contentsAmount" : "15",
   "currency" : "eur",
@@ -63,8 +63,8 @@
   "soldOut" : false,
   "title" : "ADDS glow",
   "unit" : "Stk.",
-  "unitContents" : "Pck.",
-  "unitContentsId" : 43589,
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
   "unitId" : 996,
   "usp" : "Beautybooster mit Anti-Pollution-Wirkung"
 }
