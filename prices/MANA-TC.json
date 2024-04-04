@@ -9,10 +9,10 @@
   },
   "contentsAmount" : "1",
   "currency" : "eur",
-  "customerProduct" : false,
+  "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -55,7 +55,7 @@
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
