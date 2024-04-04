@@ -11,15 +11,15 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/07/R_Produktfoto_manodental_starter-kit_01.png?q=100",
+  "image" : "https://i.ringana.com/2024/04/RINGANA-manadental-starter-kit-dermatest-siegel.jpg?q=100",
   "isMerchandise" : false,
   "lang" : "de",
-  "link" : "/partner-produkt/manadental-starter-kit/",
+  "link" : "/produkt/manadental-starter-kit/",
   "maxPerCart" : 1,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
@@ -55,7 +55,7 @@
       "provisionPoints" : 94
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -69,7 +69,7 @@
     }
   },
   "showOnFrontpage" : false,
-  "singleShipmentOnly" : true,
+  "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "manadental starter kit",
@@ -77,5 +77,5 @@
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : ""
+  "usp" : "Lieferzeit bis zu vier Wochen"
 }
