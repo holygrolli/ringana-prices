@@ -11,8 +11,8 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -27,10 +27,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 110.16,
-      "bruttoWithoutDiscount" : 137.7,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-04-16T21:59:59Z",
+      "brutto" : 137.7,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -38,13 +38,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 46.08
+      "provisionPoints" : 64
     },
     "partner" : {
-      "brutto" : 110.16,
-      "bruttoWithoutDiscount" : 137.7,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-04-16T21:59:59Z",
+      "brutto" : 137.7,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -52,10 +52,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 46.08
+      "provisionPoints" : 64
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 1,
@@ -81,7 +81,7 @@
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "FRESH suncare set",
   "unit" : "Set",
   "unitContents" : "Set",
