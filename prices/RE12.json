@@ -6,12 +6,14 @@
     "travelSize" : false
   }, {
     "matchcode" : "RE24",
-    "set" : false,
-    "travelSize" : false
+    "set" : true,
+    "travelSize" : false,
+    "unit" : "Set",
+    "unitId" : 43586
   } ],
   "basePrice" : {
     "amount" : 1000,
-    "brutto" : 138.3,
+    "brutto" : 124.5,
     "unit" : "ml",
     "unitId" : 827
   },
@@ -35,10 +37,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 49.8,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 44.82,
+      "bruttoWithoutDiscount" : 49.8,
+      "discountPercentage" : 10,
+      "discountUntil" : "2024-05-24T08:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -46,13 +48,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 27
+      "provisionPoints" : 21.87
     },
     "partner" : {
-      "brutto" : 49.8,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 44.82,
+      "bruttoWithoutDiscount" : 49.8,
+      "discountPercentage" : 10,
+      "discountUntil" : "2024-05-24T08:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -60,7 +62,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 27
+      "provisionPoints" : 21.87
     }
   },
   "purchasePossible" : true,
