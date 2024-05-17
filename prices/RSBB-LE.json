@@ -11,8 +11,8 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -27,10 +27,10 @@
   "partnerProduct" : true,
   "prices" : {
     "customer" : {
-      "brutto" : 25.52,
-      "bruttoWithoutDiscount" : 31.9,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-05-16T21:59:59Z",
+      "brutto" : 31.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -41,10 +41,10 @@
       "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 25.52,
-      "bruttoWithoutDiscount" : 31.9,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-05-16T21:59:59Z",
+      "brutto" : 31.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -55,12 +55,12 @@
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "SPORT BlenderBottle®Radian",
   "unit" : null,
   "unitContents" : null,
