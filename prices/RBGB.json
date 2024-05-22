@@ -86,11 +86,6 @@
       "amount" : 1,
       "gratis" : false,
       "matchcode" : "RBMD"
-    },
-    "6" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "RBSTI"
     }
   },
   "showOnFrontpage" : false,
