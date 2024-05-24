@@ -2,10 +2,8 @@
   "matchcode" : "CCB",
   "availableVariants" : [ {
     "matchcode" : "CCB3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+    "set" : false,
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
@@ -36,7 +34,7 @@
       "brutto" : 49.68,
       "bruttoWithoutDiscount" : 55.2,
       "discountPercentage" : 10,
-      "discountUntil" : "2024-05-24T08:00:00Z",
+      "discountUntil" : "2024-06-07T08:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -50,7 +48,7 @@
       "brutto" : 49.68,
       "bruttoWithoutDiscount" : 55.2,
       "discountPercentage" : 10,
-      "discountUntil" : "2024-05-24T08:00:00Z",
+      "discountUntil" : "2024-06-07T08:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
