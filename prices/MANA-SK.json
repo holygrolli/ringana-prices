@@ -69,7 +69,7 @@
     }
   },
   "showOnFrontpage" : false,
-  "singleShipmentOnly" : true,
+  "singleShipmentOnly" : false,
   "skinTypes" : null,
   "soldOut" : false,
   "title" : "manadental starter kit",
