@@ -20,7 +20,7 @@
   "isMerchandise" : false,
   "lang" : "de",
   "link" : "/produkt/manadental-starter-kit/",
-  "maxPerCart" : 1,
+  "maxPerCart" : null,
   "nemBackgroundColor" : "",
   "notSearchable" : false,
   "partnerApplicationProduct" : false,
