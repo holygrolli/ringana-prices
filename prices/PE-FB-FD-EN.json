@@ -67,6 +67,11 @@
       "gratis" : false,
       "matchcode" : "FTB"
     },
+    "10" : {
+      "amount" : 2,
+      "gratis" : false,
+      "matchcode" : "RFC-EN"
+    },
     "2" : {
       "amount" : 1,
       "gratis" : false,
