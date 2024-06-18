@@ -9,7 +9,7 @@
   },
   "contentsAmount" : "10",
   "currency" : "eur",
-  "customerProduct" : true,
+  "customerProduct" : false,
   "deliveryAddressIso" : "DE",
   "deliveryStatus" : "Ausverkauft",
   "deliveryStatusId" : 12265,
