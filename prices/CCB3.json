@@ -3,9 +3,7 @@
   "availableVariants" : [ {
     "matchcode" : "CCB",
     "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
+    "travelSize" : false
   } ],
   "basePrice" : {
     "amount" : 1000,
@@ -17,8 +15,8 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -61,7 +59,7 @@
       "provisionPoints" : 74.4
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : {
     "0" : {
       "amount" : 3,
