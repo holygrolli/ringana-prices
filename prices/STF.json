@@ -11,8 +11,8 @@
   "currency" : "eur",
   "customerProduct" : true,
   "deliveryAddressIso" : "DE",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "discountDate" : null,
   "discountPercentage" : null,
@@ -30,7 +30,7 @@
       "brutto" : 8.72,
       "bruttoWithoutDiscount" : 10.9,
       "discountPercentage" : 20,
-      "discountUntil" : "2024-08-10T21:59:59Z",
+      "discountUntil" : "2024-08-11T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -44,7 +44,7 @@
       "brutto" : 8.72,
       "bruttoWithoutDiscount" : 10.9,
       "discountPercentage" : 20,
-      "discountUntil" : "2024-08-10T21:59:59Z",
+      "discountUntil" : "2024-08-11T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -55,12 +55,12 @@
       "provisionPoints" : 4.1
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "setContents" : { },
   "showOnFrontpage" : false,
   "singleShipmentOnly" : false,
   "skinTypes" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "title" : "FRESH stay fresh",
   "unit" : "Stk.",
   "unitContents" : "ml",
