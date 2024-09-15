@@ -16,7 +16,7 @@ Alle Produkte zuletzt aktualisiert {{ .Page.GitInfo.AuthorDate.Format "02.01.200
             {{ range $.Site.Data }}
             <tr>
                 <th scope="row">{{ .matchcode }}</th>
-                <td><a href="https://ringana.com{{.link}}">{{ .title }}</a></td>
+                <td><a href="https://ringana.com/produkt/{{.slug}}">{{ .title }}</a></td>
                 <td
                 {{ if .priceInformation.customer.discountUntil }}
                 class="table-success"
