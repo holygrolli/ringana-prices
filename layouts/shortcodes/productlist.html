@@ -18,26 +18,26 @@ Alle Produkte zuletzt aktualisiert {{ .Page.GitInfo.AuthorDate.Format "02.01.200
                 <th scope="row">{{ .matchcode }}</th>
                 <td><a href="https://ringana.com{{.link}}">{{ .title }}</a></td>
                 <td
-                {{ if .prices.customer.discountUntil }}
+                {{ if .priceInformation.customer.discountUntil }}
                 class="table-success"
                 {{ end }}
                 >
-                    {{.prices.customer.brutto}}
-                    {{ if .prices.customer.discountUntil }}
-                    / <s>{{.prices.customer.bruttoWithoutDiscount}}</s>
+                    {{.priceInformation.customer.brutto}}
+                    {{ if .priceInformation.customer.discountUntil }}
+                    / <s>{{.priceInformation.customer.bruttoWithoutDiscount}}</s>
                     {{ end }}
                 </td>
                 <td
-                {{ if and (.prices.customer.discountUntil) (eq .prices.customer.provisionPoints .prices.customer.initialPurchase.provisionPoints) }}
+                {{ if and (.priceInformation.customer.discountUntil) (eq .priceInformation.customer.provisionPoints .priceInformation.customer.initialPurchase.provisionPoints) }}
                 class="table-success"
                 {{ end }}
                 >
-                    {{.prices.customer.provisionPoints}}
+                    {{.priceInformation.customer.provisionPoints}}
                 </td>
-                <td>{{.prices.customer.discountPercentage}}</td>
+                <td>{{.priceInformation.customer.discountPercentage}}</td>
                 <td>
-                    {{ if .prices.customer.discountUntil }}
-                    {{ time .prices.customer.discountUntil "Europe/Berlin" | time.Format "02.01.2006 15:04" }}
+                    {{ if .priceInformation.customer.discountUntil }}
+                    {{ time .priceInformation.customer.discountUntil "Europe/Berlin" | time.Format "02.01.2006 15:04" }}
                     {{ end }}
                 </td>
             </tr>
