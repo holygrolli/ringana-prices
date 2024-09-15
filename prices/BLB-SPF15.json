@@ -1,0 +1,357 @@
+{
+  "matchcode" : "BLB-SPF15",
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 2222,
+    "link" : null,
+    "name" : "UVB-protection"
+  }, {
+    "imageId" : 2223,
+    "link" : null,
+    "name" : "UVA-protection"
+  }, {
+    "imageId" : 1052,
+    "link" : "https://www.positivereefinitiative.com/en/",
+    "name" : "Positive Reef"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/n0bqksr1",
+    "name" : "cosmeticsanalysis.com - FRESH lip balm nude SPF 15"
+  } ],
+  "blogPostIds" : [ 175019, 190187, 191934 ],
+  "categories" : [ {
+    "id" : 7,
+    "infoColorNeeded" : false,
+    "name" : "category.category7.name",
+    "primary" : true,
+    "slug" : "face",
+    "visible" : true
+  }, {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : false,
+    "slug" : "offers",
+    "visible" : true
+  }, {
+    "id" : 91,
+    "infoColorNeeded" : false,
+    "name" : "category.category91.name",
+    "primary" : false,
+    "slug" : "suncare",
+    "visible" : true
+  }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 82,
+    "infoColorNeeded" : false,
+    "name" : "category.category82.name",
+    "primary" : false,
+    "slug" : "dry-skin",
+    "visible" : true
+  }, {
+    "id" : 77,
+    "infoColorNeeded" : false,
+    "name" : "category.category77.name",
+    "primary" : false,
+    "slug" : "hydrating",
+    "visible" : true
+  } ],
+  "contentsAmount" : "5",
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 499,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "sunscreen face",
+    "imageId" : 656,
+    "matchcode" : "SSF",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 664,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 33.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 19.5
+      },
+      "partner" : {
+        "brutto" : 33.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 19.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-sunscreen-face",
+    "title" : "FRESH sunscreen face",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "200",
+    "currency" : "EUR",
+    "description" : "sunscreen",
+    "imageId" : 1990,
+    "matchcode" : "BSB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 244,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 48.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.2
+      },
+      "partner" : {
+        "brutto" : 48.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.2
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-sunscreen-spf-25",
+    "title" : "FRESH sunscreen",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "30",
+    "currency" : "EUR",
+    "description" : "",
+    "imageId" : 783,
+    "matchcode" : "BTF15",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1623.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 48.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.8
+      },
+      "partner" : {
+        "brutto" : 48.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-tinted-moisturiser-spf15",
+    "title" : "FRESH tinted moisturiser SPF 15",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 992,
+    "mediaId" : 1368
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 1024,
+    "mediaId" : 1398
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
+  "isMerchandise" : false,
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 2064,
+      "unit" : "ml",
+      "unitId" : 827
+    },
+    "customer" : {
+      "brutto" : 10.32,
+      "bruttoWithoutDiscount" : 12.9,
+      "discountPercentage" : 20,
+      "discountUntil" : "2024-09-30T21:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 5.54
+    },
+    "partner" : {
+      "brutto" : 10.32,
+      "bruttoWithoutDiscount" : 12.9,
+      "discountPercentage" : 20,
+      "discountUntil" : "2024-09-30T21:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 5.54
+    }
+  },
+  "purchasePossible" : true,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.BLB-SPF15.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "fresh-lip-balm-nude-spf-15",
+  "socialMedia" : {
+    "id" : 499,
+    "imageId" : 1368,
+    "text" : "product.BLB-SPF15.socialMedia.text",
+    "title" : "product.BLB-SPF15.socialMedia.title"
+  },
+  "soldOut" : false,
+  "supplementDescription" : "lip balm spf",
+  "tabs" : [ {
+    "description" : "product.BLB-SPF15.tabs0.description",
+    "id" : 906,
+    "showPrintButton" : false,
+    "title" : "product.BLB-SPF15.tabs0.title"
+  }, {
+    "description" : "product.BLB-SPF15.tabs1.description",
+    "id" : 907,
+    "showPrintButton" : false,
+    "title" : "product.BLB-SPF15.tabs1.title"
+  }, {
+    "description" : "product.BLB-SPF15.tabs2.description",
+    "id" : 908,
+    "showPrintButton" : false,
+    "title" : "product.BLB-SPF15.tabs2.title"
+  }, {
+    "description" : "product.BLB-SPF15.tabs3.description",
+    "id" : 909,
+    "showPrintButton" : false,
+    "title" : "product.BLB-SPF15.tabs3.title"
+  } ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 9,
+    "id" : 4,
+    "lineHeight" : 1.4,
+    "position" : "top-left",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH lip balm nude SPF 15",
+  "unit" : "Stk.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 996,
+  "usp" : "product.BLB-SPF15.usp",
+  "values" : [ {
+    "iconMediaId" : 1104,
+    "name" : "value.value49.name"
+  }, {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  }, {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  } ],
+  "variants" : [ ]
+}

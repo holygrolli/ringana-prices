@@ -1,37 +1,227 @@
 {
   "matchcode" : "CSP3",
-  "availableVariants" : [ {
-    "matchcode" : "CSP",
-    "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
-  } ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 2477.4,
-    "unit" : "g",
-    "unitId" : 812
+  "additionalUnitPrice" : {
+    "entity" : 180,
+    "type" : 1
   },
+  "awards" : [ ],
+  "blogPostIds" : [ 32200, 147729, 178281 ],
+  "categories" : [ {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  }, {
+    "id" : 99,
+    "infoColorNeeded" : false,
+    "name" : "category.category99.name",
+    "primary" : false,
+    "slug" : "supplement-sets",
+    "visible" : true
+  } ],
   "contentsAmount" : "104,1",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/03/RINGANA-Produktfoto-beyond-spermedine-2000x2000-set-of-3.png?q=100",
+  "disruptor" : {
+    "mediaId" : 374,
+    "posterMediaId" : 375
+  },
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 79,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "30",
+    "currency" : "EUR",
+    "description" : "anti wrinkle",
+    "imageId" : 757,
+    "matchcode" : "BSA",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2493.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 74.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 43
+      },
+      "partner" : {
+        "brutto" : 74.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 43
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-anti-wrinkle-serum",
+    "title" : "FRESH anti wrinkle serum",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 60,
+      "type" : 1
+    },
+    "contentsAmount" : "39,1",
+    "currency" : "EUR",
+    "description" : "BEYOND omega",
+    "imageId" : 440,
+    "matchcode" : "COV",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2398.9,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      },
+      "partner" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "beyond-omega",
+    "title" : "BEYOND omega",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "30",
+    "currency" : "EUR",
+    "description" : "overnight",
+    "imageId" : 679,
+    "matchcode" : "BCN",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2385,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 71.55,
+        "bruttoWithoutDiscount" : 79.5,
+        "discountPercentage" : 10,
+        "discountUntil" : "2024-09-27T08:00:00Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 37.83
+      },
+      "partner" : {
+        "brutto" : 71.55,
+        "bruttoWithoutDiscount" : 79.5,
+        "discountPercentage" : 10,
+        "discountUntil" : "2024-09-27T08:00:00Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 37.83
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-overnight-face-treatment",
+    "title" : "FRESH overnight face treatment",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 196,
+    "mediaId" : 372
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 197,
+    "mediaId" : 373
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 199,
+    "mediaId" : 376
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 201,
+    "mediaId" : 377
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/beyond-spermidine-set/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 2477.4,
+      "unit" : "g",
+      "unitId" : 812
+    },
     "customer" : {
       "brutto" : 257.9,
       "bruttoWithoutDiscount" : null,
@@ -62,21 +252,92 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : {
-    "0" : {
-      "amount" : 3,
-      "gratis" : false,
-      "matchcode" : "CSP"
-    }
-  },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ {
+    "amount" : 3,
+    "freeOfCharge" : false,
+    "matchcode" : "CSP"
+  } ],
+  "shortDescription" : "product.CSP3.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "beyond-spermidine-set",
+  "socialMedia" : {
+    "id" : 79,
+    "imageId" : 371,
+    "text" : "product.CSP3.socialMedia.text",
+    "title" : "product.CSP3.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "spermidine",
+  "tabs" : [ {
+    "description" : "product.CSP3.tabs0.description",
+    "id" : 302,
+    "showPrintButton" : false,
+    "title" : "product.CSP3.tabs0.title"
+  }, {
+    "description" : "product.CSP3.tabs1.description",
+    "id" : 305,
+    "showPrintButton" : true,
+    "title" : "product.CSP3.tabs1.title"
+  }, {
+    "description" : "product.CSP3.tabs2.description",
+    "id" : 306,
+    "showPrintButton" : false,
+    "title" : "product.CSP3.tabs2.title"
+  }, {
+    "description" : "product.CSP3.tabs3.description",
+    "id" : 307,
+    "showPrintButton" : false,
+    "title" : "product.CSP3.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "BEYOND spermidine, Set of 3",
   "unit" : "Set",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43586,
-  "usp" : "Ageless-Effekt"
+  "usp" : "product.CSP3.usp",
+  "values" : [ {
+    "iconMediaId" : 1056,
+    "name" : "value.value1.name"
+  }, {
+    "iconMediaId" : 1095,
+    "name" : "value.value40.name"
+  }, {
+    "iconMediaId" : 1083,
+    "name" : "value.value28.name"
+  }, {
+    "iconMediaId" : 1112,
+    "name" : "value.value57.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  }, {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 134,
+    "language" : null,
+    "matchcode" : "CSP",
+    "name" : null,
+    "size" : 60,
+    "slug" : "beyond-spermidine-set",
+    "type" : 2,
+    "unit" : 1
+  }, {
+    "color" : null,
+    "id" : 135,
+    "language" : null,
+    "matchcode" : "CSP3",
+    "name" : null,
+    "size" : 180,
+    "slug" : "beyond-spermidine-set",
+    "type" : 2,
+    "unit" : 1
+  } ]
 }

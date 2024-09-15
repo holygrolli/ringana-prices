@@ -1,35 +1,233 @@
 {
   "matchcode" : "CDG",
-  "availableVariants" : [ {
-    "matchcode" : "CDG3",
-    "set" : false,
-    "travelSize" : false
-  } ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 1039,
-    "unit" : "g",
-    "unitId" : 812
+  "additionalUnitPrice" : {
+    "entity" : 90,
+    "type" : 1
   },
+  "awards" : [ ],
+  "blogPostIds" : [ 118137, 156677, 192347 ],
+  "categories" : [ {
+    "id" : 3,
+    "infoColorNeeded" : false,
+    "name" : "category.category3.name",
+    "primary" : true,
+    "slug" : "caps",
+    "visible" : true
+  }, {
+    "id" : 18,
+    "infoColorNeeded" : false,
+    "name" : "category.category18.name",
+    "primary" : false,
+    "slug" : "supplements",
+    "visible" : true
+  }, {
+    "id" : 71,
+    "infoColorNeeded" : false,
+    "name" : "category.category71.name",
+    "primary" : false,
+    "slug" : "gut-feeling",
+    "visible" : true
+  }, {
+    "id" : 73,
+    "infoColorNeeded" : false,
+    "name" : "category.category73.name",
+    "primary" : false,
+    "slug" : "body-shape",
+    "visible" : true
+  } ],
   "contentsAmount" : "48,7",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/07/1FgF8OLt-ringana-caps-d-gest.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 91,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : 60,
+      "type" : 1
+    },
+    "contentsAmount" : "26,1",
+    "currency" : "EUR",
+    "description" : "BEYOND biotic",
+    "imageId" : 449,
+    "matchcode" : "CBI",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 3659,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 95.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 53.8
+      },
+      "partner" : {
+        "brutto" : 95.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 53.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "beyond-biotic",
+    "title" : "BEYOND biotic",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 26,
+      "type" : 2
+    },
+    "contentsAmount" : "260",
+    "currency" : "EUR",
+    "description" : "pack balancing",
+    "imageId" : 1145,
+    "matchcode" : "WPB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 190,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 49.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28
+      },
+      "partner" : {
+        "brutto" : 49.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "pack-balancing",
+    "title" : "FRESH pack balancing",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 26,
+      "type" : 2
+    },
+    "contentsAmount" : "520",
+    "currency" : "EUR",
+    "description" : "pack cleansing",
+    "imageId" : 1146,
+    "matchcode" : "WPC",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 134.4,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 69.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 39.4
+      },
+      "partner" : {
+        "brutto" : 69.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 39.4
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "pack-cleansing",
+    "title" : "FRESH pack cleansing",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 232,
+    "mediaId" : 422
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 235,
+    "mediaId" : 1932
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 229,
+    "mediaId" : 421
+  } ],
+  "infoColor" : "#d4c304",
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/caps-d-gest/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "d4c304",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 1039,
+      "unit" : "g",
+      "unitId" : 812
+    },
     "customer" : {
       "brutto" : 50.6,
       "bruttoWithoutDiscount" : null,
@@ -60,15 +258,97 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.CDG.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "caps-d-gest",
+  "socialMedia" : {
+    "id" : 91,
+    "imageId" : 420,
+    "text" : "product.CDG.socialMedia.text",
+    "title" : "product.CDG.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "CAPS d-gest",
+  "tabs" : [ {
+    "description" : "product.CDG.tabs0.description",
+    "id" : 336,
+    "showPrintButton" : false,
+    "title" : "product.CDG.tabs0.title"
+  }, {
+    "description" : "product.CDG.tabs1.description",
+    "id" : 337,
+    "showPrintButton" : true,
+    "title" : "product.CDG.tabs1.title"
+  }, {
+    "description" : "product.CDG.tabs2.description",
+    "id" : 338,
+    "showPrintButton" : false,
+    "title" : "product.CDG.tabs2.title"
+  }, {
+    "description" : "product.CDG.tabs3.description",
+    "id" : 339,
+    "showPrintButton" : false,
+    "title" : "product.CDG.tabs3.title"
+  } ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 10,
+    "id" : 3,
+    "lineHeight" : 1.3,
+    "position" : "top-left",
+    "text" : "New Formu-lation",
+    "textColor" : "#ffffff"
+  } ],
   "title" : "CAPS d-gest",
   "unit" : "Pck.",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43589,
-  "usp" : "Gutes Bauchgefühl"
+  "usp" : "product.CDG.usp",
+  "values" : [ {
+    "iconMediaId" : 1070,
+    "name" : "value.value15.name"
+  }, {
+    "iconMediaId" : 1056,
+    "name" : "value.value1.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  }, {
+    "iconMediaId" : 1080,
+    "name" : "value.value25.name"
+  }, {
+    "iconMediaId" : 1058,
+    "name" : "value.value3.name"
+  }, {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 148,
+    "language" : null,
+    "matchcode" : "CDG",
+    "name" : null,
+    "size" : 90,
+    "slug" : "caps-d-gest",
+    "type" : 2,
+    "unit" : 1
+  }, {
+    "color" : null,
+    "id" : 149,
+    "language" : null,
+    "matchcode" : "CDG3",
+    "name" : null,
+    "size" : 270,
+    "slug" : "caps-d-gest",
+    "type" : 2,
+    "unit" : 1
+  } ]
 }

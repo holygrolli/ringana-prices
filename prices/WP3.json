@@ -1,31 +1,205 @@
 {
   "matchcode" : "WP3",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : null,
-    "brutto" : null,
-    "unit" : null,
-    "unitId" : null
+  "additionalUnitPrice" : {
+    "entity" : 234,
+    "type" : 2
   },
+  "awards" : [ ],
+  "blogPostIds" : [ 156677, 146360, 168257 ],
+  "categories" : [ {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  } ],
   "contentsAmount" : "3120",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/03/RINGANA-packs-ABC-3-of-each.png?q=100",
+  "disruptor" : {
+    "mediaId" : 295,
+    "posterMediaId" : 294
+  },
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 60,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "1",
+    "currency" : "EUR",
+    "description" : "SHAKE! SHAKE!",
+    "imageId" : 215,
+    "matchcode" : "RSG-SBB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 7.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 7.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "pack-glass-shaker",
+    "title" : "RINGANA Glass Shaker & Shaker Ball",
+    "unitContents" : "Stk."
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "1",
+    "currency" : "EUR",
+    "description" : "SHAKE! SHAKE!",
+    "imageId" : 212,
+    "matchcode" : "RS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 4.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 4.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "pack-shaker",
+    "title" : "RINGANA Shaker & Shaker Ball",
+    "unitContents" : "Stk."
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 60,
+      "type" : 1
+    },
+    "contentsAmount" : "39,1",
+    "currency" : "EUR",
+    "description" : "BEYOND omega",
+    "imageId" : 440,
+    "matchcode" : "COV",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2398.9,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      },
+      "partner" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "beyond-omega",
+    "title" : "BEYOND omega",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 719,
+    "mediaId" : 1142
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/packs-abc-3er-set/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
     "customer" : {
       "brutto" : 505.8,
       "bruttoWithoutDiscount" : null,
@@ -56,36 +230,86 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : {
-    "0" : {
-      "amount" : 3,
-      "gratis" : false,
-      "matchcode" : "WPA"
-    },
-    "1" : {
-      "amount" : 3,
-      "gratis" : false,
-      "matchcode" : "WPB"
-    },
-    "2" : {
-      "amount" : 3,
-      "gratis" : false,
-      "matchcode" : "WPC"
-    },
-    "3" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "RS"
-    }
-  },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ {
+    "amount" : 3,
+    "freeOfCharge" : false,
+    "matchcode" : "WPA"
+  }, {
+    "amount" : 3,
+    "freeOfCharge" : false,
+    "matchcode" : "WPB"
+  }, {
+    "amount" : 3,
+    "freeOfCharge" : false,
+    "matchcode" : "WPC"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "RS"
+  } ],
+  "shortDescription" : "product.WP3.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "packs-abc-3er-set",
+  "socialMedia" : {
+    "id" : 59,
+    "imageId" : 292,
+    "text" : "product.WP3.socialMedia.text",
+    "title" : "product.WP3.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "FRESH PACKS",
+  "tabs" : [ {
+    "description" : "product.WP3.tabs0.description",
+    "id" : 216,
+    "showPrintButton" : false,
+    "title" : "product.WP3.tabs0.title"
+  }, {
+    "description" : "product.WP3.tabs1.description",
+    "id" : 217,
+    "showPrintButton" : true,
+    "title" : "product.WP3.tabs1.title"
+  }, {
+    "description" : "product.WP3.tabs2.description",
+    "id" : 218,
+    "showPrintButton" : false,
+    "title" : "product.WP3.tabs2.title"
+  }, {
+    "description" : "product.WP3.tabs3.description",
+    "id" : 219,
+    "showPrintButton" : false,
+    "title" : "product.WP3.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH packs ABC, Set of 3",
   "unit" : "Set",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43586,
-  "usp" : "Das ABC der Ernährung. Je 3x FRESH pack antiox, balancing und cleansing."
+  "usp" : "product.WP3.usp",
+  "values" : [ ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 90,
+    "language" : null,
+    "matchcode" : "WP1",
+    "name" : null,
+    "size" : 1040,
+    "slug" : "packs-abc-3er-set",
+    "type" : 2,
+    "unit" : 2
+  }, {
+    "color" : null,
+    "id" : 91,
+    "language" : null,
+    "matchcode" : "WP3",
+    "name" : null,
+    "size" : 3120,
+    "slug" : "packs-abc-3er-set",
+    "type" : 2,
+    "unit" : 2
+  } ]
 }

@@ -1,40 +1,251 @@
 {
   "matchcode" : "CAV",
-  "availableVariants" : [ {
-    "matchcode" : "CAV3",
-    "set" : false,
-    "travelSize" : false
-  } ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 909.2,
-    "unit" : "g",
-    "unitId" : 812
+  "additionalUnitPrice" : {
+    "entity" : 90,
+    "type" : 1
   },
+  "awards" : [ {
+    "imageId" : 1048,
+    "link" : "https://www.koelnerliste.com/en/",
+    "name" : "Kölner Liste"
+  } ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 3,
+    "infoColorNeeded" : false,
+    "name" : "category.category3.name",
+    "primary" : true,
+    "slug" : "caps",
+    "visible" : true
+  }, {
+    "id" : 18,
+    "infoColorNeeded" : false,
+    "name" : "category.category18.name",
+    "primary" : false,
+    "slug" : "supplements",
+    "visible" : true
+  }, {
+    "id" : 87,
+    "infoColorNeeded" : false,
+    "name" : "category.category87.name",
+    "primary" : false,
+    "slug" : "sport-essentials",
+    "visible" : true
+  }, {
+    "id" : 74,
+    "infoColorNeeded" : false,
+    "name" : "category.category74.name",
+    "primary" : false,
+    "slug" : "better-aging",
+    "visible" : true
+  } ],
   "contentsAmount" : "49,6",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/02/RINGANA-Produktfoto-caps-move-2000x2000-1.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ {
+    "answer" : "product.CAV.faqs1.answer",
+    "id" : 28,
+    "question" : "product.CAV.faqs1.question"
+  } ],
+  "firstHeadline" : "",
+  "id" : 87,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : 60,
+      "type" : 1
+    },
+    "contentsAmount" : "39,1",
+    "currency" : "EUR",
+    "description" : "BEYOND omega",
+    "imageId" : 440,
+    "matchcode" : "COV",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2398.9,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      },
+      "partner" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "beyond-omega",
+    "title" : "BEYOND omega",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 78,
+      "type" : 2
+    },
+    "contentsAmount" : "1040",
+    "currency" : "EUR",
+    "description" : "FRESH PACKS",
+    "imageId" : 1141,
+    "matchcode" : "WP1",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 177.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 86.4
+      },
+      "partner" : {
+        "brutto" : 177.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 86.4
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "packs-abc",
+    "title" : "FRESH packs ABC",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "SPORT go",
+    "imageId" : 469,
+    "matchcode" : "RSG",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 205.6,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 25.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 16.2
+      },
+      "partner" : {
+        "brutto" : 25.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 16.2
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringana-sport-go",
+    "title" : "SPORT go",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 219,
+    "mediaId" : 412
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 220,
+    "mediaId" : 413
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 221,
+    "mediaId" : 414
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 222,
+    "mediaId" : 415
+  } ],
+  "infoColor" : "#81e9cf",
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/caps-move/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "81e9cf",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 818.3,
+      "unit" : "g",
+      "unitId" : 812
+    },
     "customer" : {
-      "brutto" : 45.1,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 40.59,
+      "bruttoWithoutDiscount" : 45.1,
+      "discountPercentage" : 10,
+      "discountUntil" : "2024-09-27T08:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -42,13 +253,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 23.9
+      "provisionPoints" : 19.36
     },
     "partner" : {
-      "brutto" : 45.1,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 40.59,
+      "bruttoWithoutDiscount" : 45.1,
+      "discountPercentage" : 10,
+      "discountUntil" : "2024-09-27T08:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -56,19 +267,86 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 23.9
+      "provisionPoints" : 19.36
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.CAV.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "caps-move",
+  "socialMedia" : {
+    "id" : 87,
+    "imageId" : 411,
+    "text" : "product.CAV.socialMedia.text",
+    "title" : "product.CAV.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "CAPS move",
+  "tabs" : [ {
+    "description" : "product.CAV.tabs0.description",
+    "id" : 328,
+    "showPrintButton" : false,
+    "title" : "product.CAV.tabs0.title"
+  }, {
+    "description" : "product.CAV.tabs1.description",
+    "id" : 329,
+    "showPrintButton" : true,
+    "title" : "product.CAV.tabs1.title"
+  }, {
+    "description" : "product.CAV.tabs2.description",
+    "id" : 330,
+    "showPrintButton" : false,
+    "title" : "product.CAV.tabs2.title"
+  }, {
+    "description" : "product.CAV.tabs3.description",
+    "id" : 331,
+    "showPrintButton" : false,
+    "title" : "product.CAV.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "CAPS move",
   "unit" : "Pck.",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43589,
-  "usp" : "Bewegungsfreiheit"
+  "usp" : "product.CAV.usp",
+  "values" : [ {
+    "iconMediaId" : 1112,
+    "name" : "value.value57.name"
+  }, {
+    "iconMediaId" : 1095,
+    "name" : "value.value40.name"
+  }, {
+    "iconMediaId" : 1080,
+    "name" : "value.value25.name"
+  }, {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 144,
+    "language" : null,
+    "matchcode" : "CAV",
+    "name" : null,
+    "size" : 90,
+    "slug" : "caps-move",
+    "type" : 2,
+    "unit" : 1
+  }, {
+    "color" : null,
+    "id" : 145,
+    "language" : null,
+    "matchcode" : "CAV3",
+    "name" : null,
+    "size" : 270,
+    "slug" : "caps-move",
+    "type" : 2,
+    "unit" : 1
+  } ]
 }

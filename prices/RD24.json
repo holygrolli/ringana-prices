@@ -1,35 +1,238 @@
 {
   "matchcode" : "RD24",
-  "availableVariants" : [ {
-    "matchcode" : "RD12",
-    "set" : false,
-    "travelSize" : false
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ 168257, 118137, 146383 ],
+  "categories" : [ {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : false,
+    "slug" : "offers",
+    "visible" : true
+  }, {
+    "id" : 5,
+    "infoColorNeeded" : false,
+    "name" : "category.category5.name",
+    "primary" : false,
+    "slug" : "drinks",
+    "visible" : true
+  }, {
+    "id" : 99,
+    "infoColorNeeded" : false,
+    "name" : "category.category99.name",
+    "primary" : false,
+    "slug" : "supplement-sets",
+    "visible" : true
   } ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 155.9,
-    "unit" : "ml",
-    "unitId" : 827
-  },
   "contentsAmount" : "720",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/12/Ringana-Produktfoto-drinks-dea-set.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 23,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "1",
+    "currency" : "EUR",
+    "description" : "SOULBOTTLE",
+    "imageId" : 223,
+    "matchcode" : "R-SB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 31.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 31.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringana-soulbottle",
+    "title" : "RINGANA Soulbottle",
+    "unitContents" : "Stk."
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 60,
+      "type" : 1
+    },
+    "contentsAmount" : "26,1",
+    "currency" : "EUR",
+    "description" : "BEYOND biotic",
+    "imageId" : 449,
+    "matchcode" : "CBI",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 3659,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 95.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 53.8
+      },
+      "partner" : {
+        "brutto" : 95.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 53.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "beyond-biotic",
+    "title" : "BEYOND biotic",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 90,
+      "type" : 1
+    },
+    "contentsAmount" : "40,5",
+    "currency" : "EUR",
+    "description" : "CAPS hydro",
+    "imageId" : 1130,
+    "matchcode" : "CUV",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1017.2,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 41.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 22.8
+      },
+      "partner" : {
+        "brutto" : 41.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 22.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "caps-hydro",
+    "title" : "CAPS hydro",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 37,
+    "mediaId" : 146
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 39,
+    "mediaId" : 148
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 40,
+    "mediaId" : 149
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 38,
+    "mediaId" : 147
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 41,
+    "mediaId" : 150
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 42,
+    "mediaId" : 151
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/ringanadea-set/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 155.9,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 112.3,
       "bruttoWithoutDiscount" : null,
@@ -60,21 +263,83 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : {
-    "0" : {
-      "amount" : 2,
-      "gratis" : false,
-      "matchcode" : "RD12"
-    }
-  },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ {
+    "amount" : 2,
+    "freeOfCharge" : false,
+    "matchcode" : "RD12"
+  } ],
+  "shortDescription" : "product.RD24.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "ringanadea-set",
+  "socialMedia" : {
+    "id" : 23,
+    "imageId" : 145,
+    "text" : "product.RD24.socialMedia.text",
+    "title" : "product.RD24.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "RINGANAdea",
+  "tabs" : [ {
+    "description" : "product.RD24.tabs0.description",
+    "id" : 89,
+    "showPrintButton" : false,
+    "title" : "product.RD24.tabs0.title"
+  }, {
+    "description" : "product.RD24.tabs1.description",
+    "id" : 90,
+    "showPrintButton" : true,
+    "title" : "product.RD24.tabs1.title"
+  }, {
+    "description" : "product.RD24.tabs2.description",
+    "id" : 91,
+    "showPrintButton" : false,
+    "title" : "product.RD24.tabs2.title"
+  }, {
+    "description" : "product.RD24.tabs3.description",
+    "id" : 92,
+    "showPrintButton" : false,
+    "title" : "product.RD24.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "RINGANAdea, Set of 2",
   "unit" : "Set",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 43586,
-  "usp" : "Leichtgewicht"
+  "usp" : "product.RD24.usp",
+  "values" : [ {
+    "iconMediaId" : 1108,
+    "name" : "value.value53.name"
+  }, {
+    "iconMediaId" : 1070,
+    "name" : "value.value15.name"
+  }, {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 29,
+    "language" : null,
+    "matchcode" : "RD12",
+    "name" : null,
+    "size" : 360,
+    "slug" : "ringanadea-set",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 30,
+    "language" : null,
+    "matchcode" : "RD24",
+    "name" : null,
+    "size" : 720,
+    "slug" : "ringanadea-set",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }

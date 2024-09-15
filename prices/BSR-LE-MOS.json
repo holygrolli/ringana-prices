@@ -1,0 +1,306 @@
+{
+  "matchcode" : "BSR-LE-MOS",
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  } ],
+  "contentsAmount" : "100",
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 466,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "200",
+    "currency" : "EUR",
+    "description" : "shampoo",
+    "imageId" : 1166,
+    "matchcode" : "BRS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 103,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 20.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 12
+      },
+      "partner" : {
+        "brutto" : 20.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 12
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-shampoonbc7",
+    "title" : "FRESH shampoo",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "200",
+    "currency" : "EUR",
+    "description" : "body wash",
+    "imageId" : 600,
+    "matchcode" : "BDB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 101,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 20.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 11.5
+      },
+      "partner" : {
+        "brutto" : 20.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 11.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-body-wash-nbc",
+    "title" : "FRESH body wash",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "hand balm",
+    "imageId" : 572,
+    "matchcode" : "BHB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 196,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 24.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 13.7
+      },
+      "partner" : {
+        "brutto" : 24.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 13.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-hand-balm",
+    "title" : "FRESH hand balm",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 958,
+    "mediaId" : 1636
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 959,
+    "mediaId" : 1298
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
+  "isMerchandise" : false,
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 87.2,
+      "unit" : "g",
+      "unitId" : 812
+    },
+    "customer" : {
+      "brutto" : 8.72,
+      "bruttoWithoutDiscount" : 10.9,
+      "discountPercentage" : 20,
+      "discountUntil" : "2024-09-30T21:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 3.6
+    },
+    "partner" : {
+      "brutto" : 8.72,
+      "bruttoWithoutDiscount" : 10.9,
+      "discountPercentage" : 20,
+      "discountUntil" : "2024-09-30T21:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 3.6
+    }
+  },
+  "purchasePossible" : true,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.BSR-LE-MOS.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "fresh-soap-african-touch",
+  "socialMedia" : {
+    "id" : 466,
+    "imageId" : 1332,
+    "text" : "product.BSR-LE-MOS.socialMedia.text",
+    "title" : "product.BSR-LE-MOS.socialMedia.title"
+  },
+  "soldOut" : false,
+  "supplementDescription" : "african touch",
+  "tabs" : [ {
+    "description" : "product.BSR-LE-MOS.tabs0.description",
+    "id" : 875,
+    "showPrintButton" : false,
+    "title" : "product.BSR-LE-MOS.tabs0.title"
+  }, {
+    "description" : "product.BSR-LE-MOS.tabs1.description",
+    "id" : 876,
+    "showPrintButton" : false,
+    "title" : "product.BSR-LE-MOS.tabs1.title"
+  }, {
+    "description" : "product.BSR-LE-MOS.tabs2.description",
+    "id" : 877,
+    "showPrintButton" : false,
+    "title" : "product.BSR-LE-MOS.tabs2.title"
+  }, {
+    "description" : "product.BSR-LE-MOS.tabs3.description",
+    "id" : 878,
+    "showPrintButton" : false,
+    "title" : "product.BSR-LE-MOS.tabs3.title"
+  } ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 9,
+    "id" : 4,
+    "lineHeight" : 1.4,
+    "position" : "top-left",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH soap african touch",
+  "unit" : "Stk.",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 996,
+  "usp" : "product.BSR-LE-MOS.usp",
+  "values" : [ {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1069,
+    "name" : "value.value14.name"
+  }, {
+    "iconMediaId" : 1057,
+    "name" : "value.value2.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 1420,
+    "language" : null,
+    "matchcode" : "BSR-LE-MOS",
+    "name" : null,
+    "size" : 100,
+    "slug" : "fresh-soap-african-touch",
+    "type" : 2,
+    "unit" : 2
+  } ]
+}

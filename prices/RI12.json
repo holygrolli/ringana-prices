@@ -1,35 +1,223 @@
 {
   "matchcode" : "RI12",
-  "availableVariants" : [ {
-    "matchcode" : "RI24",
-    "set" : false,
-    "travelSize" : false
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 5,
+    "infoColorNeeded" : false,
+    "name" : "category.category5.name",
+    "primary" : true,
+    "slug" : "drinks",
+    "visible" : true
+  }, {
+    "id" : 18,
+    "infoColorNeeded" : false,
+    "name" : "category.category18.name",
+    "primary" : false,
+    "slug" : "supplements",
+    "visible" : true
+  }, {
+    "id" : 72,
+    "infoColorNeeded" : false,
+    "name" : "category.category72.name",
+    "primary" : false,
+    "slug" : "relaxation",
+    "visible" : true
   } ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 154.7,
-    "unit" : "ml",
-    "unitId" : 827
-  },
   "contentsAmount" : "360",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/02/RINGANA-drinks-isi.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 58,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "1",
+    "currency" : "EUR",
+    "description" : "SOULBOTTLE",
+    "imageId" : 223,
+    "matchcode" : "R-SB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 31.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 31.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringana-soulbottle",
+    "title" : "RINGANA Soulbottle",
+    "unitContents" : "Stk."
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 90,
+      "type" : 1
+    },
+    "contentsAmount" : "41,7",
+    "currency" : "EUR",
+    "description" : "CAPS moodoo",
+    "imageId" : 1137,
+    "matchcode" : "CMO",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1386,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 57.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 33.1
+      },
+      "partner" : {
+        "brutto" : 57.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 33.1
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "caps-moodoo",
+    "title" : "CAPS moodoo",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 60,
+      "type" : 1
+    },
+    "contentsAmount" : "39,1",
+    "currency" : "EUR",
+    "description" : "BEYOND omega",
+    "imageId" : 440,
+    "matchcode" : "COV",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2398.9,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      },
+      "partner" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "beyond-omega",
+    "title" : "BEYOND omega",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 120,
+    "mediaId" : 263
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 121,
+    "mediaId" : 266
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 122,
+    "mediaId" : 267
+  } ],
+  "infoColor" : "#bc204b",
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/ringanaisi/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "bc204b",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 154.7,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 55.7,
       "bruttoWithoutDiscount" : null,
@@ -60,15 +248,79 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.RI12.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "ringanaisi",
+  "socialMedia" : {
+    "id" : 58,
+    "imageId" : 264,
+    "text" : "product.RI12.socialMedia.text",
+    "title" : "product.RI12.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "RINGANAisi",
+  "tabs" : [ {
+    "description" : "product.RI12.tabs0.description",
+    "id" : 208,
+    "showPrintButton" : false,
+    "title" : "product.RI12.tabs0.title"
+  }, {
+    "description" : "product.RI12.tabs1.description",
+    "id" : 209,
+    "showPrintButton" : true,
+    "title" : "product.RI12.tabs1.title"
+  }, {
+    "description" : "product.RI12.tabs2.description",
+    "id" : 210,
+    "showPrintButton" : false,
+    "title" : "product.RI12.tabs2.title"
+  }, {
+    "description" : "product.RI12.tabs3.description",
+    "id" : 211,
+    "showPrintButton" : false,
+    "title" : "product.RI12.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "RINGANAisi",
   "unit" : "Pck.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 43589,
-  "usp" : "Entschleunigungsdrink"
+  "usp" : "product.RI12.usp",
+  "values" : [ {
+    "iconMediaId" : 1063,
+    "name" : "value.value8.name"
+  }, {
+    "iconMediaId" : 1099,
+    "name" : "value.value44.name"
+  }, {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 86,
+    "language" : null,
+    "matchcode" : "RI12",
+    "name" : null,
+    "size" : 360,
+    "slug" : "ringanaisi",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 87,
+    "language" : null,
+    "matchcode" : "RI24",
+    "name" : null,
+    "size" : 720,
+    "slug" : "ringanaisi",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }

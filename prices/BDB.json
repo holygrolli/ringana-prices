@@ -1,31 +1,273 @@
 {
   "matchcode" : "BDB",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 101,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1046,
+    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
+    "name" : "COSMOS Organic"
+  }, {
+    "imageId" : 1053,
+    "link" : "https://www.umweltzeichen.at/de/produkte/haushalt-reinigung?cert_number=UW+1162",
+    "name" : "Umweltzeichen"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1047,
+    "link" : "https://www.umweltzeichen.at/de/ecolabel/living-and-cosmetics?cert_number=AT/030/004",
+    "name" : "EU Ecolabel"
+  }, {
+    "imageId" : 1826,
+    "link" : null,
+    "name" : "Reusable Materials"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/cc7276c9",
+    "name" : "cosmeticsanalysis.com - FRESH body wash"
+  } ],
+  "blogPostIds" : [ 150146, 155090, 150232 ],
+  "categories" : [ {
+    "id" : 2,
+    "infoColorNeeded" : false,
+    "name" : "category.category2.name",
+    "primary" : true,
+    "slug" : "body",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 94,
+    "infoColorNeeded" : false,
+    "name" : "category.category94.name",
+    "primary" : false,
+    "slug" : "washing-care",
+    "visible" : true
+  }, {
+    "id" : 87,
+    "infoColorNeeded" : false,
+    "name" : "category.category87.name",
+    "primary" : false,
+    "slug" : "sport-essentials",
+    "visible" : true
+  }, {
+    "id" : 79,
+    "infoColorNeeded" : false,
+    "name" : "category.category79.name",
+    "primary" : false,
+    "slug" : "microbiome-friendly",
+    "visible" : true
+  }, {
+    "id" : 78,
+    "infoColorNeeded" : false,
+    "name" : "category.category78.name",
+    "primary" : false,
+    "slug" : "cleansing",
+    "visible" : true
+  } ],
   "contentsAmount" : "200",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/08/ringana-fresh-200ml-body-wash-NBC7.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 124,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "200",
+    "currency" : "EUR",
+    "description" : "shampoo",
+    "imageId" : 1166,
+    "matchcode" : "BRS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 103,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 20.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 12
+      },
+      "partner" : {
+        "brutto" : 20.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 12
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-shampoonbc7",
+    "title" : "FRESH shampoo",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "200",
+    "currency" : "EUR",
+    "description" : "body milk",
+    "imageId" : 606,
+    "matchcode" : "BKM",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 189.5,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 37.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 21.1
+      },
+      "partner" : {
+        "brutto" : 37.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 21.1
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-body-milk",
+    "title" : "FRESH body milk",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "hair treatment",
+    "imageId" : 528,
+    "matchcode" : "FHT",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 223.2,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 27.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 16.2
+      },
+      "partner" : {
+        "brutto" : 27.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 16.2
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-hair-treatment",
+    "title" : "FRESH hair treatment",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 365,
+    "mediaId" : 600
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 366,
+    "mediaId" : 603
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 367,
+    "mediaId" : 2919
+  }, {
+    "caption" : "product.BDB.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 368,
+    "mediaId" : 605
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-body-wash-nbc/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 101,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 20.2,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +298,65 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.BDB.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-body-wash-nbc",
+  "socialMedia" : {
+    "id" : 124,
+    "imageId" : 599,
+    "text" : "product.BDB.socialMedia.text",
+    "title" : "product.BDB.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "body wash",
+  "tabs" : [ {
+    "description" : "product.BDB.tabs0.description",
+    "id" : 483,
+    "showPrintButton" : false,
+    "title" : "product.BDB.tabs0.title"
+  }, {
+    "description" : "product.BDB.tabs1.description",
+    "id" : 484,
+    "showPrintButton" : true,
+    "title" : "product.BDB.tabs1.title"
+  }, {
+    "description" : "product.BDB.tabs2.description",
+    "id" : 485,
+    "showPrintButton" : false,
+    "title" : "product.BDB.tabs2.title"
+  }, {
+    "description" : "product.BDB.tabs3.description",
+    "id" : 486,
+    "showPrintButton" : false,
+    "title" : "product.BDB.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH body wash",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Mikrobiom-freundliches Duschbad"
+  "usp" : "product.BDB.usp",
+  "values" : [ {
+    "iconMediaId" : 1091,
+    "name" : "value.value36.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  }, {
+    "iconMediaId" : 1088,
+    "name" : "value.value33.name"
+  }, {
+    "iconMediaId" : 1113,
+    "name" : "value.value58.name"
+  } ],
+  "variants" : [ ]
 }

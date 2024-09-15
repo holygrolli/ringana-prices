@@ -1,31 +1,285 @@
 {
   "matchcode" : "BSA",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 2493.3,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1046,
+    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
+    "name" : "COSMOS Organic"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/7424280e",
+    "name" : "cosmeticsanalysis.com - FRESH anti wrinkle serum "
+  } ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 7,
+    "infoColorNeeded" : false,
+    "name" : "category.category7.name",
+    "primary" : true,
+    "slug" : "face",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 86,
+    "infoColorNeeded" : false,
+    "name" : "category.category86.name",
+    "primary" : false,
+    "slug" : "combination-skin",
+    "visible" : true
+  }, {
+    "id" : 83,
+    "infoColorNeeded" : false,
+    "name" : "category.category83.name",
+    "primary" : false,
+    "slug" : "oily-skin",
+    "visible" : true
+  }, {
+    "id" : 81,
+    "infoColorNeeded" : false,
+    "name" : "category.category81.name",
+    "primary" : false,
+    "slug" : "mature-skin",
+    "visible" : true
+  }, {
+    "id" : 77,
+    "infoColorNeeded" : false,
+    "name" : "category.category77.name",
+    "primary" : false,
+    "slug" : "hydrating",
+    "visible" : true
+  }, {
+    "id" : 75,
+    "infoColorNeeded" : false,
+    "name" : "category.category75.name",
+    "primary" : false,
+    "slug" : "lifting",
+    "visible" : true
+  } ],
   "contentsAmount" : "30",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/07/ringana-fresh-30ml-anti-wrinkle-serum.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 157,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "15",
+    "currency" : "EUR",
+    "description" : "ADDS effect",
+    "imageId" : 773,
+    "matchcode" : "RAE",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 4060,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 60.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 36.9
+      },
+      "partner" : {
+        "brutto" : 60.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 36.9
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-adds-effect",
+    "title" : "ADDS effect",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "enzyme mask",
+    "imageId" : 672,
+    "matchcode" : "FEP",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 784,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 39.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 23.8
+      },
+      "partner" : {
+        "brutto" : 39.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 23.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-illuminating-enzyme-mask",
+    "title" : "FRESH illuminating enzyme mask",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "30",
+    "currency" : "EUR",
+    "description" : "overnight",
+    "imageId" : 679,
+    "matchcode" : "BCN",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2385,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 71.55,
+        "bruttoWithoutDiscount" : 79.5,
+        "discountPercentage" : 10,
+        "discountUntil" : "2024-09-27T08:00:00Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 37.83
+      },
+      "partner" : {
+        "brutto" : 71.55,
+        "bruttoWithoutDiscount" : 79.5,
+        "discountPercentage" : 10,
+        "discountUntil" : "2024-09-27T08:00:00Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 37.83
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-overnight-face-treatment",
+    "title" : "FRESH overnight face treatment",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 481,
+    "mediaId" : 757
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 482,
+    "mediaId" : 1172
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 483,
+    "mediaId" : 759
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 484,
+    "mediaId" : 1171
+  }, {
+    "caption" : "product.BSA.imageGallery4.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 485,
+    "mediaId" : 761
+  }, {
+    "caption" : "product.BSA.imageGallery5.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 486,
+    "mediaId" : 762
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-anti-wrinkle-serum/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 2493.3,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 74.8,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +310,88 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.BSA.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-anti-wrinkle-serum",
+  "socialMedia" : {
+    "id" : 158,
+    "imageId" : 1401,
+    "text" : "product.BSA.socialMedia.text",
+    "title" : "product.BSA.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "anti wrinkle",
+  "tabs" : [ {
+    "description" : "product.BSA.tabs0.description",
+    "id" : 597,
+    "showPrintButton" : false,
+    "title" : "product.BSA.tabs0.title"
+  }, {
+    "description" : "product.BSA.tabs1.description",
+    "id" : 598,
+    "showPrintButton" : true,
+    "title" : "product.BSA.tabs1.title"
+  }, {
+    "description" : "product.BSA.tabs2.description",
+    "id" : 599,
+    "showPrintButton" : false,
+    "title" : "product.BSA.tabs2.title"
+  }, {
+    "description" : "product.BSA.tabs3.description",
+    "id" : 600,
+    "showPrintButton" : false,
+    "title" : "product.BSA.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH anti wrinkle serum",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Anti-Falten-Serum"
+  "usp" : "product.BSA.usp",
+  "values" : [ {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1094,
+    "name" : "value.value39.name"
+  }, {
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1074,
+    "name" : "value.value19.name"
+  }, {
+    "iconMediaId" : 1060,
+    "name" : "value.value5.name"
+  } ],
+  "variants" : [ {
+    "color" : "#d3c798",
+    "id" : 226,
+    "language" : null,
+    "matchcode" : "BHS",
+    "name" : "hydro",
+    "size" : null,
+    "slug" : "fresh-anti-wrinkle-serum",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#e9e3bc",
+    "id" : 227,
+    "language" : null,
+    "matchcode" : "BSA",
+    "name" : "anti wrinkle",
+    "size" : null,
+    "slug" : "fresh-anti-wrinkle-serum",
+    "type" : 1,
+    "unit" : null
+  } ]
 }

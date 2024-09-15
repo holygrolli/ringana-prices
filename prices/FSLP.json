@@ -1,31 +1,266 @@
 {
   "matchcode" : "FSLP",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 80,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1046,
+    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
+    "name" : "COSMOS Organic"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1053,
+    "link" : "https://www.umweltzeichen.at/de/produkte/haushalt-reinigung?cert_number=UW+1162",
+    "name" : "Umweltzeichen"
+  }, {
+    "imageId" : 1047,
+    "link" : "https://www.umweltzeichen.at/de/ecolabel/living-and-cosmetics?cert_number=AT/030/004",
+    "name" : "EU Ecolabel"
+  }, {
+    "imageId" : 1826,
+    "link" : null,
+    "name" : "Reusable Materials"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/s026xifp",
+    "name" : "cosmeticsanalysis.com - FRESH soap liquid"
+  } ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 2,
+    "infoColorNeeded" : false,
+    "name" : "category.category2.name",
+    "primary" : true,
+    "slug" : "body",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 94,
+    "infoColorNeeded" : false,
+    "name" : "category.category94.name",
+    "primary" : false,
+    "slug" : "washing-care",
+    "visible" : true
+  }, {
+    "id" : 79,
+    "infoColorNeeded" : false,
+    "name" : "category.category79.name",
+    "primary" : false,
+    "slug" : "microbiome-friendly",
+    "visible" : true
+  }, {
+    "id" : 78,
+    "infoColorNeeded" : false,
+    "name" : "category.category78.name",
+    "primary" : false,
+    "slug" : "cleansing",
+    "visible" : true
+  } ],
   "contentsAmount" : "255",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/08/R_Produktfoto_soap-liquid_2000x2000_01.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 116,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "200",
+    "currency" : "EUR",
+    "description" : "body wash",
+    "imageId" : 600,
+    "matchcode" : "BDB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 101,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 20.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 11.5
+      },
+      "partner" : {
+        "brutto" : 20.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 11.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-body-wash-nbc",
+    "title" : "FRESH body wash",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "hand balm",
+    "imageId" : 572,
+    "matchcode" : "BHB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 196,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 24.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 13.7
+      },
+      "partner" : {
+        "brutto" : 24.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 13.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-hand-balm",
+    "title" : "FRESH hand balm",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "stay fresh",
+    "imageId" : 553,
+    "matchcode" : "STF",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 218,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 10.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5.7
+      },
+      "partner" : {
+        "brutto" : 10.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-stay-fresh",
+    "title" : "FRESH stay fresh",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 315,
+    "mediaId" : 567
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 316,
+    "mediaId" : 568
+  }, {
+    "caption" : "product.FSLP.imageGallery2.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 317,
+    "mediaId" : 569
+  }, {
+    "caption" : "product.FSLP.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 318,
+    "mediaId" : 570
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-soap-liquid/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 80,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 20.4,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +291,65 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.FSLP.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-soap-liquid",
+  "socialMedia" : {
+    "id" : 114,
+    "imageId" : 566,
+    "text" : "product.FSLP.socialMedia.text",
+    "title" : "product.FSLP.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "soap liquid",
+  "tabs" : [ {
+    "description" : "product.FSLP.tabs0.description",
+    "id" : 439,
+    "showPrintButton" : false,
+    "title" : "product.FSLP.tabs0.title"
+  }, {
+    "description" : "product.FSLP.tabs1.description",
+    "id" : 440,
+    "showPrintButton" : true,
+    "title" : "product.FSLP.tabs1.title"
+  }, {
+    "description" : "product.FSLP.tabs2.description",
+    "id" : 441,
+    "showPrintButton" : false,
+    "title" : "product.FSLP.tabs2.title"
+  }, {
+    "description" : "product.FSLP.tabs3.description",
+    "id" : 442,
+    "showPrintButton" : false,
+    "title" : "product.FSLP.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH soap liquid",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Mikrobiom-freundliche Flüssigseife"
+  "usp" : "product.FSLP.usp",
+  "values" : [ {
+    "iconMediaId" : 1091,
+    "name" : "value.value36.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  }, {
+    "iconMediaId" : 1057,
+    "name" : "value.value2.name"
+  }, {
+    "iconMediaId" : 1113,
+    "name" : "value.value58.name"
+  } ],
+  "variants" : [ ]
 }

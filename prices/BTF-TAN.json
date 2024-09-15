@@ -1,31 +1,292 @@
 {
   "matchcode" : "BTF-TAN",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 1623.3,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1046,
+    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
+    "name" : "COSMOS Organic"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/c95c37bd",
+    "name" : "cosmeticsanalysis.com - FRESH tinted moisturiser tan"
+  } ],
+  "blogPostIds" : [ 99737, 99745, 194501 ],
+  "categories" : [ {
+    "id" : 7,
+    "infoColorNeeded" : false,
+    "name" : "category.category7.name",
+    "primary" : true,
+    "slug" : "face",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 77,
+    "infoColorNeeded" : false,
+    "name" : "category.category77.name",
+    "primary" : false,
+    "slug" : "hydrating",
+    "visible" : true
+  }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 86,
+    "infoColorNeeded" : false,
+    "name" : "category.category86.name",
+    "primary" : false,
+    "slug" : "combination-skin",
+    "visible" : true
+  }, {
+    "id" : 85,
+    "infoColorNeeded" : false,
+    "name" : "category.category85.name",
+    "primary" : false,
+    "slug" : "sensitive-reddened-skin",
+    "visible" : true
+  }, {
+    "id" : 84,
+    "infoColorNeeded" : false,
+    "name" : "category.category84.name",
+    "primary" : false,
+    "slug" : "impure-skin",
+    "visible" : true
+  }, {
+    "id" : 83,
+    "infoColorNeeded" : false,
+    "name" : "category.category83.name",
+    "primary" : false,
+    "slug" : "oily-skin",
+    "visible" : true
+  }, {
+    "id" : 81,
+    "infoColorNeeded" : false,
+    "name" : "category.category81.name",
+    "primary" : false,
+    "slug" : "mature-skin",
+    "visible" : true
+  }, {
+    "id" : 80,
+    "infoColorNeeded" : false,
+    "name" : "category.category80.name",
+    "primary" : false,
+    "slug" : "anti-pollution",
+    "visible" : true
+  } ],
   "contentsAmount" : "30",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/07/ringana-fresh-30ml-tinted-moisturizer-tan.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 133,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "currency" : "EUR",
+    "description" : "",
+    "imageId" : 234,
+    "matchcode" : "RFOBR",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 28.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 28.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringana-foundation-brush",
+    "title" : "RINGANA foundation brush"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "5",
+    "currency" : "EUR",
+    "description" : "lip balm",
+    "imageId" : 1159,
+    "matchcode" : "BLB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2420,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 12.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 7
+      },
+      "partner" : {
+        "brutto" : 12.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-lip-balm",
+    "title" : "FRESH lip balm",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "200",
+    "currency" : "EUR",
+    "description" : "scrub",
+    "imageId" : 687,
+    "matchcode" : "FSC",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 238,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 47.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29
+      },
+      "partner" : {
+        "brutto" : 47.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-scrub",
+    "title" : "FRESH scrub face & body",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 398,
+    "mediaId" : 648
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 399,
+    "mediaId" : 649
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 400,
+    "mediaId" : 650
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 401,
+    "mediaId" : 651
+  }, {
+    "caption" : "product.BTF-TAN.imageGallery4.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 402,
+    "mediaId" : 652
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-tinted-moisturiser-tan/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 1623.3,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 48.7,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +317,88 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.BTF-TAN.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-tinted-moisturiser-tan",
+  "socialMedia" : {
+    "id" : 133,
+    "imageId" : 647,
+    "text" : "product.BTF-TAN.socialMedia.text",
+    "title" : "product.BTF-TAN.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "NUANCE2",
+  "tabs" : [ {
+    "description" : "product.BTF-TAN.tabs0.description",
+    "id" : 511,
+    "showPrintButton" : false,
+    "title" : "product.BTF-TAN.tabs0.title"
+  }, {
+    "description" : "product.BTF-TAN.tabs1.description",
+    "id" : 512,
+    "showPrintButton" : true,
+    "title" : "product.BTF-TAN.tabs1.title"
+  }, {
+    "description" : "product.BTF-TAN.tabs2.description",
+    "id" : 513,
+    "showPrintButton" : false,
+    "title" : "product.BTF-TAN.tabs2.title"
+  }, {
+    "description" : "product.BTF-TAN.tabs3.description",
+    "id" : 514,
+    "showPrintButton" : false,
+    "title" : "product.BTF-TAN.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH tinted moisturiser tan",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Getönte Feuchtigkeitspflege - Nuance 2"
+  "usp" : "product.BTF-TAN.usp",
+  "values" : [ {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1074,
+    "name" : "value.value19.name"
+  }, {
+    "iconMediaId" : 1085,
+    "name" : "value.value30.name"
+  } ],
+  "variants" : [ {
+    "color" : "#e0b8a4",
+    "id" : 201,
+    "language" : null,
+    "matchcode" : "BTF",
+    "name" : "N1",
+    "size" : null,
+    "slug" : "fresh-tinted-moisturiser-tan",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#c38a6d",
+    "id" : 202,
+    "language" : null,
+    "matchcode" : "BTF-TAN",
+    "name" : "N2",
+    "size" : null,
+    "slug" : "fresh-tinted-moisturiser-tan",
+    "type" : 1,
+    "unit" : null
+  } ]
 }

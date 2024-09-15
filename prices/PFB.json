@@ -1,31 +1,242 @@
 {
   "matchcode" : "PFB",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 240,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1045,
+    "link" : "https://www.cosmos-standard.org/",
+    "name" : "COSMOS Natural"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/d4af2cba",
+    "name" : "cosmeticsanalysis.com - FRESH foot balm "
+  } ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 13,
+    "infoColorNeeded" : false,
+    "name" : "category.category13.name",
+    "primary" : true,
+    "slug" : "samples",
+    "visible" : true
+  }, {
+    "id" : 93,
+    "infoColorNeeded" : false,
+    "name" : "category.category93.name",
+    "primary" : false,
+    "slug" : "body-care",
+    "visible" : true
+  }, {
+    "id" : 82,
+    "infoColorNeeded" : false,
+    "name" : "category.category82.name",
+    "primary" : false,
+    "slug" : "dry-skin",
+    "visible" : true
+  }, {
+    "id" : 77,
+    "infoColorNeeded" : false,
+    "name" : "category.category77.name",
+    "primary" : false,
+    "slug" : "hydrating",
+    "visible" : true
+  } ],
   "contentsAmount" : "15",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/11/R_Produktfoto_pouch_foot-balm_2000x2000.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 42,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "100",
+    "currency" : "EUR",
+    "description" : "soapsoapsoap",
+    "imageId" : 546,
+    "matchcode" : "BSR",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 106,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 10.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5
+      },
+      "partner" : {
+        "brutto" : 10.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-soap",
+    "title" : "FRESH soap",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "200",
+    "currency" : "EUR",
+    "description" : "scrub",
+    "imageId" : 687,
+    "matchcode" : "FSC",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 238,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 47.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29
+      },
+      "partner" : {
+        "brutto" : 47.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-scrub",
+    "title" : "FRESH scrub face & body",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "light legs",
+    "imageId" : 587,
+    "matchcode" : "FLL",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 228.8,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 28.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 17
+      },
+      "partner" : {
+        "brutto" : 28.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 17
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-light-legs",
+    "title" : "FRESH light legs",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 79,
+    "mediaId" : 2490
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 80,
+    "mediaId" : 203
+  }, {
+    "caption" : "product.PFB.imageGallery2.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 81,
+    "mediaId" : 205
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-foot-balm-sample/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 240,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 3.6,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +267,85 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.PFB.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-foot-balm-sample",
+  "socialMedia" : {
+    "id" : 42,
+    "imageId" : 2490,
+    "text" : "product.PFB.socialMedia.text",
+    "title" : "product.PFB.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "sample",
+  "tabs" : [ {
+    "description" : "product.PFB.tabs0.description",
+    "id" : 163,
+    "showPrintButton" : false,
+    "title" : "product.PFB.tabs0.title"
+  }, {
+    "description" : "product.PFB.tabs1.description",
+    "id" : 164,
+    "showPrintButton" : true,
+    "title" : "product.PFB.tabs1.title"
+  }, {
+    "description" : "product.PFB.tabs2.description",
+    "id" : 165,
+    "showPrintButton" : false,
+    "title" : "product.PFB.tabs2.title"
+  }, {
+    "description" : "product.PFB.tabs3.description",
+    "id" : 166,
+    "showPrintButton" : false,
+    "title" : "product.PFB.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH foot balm sample",
   "unit" : null,
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : null,
-  "usp" : "Fußbalsam"
+  "usp" : "product.PFB.usp",
+  "values" : [ {
+    "iconMediaId" : 1107,
+    "name" : "value.value52.name"
+  }, {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  }, {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 72,
+    "language" : null,
+    "matchcode" : "BFB",
+    "name" : null,
+    "size" : 125,
+    "slug" : "fresh-foot-balm-sample",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 73,
+    "language" : null,
+    "matchcode" : "PFB",
+    "name" : null,
+    "size" : 15,
+    "slug" : "fresh-foot-balm-sample",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }

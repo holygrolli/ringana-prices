@@ -1,31 +1,273 @@
 {
   "matchcode" : "BGS",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 206.4,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1046,
+    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
+    "name" : "COSMOS Organic"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/5a1d0cee",
+    "name" : "cosmeticsanalysis.com - FRESH tonic pure"
+  } ],
+  "blogPostIds" : [ 178302, 93675, 99745 ],
+  "categories" : [ {
+    "id" : 7,
+    "infoColorNeeded" : false,
+    "name" : "category.category7.name",
+    "primary" : true,
+    "slug" : "face",
+    "visible" : true
+  }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 86,
+    "infoColorNeeded" : false,
+    "name" : "category.category86.name",
+    "primary" : false,
+    "slug" : "combination-skin",
+    "visible" : true
+  }, {
+    "id" : 84,
+    "infoColorNeeded" : false,
+    "name" : "category.category84.name",
+    "primary" : false,
+    "slug" : "impure-skin",
+    "visible" : true
+  }, {
+    "id" : 83,
+    "infoColorNeeded" : false,
+    "name" : "category.category83.name",
+    "primary" : false,
+    "slug" : "oily-skin",
+    "visible" : true
+  }, {
+    "id" : 76,
+    "infoColorNeeded" : false,
+    "name" : "category.category76.name",
+    "primary" : false,
+    "slug" : "toning",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  } ],
   "contentsAmount" : "125",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/07/ringana-fresh-125ml-tonic-pure.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 130,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "cleanser",
+    "imageId" : 750,
+    "matchcode" : "BRM",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 209.6,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 26.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 14.4
+      },
+      "partner" : {
+        "brutto" : 26.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 14.4
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-cleanser",
+    "title" : "FRESH cleanser",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "cream medium",
+    "imageId" : 730,
+    "matchcode" : "BCL",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1078,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 53.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 31.1
+      },
+      "partner" : {
+        "brutto" : 53.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 31.1
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-cream-medium",
+    "title" : "FRESH cream medium",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "cream light",
+    "imageId" : 1126,
+    "matchcode" : "BCE",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 978,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 48.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.1
+      },
+      "partner" : {
+        "brutto" : 48.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.1
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-cream-light",
+    "title" : "FRESH cream light",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 383,
+    "mediaId" : 636
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 384,
+    "mediaId" : 637
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 385,
+    "mediaId" : 638
+  }, {
+    "caption" : "product.BGS.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 387,
+    "mediaId" : 639
+  }, {
+    "caption" : "product.BGS.imageGallery4.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 389,
+    "mediaId" : 640
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-tonic-pure/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 206.4,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 25.8,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +298,85 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.BGS.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-tonic-pure",
+  "socialMedia" : {
+    "id" : 130,
+    "imageId" : 635,
+    "text" : "product.BGS.socialMedia.text",
+    "title" : "product.BGS.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "tonic pure",
+  "tabs" : [ {
+    "description" : "product.BGS.tabs0.description",
+    "id" : 496,
+    "showPrintButton" : false,
+    "title" : "product.BGS.tabs0.title"
+  }, {
+    "description" : "product.BGS.tabs1.description",
+    "id" : 498,
+    "showPrintButton" : true,
+    "title" : "product.BGS.tabs1.title"
+  }, {
+    "description" : "product.BGS.tabs2.description",
+    "id" : 501,
+    "showPrintButton" : false,
+    "title" : "product.BGS.tabs2.title"
+  }, {
+    "description" : "product.BGS.tabs3.description",
+    "id" : 503,
+    "showPrintButton" : false,
+    "title" : "product.BGS.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH tonic pure",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Klärendes Gesichtswasser"
+  "usp" : "product.BGS.usp",
+  "values" : [ {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1094,
+    "name" : "value.value39.name"
+  }, {
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1074,
+    "name" : "value.value19.name"
+  }, {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  } ],
+  "variants" : [ {
+    "color" : "#eddcbd",
+    "id" : 196,
+    "language" : null,
+    "matchcode" : "BGL",
+    "name" : "calm",
+    "size" : null,
+    "slug" : "fresh-tonic-pure",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#d7a871",
+    "id" : 198,
+    "language" : null,
+    "matchcode" : "BGS",
+    "name" : "pure",
+    "size" : null,
+    "slug" : "fresh-tonic-pure",
+    "type" : 1,
+    "unit" : null
+  } ]
 }

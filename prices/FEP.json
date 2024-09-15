@@ -1,31 +1,321 @@
 {
   "matchcode" : "FEP",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 784,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1045,
+    "link" : "https://www.cosmos-standard.org/",
+    "name" : "COSMOS Natural"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/3rc7t4we",
+    "name" : "cosmeticsanalysis.com - FRESH illuminating enzyme mask"
+  } ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 7,
+    "infoColorNeeded" : false,
+    "name" : "category.category7.name",
+    "primary" : true,
+    "slug" : "face",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 86,
+    "infoColorNeeded" : false,
+    "name" : "category.category86.name",
+    "primary" : false,
+    "slug" : "combination-skin",
+    "visible" : true
+  }, {
+    "id" : 84,
+    "infoColorNeeded" : false,
+    "name" : "category.category84.name",
+    "primary" : false,
+    "slug" : "impure-skin",
+    "visible" : true
+  }, {
+    "id" : 83,
+    "infoColorNeeded" : false,
+    "name" : "category.category83.name",
+    "primary" : false,
+    "slug" : "oily-skin",
+    "visible" : true
+  }, {
+    "id" : 81,
+    "infoColorNeeded" : false,
+    "name" : "category.category81.name",
+    "primary" : false,
+    "slug" : "mature-skin",
+    "visible" : true
+  }, {
+    "id" : 78,
+    "infoColorNeeded" : false,
+    "name" : "category.category78.name",
+    "primary" : false,
+    "slug" : "cleansing",
+    "visible" : true
+  }, {
+    "id" : 76,
+    "infoColorNeeded" : false,
+    "name" : "category.category76.name",
+    "primary" : false,
+    "slug" : "toning",
+    "visible" : true
+  }, {
+    "id" : 75,
+    "infoColorNeeded" : false,
+    "name" : "category.category75.name",
+    "primary" : false,
+    "slug" : "lifting",
+    "visible" : true
+  } ],
   "contentsAmount" : "50",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/03/RINGANA-Produktfoto-fresh-illuminating-enzyme-mask-peeling.png?q=100",
+  "disruptor" : {
+    "mediaId" : 676,
+    "posterMediaId" : 677
+  },
+  "faqs" : [ {
+    "answer" : "product.FEP.faqs1.answer",
+    "id" : 75,
+    "question" : "product.FEP.faqs1.question"
+  }, {
+    "answer" : "product.FEP.faqs2.answer",
+    "id" : 76,
+    "question" : "product.FEP.faqs2.question"
+  }, {
+    "answer" : "product.FEP.faqs3.answer",
+    "id" : 77,
+    "question" : "product.FEP.faqs3.question"
+  }, {
+    "answer" : "product.FEP.faqs4.answer",
+    "id" : 78,
+    "question" : "product.FEP.faqs4.question"
+  }, {
+    "answer" : "product.FEP.faqs6.answer",
+    "id" : 79,
+    "question" : "product.FEP.faqs6.question"
+  }, {
+    "answer" : "product.FEP.faqs5.answer",
+    "id" : 133,
+    "question" : "product.FEP.faqs5.question"
+  } ],
+  "firstHeadline" : "",
+  "id" : 136,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "15",
+    "currency" : "EUR",
+    "description" : "ADDS glow",
+    "imageId" : 739,
+    "matchcode" : "RAG",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 3246.6,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 48.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29.6
+      },
+      "partner" : {
+        "brutto" : 48.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-adds-glow",
+    "title" : "ADDS glow",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "30",
+    "currency" : "EUR",
+    "description" : "hydro serum",
+    "imageId" : 1123,
+    "matchcode" : "BHS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1943.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.8
+      },
+      "partner" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-hydro-serum",
+    "title" : "FRESH hydro serum",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "30",
+    "currency" : "EUR",
+    "description" : "anti wrinkle",
+    "imageId" : 757,
+    "matchcode" : "BSA",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2493.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 74.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 43
+      },
+      "partner" : {
+        "brutto" : 74.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 43
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-anti-wrinkle-serum",
+    "title" : "FRESH anti wrinkle serum",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 408,
+    "mediaId" : 672
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 410,
+    "mediaId" : 673
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 407,
+    "mediaId" : 671
+  }, {
+    "caption" : "product.FEP.imageGallery412.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 412,
+    "mediaId" : 674
+  }, {
+    "caption" : "product.FEP.imageGallery415.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 415,
+    "mediaId" : 675
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-illuminating-enzyme-mask/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 784,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 39.2,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +346,93 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.FEP.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-illuminating-enzyme-mask",
+  "socialMedia" : {
+    "id" : 134,
+    "imageId" : 670,
+    "text" : "product.FEP.socialMedia.text",
+    "title" : "product.FEP.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "enzyme mask",
+  "tabs" : [ {
+    "description" : "product.FEP.tabs0.description",
+    "id" : 523,
+    "showPrintButton" : false,
+    "title" : "product.FEP.tabs0.title"
+  }, {
+    "description" : "product.FEP.tabs1.description",
+    "id" : 524,
+    "showPrintButton" : true,
+    "title" : "product.FEP.tabs1.title"
+  }, {
+    "description" : "product.FEP.tabs2.description",
+    "id" : 525,
+    "showPrintButton" : false,
+    "title" : "product.FEP.tabs2.title"
+  }, {
+    "description" : "product.FEP.tabs3.description",
+    "id" : 526,
+    "showPrintButton" : false,
+    "title" : "product.FEP.tabs3.title"
+  }, {
+    "description" : "product.FEP.tabs2059.description",
+    "id" : 2059,
+    "showPrintButton" : false,
+    "title" : "product.FEP.tabs2059.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH illuminating enzyme mask",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Frucht-Enzympeeling"
+  "usp" : "product.FEP.usp",
+  "values" : [ {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1112,
+    "name" : "value.value57.name"
+  }, {
+    "iconMediaId" : 1074,
+    "name" : "value.value19.name"
+  }, {
+    "iconMediaId" : 1088,
+    "name" : "value.value33.name"
+  }, {
+    "iconMediaId" : 1069,
+    "name" : "value.value14.name"
+  }, {
+    "iconMediaId" : 1098,
+    "name" : "value.value43.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 203,
+    "language" : null,
+    "matchcode" : "FEP",
+    "name" : null,
+    "size" : 50,
+    "slug" : "fresh-illuminating-enzyme-mask",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 204,
+    "language" : null,
+    "matchcode" : "PEP",
+    "name" : null,
+    "size" : 10,
+    "slug" : "fresh-illuminating-enzyme-mask",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }

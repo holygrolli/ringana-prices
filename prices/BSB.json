@@ -1,31 +1,261 @@
 {
   "matchcode" : "BSB",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 244,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 2222,
+    "link" : null,
+    "name" : "UVB-protection"
+  }, {
+    "imageId" : 2223,
+    "link" : null,
+    "name" : "UVA-protection"
+  }, {
+    "imageId" : 1045,
+    "link" : "https://www.cosmos-standard.org/",
+    "name" : "COSMOS Natural"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/tn9pe0va",
+    "name" : "cosmeticanalysis.com - FRESH sunscreen medium SPF 25"
+  } ],
+  "blogPostIds" : [ 190187, 176347, 175019 ],
+  "categories" : [ {
+    "id" : 2,
+    "infoColorNeeded" : false,
+    "name" : "category.category2.name",
+    "primary" : true,
+    "slug" : "body",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 91,
+    "infoColorNeeded" : false,
+    "name" : "category.category91.name",
+    "primary" : false,
+    "slug" : "suncare",
+    "visible" : true
+  } ],
   "contentsAmount" : "200",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/04/R_Produktfoto_sunscreen_medium_20_2000x2000_1.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ {
+    "answer" : "product.BSB.faqs0.answer",
+    "id" : 714,
+    "question" : "product.BSB.faqs0.question"
+  }, {
+    "answer" : "product.BSB.faqs1.answer",
+    "id" : 715,
+    "question" : "product.BSB.faqs1.question"
+  } ],
+  "firstHeadline" : "",
+  "id" : 117,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "sunscreen face",
+    "imageId" : 656,
+    "matchcode" : "SSF",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 664,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 33.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 19.5
+      },
+      "partner" : {
+        "brutto" : 33.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 19.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-sunscreen-face",
+    "title" : "FRESH sunscreen face",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "after sun",
+    "imageId" : 623,
+    "matchcode" : "SBA",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 228,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 28.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 16.5
+      },
+      "partner" : {
+        "brutto" : 28.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 16.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-after-sun",
+    "title" : "FRESH after sun & tan booster",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 90,
+      "type" : 1
+    },
+    "contentsAmount" : "42,8",
+    "currency" : "EUR",
+    "description" : "CAPS protect",
+    "imageId" : 1124,
+    "matchcode" : "CSV",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1485.9,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 63.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 36.8
+      },
+      "partner" : {
+        "brutto" : 63.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 36.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "caps-protect",
+    "title" : "CAPS protect",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 324,
+    "mediaId" : 1990
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 325,
+    "mediaId" : 2192
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 327,
+    "mediaId" : 2156
+  }, {
+    "caption" : "product.BSB.imageGallery326.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 326,
+    "mediaId" : 562
+  }, {
+    "caption" : "product.BSB.imageGallery5.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 329,
+    "mediaId" : 2091
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-sunscreen-spf-20/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 244,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 48.8,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +286,77 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.BSB.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-sunscreen-spf-25",
+  "socialMedia" : {
+    "id" : 117,
+    "imageId" : 2156,
+    "text" : "product.BSB.socialMedia.text",
+    "title" : "product.BSB.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "sunscreen",
+  "tabs" : [ {
+    "description" : "product.BSB.tabs1810.description",
+    "id" : 1810,
+    "showPrintButton" : false,
+    "title" : "product.BSB.tabs1810.title"
+  }, {
+    "description" : "product.BSB.tabs1811.description",
+    "id" : 1811,
+    "showPrintButton" : false,
+    "title" : "product.BSB.tabs1811.title"
+  }, {
+    "description" : "product.BSB.tabs1812.description",
+    "id" : 1812,
+    "showPrintButton" : false,
+    "title" : "product.BSB.tabs1812.title"
+  }, {
+    "description" : "product.BSB.tabs1813.description",
+    "id" : 1813,
+    "showPrintButton" : false,
+    "title" : "product.BSB.tabs1813.title"
+  } ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 10,
+    "id" : 3,
+    "lineHeight" : 1.3,
+    "position" : "top-left",
+    "text" : "New Formu-lation",
+    "textColor" : "#ffffff"
+  } ],
   "title" : "FRESH sunscreen",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Sonnenschutzbalsam mittel SPF 20"
+  "usp" : "product.BSB.usp",
+  "values" : [ {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1107,
+    "name" : "value.value52.name"
+  }, {
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1104,
+    "name" : "value.value49.name"
+  } ],
+  "variants" : [ ]
 }

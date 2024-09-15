@@ -1,31 +1,280 @@
 {
   "matchcode" : "BGL",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 206.4,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1046,
+    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
+    "name" : "COSMOS Organic"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/507de9c1",
+    "name" : "cosmeticsanalysis.com - FRESH tonic calm"
+  } ],
+  "blogPostIds" : [ 178302, 93675, 99746 ],
+  "categories" : [ {
+    "id" : 7,
+    "infoColorNeeded" : false,
+    "name" : "category.category7.name",
+    "primary" : true,
+    "slug" : "face",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 86,
+    "infoColorNeeded" : false,
+    "name" : "category.category86.name",
+    "primary" : false,
+    "slug" : "combination-skin",
+    "visible" : true
+  }, {
+    "id" : 85,
+    "infoColorNeeded" : false,
+    "name" : "category.category85.name",
+    "primary" : false,
+    "slug" : "sensitive-reddened-skin",
+    "visible" : true
+  }, {
+    "id" : 82,
+    "infoColorNeeded" : false,
+    "name" : "category.category82.name",
+    "primary" : false,
+    "slug" : "dry-skin",
+    "visible" : true
+  }, {
+    "id" : 81,
+    "infoColorNeeded" : false,
+    "name" : "category.category81.name",
+    "primary" : false,
+    "slug" : "mature-skin",
+    "visible" : true
+  }, {
+    "id" : 77,
+    "infoColorNeeded" : false,
+    "name" : "category.category77.name",
+    "primary" : false,
+    "slug" : "hydrating",
+    "visible" : true
+  } ],
   "contentsAmount" : "125",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/02/Ringana-fresh-tonic-calm.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 129,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "cleanser",
+    "imageId" : 750,
+    "matchcode" : "BRM",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 209.6,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 26.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 14.4
+      },
+      "partner" : {
+        "brutto" : 26.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 14.4
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-cleanser",
+    "title" : "FRESH cleanser",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "cream rich",
+    "imageId" : 703,
+    "matchcode" : "BCM",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1204,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 60.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 34.9
+      },
+      "partner" : {
+        "brutto" : 60.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 34.9
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-cream-rich",
+    "title" : "FRESH cream rich",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "200",
+    "currency" : "EUR",
+    "description" : "scrub",
+    "imageId" : 687,
+    "matchcode" : "FSC",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 238,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 47.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29
+      },
+      "partner" : {
+        "brutto" : 47.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-scrub",
+    "title" : "FRESH scrub face & body",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 378,
+    "mediaId" : 630
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 379,
+    "mediaId" : 631
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 380,
+    "mediaId" : 632
+  }, {
+    "caption" : "product.BGL.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 381,
+    "mediaId" : 633
+  }, {
+    "caption" : "product.BGL.imageGallery4.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 382,
+    "mediaId" : 634
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-tonic-calm/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 206.4,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 25.8,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +305,85 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.BGL.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-tonic-calm",
+  "socialMedia" : {
+    "id" : 129,
+    "imageId" : 629,
+    "text" : "product.BGL.socialMedia.text",
+    "title" : "product.BGL.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "tonic calm",
+  "tabs" : [ {
+    "description" : "product.BGL.tabs0.description",
+    "id" : 495,
+    "showPrintButton" : false,
+    "title" : "product.BGL.tabs0.title"
+  }, {
+    "description" : "product.BGL.tabs1.description",
+    "id" : 497,
+    "showPrintButton" : true,
+    "title" : "product.BGL.tabs1.title"
+  }, {
+    "description" : "product.BGL.tabs2.description",
+    "id" : 499,
+    "showPrintButton" : false,
+    "title" : "product.BGL.tabs2.title"
+  }, {
+    "description" : "product.BGL.tabs3.description",
+    "id" : 502,
+    "showPrintButton" : false,
+    "title" : "product.BGL.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH tonic calm",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Beruhigendes Gesichtswasser"
+  "usp" : "product.BGL.usp",
+  "values" : [ {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1074,
+    "name" : "value.value19.name"
+  }, {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  }, {
+    "iconMediaId" : 1057,
+    "name" : "value.value2.name"
+  } ],
+  "variants" : [ {
+    "color" : "#eddcbd",
+    "id" : 195,
+    "language" : null,
+    "matchcode" : "BGL",
+    "name" : "calm",
+    "size" : null,
+    "slug" : "fresh-tonic-calm",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#d7a871",
+    "id" : 197,
+    "language" : null,
+    "matchcode" : "BGS",
+    "name" : "pure",
+    "size" : null,
+    "slug" : "fresh-tonic-calm",
+    "type" : 1,
+    "unit" : null
+  } ]
 }

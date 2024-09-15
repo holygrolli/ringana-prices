@@ -1,31 +1,250 @@
 {
   "matchcode" : "RBDC",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 226,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1046,
+    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
+    "name" : "COSMOS Organic"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/ki4zam79",
+    "name" : "cosmeticsanalysis.com - FRESH baby bum cream"
+  } ],
+  "blogPostIds" : [ 169155, 169158, 177281 ],
+  "categories" : [ {
+    "id" : 15,
+    "infoColorNeeded" : false,
+    "name" : "category.category15.name",
+    "primary" : true,
+    "slug" : "fresh-baby",
+    "visible" : true
+  } ],
   "contentsAmount" : "50",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/01/RINGANa-fresh-baby-bum-cream-veggie-award.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ {
+    "answer" : "product.RBDC.faqs1.answer",
+    "id" : 40,
+    "question" : "product.RBDC.faqs1.question"
+  }, {
+    "answer" : "product.RBDC.faqs2.answer",
+    "id" : 42,
+    "question" : "product.RBDC.faqs2.question"
+  }, {
+    "answer" : "product.RBDC.faqs3.answer",
+    "id" : 45,
+    "question" : "product.RBDC.faqs3.question"
+  }, {
+    "answer" : "product.RBDC.faqs4.answer",
+    "id" : 47,
+    "question" : "product.RBDC.faqs4.question"
+  }, {
+    "answer" : "product.RBDC.faqs5.answer",
+    "id" : 50,
+    "question" : "product.RBDC.faqs5.question"
+  }, {
+    "answer" : "product.RBDC.faqs6.answer",
+    "id" : 51,
+    "question" : "product.RBDC.faqs6.question"
+  } ],
+  "firstHeadline" : "",
+  "id" : 105,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "FRESH BABY",
+    "imageId" : 2848,
+    "matchcode" : "FSTF",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 206,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 10.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5.3
+      },
+      "partner" : {
+        "brutto" : 10.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5.3
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-baby-bum-foam",
+    "title" : "FRESH baby bum foam",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "FRESH BABY",
+    "imageId" : 502,
+    "matchcode" : "RBW",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 160,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 4.1
+      },
+      "partner" : {
+        "brutto" : 8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 4.1
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-baby-body-hair-wash",
+    "title" : "FRESH baby body & hair wash",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "FRESH BABY",
+    "imageId" : 507,
+    "matchcode" : "RBO",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 182,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 9.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 4.7
+      },
+      "partner" : {
+        "brutto" : 9.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 4.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-baby-oil",
+    "title" : "FRESH baby oil",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 287,
+    "mediaId" : 514
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 282,
+    "mediaId" : 511
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 284,
+    "mediaId" : 512
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 290,
+    "mediaId" : 515
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-baby-bum-cream/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 226,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 11.3,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +275,68 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.RBDC.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-baby-bum-cream",
+  "socialMedia" : {
+    "id" : 106,
+    "imageId" : 513,
+    "text" : "product.RBDC.socialMedia.text",
+    "title" : "product.RBDC.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "FRESH BABY",
+  "tabs" : [ {
+    "description" : "product.RBDC.tabs0.description",
+    "id" : 396,
+    "showPrintButton" : false,
+    "title" : "product.RBDC.tabs0.title"
+  }, {
+    "description" : "product.RBDC.tabs1.description",
+    "id" : 397,
+    "showPrintButton" : true,
+    "title" : "product.RBDC.tabs1.title"
+  }, {
+    "description" : "product.RBDC.tabs2.description",
+    "id" : 399,
+    "showPrintButton" : false,
+    "title" : "product.RBDC.tabs2.title"
+  }, {
+    "description" : "product.RBDC.tabs3.description",
+    "id" : 401,
+    "showPrintButton" : false,
+    "title" : "product.RBDC.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH baby bum cream",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Beruhigende Windel- und Wundschutzcreme"
+  "usp" : "product.RBDC.usp",
+  "values" : [ {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1107,
+    "name" : "value.value52.name"
+  }, {
+    "iconMediaId" : 1114,
+    "name" : "value.value59.name"
+  } ],
+  "variants" : [ ]
 }

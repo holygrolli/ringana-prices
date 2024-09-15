@@ -1,37 +1,219 @@
 {
   "matchcode" : "WP1",
-  "availableVariants" : [ {
-    "matchcode" : "WP3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
-  } ],
-  "basePrice" : {
-    "amount" : null,
-    "brutto" : null,
-    "unit" : null,
-    "unitId" : null
+  "additionalUnitPrice" : {
+    "entity" : 78,
+    "type" : 2
   },
+  "awards" : [ ],
+  "blogPostIds" : [ 156677, 146360, 168257 ],
+  "categories" : [ {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  }, {
+    "id" : 10,
+    "infoColorNeeded" : false,
+    "name" : "category.category10.name",
+    "primary" : false,
+    "slug" : "packs",
+    "visible" : true
+  }, {
+    "id" : 18,
+    "infoColorNeeded" : false,
+    "name" : "category.category18.name",
+    "primary" : false,
+    "slug" : "supplements",
+    "visible" : true
+  } ],
   "contentsAmount" : "1040",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/03/RINGANA-packs-ABC.png?q=100",
+  "disruptor" : {
+    "mediaId" : 290,
+    "posterMediaId" : 291
+  },
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 62,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "1",
+    "currency" : "EUR",
+    "description" : "SHAKE! SHAKE!",
+    "imageId" : 215,
+    "matchcode" : "RSG-SBB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 7.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 7.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "pack-glass-shaker",
+    "title" : "RINGANA Glass Shaker & Shaker Ball",
+    "unitContents" : "Stk."
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "1",
+    "currency" : "EUR",
+    "description" : "SHAKE! SHAKE!",
+    "imageId" : 212,
+    "matchcode" : "RS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 4.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 4.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "pack-shaker",
+    "title" : "RINGANA Shaker & Shaker Ball",
+    "unitContents" : "Stk."
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 60,
+      "type" : 1
+    },
+    "contentsAmount" : "39,1",
+    "currency" : "EUR",
+    "description" : "BEYOND omega",
+    "imageId" : 440,
+    "matchcode" : "COV",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2398.9,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      },
+      "partner" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "beyond-omega",
+    "title" : "BEYOND omega",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 718,
+    "mediaId" : 1141
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/packs-abc/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
     "customer" : {
       "brutto" : 177.5,
       "bruttoWithoutDiscount" : null,
@@ -62,31 +244,82 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : {
-    "0" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "WPA"
-    },
-    "1" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "WPB"
-    },
-    "2" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "WPC"
-    }
-  },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "WPA"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "WPB"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "WPC"
+  } ],
+  "shortDescription" : "product.WP1.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "packs-abc",
+  "socialMedia" : {
+    "id" : 62,
+    "imageId" : 288,
+    "text" : "product.WP1.socialMedia.text",
+    "title" : "product.WP1.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "FRESH PACKS",
+  "tabs" : [ {
+    "description" : "product.WP1.tabs0.description",
+    "id" : 228,
+    "showPrintButton" : false,
+    "title" : "product.WP1.tabs0.title"
+  }, {
+    "description" : "product.WP1.tabs1.description",
+    "id" : 229,
+    "showPrintButton" : true,
+    "title" : "product.WP1.tabs1.title"
+  }, {
+    "description" : "product.WP1.tabs2.description",
+    "id" : 230,
+    "showPrintButton" : false,
+    "title" : "product.WP1.tabs2.title"
+  }, {
+    "description" : "product.WP1.tabs3.description",
+    "id" : 231,
+    "showPrintButton" : false,
+    "title" : "product.WP1.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH packs ABC",
   "unit" : "Set",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43586,
-  "usp" : "Das ABC der Ernährung. Je 1x  FRESH pack antiox, balancing und cleansing."
+  "usp" : "product.WP1.usp",
+  "values" : [ ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 96,
+    "language" : null,
+    "matchcode" : "WP1",
+    "name" : null,
+    "size" : 1040,
+    "slug" : "packs-abc",
+    "type" : 2,
+    "unit" : 2
+  }, {
+    "color" : null,
+    "id" : 97,
+    "language" : null,
+    "matchcode" : "WP3",
+    "name" : null,
+    "size" : 3120,
+    "slug" : "packs-abc",
+    "type" : 2,
+    "unit" : 2
+  } ]
 }

@@ -1,31 +1,211 @@
 {
   "matchcode" : "RBHT",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : null,
-    "brutto" : null,
-    "unit" : null,
-    "unitId" : null
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 16,
+    "infoColorNeeded" : false,
+    "name" : "category.category16.name",
+    "primary" : true,
+    "slug" : "merchandise",
+    "visible" : true
+  }, {
+    "id" : 15,
+    "infoColorNeeded" : false,
+    "name" : "category.category15.name",
+    "primary" : false,
+    "slug" : "fresh-baby",
+    "visible" : true
+  } ],
   "contentsAmount" : null,
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/02/Ringana-Produktfoto-baby-hooded_towel-1.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 51,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "FRESH BABY",
+    "imageId" : 514,
+    "matchcode" : "RBDC",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 226,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 11.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5.8
+      },
+      "partner" : {
+        "brutto" : 11.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-baby-bum-cream",
+    "title" : "FRESH baby bum cream",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "FRESH BABY",
+    "imageId" : 502,
+    "matchcode" : "RBW",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 160,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 4.1
+      },
+      "partner" : {
+        "brutto" : 8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 4.1
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-baby-body-hair-wash",
+    "title" : "FRESH baby body & hair wash",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "FRESH BABY",
+    "imageId" : 2848,
+    "matchcode" : "FSTF",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 206,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 10.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5.3
+      },
+      "partner" : {
+        "brutto" : 10.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5.3
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-baby-bum-foam",
+    "title" : "FRESH baby bum foam",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 94,
+    "mediaId" : 237
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 95,
+    "mediaId" : 238
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/ringana-baby-hooded-towel/",
   "maxPerCart" : 123456789,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
     "customer" : {
       "brutto" : 39.8,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +236,40 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.RBHT.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "ringana-baby-hooded-towel",
+  "socialMedia" : {
+    "id" : 50,
+    "imageId" : 237,
+    "text" : "product.RBHT.socialMedia.text",
+    "title" : "product.RBHT.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "",
+  "tabs" : [ {
+    "description" : "product.RBHT.tabs0.description",
+    "id" : 182,
+    "showPrintButton" : false,
+    "title" : "product.RBHT.tabs0.title"
+  }, {
+    "description" : "product.RBHT.tabs1.description",
+    "id" : 663,
+    "showPrintButton" : false,
+    "title" : "product.RBHT.tabs1.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "RINGANA baby hooded towel",
   "unit" : null,
   "unitContents" : null,
   "unitContentsId" : null,
   "unitId" : null,
-  "usp" : "Bio-Baumwollhandtuch im Bärendesign"
+  "usp" : "product.RBHT.usp",
+  "values" : [ ],
+  "variants" : [ ]
 }

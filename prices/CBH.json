@@ -1,42 +1,264 @@
 {
   "matchcode" : "CBH",
-  "availableVariants" : [ {
-    "matchcode" : "CBH3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
-  } ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 1414.2,
-    "unit" : "g",
-    "unitId" : 812
+  "additionalUnitPrice" : {
+    "entity" : 90,
+    "type" : 1
   },
+  "awards" : [ ],
+  "blogPostIds" : [ 113040, 178302, 160856 ],
+  "categories" : [ {
+    "id" : 3,
+    "infoColorNeeded" : false,
+    "name" : "category.category3.name",
+    "primary" : true,
+    "slug" : "caps",
+    "visible" : true
+  }, {
+    "id" : 18,
+    "infoColorNeeded" : false,
+    "name" : "category.category18.name",
+    "primary" : false,
+    "slug" : "supplements",
+    "visible" : true
+  }, {
+    "id" : 75,
+    "infoColorNeeded" : false,
+    "name" : "category.category75.name",
+    "primary" : false,
+    "slug" : "lifting",
+    "visible" : true
+  }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 90,
+    "infoColorNeeded" : false,
+    "name" : "category.category90.name",
+    "primary" : false,
+    "slug" : "hair-care",
+    "visible" : true
+  }, {
+    "id" : 76,
+    "infoColorNeeded" : false,
+    "name" : "category.category76.name",
+    "primary" : false,
+    "slug" : "toning",
+    "visible" : true
+  }, {
+    "id" : 73,
+    "infoColorNeeded" : false,
+    "name" : "category.category73.name",
+    "primary" : false,
+    "slug" : "body-shape",
+    "visible" : true
+  } ],
   "contentsAmount" : "37,1",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/08/ringana-caps-beauty.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 98,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "15",
+    "currency" : "EUR",
+    "description" : "ADDS repair",
+    "imageId" : 745,
+    "matchcode" : "RAR",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 3246.6,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 48.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29.6
+      },
+      "partner" : {
+        "brutto" : 48.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-adds-repair",
+    "title" : "ADDS repair",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "200",
+    "currency" : "EUR",
+    "description" : "shampoo",
+    "imageId" : 1166,
+    "matchcode" : "BRS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 103,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 20.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 12
+      },
+      "partner" : {
+        "brutto" : 20.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 12
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-shampoonbc7",
+    "title" : "FRESH shampoo",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "enzyme mask",
+    "imageId" : 672,
+    "matchcode" : "FEP",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 784,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 39.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 23.8
+      },
+      "partner" : {
+        "brutto" : 39.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 23.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-illuminating-enzyme-mask",
+    "title" : "FRESH illuminating enzyme mask",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 257,
+    "mediaId" : 1161
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 252,
+    "mediaId" : 456
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 253,
+    "mediaId" : 457
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 255,
+    "mediaId" : 1162
+  } ],
+  "infoColor" : "#c5b4e3",
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/caps-beautyhair/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "c5b4e3",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 1571.4,
+      "unit" : "g",
+      "unitId" : 812
+    },
     "customer" : {
-      "brutto" : 52.47,
-      "bruttoWithoutDiscount" : 58.3,
-      "discountPercentage" : 10,
-      "discountUntil" : "2024-09-13T08:00:00Z",
+      "brutto" : 58.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -44,13 +266,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 26.41
+      "provisionPoints" : 32.6
     },
     "partner" : {
-      "brutto" : 52.47,
-      "bruttoWithoutDiscount" : 58.3,
-      "discountPercentage" : 10,
-      "discountUntil" : "2024-09-13T08:00:00Z",
+      "brutto" : 58.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -58,19 +280,89 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 26.41
+      "provisionPoints" : 32.6
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.CBH.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "caps-beautyhair",
+  "socialMedia" : {
+    "id" : 98,
+    "imageId" : 455,
+    "text" : "product.CBH.socialMedia.text",
+    "title" : "product.CBH.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "beauty & hair",
+  "tabs" : [ {
+    "description" : "product.CBH.tabs0.description",
+    "id" : 368,
+    "showPrintButton" : false,
+    "title" : "product.CBH.tabs0.title"
+  }, {
+    "description" : "product.CBH.tabs1.description",
+    "id" : 369,
+    "showPrintButton" : true,
+    "title" : "product.CBH.tabs1.title"
+  }, {
+    "description" : "product.CBH.tabs2.description",
+    "id" : 370,
+    "showPrintButton" : false,
+    "title" : "product.CBH.tabs2.title"
+  }, {
+    "description" : "product.CBH.tabs3.description",
+    "id" : 371,
+    "showPrintButton" : false,
+    "title" : "product.CBH.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "CAPS beauty & hair",
   "unit" : "Pck.",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43589,
-  "usp" : "Schönheit von innen"
+  "usp" : "product.CBH.usp",
+  "values" : [ {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  }, {
+    "iconMediaId" : 1074,
+    "name" : "value.value19.name"
+  }, {
+    "iconMediaId" : 1095,
+    "name" : "value.value40.name"
+  }, {
+    "iconMediaId" : 1080,
+    "name" : "value.value25.name"
+  }, {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 166,
+    "language" : null,
+    "matchcode" : "CBH",
+    "name" : null,
+    "size" : 90,
+    "slug" : "caps-beautyhair",
+    "type" : 2,
+    "unit" : 1
+  }, {
+    "color" : null,
+    "id" : 167,
+    "language" : null,
+    "matchcode" : "CBH3",
+    "name" : null,
+    "size" : 270,
+    "slug" : "caps-beautyhair",
+    "type" : 2,
+    "unit" : 1
+  } ]
 }

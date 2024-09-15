@@ -1,31 +1,209 @@
 {
   "matchcode" : "MANA-TC",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : null,
-    "brutto" : null,
-    "unit" : null,
-    "unitId" : null
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ 189850, 186646, 189265 ],
+  "categories" : [ {
+    "id" : 20,
+    "infoColorNeeded" : false,
+    "name" : "category.category20.name",
+    "primary" : true,
+    "slug" : "manadental",
+    "visible" : true
+  } ],
   "contentsAmount" : "1",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/04/1-RINGANA-manadental-travel-case-schwarz-2000x2000-1.jpg?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 242,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "200",
+    "currency" : "EUR",
+    "description" : "manadental",
+    "imageId" : 1255,
+    "matchcode" : "MANA-SK",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 279,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 94
+      },
+      "partner" : {
+        "brutto" : 279,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 94
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "manadental-starter-kit",
+    "title" : "manadental starter kit",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "200",
+    "currency" : "EUR",
+    "description" : "mana liquid",
+    "imageId" : 937,
+    "matchcode" : "FTLL",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 147.5,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 29.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 16
+      },
+      "partner" : {
+        "brutto" : 29.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 16
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "manadental-liquid",
+    "title" : "manadental liquid",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "tooth balm",
+    "imageId" : 800,
+    "matchcode" : "FTB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 122.4,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 15.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 8.9
+      },
+      "partner" : {
+        "brutto" : 15.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 8.9
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-tooth-balm",
+    "title" : "FRESH tooth balm",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 851,
+    "mediaId" : 1260
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 852,
+    "mediaId" : 1261
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 853,
+    "mediaId" : 1262
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/manadental-travel-case/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
     "customer" : {
       "brutto" : 39,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +234,30 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.MANA-TC.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "manadental-travel-case",
+  "socialMedia" : {
+    "id" : 242,
+    "imageId" : 905,
+    "text" : "product.MANA-TC.socialMedia.text",
+    "title" : "product.MANA-TC.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "",
+  "tabs" : [ ],
+  "teaserDots" : [ ],
   "title" : "manadental travel case",
   "unit" : "Stk.",
   "unitContents" : "Stk.",
   "unitContentsId" : 996,
   "unitId" : 996,
-  "usp" : "Stabiles Reise-Etui"
+  "usp" : "product.MANA-TC.usp",
+  "values" : [ ],
+  "variants" : [ ]
 }

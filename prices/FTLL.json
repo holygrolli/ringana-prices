@@ -1,37 +1,241 @@
 {
   "matchcode" : "FTLL",
-  "availableVariants" : [ {
-    "matchcode" : "FTLL3",
-    "set" : true,
-    "travelSize" : false,
-    "unit" : "Set",
-    "unitId" : 43586
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1044,
+    "link" : "https://skin.li/s0u5jy6i",
+    "name" : "cosmeticsanalysis.com - FRESH manadental liquid"
   } ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 147.5,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "blogPostIds" : [ 189850, 186646, 189265 ],
+  "categories" : [ {
+    "id" : 20,
+    "infoColorNeeded" : false,
+    "name" : "category.category20.name",
+    "primary" : true,
+    "slug" : "manadental",
+    "visible" : true
+  }, {
+    "id" : 89,
+    "infoColorNeeded" : false,
+    "name" : "category.category89.name",
+    "primary" : false,
+    "slug" : "oral-hygiene",
+    "visible" : true
+  } ],
   "contentsAmount" : "200",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/07/R_Produktfoto_manodental_2000x2000_01.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ {
+    "answer" : "product.FTLL.faqs7.answer",
+    "id" : 98,
+    "question" : "product.FTLL.faqs7.question"
+  }, {
+    "answer" : "product.FTLL.faqs8.answer",
+    "id" : 99,
+    "question" : "product.FTLL.faqs8.question"
+  }, {
+    "answer" : "product.FTLL.faqs5.answer",
+    "id" : 96,
+    "question" : "product.FTLL.faqs5.question"
+  }, {
+    "answer" : "product.FTLL.faqs6.answer",
+    "id" : 97,
+    "question" : "product.FTLL.faqs6.question"
+  } ],
+  "firstHeadline" : "",
+  "id" : 258,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "tooth oil",
+    "imageId" : 788,
+    "matchcode" : "BZO",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 122.4,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 15.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 8.9
+      },
+      "partner" : {
+        "brutto" : 15.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 8.9
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-tooth-oil",
+    "title" : "FRESH tooth oil",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "1",
+    "currency" : "EUR",
+    "description" : "",
+    "imageId" : 1260,
+    "matchcode" : "MANA-TC",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 39,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 39,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "manadental-travel-case",
+    "title" : "manadental travel case",
+    "unitContents" : "Stk."
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "tooth balm",
+    "imageId" : 800,
+    "matchcode" : "FTB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 122.4,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 15.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 8.9
+      },
+      "partner" : {
+        "brutto" : 15.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 8.9
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-tooth-balm",
+    "title" : "FRESH tooth balm",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 652,
+    "mediaId" : 937
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 654,
+    "mediaId" : 942
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 653,
+    "mediaId" : 940
+  }, {
+    "caption" : "",
+    "captionLink" : "corporate/products/care-facts",
+    "id" : 831,
+    "mediaId" : 1212
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/manadental-liquid/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 147.5,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 29.5,
       "bruttoWithoutDiscount" : null,
@@ -62,15 +266,88 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.FTLL.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "manadental-liquid",
+  "socialMedia" : {
+    "id" : 258,
+    "imageId" : 936,
+    "text" : "product.FTLL.socialMedia.text",
+    "title" : "product.FTLL.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "mana liquid",
+  "tabs" : [ {
+    "description" : "product.FTLL.tabs0.description",
+    "id" : 813,
+    "showPrintButton" : false,
+    "title" : "product.FTLL.tabs0.title"
+  }, {
+    "description" : "product.FTLL.tabs1.description",
+    "id" : 814,
+    "showPrintButton" : false,
+    "title" : "product.FTLL.tabs1.title"
+  }, {
+    "description" : "product.FTLL.tabs2.description",
+    "id" : 815,
+    "showPrintButton" : false,
+    "title" : "product.FTLL.tabs2.title"
+  }, {
+    "description" : "product.FTLL.tabs3.description",
+    "id" : 816,
+    "showPrintButton" : false,
+    "title" : "product.FTLL.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "manadental liquid",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Mundspülung für die manadental Zahnlichtroutine"
+  "usp" : "product.FTLL.usp",
+  "values" : [ {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  }, {
+    "iconMediaId" : 1088,
+    "name" : "value.value33.name"
+  }, {
+    "iconMediaId" : 1117,
+    "name" : "value.value62.name"
+  }, {
+    "iconMediaId" : 1118,
+    "name" : "value.value63.name"
+  }, {
+    "iconMediaId" : 1119,
+    "name" : "value.value64.name"
+  }, {
+    "iconMediaId" : 1120,
+    "name" : "value.value65.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 805,
+    "language" : null,
+    "matchcode" : "FTLL",
+    "name" : null,
+    "size" : 200,
+    "slug" : "manadental-liquid",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 806,
+    "language" : null,
+    "matchcode" : "FTLL3",
+    "name" : null,
+    "size" : 600,
+    "slug" : "manadental-liquid",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }

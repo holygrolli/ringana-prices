@@ -1,31 +1,276 @@
 {
   "matchcode" : "RAR",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 3246.6,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/0d250a32",
+    "name" : "cosmeticsanalysis.com - FRESH ADDS repair"
+  } ],
+  "blogPostIds" : [ 87604, 99745, 6664 ],
+  "categories" : [ {
+    "id" : 7,
+    "infoColorNeeded" : false,
+    "name" : "category.category7.name",
+    "primary" : true,
+    "slug" : "face",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 86,
+    "infoColorNeeded" : false,
+    "name" : "category.category86.name",
+    "primary" : false,
+    "slug" : "combination-skin",
+    "visible" : true
+  }, {
+    "id" : 85,
+    "infoColorNeeded" : false,
+    "name" : "category.category85.name",
+    "primary" : false,
+    "slug" : "sensitive-reddened-skin",
+    "visible" : true
+  }, {
+    "id" : 84,
+    "infoColorNeeded" : false,
+    "name" : "category.category84.name",
+    "primary" : false,
+    "slug" : "impure-skin",
+    "visible" : true
+  }, {
+    "id" : 83,
+    "infoColorNeeded" : false,
+    "name" : "category.category83.name",
+    "primary" : false,
+    "slug" : "oily-skin",
+    "visible" : true
+  }, {
+    "id" : 76,
+    "infoColorNeeded" : false,
+    "name" : "category.category76.name",
+    "primary" : false,
+    "slug" : "toning",
+    "visible" : true
+  }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
+    "visible" : true
+  } ],
   "contentsAmount" : "15",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/07/ringana-fresh-add-15ml-repair.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 154,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "30",
+    "currency" : "EUR",
+    "description" : "hydro serum",
+    "imageId" : 1123,
+    "matchcode" : "BHS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1943.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.8
+      },
+      "partner" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-hydro-serum",
+    "title" : "FRESH hydro serum",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "30",
+    "currency" : "EUR",
+    "description" : "anti wrinkle",
+    "imageId" : 757,
+    "matchcode" : "BSA",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2493.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 74.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 43
+      },
+      "partner" : {
+        "brutto" : 74.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 43
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-anti-wrinkle-serum",
+    "title" : "FRESH anti wrinkle serum",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 90,
+      "type" : 1
+    },
+    "contentsAmount" : "37,1",
+    "currency" : "EUR",
+    "description" : "beauty & hair",
+    "imageId" : 1161,
+    "matchcode" : "CBH",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1571.4,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.6
+      },
+      "partner" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "caps-beautyhair",
+    "title" : "CAPS beauty & hair",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 466,
+    "mediaId" : 745
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 467,
+    "mediaId" : 1185
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 468,
+    "mediaId" : 2917
+  }, {
+    "caption" : "product.RAR.imageGallery4.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 471,
+    "mediaId" : 751
+  }, {
+    "caption" : "product.RAR.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 469,
+    "mediaId" : 748
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-adds-repair/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 3246.6,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 48.7,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +301,95 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.RAR.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-adds-repair",
+  "socialMedia" : {
+    "id" : 154,
+    "imageId" : 744,
+    "text" : "product.RAR.socialMedia.text",
+    "title" : "product.RAR.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "ADDS repair",
+  "tabs" : [ {
+    "description" : "product.RAR.tabs0.description",
+    "id" : 585,
+    "showPrintButton" : false,
+    "title" : "product.RAR.tabs0.title"
+  }, {
+    "description" : "product.RAR.tabs1.description",
+    "id" : 586,
+    "showPrintButton" : true,
+    "title" : "product.RAR.tabs1.title"
+  }, {
+    "description" : "product.RAR.tabs2.description",
+    "id" : 587,
+    "showPrintButton" : false,
+    "title" : "product.RAR.tabs2.title"
+  }, {
+    "description" : "product.RAR.tabs3.description",
+    "id" : 588,
+    "showPrintButton" : false,
+    "title" : "product.RAR.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "ADDS repair",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Sofort-Hilfe für irritierte Haut"
+  "usp" : "product.RAR.usp",
+  "values" : [ {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1074,
+    "name" : "value.value19.name"
+  }, {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  }, {
+    "iconMediaId" : 1098,
+    "name" : "value.value43.name"
+  } ],
+  "variants" : [ {
+    "color" : "#828fa2",
+    "id" : 218,
+    "language" : null,
+    "matchcode" : "RAE",
+    "name" : "effect",
+    "size" : null,
+    "slug" : "fresh-adds-repair",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#e5c286",
+    "id" : 219,
+    "language" : null,
+    "matchcode" : "RAG",
+    "name" : "glow",
+    "size" : null,
+    "slug" : "fresh-adds-repair",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#83aa7e",
+    "id" : 220,
+    "language" : null,
+    "matchcode" : "RAR",
+    "name" : "repair",
+    "size" : null,
+    "slug" : "fresh-adds-repair",
+    "type" : 1,
+    "unit" : null
+  } ]
 }

@@ -1,0 +1,137 @@
+{
+  "matchcode" : "RSLJ-EN",
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 16,
+    "infoColorNeeded" : false,
+    "name" : "category.category16.name",
+    "primary" : true,
+    "slug" : "merchandise",
+    "visible" : true
+  } ],
+  "contentsAmount" : "1",
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 764,
+  "idealSupplements" : [ ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 1258,
+    "mediaId" : 1601
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 1259,
+    "mediaId" : 1602
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 1260,
+    "mediaId" : 1603
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 1261,
+    "mediaId" : 1604
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
+  "isMerchandise" : false,
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
+    "customer" : {
+      "brutto" : 24.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 0
+    },
+    "partner" : {
+      "brutto" : 24.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 0
+    }
+  },
+  "purchasePossible" : true,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.RSLJ-EN.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "ringana-self-love-journal-en",
+  "socialMedia" : {
+    "id" : 764,
+    "imageId" : 1601,
+    "text" : "product.RSLJ-EN.socialMedia.text",
+    "title" : "product.RSLJ-EN.socialMedia.title"
+  },
+  "soldOut" : false,
+  "supplementDescription" : "",
+  "tabs" : [ {
+    "description" : "product.RSLJ-EN.tabs0.description",
+    "id" : 1236,
+    "showPrintButton" : false,
+    "title" : "product.RSLJ-EN.tabs0.title"
+  }, {
+    "description" : "product.RSLJ-EN.tabs1.description",
+    "id" : 1237,
+    "showPrintButton" : false,
+    "title" : "product.RSLJ-EN.tabs1.title"
+  } ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#ffffff",
+    "borderColor" : "#000000",
+    "fontSize" : 12,
+    "id" : 1,
+    "lineHeight" : 1.5,
+    "position" : "top-left",
+    "text" : "NEW",
+    "textColor" : "#000000"
+  } ],
+  "title" : "RINGANA self-love journal - EN",
+  "unit" : "Stk.",
+  "unitContents" : "Stk.",
+  "unitContentsId" : 996,
+  "unitId" : 996,
+  "usp" : "product.RSLJ-EN.usp",
+  "values" : [ ],
+  "variants" : [ ]
+}

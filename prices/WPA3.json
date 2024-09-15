@@ -1,37 +1,227 @@
 {
   "matchcode" : "WPA3",
-  "availableVariants" : [ {
-    "matchcode" : "WPA",
-    "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
-  } ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 269.6,
-    "unit" : "g",
-    "unitId" : 812
+  "additionalUnitPrice" : {
+    "entity" : 78,
+    "type" : 2
   },
+  "awards" : [ ],
+  "blogPostIds" : [ 54631, 156677, 87603 ],
+  "categories" : [ {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  }, {
+    "id" : 99,
+    "infoColorNeeded" : false,
+    "name" : "category.category99.name",
+    "primary" : false,
+    "slug" : "supplement-sets",
+    "visible" : true
+  } ],
   "contentsAmount" : "780",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/03/5-RINGANA-packs-set-of-3.png?q=100",
+  "disruptor" : {
+    "mediaId" : 269,
+    "posterMediaId" : 272
+  },
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 59,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "1",
+    "currency" : "EUR",
+    "description" : "SHAKE! SHAKE!",
+    "imageId" : 215,
+    "matchcode" : "RSG-SBB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 7.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 7.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "pack-glass-shaker",
+    "title" : "RINGANA Glass Shaker & Shaker Ball",
+    "unitContents" : "Stk."
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 60,
+      "type" : 1
+    },
+    "contentsAmount" : "39,1",
+    "currency" : "EUR",
+    "description" : "BEYOND omega",
+    "imageId" : 440,
+    "matchcode" : "COV",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2398.9,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      },
+      "partner" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "beyond-omega",
+    "title" : "BEYOND omega",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 78,
+      "type" : 2
+    },
+    "contentsAmount" : "1040",
+    "currency" : "EUR",
+    "description" : "FRESH PACKS",
+    "imageId" : 1141,
+    "matchcode" : "WP1",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 177.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 86.4
+      },
+      "partner" : {
+        "brutto" : 177.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 86.4
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "packs-abc",
+    "title" : "FRESH packs ABC",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 720,
+    "mediaId" : 1144
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 130,
+    "mediaId" : 271
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 132,
+    "mediaId" : 274
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 131,
+    "mediaId" : 273
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/pack-antiox-set/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 269.6,
+      "unit" : "g",
+      "unitId" : 812
+    },
     "customer" : {
       "brutto" : 210.3,
       "bruttoWithoutDiscount" : null,
@@ -62,21 +252,83 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : {
-    "0" : {
-      "amount" : 3,
-      "gratis" : false,
-      "matchcode" : "WPA"
-    }
-  },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ {
+    "amount" : 3,
+    "freeOfCharge" : false,
+    "matchcode" : "WPA"
+  } ],
+  "shortDescription" : "product.WPA3.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "pack-antiox-set",
+  "socialMedia" : {
+    "id" : 60,
+    "imageId" : 268,
+    "text" : "product.WPA3.socialMedia.text",
+    "title" : "product.WPA3.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "pack antiox",
+  "tabs" : [ {
+    "description" : "product.WPA3.tabs0.description",
+    "id" : 220,
+    "showPrintButton" : false,
+    "title" : "product.WPA3.tabs0.title"
+  }, {
+    "description" : "product.WPA3.tabs1.description",
+    "id" : 221,
+    "showPrintButton" : true,
+    "title" : "product.WPA3.tabs1.title"
+  }, {
+    "description" : "product.WPA3.tabs2.description",
+    "id" : 222,
+    "showPrintButton" : false,
+    "title" : "product.WPA3.tabs2.title"
+  }, {
+    "description" : "product.WPA3.tabs3.description",
+    "id" : 223,
+    "showPrintButton" : false,
+    "title" : "product.WPA3.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH pack antiox, Set of 3",
   "unit" : "Set",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43586,
-  "usp" : "Vitaminbooster"
+  "usp" : "product.WPA3.usp",
+  "values" : [ {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  }, {
+    "iconMediaId" : 1083,
+    "name" : "value.value28.name"
+  }, {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 92,
+    "language" : null,
+    "matchcode" : "WPA",
+    "name" : null,
+    "size" : 260,
+    "slug" : "pack-antiox-set",
+    "type" : 2,
+    "unit" : 2
+  }, {
+    "color" : null,
+    "id" : 93,
+    "language" : null,
+    "matchcode" : "WPA3",
+    "name" : null,
+    "size" : 780,
+    "slug" : "pack-antiox-set",
+    "type" : 2,
+    "unit" : 2
+  } ]
 }

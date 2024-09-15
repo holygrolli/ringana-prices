@@ -1,35 +1,229 @@
 {
   "matchcode" : "WPC",
-  "availableVariants" : [ {
-    "matchcode" : "WPC3",
-    "set" : false,
-    "travelSize" : false
-  } ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 134.4,
-    "unit" : "g",
-    "unitId" : 812
+  "additionalUnitPrice" : {
+    "entity" : 26,
+    "type" : 2
   },
+  "awards" : [ ],
+  "blogPostIds" : [ 149993, 118137, 156677 ],
+  "categories" : [ {
+    "id" : 10,
+    "infoColorNeeded" : false,
+    "name" : "category.category10.name",
+    "primary" : true,
+    "slug" : "packs",
+    "visible" : true
+  }, {
+    "id" : 18,
+    "infoColorNeeded" : false,
+    "name" : "category.category18.name",
+    "primary" : false,
+    "slug" : "supplements",
+    "visible" : true
+  }, {
+    "id" : 71,
+    "infoColorNeeded" : false,
+    "name" : "category.category71.name",
+    "primary" : false,
+    "slug" : "gut-feeling",
+    "visible" : true
+  } ],
   "contentsAmount" : "520",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/03/1-RINGANA-packs-cleancing.png?q=100",
+  "disruptor" : {
+    "mediaId" : 322,
+    "posterMediaId" : 324
+  },
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 68,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : 90,
+      "type" : 1
+    },
+    "contentsAmount" : "48,7",
+    "currency" : "EUR",
+    "description" : "CAPS d-gest",
+    "imageId" : 422,
+    "matchcode" : "CDG",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1039,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 50.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.5
+      },
+      "partner" : {
+        "brutto" : 50.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "caps-d-gest",
+    "title" : "CAPS d-gest",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 60,
+      "type" : 1
+    },
+    "contentsAmount" : "26,1",
+    "currency" : "EUR",
+    "description" : "BEYOND biotic",
+    "imageId" : 449,
+    "matchcode" : "CBI",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 3659,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 95.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 53.8
+      },
+      "partner" : {
+        "brutto" : 95.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 53.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "beyond-biotic",
+    "title" : "BEYOND biotic",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "1",
+    "currency" : "EUR",
+    "description" : "SHAKE! SHAKE!",
+    "imageId" : 215,
+    "matchcode" : "RSG-SBB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 7.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 7.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "pack-glass-shaker",
+    "title" : "RINGANA Glass Shaker & Shaker Ball",
+    "unitContents" : "Stk."
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 153,
+    "mediaId" : 1146
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 154,
+    "mediaId" : 323
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 155,
+    "mediaId" : 325
+  } ],
+  "infoColor" : "#f6eb61",
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/pack-cleansing/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "f6eb61",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 134.4,
+      "unit" : "g",
+      "unitId" : 812
+    },
     "customer" : {
       "brutto" : 69.9,
       "bruttoWithoutDiscount" : null,
@@ -60,15 +254,79 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.WPC.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "pack-cleansing",
+  "socialMedia" : {
+    "id" : 67,
+    "imageId" : 319,
+    "text" : "product.WPC.socialMedia.text",
+    "title" : "product.WPC.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "pack cleansing",
+  "tabs" : [ {
+    "description" : "product.WPC.tabs0.description",
+    "id" : 248,
+    "showPrintButton" : false,
+    "title" : "product.WPC.tabs0.title"
+  }, {
+    "description" : "product.WPC.tabs1.description",
+    "id" : 249,
+    "showPrintButton" : true,
+    "title" : "product.WPC.tabs1.title"
+  }, {
+    "description" : "product.WPC.tabs2.description",
+    "id" : 250,
+    "showPrintButton" : false,
+    "title" : "product.WPC.tabs2.title"
+  }, {
+    "description" : "product.WPC.tabs3.description",
+    "id" : 251,
+    "showPrintButton" : false,
+    "title" : "product.WPC.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH pack cleansing",
   "unit" : "Pck.",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43589,
-  "usp" : "Verdauung"
+  "usp" : "product.WPC.usp",
+  "values" : [ {
+    "iconMediaId" : 1082,
+    "name" : "value.value27.name"
+  }, {
+    "iconMediaId" : 1070,
+    "name" : "value.value15.name"
+  }, {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 106,
+    "language" : null,
+    "matchcode" : "WPC",
+    "name" : null,
+    "size" : 520,
+    "slug" : "pack-cleansing",
+    "type" : 2,
+    "unit" : 2
+  }, {
+    "color" : null,
+    "id" : 107,
+    "language" : null,
+    "matchcode" : "WPC3",
+    "name" : null,
+    "size" : 1560,
+    "slug" : "pack-cleansing",
+    "type" : 2,
+    "unit" : 2
+  } ]
 }

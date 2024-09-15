@@ -1,35 +1,269 @@
 {
   "matchcode" : "CBI",
-  "availableVariants" : [ {
-    "matchcode" : "CBI3",
-    "set" : false,
-    "travelSize" : false
-  } ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 3659,
-    "unit" : "g",
-    "unitId" : 812
+  "additionalUnitPrice" : {
+    "entity" : 60,
+    "type" : 1
   },
+  "awards" : [ ],
+  "blogPostIds" : [ 149993, 148093, 150146 ],
+  "categories" : [ {
+    "id" : 3,
+    "infoColorNeeded" : false,
+    "name" : "category.category3.name",
+    "primary" : true,
+    "slug" : "caps",
+    "visible" : true
+  }, {
+    "id" : 18,
+    "infoColorNeeded" : false,
+    "name" : "category.category18.name",
+    "primary" : false,
+    "slug" : "supplements",
+    "visible" : true
+  }, {
+    "id" : 74,
+    "infoColorNeeded" : false,
+    "name" : "category.category74.name",
+    "primary" : false,
+    "slug" : "better-aging",
+    "visible" : true
+  }, {
+    "id" : 84,
+    "infoColorNeeded" : false,
+    "name" : "category.category84.name",
+    "primary" : false,
+    "slug" : "impure-skin",
+    "visible" : true
+  }, {
+    "id" : 76,
+    "infoColorNeeded" : false,
+    "name" : "category.category76.name",
+    "primary" : false,
+    "slug" : "toning",
+    "visible" : true
+  }, {
+    "id" : 73,
+    "infoColorNeeded" : false,
+    "name" : "category.category73.name",
+    "primary" : false,
+    "slug" : "body-shape",
+    "visible" : true
+  }, {
+    "id" : 71,
+    "infoColorNeeded" : false,
+    "name" : "category.category71.name",
+    "primary" : false,
+    "slug" : "gut-feeling",
+    "visible" : true
+  }, {
+    "id" : 67,
+    "infoColorNeeded" : false,
+    "name" : "category.category67.name",
+    "primary" : false,
+    "slug" : "immune-system",
+    "visible" : true
+  } ],
   "contentsAmount" : "26,1",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/08/ringana-caps-biotic-new_logo.png?q=100",
+  "disruptor" : {
+    "mediaId" : 451,
+    "posterMediaId" : 450
+  },
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 96,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : 26,
+      "type" : 2
+    },
+    "contentsAmount" : "520",
+    "currency" : "EUR",
+    "description" : "pack cleansing",
+    "imageId" : 1146,
+    "matchcode" : "WPC",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 134.4,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 69.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 39.4
+      },
+      "partner" : {
+        "brutto" : 69.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 39.4
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "pack-cleansing",
+    "title" : "FRESH pack cleansing",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "360",
+    "currency" : "EUR",
+    "description" : "RINGANAdea",
+    "imageId" : 240,
+    "matchcode" : "RD12",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 173.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 62.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 34.3
+      },
+      "partner" : {
+        "brutto" : 62.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 34.3
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringanadea",
+    "title" : "RINGANAdea",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 60,
+      "type" : 1
+    },
+    "contentsAmount" : "39,1",
+    "currency" : "EUR",
+    "description" : "BEYOND omega",
+    "imageId" : 440,
+    "matchcode" : "COV",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2398.9,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      },
+      "partner" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "beyond-omega",
+    "title" : "BEYOND omega",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 244,
+    "mediaId" : 449
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 246,
+    "mediaId" : 452
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 249,
+    "mediaId" : 453
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 251,
+    "mediaId" : 2918
+  } ],
+  "infoColor" : "#9b9295",
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/beyond-biotic/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "9b9295",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 3659,
+      "unit" : "g",
+      "unitId" : 812
+    },
     "customer" : {
       "brutto" : 95.5,
       "bruttoWithoutDiscount" : null,
@@ -60,15 +294,88 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.CBI.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "beyond-biotic",
+  "socialMedia" : {
+    "id" : 96,
+    "imageId" : 448,
+    "text" : "product.CBI.socialMedia.text",
+    "title" : "product.CBI.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "BEYOND biotic",
+  "tabs" : [ {
+    "description" : "product.CBI.tabs0.description",
+    "id" : 357,
+    "showPrintButton" : false,
+    "title" : "product.CBI.tabs0.title"
+  }, {
+    "description" : "product.CBI.tabs1.description",
+    "id" : 360,
+    "showPrintButton" : true,
+    "title" : "product.CBI.tabs1.title"
+  }, {
+    "description" : "product.CBI.tabs2.description",
+    "id" : 362,
+    "showPrintButton" : false,
+    "title" : "product.CBI.tabs2.title"
+  }, {
+    "description" : "product.CBI.tabs3.description",
+    "id" : 364,
+    "showPrintButton" : false,
+    "title" : "product.CBI.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "BEYOND biotic",
   "unit" : "Pck.",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43589,
-  "usp" : "Darm gut, alles gut"
+  "usp" : "product.CBI.usp",
+  "values" : [ {
+    "iconMediaId" : 1084,
+    "name" : "value.value29.name"
+  }, {
+    "iconMediaId" : 1112,
+    "name" : "value.value57.name"
+  }, {
+    "iconMediaId" : 1070,
+    "name" : "value.value15.name"
+  }, {
+    "iconMediaId" : 1074,
+    "name" : "value.value19.name"
+  }, {
+    "iconMediaId" : 1083,
+    "name" : "value.value28.name"
+  }, {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 160,
+    "language" : null,
+    "matchcode" : "CBI",
+    "name" : null,
+    "size" : 60,
+    "slug" : "beyond-biotic",
+    "type" : 2,
+    "unit" : 1
+  }, {
+    "color" : null,
+    "id" : 162,
+    "language" : null,
+    "matchcode" : "CBI3",
+    "name" : null,
+    "size" : 180,
+    "slug" : "beyond-biotic",
+    "type" : 2,
+    "unit" : 1
+  } ]
 }

@@ -1,31 +1,242 @@
 {
   "matchcode" : "FDO50",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 238,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1046,
+    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
+    "name" : "COSMOS Organic"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/1ca9a8b6",
+    "name" : "cosmeticsanalysis.com - FRESH deodorant"
+  } ],
+  "blogPostIds" : [ 85275, 44933, 170591 ],
+  "categories" : [ {
+    "id" : 2,
+    "infoColorNeeded" : false,
+    "name" : "category.category2.name",
+    "primary" : true,
+    "slug" : "body",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 93,
+    "infoColorNeeded" : false,
+    "name" : "category.category93.name",
+    "primary" : false,
+    "slug" : "body-care",
+    "visible" : true
+  }, {
+    "id" : 87,
+    "infoColorNeeded" : false,
+    "name" : "category.category87.name",
+    "primary" : false,
+    "slug" : "sport-essentials",
+    "visible" : true
+  } ],
   "contentsAmount" : "50",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/04/ringana-fresh-50ml-deodorant-H_abFeb22.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 126,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "light legs",
+    "imageId" : 587,
+    "matchcode" : "FLL",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 228.8,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 28.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 17
+      },
+      "partner" : {
+        "brutto" : 28.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 17
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-light-legs",
+    "title" : "FRESH light legs",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "100",
+    "currency" : "EUR",
+    "description" : "soapsoapsoap",
+    "imageId" : 546,
+    "matchcode" : "BSR",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 106,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 10.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5
+      },
+      "partner" : {
+        "brutto" : 10.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-soap",
+    "title" : "FRESH soap",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "pocket",
+    "imageId" : 1164,
+    "matchcode" : "FHB50",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 222,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 11.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5.9
+      },
+      "partner" : {
+        "brutto" : 11.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5.9
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-hand-balm-pocket",
+    "title" : "FRESH hand balm pocket",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 355,
+    "mediaId" : 1170
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 356,
+    "mediaId" : 619
+  }, {
+    "caption" : "product.FDO50.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 361,
+    "mediaId" : 622
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-deodorant-pocket/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 238,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 11.9,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +267,95 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.FDO50.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-deodorant-pocket",
+  "socialMedia" : {
+    "id" : 126,
+    "imageId" : 617,
+    "text" : "product.FDO50.socialMedia.text",
+    "title" : "product.FDO50.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "pocket",
+  "tabs" : [ {
+    "description" : "product.FDO50.tabs0.description",
+    "id" : 479,
+    "showPrintButton" : false,
+    "title" : "product.FDO50.tabs0.title"
+  }, {
+    "description" : "product.FDO50.tabs1.description",
+    "id" : 480,
+    "showPrintButton" : true,
+    "title" : "product.FDO50.tabs1.title"
+  }, {
+    "description" : "product.FDO50.tabs2.description",
+    "id" : 481,
+    "showPrintButton" : false,
+    "title" : "product.FDO50.tabs2.title"
+  }, {
+    "description" : "product.FDO50.tabs3.description",
+    "id" : 482,
+    "showPrintButton" : false,
+    "title" : "product.FDO50.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH deodorant pocket",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Deocreme im Pocket-Format"
+  "usp" : "product.FDO50.usp",
+  "values" : [ {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1107,
+    "name" : "value.value52.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 187,
+    "language" : null,
+    "matchcode" : "BDO",
+    "name" : null,
+    "size" : 125,
+    "slug" : "fresh-deodorant-pocket",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 188,
+    "language" : null,
+    "matchcode" : "FDO50",
+    "name" : null,
+    "size" : 50,
+    "slug" : "fresh-deodorant-pocket",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 189,
+    "language" : null,
+    "matchcode" : "PDO",
+    "name" : null,
+    "size" : 5,
+    "slug" : "fresh-deodorant-pocket",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }

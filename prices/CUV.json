@@ -1,35 +1,236 @@
 {
   "matchcode" : "CUV",
-  "availableVariants" : [ {
-    "matchcode" : "CUV3",
-    "set" : false,
-    "travelSize" : false
-  } ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 1017.2,
-    "unit" : "g",
-    "unitId" : 812
+  "additionalUnitPrice" : {
+    "entity" : 90,
+    "type" : 1
   },
+  "awards" : [ ],
+  "blogPostIds" : [ 175774, 137378, 176347 ],
+  "categories" : [ {
+    "id" : 3,
+    "infoColorNeeded" : false,
+    "name" : "category.category3.name",
+    "primary" : true,
+    "slug" : "caps",
+    "visible" : true
+  }, {
+    "id" : 18,
+    "infoColorNeeded" : false,
+    "name" : "category.category18.name",
+    "primary" : false,
+    "slug" : "supplements",
+    "visible" : true
+  }, {
+    "id" : 67,
+    "infoColorNeeded" : false,
+    "name" : "category.category67.name",
+    "primary" : false,
+    "slug" : "immune-system",
+    "visible" : true
+  } ],
   "contentsAmount" : "40,5",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/03/1-RINGANA-caps-hydro.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 90,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : 90,
+      "type" : 1
+    },
+    "contentsAmount" : "42,8",
+    "currency" : "EUR",
+    "description" : "CAPS immu",
+    "imageId" : 1148,
+    "matchcode" : "CIV",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1294.3,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 55.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 30.6
+      },
+      "partner" : {
+        "brutto" : 55.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 30.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "caps-immu",
+    "title" : "CAPS immu",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "200",
+    "currency" : "EUR",
+    "description" : "sunscreen",
+    "imageId" : 1990,
+    "matchcode" : "BSB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 244,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 48.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.2
+      },
+      "partner" : {
+        "brutto" : 48.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.2
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-sunscreen-spf-25",
+    "title" : "FRESH sunscreen",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 90,
+      "type" : 1
+    },
+    "contentsAmount" : "49,8",
+    "currency" : "EUR",
+    "description" : "CAPS fem",
+    "imageId" : 1156,
+    "matchcode" : "CFV",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1112.4,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 55.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 30.6
+      },
+      "partner" : {
+        "brutto" : 55.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 30.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "caps-fem",
+    "title" : "CAPS fem",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 701,
+    "mediaId" : 1130
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 228,
+    "mediaId" : 426
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 230,
+    "mediaId" : 427
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 233,
+    "mediaId" : 428
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 236,
+    "mediaId" : 429
+  } ],
+  "infoColor" : "#9bcbeb",
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/caps-hydro/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "9bcbeb",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 1017.2,
+      "unit" : "g",
+      "unitId" : 812
+    },
     "customer" : {
       "brutto" : 41.2,
       "bruttoWithoutDiscount" : null,
@@ -60,15 +261,88 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.CUV.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "caps-hydro",
+  "socialMedia" : {
+    "id" : 89,
+    "imageId" : 424,
+    "text" : "product.CUV.socialMedia.text",
+    "title" : "product.CUV.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "CAPS hydro",
+  "tabs" : [ {
+    "description" : "product.CUV.tabs0.description",
+    "id" : 342,
+    "showPrintButton" : false,
+    "title" : "product.CUV.tabs0.title"
+  }, {
+    "description" : "product.CUV.tabs1.description",
+    "id" : 344,
+    "showPrintButton" : true,
+    "title" : "product.CUV.tabs1.title"
+  }, {
+    "description" : "product.CUV.tabs2.description",
+    "id" : 346,
+    "showPrintButton" : false,
+    "title" : "product.CUV.tabs2.title"
+  }, {
+    "description" : "product.CUV.tabs3.description",
+    "id" : 347,
+    "showPrintButton" : false,
+    "title" : "product.CUV.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "CAPS hydro",
   "unit" : "Pck.",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43589,
-  "usp" : "Blasengesundheit"
+  "usp" : "product.CUV.usp",
+  "values" : [ {
+    "iconMediaId" : 1083,
+    "name" : "value.value28.name"
+  }, {
+    "iconMediaId" : 1109,
+    "name" : "value.value54.name"
+  }, {
+    "iconMediaId" : 1095,
+    "name" : "value.value40.name"
+  }, {
+    "iconMediaId" : 1080,
+    "name" : "value.value25.name"
+  }, {
+    "iconMediaId" : 1058,
+    "name" : "value.value3.name"
+  }, {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 152,
+    "language" : null,
+    "matchcode" : "CUV",
+    "name" : null,
+    "size" : 90,
+    "slug" : "caps-hydro",
+    "type" : 2,
+    "unit" : 1
+  }, {
+    "color" : null,
+    "id" : 154,
+    "language" : null,
+    "matchcode" : "CUV3",
+    "name" : null,
+    "size" : 270,
+    "slug" : "caps-hydro",
+    "type" : 2,
+    "unit" : 1
+  } ]
 }

@@ -1,31 +1,281 @@
 {
   "matchcode" : "BAS",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 3160,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/5ca01b05",
+    "name" : "cosmeticsanalysis.com - FRESH eye serum"
+  } ],
+  "blogPostIds" : [ 178302, 170743, 6664 ],
+  "categories" : [ {
+    "id" : 7,
+    "infoColorNeeded" : false,
+    "name" : "category.category7.name",
+    "primary" : true,
+    "slug" : "face",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 86,
+    "infoColorNeeded" : false,
+    "name" : "category.category86.name",
+    "primary" : false,
+    "slug" : "combination-skin",
+    "visible" : true
+  }, {
+    "id" : 82,
+    "infoColorNeeded" : false,
+    "name" : "category.category82.name",
+    "primary" : false,
+    "slug" : "dry-skin",
+    "visible" : true
+  }, {
+    "id" : 81,
+    "infoColorNeeded" : false,
+    "name" : "category.category81.name",
+    "primary" : false,
+    "slug" : "mature-skin",
+    "visible" : true
+  }, {
+    "id" : 77,
+    "infoColorNeeded" : false,
+    "name" : "category.category77.name",
+    "primary" : false,
+    "slug" : "hydrating",
+    "visible" : true
+  }, {
+    "id" : 75,
+    "infoColorNeeded" : false,
+    "name" : "category.category75.name",
+    "primary" : false,
+    "slug" : "lifting",
+    "visible" : true
+  } ],
   "contentsAmount" : "15",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/02/RINGANA-fresh-eye-serum.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 141,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "cleanser",
+    "imageId" : 750,
+    "matchcode" : "BRM",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 209.6,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 26.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 14.4
+      },
+      "partner" : {
+        "brutto" : 26.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 14.4
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-cleanser",
+    "title" : "FRESH cleanser",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "cream light",
+    "imageId" : 1126,
+    "matchcode" : "BCE",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 978,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 48.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.1
+      },
+      "partner" : {
+        "brutto" : 48.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.1
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-cream-light",
+    "title" : "FRESH cream light",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "30",
+    "currency" : "EUR",
+    "description" : "hydro serum",
+    "imageId" : 1123,
+    "matchcode" : "BHS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1943.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.8
+      },
+      "partner" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-hydro-serum",
+    "title" : "FRESH hydro serum",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 429,
+    "mediaId" : 707
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 430,
+    "mediaId" : 710
+  }, {
+    "caption" : "product.BAS.imageGallery431.caption",
+    "captionLink" : "blog/eye-care-yes-please/",
+    "id" : 431,
+    "mediaId" : 711
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 432,
+    "mediaId" : 712
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 434,
+    "mediaId" : 713
+  }, {
+    "caption" : "product.BAS.imageGallery5.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 436,
+    "mediaId" : 714
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-eye-serum/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 3160,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 47.4,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +306,90 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.BAS.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-eye-serum",
+  "socialMedia" : {
+    "id" : 139,
+    "imageId" : 712,
+    "text" : "product.BAS.socialMedia.text",
+    "title" : "product.BAS.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "eye serum",
+  "tabs" : [ {
+    "description" : "product.BAS.tabs0.description",
+    "id" : 535,
+    "showPrintButton" : false,
+    "title" : "product.BAS.tabs0.title"
+  }, {
+    "description" : "product.BAS.tabs1.description",
+    "id" : 536,
+    "showPrintButton" : true,
+    "title" : "product.BAS.tabs1.title"
+  }, {
+    "description" : "product.BAS.tabs2.description",
+    "id" : 537,
+    "showPrintButton" : false,
+    "title" : "product.BAS.tabs2.title"
+  }, {
+    "description" : "product.BAS.tabs3.description",
+    "id" : 538,
+    "showPrintButton" : false,
+    "title" : "product.BAS.tabs3.title"
+  }, {
+    "description" : "product.BAS.tabs1961.description",
+    "id" : 1961,
+    "showPrintButton" : false,
+    "title" : "product.BAS.tabs1961.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH eye serum",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Augenserum"
+  "usp" : "product.BAS.usp",
+  "values" : [ {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 830,
+    "language" : null,
+    "matchcode" : "BAS",
+    "name" : null,
+    "size" : 15,
+    "slug" : "fresh-eye-serum",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 831,
+    "language" : null,
+    "matchcode" : "PAS",
+    "name" : null,
+    "size" : 5,
+    "slug" : "fresh-eye-serum",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }

@@ -1,31 +1,213 @@
 {
   "matchcode" : "RSBB-LE",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : null,
-    "brutto" : null,
-    "unit" : null,
-    "unitId" : null
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ 173675, 144976, 145049 ],
+  "categories" : [ {
+    "id" : 16,
+    "infoColorNeeded" : false,
+    "name" : "category.category16.name",
+    "primary" : true,
+    "slug" : "merchandise",
+    "visible" : true
+  }, {
+    "id" : 87,
+    "infoColorNeeded" : false,
+    "name" : "category.category87.name",
+    "primary" : false,
+    "slug" : "sport-essentials",
+    "visible" : true
+  }, {
+    "id" : 14,
+    "infoColorNeeded" : false,
+    "name" : "category.category14.name",
+    "primary" : false,
+    "slug" : "sport",
+    "visible" : true
+  } ],
   "contentsAmount" : null,
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : "Ausverkauft",
   "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/06/SPORT-Blender-Bottle-Radian.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 53,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : 14,
+      "type" : 2
+    },
+    "contentsAmount" : "700",
+    "currency" : "EUR",
+    "description" : "SPORT boost",
+    "imageId" : 482,
+    "matchcode" : "RSB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 83.4,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 58.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 35.4
+      },
+      "partner" : {
+        "brutto" : 58.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 35.4
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringana-sport-boost",
+    "title" : "SPORT boost",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 90,
+      "type" : 1
+    },
+    "contentsAmount" : "49,5",
+    "currency" : "EUR",
+    "description" : "SPORT push",
+    "imageId" : 475,
+    "matchcode" : "RSP",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1327.2,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 65.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 39
+      },
+      "partner" : {
+        "brutto" : 65.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 39
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringana-sport-push",
+    "title" : "SPORT push",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 14,
+      "type" : 2
+    },
+    "contentsAmount" : "616",
+    "currency" : "EUR",
+    "description" : "SPORT protein",
+    "imageId" : 1858,
+    "matchcode" : "PROTEIN",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 94.8,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 58.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 33
+      },
+      "partner" : {
+        "brutto" : 58.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 33
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "sport-protein",
+    "title" : "SPORT protein",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 100,
+    "mediaId" : 1895
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/blender-bottle/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
     "customer" : {
       "brutto" : 31.9,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +238,45 @@
     }
   },
   "purchasePossible" : false,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.RSBB-LE.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "blender-bottle",
+  "socialMedia" : {
+    "id" : 53,
+    "imageId" : 1895,
+    "text" : "product.RSBB-LE.socialMedia.text",
+    "title" : "product.RSBB-LE.socialMedia.title"
+  },
   "soldOut" : true,
+  "supplementDescription" : "BLENDER BOTTLE",
+  "tabs" : [ {
+    "description" : "product.RSBB-LE.tabs0.description",
+    "id" : 189,
+    "showPrintButton" : false,
+    "title" : "product.RSBB-LE.tabs0.title"
+  }, {
+    "description" : "product.RSBB-LE.tabs1.description",
+    "id" : 190,
+    "showPrintButton" : false,
+    "title" : "product.RSBB-LE.tabs1.title"
+  }, {
+    "description" : "product.RSBB-LE.tabs2.description",
+    "id" : 191,
+    "showPrintButton" : false,
+    "title" : "product.RSBB-LE.tabs2.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "SPORT BlenderBottle®Radian",
   "unit" : null,
   "unitContents" : null,
   "unitContentsId" : null,
   "unitId" : null,
-  "usp" : "Nie wieder Klümpchenbildung"
+  "usp" : "product.RSBB-LE.usp",
+  "values" : [ ],
+  "variants" : [ ]
 }

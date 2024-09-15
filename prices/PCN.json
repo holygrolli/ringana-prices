@@ -1,31 +1,263 @@
 {
   "matchcode" : "PCN",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 3180,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/e8dd078b",
+    "name" : "cosmeticsanalysis.com - FRESH overnight face treatment"
+  } ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 13,
+    "infoColorNeeded" : false,
+    "name" : "category.category13.name",
+    "primary" : true,
+    "slug" : "samples",
+    "visible" : true
+  }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 88,
+    "infoColorNeeded" : false,
+    "name" : "category.category88.name",
+    "primary" : false,
+    "slug" : "night-care",
+    "visible" : true
+  }, {
+    "id" : 82,
+    "infoColorNeeded" : false,
+    "name" : "category.category82.name",
+    "primary" : false,
+    "slug" : "dry-skin",
+    "visible" : true
+  }, {
+    "id" : 81,
+    "infoColorNeeded" : false,
+    "name" : "category.category81.name",
+    "primary" : false,
+    "slug" : "mature-skin",
+    "visible" : true
+  }, {
+    "id" : 75,
+    "infoColorNeeded" : false,
+    "name" : "category.category75.name",
+    "primary" : false,
+    "slug" : "lifting",
+    "visible" : true
+  }, {
+    "id" : 74,
+    "infoColorNeeded" : false,
+    "name" : "category.category74.name",
+    "primary" : false,
+    "slug" : "better-aging",
+    "visible" : true
+  } ],
   "contentsAmount" : "5",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/03/RINGANA-fresh-overnight-face-treatment-sample.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ {
+    "answer" : "product.PCN.faqs0.answer",
+    "id" : 291,
+    "question" : "product.PCN.faqs0.question"
+  } ],
+  "firstHeadline" : "",
+  "id" : 300,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "30",
+    "currency" : "EUR",
+    "description" : "anti wrinkle",
+    "imageId" : 757,
+    "matchcode" : "BSA",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2493.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 74.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 43
+      },
+      "partner" : {
+        "brutto" : 74.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 43
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-anti-wrinkle-serum",
+    "title" : "FRESH anti wrinkle serum",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "200",
+    "currency" : "EUR",
+    "description" : "body milk",
+    "imageId" : 606,
+    "matchcode" : "BKM",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 189.5,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 37.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 21.1
+      },
+      "partner" : {
+        "brutto" : 37.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 21.1
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-body-milk",
+    "title" : "FRESH body milk",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "cleanser",
+    "imageId" : 750,
+    "matchcode" : "BRM",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 209.6,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 26.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 14.4
+      },
+      "partner" : {
+        "brutto" : 26.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 14.4
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-cleanser",
+    "title" : "FRESH cleanser",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 764,
+    "mediaId" : 1222
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 815,
+    "mediaId" : 1200
+  }, {
+    "caption" : "product.PCN.imageGallery816.caption",
+    "captionLink" : "corporate/products/care-facts",
+    "id" : 816,
+    "mediaId" : 688
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-overnight-face-treatment-sample/",
   "maxPerCart" : 99999,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 3180,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 15.9,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +288,88 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.PCN.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-overnight-face-treatment-sample",
+  "socialMedia" : {
+    "id" : 300,
+    "imageId" : 1222,
+    "text" : "product.PCN.socialMedia.text",
+    "title" : "product.PCN.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "sample",
+  "tabs" : [ {
+    "description" : "product.PCN.tabs0.description",
+    "id" : 751,
+    "showPrintButton" : false,
+    "title" : "product.PCN.tabs0.title"
+  }, {
+    "description" : "product.PCN.tabs1.description",
+    "id" : 752,
+    "showPrintButton" : false,
+    "title" : "product.PCN.tabs1.title"
+  }, {
+    "description" : "product.PCN.tabs2.description",
+    "id" : 753,
+    "showPrintButton" : false,
+    "title" : "product.PCN.tabs2.title"
+  }, {
+    "description" : "product.PCN.tabs3.description",
+    "id" : 754,
+    "showPrintButton" : false,
+    "title" : "product.PCN.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH overnight face treatment sample",
   "unit" : "Reisegröße",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 43592,
-  "usp" : "Intensive Better-Aging-Creme für das Gesicht"
+  "usp" : "product.PCN.usp",
+  "values" : [ {
+    "iconMediaId" : 1116,
+    "name" : "value.value61.name"
+  }, {
+    "iconMediaId" : 1098,
+    "name" : "value.value43.name"
+  }, {
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1093,
+    "name" : "value.value38.name"
+  }, {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 861,
+    "language" : null,
+    "matchcode" : "PCN",
+    "name" : null,
+    "size" : 5,
+    "slug" : "fresh-overnight-face-treatment-sample",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 862,
+    "language" : null,
+    "matchcode" : "BCN",
+    "name" : null,
+    "size" : 30,
+    "slug" : "fresh-overnight-face-treatment-sample",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }

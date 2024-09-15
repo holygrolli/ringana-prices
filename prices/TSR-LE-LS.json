@@ -1,0 +1,327 @@
+{
+  "matchcode" : "TSR-LE-LS",
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1049,
+    "link" : "https://www.lacon-institut.com/en/philosophy/",
+    "name" : "Lacon"
+  } ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  }, {
+    "id" : 13,
+    "infoColorNeeded" : false,
+    "name" : "category.category13.name",
+    "primary" : false,
+    "slug" : "samples",
+    "visible" : true
+  } ],
+  "contentsAmount" : "20",
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 1422,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "hand balm",
+    "imageId" : 572,
+    "matchcode" : "BHB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 196,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 24.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 13.7
+      },
+      "partner" : {
+        "brutto" : 24.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 13.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-hand-balm",
+    "title" : "FRESH hand balm",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "stay fresh",
+    "imageId" : 553,
+    "matchcode" : "STF",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 218,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 10.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5.7
+      },
+      "partner" : {
+        "brutto" : 10.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-stay-fresh",
+    "title" : "FRESH stay fresh",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "255",
+    "currency" : "EUR",
+    "description" : "soap liquid",
+    "imageId" : 567,
+    "matchcode" : "FSLP",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 80,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 20.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 11.6
+      },
+      "partner" : {
+        "brutto" : 20.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 11.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-soap-liquid",
+    "title" : "FRESH soap liquid",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 2144,
+    "mediaId" : 2716
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 2145,
+    "mediaId" : 1181
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
+  "isMerchandise" : false,
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 130,
+      "unit" : "g",
+      "unitId" : 812
+    },
+    "customer" : {
+      "brutto" : 2.6,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 1
+    },
+    "partner" : {
+      "brutto" : 2.6,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 1
+    }
+  },
+  "purchasePossible" : true,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.TSR-LE-LS.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "fresh-soap-lemon-scrub-sample",
+  "socialMedia" : {
+    "id" : 1422,
+    "imageId" : 2716,
+    "text" : "product.TSR-LE-LS.socialMedia.text",
+    "title" : "product.TSR-LE-LS.socialMedia.title"
+  },
+  "soldOut" : false,
+  "supplementDescription" : "sample",
+  "tabs" : [ {
+    "description" : "product.TSR-LE-LS.tabs1927.description",
+    "id" : 1927,
+    "showPrintButton" : false,
+    "title" : "product.TSR-LE-LS.tabs1927.title"
+  }, {
+    "description" : "product.TSR-LE-LS.tabs1928.description",
+    "id" : 1928,
+    "showPrintButton" : false,
+    "title" : "product.TSR-LE-LS.tabs1928.title"
+  }, {
+    "description" : "product.TSR-LE-LS.tabs1929.description",
+    "id" : 1929,
+    "showPrintButton" : false,
+    "title" : "product.TSR-LE-LS.tabs1929.title"
+  }, {
+    "description" : "product.TSR-LE-LS.tabs1930.description",
+    "id" : 1930,
+    "showPrintButton" : false,
+    "title" : "product.TSR-LE-LS.tabs1930.title"
+  } ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 9,
+    "id" : 4,
+    "lineHeight" : 1.4,
+    "position" : "top-left",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH soap lemon & scrub sample",
+  "unit" : "Stk.",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 996,
+  "usp" : "product.TSR-LE-LS.usp",
+  "values" : [ {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1069,
+    "name" : "value.value14.name"
+  }, {
+    "iconMediaId" : 1057,
+    "name" : "value.value2.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 1488,
+    "language" : null,
+    "matchcode" : "TSR-LE-LS",
+    "name" : null,
+    "size" : 20,
+    "slug" : "fresh-soap-lemon-scrub-sample",
+    "type" : 2,
+    "unit" : 2
+  }, {
+    "color" : null,
+    "id" : 1489,
+    "language" : null,
+    "matchcode" : "BSR-LE-LS",
+    "name" : null,
+    "size" : 100,
+    "slug" : "fresh-soap-lemon-scrub-sample",
+    "type" : 2,
+    "unit" : 2
+  } ]
+}

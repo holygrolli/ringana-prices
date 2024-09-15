@@ -1,31 +1,199 @@
 {
   "matchcode" : "RSHBB",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : null,
-    "brutto" : null,
-    "unit" : null,
-    "unitId" : null
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ 156677, 149481, 118137 ],
+  "categories" : [ {
+    "id" : 16,
+    "infoColorNeeded" : false,
+    "name" : "category.category16.name",
+    "primary" : false,
+    "slug" : "merchandise",
+    "visible" : true
+  } ],
   "contentsAmount" : "1",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2020/01/RINGANA-Shaker-Ball.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 46,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "1",
+    "currency" : "EUR",
+    "description" : "SHAKE! SHAKE!",
+    "imageId" : 212,
+    "matchcode" : "RS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 4.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 4.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "pack-shaker",
+    "title" : "RINGANA Shaker & Shaker Ball",
+    "unitContents" : "Stk."
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 78,
+      "type" : 2
+    },
+    "contentsAmount" : "1040",
+    "currency" : "EUR",
+    "description" : "FRESH PACKS",
+    "imageId" : 1141,
+    "matchcode" : "WP1",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 177.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 86.4
+      },
+      "partner" : {
+        "brutto" : 177.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 86.4
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "packs-abc",
+    "title" : "FRESH packs ABC",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 14,
+      "type" : 2
+    },
+    "contentsAmount" : "700",
+    "currency" : "EUR",
+    "description" : "MEAL REPLACEMENT",
+    "imageId" : 257,
+    "matchcode" : "D-EAT",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 93.8,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 65.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 36
+      },
+      "partner" : {
+        "brutto" : 65.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 36
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "complete-d-eat",
+    "title" : "COMPLETE d-eat",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 91,
+    "mediaId" : 1729
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/shaker-ball/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
     "customer" : {
       "brutto" : 2.4,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +224,45 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.RSHBB.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "shaker-ball",
+  "socialMedia" : {
+    "id" : 46,
+    "imageId" : 217,
+    "text" : "product.RSHBB.socialMedia.text",
+    "title" : "product.RSHBB.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "SHAKER BALL",
+  "tabs" : [ {
+    "description" : "product.RSHBB.tabs0.description",
+    "id" : 175,
+    "showPrintButton" : false,
+    "title" : "product.RSHBB.tabs0.title"
+  }, {
+    "description" : "product.RSHBB.tabs1.description",
+    "id" : 176,
+    "showPrintButton" : true,
+    "title" : "product.RSHBB.tabs1.title"
+  }, {
+    "description" : "product.RSHBB.tabs2.description",
+    "id" : 177,
+    "showPrintButton" : false,
+    "title" : "product.RSHBB.tabs2.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "RINGANA Shaker Ball",
   "unit" : "Stk.",
   "unitContents" : "Stk.",
   "unitContentsId" : 996,
   "unitId" : 996,
-  "usp" : "Shake it Baby!"
+  "usp" : "product.RSHBB.usp",
+  "values" : [ ],
+  "variants" : [ ]
 }

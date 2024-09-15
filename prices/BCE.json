@@ -1,31 +1,278 @@
 {
   "matchcode" : "BCE",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 978,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1046,
+    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
+    "name" : "COSMOS Organic"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/nbge4tsq",
+    "name" : "cosmeticsanalysis.com - FRESH cream light"
+  } ],
+  "blogPostIds" : [ 178302, 178282, 6664 ],
+  "categories" : [ {
+    "id" : 7,
+    "infoColorNeeded" : false,
+    "name" : "category.category7.name",
+    "primary" : true,
+    "slug" : "face",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 84,
+    "infoColorNeeded" : false,
+    "name" : "category.category84.name",
+    "primary" : false,
+    "slug" : "impure-skin",
+    "visible" : true
+  }, {
+    "id" : 83,
+    "infoColorNeeded" : false,
+    "name" : "category.category83.name",
+    "primary" : false,
+    "slug" : "oily-skin",
+    "visible" : true
+  }, {
+    "id" : 77,
+    "infoColorNeeded" : false,
+    "name" : "category.category77.name",
+    "primary" : false,
+    "slug" : "hydrating",
+    "visible" : true
+  }, {
+    "id" : 76,
+    "infoColorNeeded" : false,
+    "name" : "category.category76.name",
+    "primary" : false,
+    "slug" : "toning",
+    "visible" : true
+  } ],
   "contentsAmount" : "50",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/07/ringana-fresh-50ml-light.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 150,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "30",
+    "currency" : "EUR",
+    "description" : "hydro serum",
+    "imageId" : 1123,
+    "matchcode" : "BHS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1943.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.8
+      },
+      "partner" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-hydro-serum",
+    "title" : "FRESH hydro serum",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "tonic pure",
+    "imageId" : 636,
+    "matchcode" : "BGS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 206.4,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 25.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 15.2
+      },
+      "partner" : {
+        "brutto" : 25.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 15.2
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-tonic-pure",
+    "title" : "FRESH tonic pure",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "15",
+    "currency" : "EUR",
+    "description" : "eye serum",
+    "imageId" : 707,
+    "matchcode" : "BAS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 3160,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 47.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 27.5
+      },
+      "partner" : {
+        "brutto" : 47.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 27.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-eye-serum",
+    "title" : "FRESH eye serum",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 698,
+    "mediaId" : 1126
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 699,
+    "mediaId" : 1127
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 700,
+    "mediaId" : 1128
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 783,
+    "mediaId" : 1187
+  }, {
+    "caption" : "product.BCE.imageGallery4.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 458,
+    "mediaId" : 727
+  }, {
+    "caption" : "product.BCE.imageGallery5.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 459,
+    "mediaId" : 729
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-cream-light/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 978,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 48.9,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +303,98 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.BCE.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-cream-light",
+  "socialMedia" : {
+    "id" : 150,
+    "imageId" : 722,
+    "text" : "product.BCE.socialMedia.text",
+    "title" : "product.BCE.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "cream light",
+  "tabs" : [ {
+    "description" : "product.BCE.tabs0.description",
+    "id" : 574,
+    "showPrintButton" : false,
+    "title" : "product.BCE.tabs0.title"
+  }, {
+    "description" : "product.BCE.tabs1.description",
+    "id" : 575,
+    "showPrintButton" : true,
+    "title" : "product.BCE.tabs1.title"
+  }, {
+    "description" : "product.BCE.tabs2.description",
+    "id" : 576,
+    "showPrintButton" : false,
+    "title" : "product.BCE.tabs2.title"
+  }, {
+    "description" : "product.BCE.tabs3.description",
+    "id" : 577,
+    "showPrintButton" : false,
+    "title" : "product.BCE.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH cream light",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Gesichtscreme für ölige Haut"
+  "usp" : "product.BCE.usp",
+  "values" : [ {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1094,
+    "name" : "value.value39.name"
+  }, {
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  }, {
+    "iconMediaId" : 1060,
+    "name" : "value.value5.name"
+  } ],
+  "variants" : [ {
+    "color" : "#e8d5ce",
+    "id" : 212,
+    "language" : null,
+    "matchcode" : "BCE",
+    "name" : "light",
+    "size" : null,
+    "slug" : "fresh-cream-light",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#e8e0ce",
+    "id" : 213,
+    "language" : null,
+    "matchcode" : "BCL",
+    "name" : "medium",
+    "size" : null,
+    "slug" : "fresh-cream-light",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#dac8b1",
+    "id" : 214,
+    "language" : null,
+    "matchcode" : "BCM",
+    "name" : "rich",
+    "size" : null,
+    "slug" : "fresh-cream-light",
+    "type" : 1,
+    "unit" : null
+  } ]
 }

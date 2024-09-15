@@ -1,36 +1,311 @@
 {
   "matchcode" : "BBN",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 598.4,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/waypq5do",
+    "name" : "cosmeticsanalysis.com - FRESH overnight body treatment "
+  } ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 2,
+    "infoColorNeeded" : false,
+    "name" : "category.category2.name",
+    "primary" : true,
+    "slug" : "body",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 93,
+    "infoColorNeeded" : false,
+    "name" : "category.category93.name",
+    "primary" : false,
+    "slug" : "body-care",
+    "visible" : true
+  }, {
+    "id" : 88,
+    "infoColorNeeded" : false,
+    "name" : "category.category88.name",
+    "primary" : false,
+    "slug" : "night-care",
+    "visible" : true
+  }, {
+    "id" : 82,
+    "infoColorNeeded" : false,
+    "name" : "category.category82.name",
+    "primary" : false,
+    "slug" : "dry-skin",
+    "visible" : true
+  }, {
+    "id" : 81,
+    "infoColorNeeded" : false,
+    "name" : "category.category81.name",
+    "primary" : false,
+    "slug" : "mature-skin",
+    "visible" : true
+  }, {
+    "id" : 75,
+    "infoColorNeeded" : false,
+    "name" : "category.category75.name",
+    "primary" : false,
+    "slug" : "lifting",
+    "visible" : true
+  }, {
+    "id" : 74,
+    "infoColorNeeded" : false,
+    "name" : "category.category74.name",
+    "primary" : false,
+    "slug" : "better-aging",
+    "visible" : true
+  }, {
+    "id" : 73,
+    "infoColorNeeded" : false,
+    "name" : "category.category73.name",
+    "primary" : false,
+    "slug" : "body-shape",
+    "visible" : true
+  } ],
   "contentsAmount" : "125",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/01/mmS2veSj-RINGANA-fresh-overnight-body-treatment-veggie-award.png?q=100",
+  "disruptor" : {
+    "mediaId" : 593,
+    "posterMediaId" : 594
+  },
+  "faqs" : [ {
+    "answer" : "product.BBN.faqs0.answer",
+    "id" : 141,
+    "question" : "product.BBN.faqs0.question"
+  }, {
+    "answer" : "product.BBN.faqs1.answer",
+    "id" : 142,
+    "question" : "product.BBN.faqs1.question"
+  }, {
+    "answer" : "product.BBN.faqs2.answer",
+    "id" : 143,
+    "question" : "product.BBN.faqs2.question"
+  }, {
+    "answer" : "product.BBN.faqs3.answer",
+    "id" : 144,
+    "question" : "product.BBN.faqs3.question"
+  }, {
+    "answer" : "product.BBN.faqs4.answer",
+    "id" : 145,
+    "question" : "product.BBN.faqs4.question"
+  } ],
+  "firstHeadline" : "",
+  "id" : 123,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : 60,
+      "type" : 1
+    },
+    "contentsAmount" : "34,7",
+    "currency" : "EUR",
+    "description" : "spermidine",
+    "imageId" : 460,
+    "matchcode" : "CSP",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2752.1,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 95.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 53.8
+      },
+      "partner" : {
+        "brutto" : 95.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 53.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "beyond-spermidine",
+    "title" : "BEYOND spermidine",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 90,
+      "type" : 1
+    },
+    "contentsAmount" : "37,1",
+    "currency" : "EUR",
+    "description" : "beauty & hair",
+    "imageId" : 1161,
+    "matchcode" : "CBH",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1571.4,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.6
+      },
+      "partner" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "caps-beautyhair",
+    "title" : "CAPS beauty & hair",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "30",
+    "currency" : "EUR",
+    "description" : "overnight",
+    "imageId" : 679,
+    "matchcode" : "BCN",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2385,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 71.55,
+        "bruttoWithoutDiscount" : 79.5,
+        "discountPercentage" : 10,
+        "discountUntil" : "2024-09-27T08:00:00Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 37.83
+      },
+      "partner" : {
+        "brutto" : 71.55,
+        "bruttoWithoutDiscount" : 79.5,
+        "discountPercentage" : 10,
+        "discountUntil" : "2024-09-27T08:00:00Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 37.83
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-overnight-face-treatment",
+    "title" : "FRESH overnight face treatment",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 350,
+    "mediaId" : 592
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 352,
+    "mediaId" : 596
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 351,
+    "mediaId" : 1175
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 353,
+    "mediaId" : 597
+  }, {
+    "caption" : "product.BBN.imageGallery4.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 354,
+    "mediaId" : 598
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-overnight-body-treatment/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 538.5,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
-      "brutto" : 74.8,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 67.32,
+      "bruttoWithoutDiscount" : 74.8,
+      "discountPercentage" : 10,
+      "discountUntil" : "2024-09-27T08:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -38,13 +313,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 44.6
+      "provisionPoints" : 36.13
     },
     "partner" : {
-      "brutto" : 74.8,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 67.32,
+      "bruttoWithoutDiscount" : 74.8,
+      "discountPercentage" : 10,
+      "discountUntil" : "2024-09-27T08:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -52,19 +327,97 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 44.6
+      "provisionPoints" : 36.13
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.BBN.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-overnight-body-treatment",
+  "socialMedia" : {
+    "id" : 123,
+    "imageId" : 591,
+    "text" : "product.BBN.socialMedia.text",
+    "title" : "product.BBN.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "overnight",
+  "tabs" : [ {
+    "description" : "product.BBN.tabs0.description",
+    "id" : 471,
+    "showPrintButton" : false,
+    "title" : "product.BBN.tabs0.title"
+  }, {
+    "description" : "product.BBN.tabs1.description",
+    "id" : 472,
+    "showPrintButton" : true,
+    "title" : "product.BBN.tabs1.title"
+  }, {
+    "description" : "product.BBN.tabs2.description",
+    "id" : 473,
+    "showPrintButton" : false,
+    "title" : "product.BBN.tabs2.title"
+  }, {
+    "description" : "product.BBN.tabs3.description",
+    "id" : 474,
+    "showPrintButton" : false,
+    "title" : "product.BBN.tabs3.title"
+  }, {
+    "description" : "product.BBN.tabs2026.description",
+    "id" : 2026,
+    "showPrintButton" : false,
+    "title" : "product.BBN.tabs2026.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH overnight body treatment",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Intensive Better-Aging-Creme für den Körper"
+  "usp" : "product.BBN.usp",
+  "values" : [ {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1093,
+    "name" : "value.value38.name"
+  }, {
+    "iconMediaId" : 1098,
+    "name" : "value.value43.name"
+  }, {
+    "iconMediaId" : 1116,
+    "name" : "value.value61.name"
+  } ],
+  "variants" : [ {
+    "color" : "#edefa3",
+    "id" : 185,
+    "language" : null,
+    "matchcode" : "BBN",
+    "name" : "body",
+    "size" : null,
+    "slug" : "fresh-overnight-body-treatment",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#edefa3",
+    "id" : 186,
+    "language" : null,
+    "matchcode" : "BCN",
+    "name" : "face",
+    "size" : null,
+    "slug" : "fresh-overnight-body-treatment",
+    "type" : 1,
+    "unit" : null
+  } ]
 }

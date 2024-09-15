@@ -1,35 +1,226 @@
 {
   "matchcode" : "CIV",
-  "availableVariants" : [ {
-    "matchcode" : "CIV3",
-    "set" : false,
-    "travelSize" : false
-  } ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 1294.3,
-    "unit" : "g",
-    "unitId" : 812
+  "additionalUnitPrice" : {
+    "entity" : 90,
+    "type" : 1
   },
+  "awards" : [ ],
+  "blogPostIds" : [ 118137, 110933, 180676 ],
+  "categories" : [ {
+    "id" : 3,
+    "infoColorNeeded" : false,
+    "name" : "category.category3.name",
+    "primary" : true,
+    "slug" : "caps",
+    "visible" : true
+  }, {
+    "id" : 18,
+    "infoColorNeeded" : false,
+    "name" : "category.category18.name",
+    "primary" : false,
+    "slug" : "supplements",
+    "visible" : true
+  }, {
+    "id" : 67,
+    "infoColorNeeded" : false,
+    "name" : "category.category67.name",
+    "primary" : false,
+    "slug" : "immune-system",
+    "visible" : true
+  } ],
   "contentsAmount" : "42,8",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/07/ringana-caps-immu.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 92,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : 26,
+      "type" : 2
+    },
+    "contentsAmount" : "260",
+    "currency" : "EUR",
+    "description" : "pack antiox",
+    "imageId" : 1143,
+    "matchcode" : "WPA",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 299.6,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 77.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 39.3
+      },
+      "partner" : {
+        "brutto" : 77.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 39.3
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "pack-antiox",
+    "title" : "FRESH pack antiox",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 60,
+      "type" : 1
+    },
+    "contentsAmount" : "26,1",
+    "currency" : "EUR",
+    "description" : "BEYOND biotic",
+    "imageId" : 449,
+    "matchcode" : "CBI",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 3659,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 95.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 53.8
+      },
+      "partner" : {
+        "brutto" : 95.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 53.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "beyond-biotic",
+    "title" : "BEYOND biotic",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 60,
+      "type" : 1
+    },
+    "contentsAmount" : "39,1",
+    "currency" : "EUR",
+    "description" : "BEYOND omega",
+    "imageId" : 440,
+    "matchcode" : "COV",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2398.9,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      },
+      "partner" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "beyond-omega",
+    "title" : "BEYOND omega",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 722,
+    "mediaId" : 1148
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 241,
+    "mediaId" : 433
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 723,
+    "mediaId" : 1149
+  } ],
+  "infoColor" : "#ffb990",
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/caps-immu/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "ffb990",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 1294.3,
+      "unit" : "g",
+      "unitId" : 812
+    },
     "customer" : {
       "brutto" : 55.4,
       "bruttoWithoutDiscount" : null,
@@ -60,15 +251,88 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.CIV.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "caps-immu",
+  "socialMedia" : {
+    "id" : 92,
+    "imageId" : 1149,
+    "text" : "product.CIV.socialMedia.text",
+    "title" : "product.CIV.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "CAPS immu",
+  "tabs" : [ {
+    "description" : "product.CIV.tabs0.description",
+    "id" : 348,
+    "showPrintButton" : false,
+    "title" : "product.CIV.tabs0.title"
+  }, {
+    "description" : "product.CIV.tabs1.description",
+    "id" : 349,
+    "showPrintButton" : true,
+    "title" : "product.CIV.tabs1.title"
+  }, {
+    "description" : "product.CIV.tabs2.description",
+    "id" : 350,
+    "showPrintButton" : false,
+    "title" : "product.CIV.tabs2.title"
+  }, {
+    "description" : "product.CIV.tabs3.description",
+    "id" : 351,
+    "showPrintButton" : false,
+    "title" : "product.CIV.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "CAPS immu",
   "unit" : "Pck.",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43589,
-  "usp" : "Immunsystem"
+  "usp" : "product.CIV.usp",
+  "values" : [ {
+    "iconMediaId" : 1112,
+    "name" : "value.value57.name"
+  }, {
+    "iconMediaId" : 1083,
+    "name" : "value.value28.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  }, {
+    "iconMediaId" : 1095,
+    "name" : "value.value40.name"
+  }, {
+    "iconMediaId" : 1080,
+    "name" : "value.value25.name"
+  }, {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 155,
+    "language" : null,
+    "matchcode" : "CIV",
+    "name" : null,
+    "size" : 90,
+    "slug" : "caps-immu",
+    "type" : 2,
+    "unit" : 1
+  }, {
+    "color" : null,
+    "id" : 156,
+    "language" : null,
+    "matchcode" : "CIV3",
+    "name" : null,
+    "size" : 270,
+    "slug" : "caps-immu",
+    "type" : 2,
+    "unit" : 1
+  } ]
 }

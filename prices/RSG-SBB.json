@@ -1,31 +1,204 @@
 {
   "matchcode" : "RSG-SBB",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : null,
-    "brutto" : null,
-    "unit" : null,
-    "unitId" : null
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ 156677, 118137, 168257 ],
+  "categories" : [ {
+    "id" : 16,
+    "infoColorNeeded" : false,
+    "name" : "category.category16.name",
+    "primary" : true,
+    "slug" : "merchandise",
+    "visible" : true
+  } ],
   "contentsAmount" : "1",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/wp-content/uploads/2018/04/21123159/PACK-Glass-Shaker.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 45,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "1",
+    "currency" : "EUR",
+    "description" : "SHAKE! SHAKE!",
+    "imageId" : 212,
+    "matchcode" : "RS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 4.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 4.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "pack-shaker",
+    "title" : "RINGANA Shaker & Shaker Ball",
+    "unitContents" : "Stk."
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 78,
+      "type" : 2
+    },
+    "contentsAmount" : "1040",
+    "currency" : "EUR",
+    "description" : "FRESH PACKS",
+    "imageId" : 1141,
+    "matchcode" : "WP1",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 177.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 86.4
+      },
+      "partner" : {
+        "brutto" : 177.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 86.4
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "packs-abc",
+    "title" : "FRESH packs ABC",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 14,
+      "type" : 2
+    },
+    "contentsAmount" : "700",
+    "currency" : "EUR",
+    "description" : "MEAL REPLACEMENT",
+    "imageId" : 257,
+    "matchcode" : "D-EAT",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 93.8,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 65.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 36
+      },
+      "partner" : {
+        "brutto" : 65.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 36
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "complete-d-eat",
+    "title" : "COMPLETE d-eat",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 89,
+    "mediaId" : 215
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 90,
+    "mediaId" : 216
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/pack-glass-shaker/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
     "customer" : {
       "brutto" : 7.8,
       "bruttoWithoutDiscount" : null,
@@ -56,26 +229,48 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : {
-    "0" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "RSG-W"
-    },
-    "1" : {
-      "amount" : 1,
-      "gratis" : true,
-      "matchcode" : "RSHBB"
-    }
-  },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "RSG-W"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : true,
+    "matchcode" : "RSHBB"
+  } ],
+  "shortDescription" : "product.RSG-SBB.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "pack-glass-shaker",
+  "socialMedia" : {
+    "id" : 45,
+    "imageId" : 214,
+    "text" : "product.RSG-SBB.socialMedia.text",
+    "title" : "product.RSG-SBB.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "SHAKE! SHAKE!",
+  "tabs" : [ {
+    "description" : "product.RSG-SBB.tabs0.description",
+    "id" : 173,
+    "showPrintButton" : false,
+    "title" : "product.RSG-SBB.tabs0.title"
+  }, {
+    "description" : "product.RSG-SBB.tabs1.description",
+    "id" : 174,
+    "showPrintButton" : true,
+    "title" : "product.RSG-SBB.tabs1.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "RINGANA Glass Shaker & Shaker Ball",
   "unit" : "Stk.",
   "unitContents" : "Stk.",
   "unitContentsId" : 996,
   "unitId" : 996,
-  "usp" : "Schnelle & einfache Zubereitung von cremigen Shakes"
+  "usp" : "product.RSG-SBB.usp",
+  "values" : [ ],
+  "variants" : [ ]
 }

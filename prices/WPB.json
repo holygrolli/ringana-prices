@@ -1,35 +1,234 @@
 {
   "matchcode" : "WPB",
-  "availableVariants" : [ {
-    "matchcode" : "WPB3",
-    "set" : false,
-    "travelSize" : false
-  } ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 190,
-    "unit" : "g",
-    "unitId" : 812
+  "additionalUnitPrice" : {
+    "entity" : 26,
+    "type" : 2
   },
+  "awards" : [ ],
+  "blogPostIds" : [ 54631, 156677, 183507 ],
+  "categories" : [ {
+    "id" : 10,
+    "infoColorNeeded" : false,
+    "name" : "category.category10.name",
+    "primary" : true,
+    "slug" : "packs",
+    "visible" : true
+  }, {
+    "id" : 18,
+    "infoColorNeeded" : false,
+    "name" : "category.category18.name",
+    "primary" : false,
+    "slug" : "supplements",
+    "visible" : true
+  }, {
+    "id" : 71,
+    "infoColorNeeded" : false,
+    "name" : "category.category71.name",
+    "primary" : false,
+    "slug" : "gut-feeling",
+    "visible" : true
+  } ],
   "contentsAmount" : "260",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/03/1-RINGANA-packs-balancing.png?q=100",
+  "disruptor" : {
+    "mediaId" : 315,
+    "posterMediaId" : 316
+  },
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 67,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "1",
+    "currency" : "EUR",
+    "description" : "SHAKE! SHAKE!",
+    "imageId" : 215,
+    "matchcode" : "RSG-SBB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 7.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 7.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "pack-glass-shaker",
+    "title" : "RINGANA Glass Shaker & Shaker Ball",
+    "unitContents" : "Stk."
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 90,
+      "type" : 1
+    },
+    "contentsAmount" : "48,7",
+    "currency" : "EUR",
+    "description" : "CAPS d-gest",
+    "imageId" : 422,
+    "matchcode" : "CDG",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1039,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 50.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.5
+      },
+      "partner" : {
+        "brutto" : 50.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "caps-d-gest",
+    "title" : "CAPS d-gest",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 78,
+      "type" : 2
+    },
+    "contentsAmount" : "1040",
+    "currency" : "EUR",
+    "description" : "FRESH PACKS",
+    "imageId" : 1141,
+    "matchcode" : "WP1",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 177.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 86.4
+      },
+      "partner" : {
+        "brutto" : 177.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 86.4
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "packs-abc",
+    "title" : "FRESH packs ABC",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 156,
+    "mediaId" : 1145
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 157,
+    "mediaId" : 317
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 158,
+    "mediaId" : 318
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 159,
+    "mediaId" : 320
+  } ],
+  "infoColor" : "#d4eb8e",
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/pack-balancing/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "d4eb8e",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 190,
+      "unit" : "g",
+      "unitId" : 812
+    },
     "customer" : {
       "brutto" : 49.4,
       "bruttoWithoutDiscount" : null,
@@ -60,15 +259,79 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.WPB.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "pack-balancing",
+  "socialMedia" : {
+    "id" : 68,
+    "imageId" : 313,
+    "text" : "product.WPB.socialMedia.text",
+    "title" : "product.WPB.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "pack balancing",
+  "tabs" : [ {
+    "description" : "product.WPB.tabs0.description",
+    "id" : 252,
+    "showPrintButton" : false,
+    "title" : "product.WPB.tabs0.title"
+  }, {
+    "description" : "product.WPB.tabs1.description",
+    "id" : 253,
+    "showPrintButton" : true,
+    "title" : "product.WPB.tabs1.title"
+  }, {
+    "description" : "product.WPB.tabs2.description",
+    "id" : 254,
+    "showPrintButton" : false,
+    "title" : "product.WPB.tabs2.title"
+  }, {
+    "description" : "product.WPB.tabs3.description",
+    "id" : 255,
+    "showPrintButton" : false,
+    "title" : "product.WPB.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH pack balancing",
   "unit" : "Pck.",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43589,
-  "usp" : "Get in balance"
+  "usp" : "product.WPB.usp",
+  "values" : [ {
+    "iconMediaId" : 1105,
+    "name" : "value.value50.name"
+  }, {
+    "iconMediaId" : 1112,
+    "name" : "value.value57.name"
+  }, {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 108,
+    "language" : null,
+    "matchcode" : "WPB",
+    "name" : null,
+    "size" : 260,
+    "slug" : "pack-balancing",
+    "type" : 2,
+    "unit" : 2
+  }, {
+    "color" : null,
+    "id" : 109,
+    "language" : null,
+    "matchcode" : "WPB3",
+    "name" : null,
+    "size" : 780,
+    "slug" : "pack-balancing",
+    "type" : 2,
+    "unit" : 2
+  } ]
 }

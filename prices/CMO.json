@@ -1,35 +1,238 @@
 {
   "matchcode" : "CMO",
-  "availableVariants" : [ {
-    "matchcode" : "CMO3",
-    "set" : false,
-    "travelSize" : false
-  } ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 1386,
-    "unit" : "g",
-    "unitId" : 812
+  "additionalUnitPrice" : {
+    "entity" : 90,
+    "type" : 1
   },
+  "awards" : [ ],
+  "blogPostIds" : [ 137378, 149481, 110933 ],
+  "categories" : [ {
+    "id" : 3,
+    "infoColorNeeded" : false,
+    "name" : "category.category3.name",
+    "primary" : true,
+    "slug" : "caps",
+    "visible" : true
+  }, {
+    "id" : 18,
+    "infoColorNeeded" : false,
+    "name" : "category.category18.name",
+    "primary" : false,
+    "slug" : "supplements",
+    "visible" : true
+  }, {
+    "id" : 72,
+    "infoColorNeeded" : false,
+    "name" : "category.category72.name",
+    "primary" : false,
+    "slug" : "relaxation",
+    "visible" : true
+  }, {
+    "id" : 69,
+    "infoColorNeeded" : false,
+    "name" : "category.category69.name",
+    "primary" : false,
+    "slug" : "mood",
+    "visible" : true
+  } ],
   "contentsAmount" : "41,7",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/03/1-RINGANA-caps-moodoo.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 85,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "360",
+    "currency" : "EUR",
+    "description" : "RINGANAchi",
+    "imageId" : 252,
+    "matchcode" : "RE12",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 138.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 49.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 27
+      },
+      "partner" : {
+        "brutto" : 49.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 27
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringanachi",
+    "title" : "RINGANAchi",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 60,
+      "type" : 1
+    },
+    "contentsAmount" : "39,1",
+    "currency" : "EUR",
+    "description" : "BEYOND omega",
+    "imageId" : 440,
+    "matchcode" : "COV",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2398.9,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      },
+      "partner" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "beyond-omega",
+    "title" : "BEYOND omega",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "360",
+    "currency" : "EUR",
+    "description" : "RINGANAisi",
+    "imageId" : 263,
+    "matchcode" : "RI12",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 154.7,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 55.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32
+      },
+      "partner" : {
+        "brutto" : 55.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringanaisi",
+    "title" : "RINGANAisi",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 713,
+    "mediaId" : 1137
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 211,
+    "mediaId" : 396
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 212,
+    "mediaId" : 397
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 214,
+    "mediaId" : 398
+  } ],
+  "infoColor" : "#bce194",
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/caps-moodoo/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "bce194",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 1386,
+      "unit" : "g",
+      "unitId" : 812
+    },
     "customer" : {
       "brutto" : 57.8,
       "bruttoWithoutDiscount" : null,
@@ -60,15 +263,88 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.CMO.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "caps-moodoo",
+  "socialMedia" : {
+    "id" : 85,
+    "imageId" : 394,
+    "text" : "product.CMO.socialMedia.text",
+    "title" : "product.CMO.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "CAPS moodoo",
+  "tabs" : [ {
+    "description" : "product.CMO.tabs0.description",
+    "id" : 320,
+    "showPrintButton" : false,
+    "title" : "product.CMO.tabs0.title"
+  }, {
+    "description" : "product.CMO.tabs1.description",
+    "id" : 321,
+    "showPrintButton" : true,
+    "title" : "product.CMO.tabs1.title"
+  }, {
+    "description" : "product.CMO.tabs2.description",
+    "id" : 322,
+    "showPrintButton" : false,
+    "title" : "product.CMO.tabs2.title"
+  }, {
+    "description" : "product.CMO.tabs3.description",
+    "id" : 323,
+    "showPrintButton" : false,
+    "title" : "product.CMO.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "CAPS moodoo",
   "unit" : "Pck.",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43589,
-  "usp" : "Gelassenheit"
+  "usp" : "product.CMO.usp",
+  "values" : [ {
+    "iconMediaId" : 1071,
+    "name" : "value.value16.name"
+  }, {
+    "iconMediaId" : 1063,
+    "name" : "value.value8.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  }, {
+    "iconMediaId" : 1080,
+    "name" : "value.value25.name"
+  }, {
+    "iconMediaId" : 1058,
+    "name" : "value.value3.name"
+  }, {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 140,
+    "language" : null,
+    "matchcode" : "CMO",
+    "name" : null,
+    "size" : 90,
+    "slug" : "caps-moodoo",
+    "type" : 2,
+    "unit" : 1
+  }, {
+    "color" : null,
+    "id" : 141,
+    "language" : null,
+    "matchcode" : "CMO3",
+    "name" : null,
+    "size" : 270,
+    "slug" : "caps-moodoo",
+    "type" : 2,
+    "unit" : 1
+  } ]
 }

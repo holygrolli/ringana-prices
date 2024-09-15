@@ -1,36 +1,252 @@
 {
   "matchcode" : "BDO",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 193.6,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1046,
+    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
+    "name" : "COSMOS Organic"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/1ca9a8b6",
+    "name" : "cosmeticsanalysis.com - FRESH deodorant"
+  } ],
+  "blogPostIds" : [ 85275, 44933, 170591 ],
+  "categories" : [ {
+    "id" : 2,
+    "infoColorNeeded" : false,
+    "name" : "category.category2.name",
+    "primary" : true,
+    "slug" : "body",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 93,
+    "infoColorNeeded" : false,
+    "name" : "category.category93.name",
+    "primary" : false,
+    "slug" : "body-care",
+    "visible" : true
+  }, {
+    "id" : 87,
+    "infoColorNeeded" : false,
+    "name" : "category.category87.name",
+    "primary" : false,
+    "slug" : "sport-essentials",
+    "visible" : true
+  } ],
   "contentsAmount" : "125",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/07/ringana-fresh-125ml-deodorant.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 128,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "light legs",
+    "imageId" : 587,
+    "matchcode" : "FLL",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 228.8,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 28.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 17
+      },
+      "partner" : {
+        "brutto" : 28.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 17
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-light-legs",
+    "title" : "FRESH light legs",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "100",
+    "currency" : "EUR",
+    "description" : "soapsoapsoap",
+    "imageId" : 546,
+    "matchcode" : "BSR",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 106,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 10.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5
+      },
+      "partner" : {
+        "brutto" : 10.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-soap",
+    "title" : "FRESH soap",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "200",
+    "currency" : "EUR",
+    "description" : "body milk",
+    "imageId" : 606,
+    "matchcode" : "BKM",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 189.5,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 37.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 21.1
+      },
+      "partner" : {
+        "brutto" : 37.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 21.1
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-body-milk",
+    "title" : "FRESH body milk",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 374,
+    "mediaId" : 1168
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 375,
+    "mediaId" : 614
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 376,
+    "mediaId" : 1169
+  }, {
+    "caption" : "product.BDO.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 377,
+    "mediaId" : 616
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-deodorant/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 215.2,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
-      "brutto" : 24.21,
-      "bruttoWithoutDiscount" : 26.9,
-      "discountPercentage" : 10,
-      "discountUntil" : "2024-09-13T08:00:00Z",
+      "brutto" : 26.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -38,13 +254,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 11.83
+      "provisionPoints" : 14.6
     },
     "partner" : {
-      "brutto" : 24.21,
-      "bruttoWithoutDiscount" : 26.9,
-      "discountPercentage" : 10,
-      "discountUntil" : "2024-09-13T08:00:00Z",
+      "brutto" : 26.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -52,19 +268,99 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 11.83
+      "provisionPoints" : 14.6
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.BDO.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-deodorant",
+  "socialMedia" : {
+    "id" : 128,
+    "imageId" : 612,
+    "text" : "product.BDO.socialMedia.text",
+    "title" : "product.BDO.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "DEODORANT",
+  "tabs" : [ {
+    "description" : "product.BDO.tabs0.description",
+    "id" : 491,
+    "showPrintButton" : false,
+    "title" : "product.BDO.tabs0.title"
+  }, {
+    "description" : "product.BDO.tabs1.description",
+    "id" : 492,
+    "showPrintButton" : true,
+    "title" : "product.BDO.tabs1.title"
+  }, {
+    "description" : "product.BDO.tabs2.description",
+    "id" : 493,
+    "showPrintButton" : false,
+    "title" : "product.BDO.tabs2.title"
+  }, {
+    "description" : "product.BDO.tabs3.description",
+    "id" : 494,
+    "showPrintButton" : false,
+    "title" : "product.BDO.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH deodorant",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "Deocreme"
+  "usp" : "product.BDO.usp",
+  "values" : [ {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  }, {
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1107,
+    "name" : "value.value52.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 192,
+    "language" : null,
+    "matchcode" : "BDO",
+    "name" : null,
+    "size" : 125,
+    "slug" : "fresh-deodorant",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 193,
+    "language" : null,
+    "matchcode" : "FDO50",
+    "name" : null,
+    "size" : 50,
+    "slug" : "fresh-deodorant",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 194,
+    "language" : null,
+    "matchcode" : "PDO",
+    "name" : null,
+    "size" : 5,
+    "slug" : "fresh-deodorant",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }

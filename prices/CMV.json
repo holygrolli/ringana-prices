@@ -1,35 +1,226 @@
 {
   "matchcode" : "CMV",
-  "availableVariants" : [ {
-    "matchcode" : "CMV3",
-    "set" : false,
-    "travelSize" : false
-  } ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 1262,
-    "unit" : "g",
-    "unitId" : 812
+  "additionalUnitPrice" : {
+    "entity" : 90,
+    "type" : 1
   },
+  "awards" : [ ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 3,
+    "infoColorNeeded" : false,
+    "name" : "category.category3.name",
+    "primary" : true,
+    "slug" : "caps",
+    "visible" : true
+  }, {
+    "id" : 18,
+    "infoColorNeeded" : false,
+    "name" : "category.category18.name",
+    "primary" : false,
+    "slug" : "supplements",
+    "visible" : true
+  }, {
+    "id" : 69,
+    "infoColorNeeded" : false,
+    "name" : "category.category69.name",
+    "primary" : false,
+    "slug" : "mood",
+    "visible" : true
+  } ],
   "contentsAmount" : "45,8",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/03/1-RINGANA-caps-mascu.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 88,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "for men",
+    "imageId" : 668,
+    "matchcode" : "BMF",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 970,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 48.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29.8
+      },
+      "partner" : {
+        "brutto" : 48.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-moisturiser-for-men",
+    "title" : "FRESH moisturiser for men",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "180",
+    "currency" : "EUR",
+    "description" : "Skin care",
+    "imageId" : 2552,
+    "matchcode" : "BP-MEN-BHS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 105.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 54.8
+      },
+      "partner" : {
+        "brutto" : 105.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 54.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "set-for-men",
+    "title" : "FRESH skin care set for men",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 60,
+      "type" : 1
+    },
+    "contentsAmount" : "39,1",
+    "currency" : "EUR",
+    "description" : "BEYOND omega",
+    "imageId" : 440,
+    "matchcode" : "COV",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2398.9,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      },
+      "partner" : {
+        "brutto" : 93.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "beyond-omega",
+    "title" : "BEYOND omega",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 223,
+    "mediaId" : 407
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 224,
+    "mediaId" : 408
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 695,
+    "mediaId" : 1125
+  } ],
+  "infoColor" : "#c6a992",
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/caps-mascu/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "c6a992",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 1262,
+      "unit" : "g",
+      "unitId" : 812
+    },
     "customer" : {
       "brutto" : 57.8,
       "bruttoWithoutDiscount" : null,
@@ -60,15 +251,88 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.CMV.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "caps-mascu",
+  "socialMedia" : {
+    "id" : 88,
+    "imageId" : 406,
+    "text" : "product.CMV.socialMedia.text",
+    "title" : "product.CMV.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "CAPS mascu",
+  "tabs" : [ {
+    "description" : "product.CMV.tabs0.description",
+    "id" : 332,
+    "showPrintButton" : false,
+    "title" : "product.CMV.tabs0.title"
+  }, {
+    "description" : "product.CMV.tabs1.description",
+    "id" : 333,
+    "showPrintButton" : true,
+    "title" : "product.CMV.tabs1.title"
+  }, {
+    "description" : "product.CMV.tabs2.description",
+    "id" : 334,
+    "showPrintButton" : false,
+    "title" : "product.CMV.tabs2.title"
+  }, {
+    "description" : "product.CMV.tabs3.description",
+    "id" : 335,
+    "showPrintButton" : false,
+    "title" : "product.CMV.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "CAPS mascu",
   "unit" : "Pck.",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43589,
-  "usp" : "3-in-1-Lebensfreude für Männer"
+  "usp" : "product.CMV.usp",
+  "values" : [ {
+    "iconMediaId" : 1087,
+    "name" : "value.value32.name"
+  }, {
+    "iconMediaId" : 1073,
+    "name" : "value.value18.name"
+  }, {
+    "iconMediaId" : 1071,
+    "name" : "value.value16.name"
+  }, {
+    "iconMediaId" : 1063,
+    "name" : "value.value8.name"
+  }, {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 146,
+    "language" : null,
+    "matchcode" : "CMV",
+    "name" : null,
+    "size" : 90,
+    "slug" : "caps-mascu",
+    "type" : 2,
+    "unit" : 1
+  }, {
+    "color" : null,
+    "id" : 147,
+    "language" : null,
+    "matchcode" : "CMV3",
+    "name" : null,
+    "size" : 270,
+    "slug" : "caps-mascu",
+    "type" : 2,
+    "unit" : 1
+  } ]
 }

@@ -1,31 +1,199 @@
 {
   "matchcode" : "R-SB",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : null,
-    "brutto" : null,
-    "unit" : null,
-    "unitId" : null
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ 146360, 168257, 87603 ],
+  "categories" : [ {
+    "id" : 16,
+    "infoColorNeeded" : false,
+    "name" : "category.category16.name",
+    "primary" : false,
+    "slug" : "merchandise",
+    "visible" : true
+  } ],
   "contentsAmount" : "1",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2021/11/RINGANA-Soulbottle_2021.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 49,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "360",
+    "currency" : "EUR",
+    "description" : "RINGANAdea",
+    "imageId" : 240,
+    "matchcode" : "RD12",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 173.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 62.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 34.3
+      },
+      "partner" : {
+        "brutto" : 62.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 34.3
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringanadea",
+    "title" : "RINGANAdea",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "360",
+    "currency" : "EUR",
+    "description" : "RINGANAchi",
+    "imageId" : 252,
+    "matchcode" : "RE12",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 138.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 49.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 27
+      },
+      "partner" : {
+        "brutto" : 49.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 27
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringanachi",
+    "title" : "RINGANAchi",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "360",
+    "currency" : "EUR",
+    "description" : "RINGANAisi",
+    "imageId" : 263,
+    "matchcode" : "RI12",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 154.7,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 55.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32
+      },
+      "partner" : {
+        "brutto" : 55.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringanaisi",
+    "title" : "RINGANAisi",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 99,
+    "mediaId" : 223
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/ringana-soulbottle/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
     "customer" : {
       "brutto" : 31.6,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +224,45 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.R-SB.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "ringana-soulbottle",
+  "socialMedia" : {
+    "id" : 51,
+    "imageId" : 221,
+    "text" : "product.R-SB.socialMedia.text",
+    "title" : "product.R-SB.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "SOULBOTTLE",
+  "tabs" : [ {
+    "description" : "product.R-SB.tabs0.description",
+    "id" : 185,
+    "showPrintButton" : false,
+    "title" : "product.R-SB.tabs0.title"
+  }, {
+    "description" : "product.R-SB.tabs1.description",
+    "id" : 187,
+    "showPrintButton" : false,
+    "title" : "product.R-SB.tabs1.title"
+  }, {
+    "description" : "product.R-SB.tabs2.description",
+    "id" : 188,
+    "showPrintButton" : false,
+    "title" : "product.R-SB.tabs2.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "RINGANA Soulbottle",
   "unit" : "Stk.",
   "unitContents" : "Stk.",
   "unitContentsId" : 996,
   "unitId" : 996,
-  "usp" : "Glastrinkflasche"
+  "usp" : "product.R-SB.usp",
+  "values" : [ ],
+  "variants" : [ ]
 }

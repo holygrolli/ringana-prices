@@ -1,37 +1,222 @@
 {
   "matchcode" : "COV3",
-  "availableVariants" : [ {
-    "matchcode" : "COV",
-    "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
-  } ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 2159.4,
-    "unit" : "g",
-    "unitId" : 812
+  "additionalUnitPrice" : {
+    "entity" : 180,
+    "type" : 1
   },
+  "awards" : [ ],
+  "blogPostIds" : [ 54631, 146360, 118137 ],
+  "categories" : [ {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  }, {
+    "id" : 99,
+    "infoColorNeeded" : false,
+    "name" : "category.category99.name",
+    "primary" : false,
+    "slug" : "supplement-sets",
+    "visible" : true
+  } ],
   "contentsAmount" : "117,3",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2022/08/ringana-caps-omega-Set-of-3-Award.png?q=100",
+  "disruptor" : {
+    "mediaId" : 380,
+    "posterMediaId" : 381
+  },
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 80,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : 26,
+      "type" : 2
+    },
+    "contentsAmount" : "260",
+    "currency" : "EUR",
+    "description" : "pack antiox",
+    "imageId" : 1143,
+    "matchcode" : "WPA",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 299.6,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 77.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 39.3
+      },
+      "partner" : {
+        "brutto" : 77.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 39.3
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "pack-antiox",
+    "title" : "FRESH pack antiox",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 14,
+      "type" : 2
+    },
+    "contentsAmount" : "700",
+    "currency" : "EUR",
+    "description" : "MEAL REPLACEMENT",
+    "imageId" : 257,
+    "matchcode" : "D-EAT",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 93.8,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 65.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 36
+      },
+      "partner" : {
+        "brutto" : 65.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 36
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "complete-d-eat",
+    "title" : "COMPLETE d-eat",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 60,
+      "type" : 1
+    },
+    "contentsAmount" : "34,7",
+    "currency" : "EUR",
+    "description" : "spermidine",
+    "imageId" : 460,
+    "matchcode" : "CSP",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2752.1,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 95.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 53.8
+      },
+      "partner" : {
+        "brutto" : 95.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 53.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "beyond-spermidine",
+    "title" : "BEYOND spermidine",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 195,
+    "mediaId" : 379
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 198,
+    "mediaId" : 382
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 200,
+    "mediaId" : 384
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/beyond-omega-set/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 2159.4,
+      "unit" : "g",
+      "unitId" : 812
+    },
     "customer" : {
       "brutto" : 253.3,
       "bruttoWithoutDiscount" : null,
@@ -62,21 +247,92 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : {
-    "0" : {
-      "amount" : 3,
-      "gratis" : false,
-      "matchcode" : "COV"
-    }
-  },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ {
+    "amount" : 3,
+    "freeOfCharge" : false,
+    "matchcode" : "COV"
+  } ],
+  "shortDescription" : "product.COV3.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "beyond-omega-set",
+  "socialMedia" : {
+    "id" : 80,
+    "imageId" : 378,
+    "text" : "product.COV3.socialMedia.text",
+    "title" : "product.COV3.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "BEYOND omega",
+  "tabs" : [ {
+    "description" : "product.COV3.tabs0.description",
+    "id" : 300,
+    "showPrintButton" : false,
+    "title" : "product.COV3.tabs0.title"
+  }, {
+    "description" : "product.COV3.tabs1.description",
+    "id" : 301,
+    "showPrintButton" : true,
+    "title" : "product.COV3.tabs1.title"
+  }, {
+    "description" : "product.COV3.tabs2.description",
+    "id" : 303,
+    "showPrintButton" : false,
+    "title" : "product.COV3.tabs2.title"
+  }, {
+    "description" : "product.COV3.tabs3.description",
+    "id" : 304,
+    "showPrintButton" : false,
+    "title" : "product.COV3.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "BEYOND omega, Set of 3",
   "unit" : "Set",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43586,
-  "usp" : "Life Essentials"
+  "usp" : "product.COV3.usp",
+  "values" : [ {
+    "iconMediaId" : 1112,
+    "name" : "value.value57.name"
+  }, {
+    "iconMediaId" : 1083,
+    "name" : "value.value28.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  }, {
+    "iconMediaId" : 1080,
+    "name" : "value.value25.name"
+  }, {
+    "iconMediaId" : 1058,
+    "name" : "value.value3.name"
+  }, {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 132,
+    "language" : null,
+    "matchcode" : "COV",
+    "name" : null,
+    "size" : 60,
+    "slug" : "beyond-omega-set",
+    "type" : 2,
+    "unit" : 1
+  }, {
+    "color" : null,
+    "id" : 133,
+    "language" : null,
+    "matchcode" : "COV3",
+    "name" : null,
+    "size" : 180,
+    "slug" : "beyond-omega-set",
+    "type" : 2,
+    "unit" : 1
+  } ]
 }

@@ -1,31 +1,233 @@
 {
   "matchcode" : "PTB",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 146.6,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1045,
+    "link" : "https://www.cosmos-standard.org/",
+    "name" : "COSMOS Natural"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/ajyk013q",
+    "name" : "cosmeticsanalysis.com - FRESH tooth balm"
+  } ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 13,
+    "infoColorNeeded" : false,
+    "name" : "category.category13.name",
+    "primary" : true,
+    "slug" : "samples",
+    "visible" : true
+  }, {
+    "id" : 89,
+    "infoColorNeeded" : false,
+    "name" : "category.category89.name",
+    "primary" : false,
+    "slug" : "oral-hygiene",
+    "visible" : true
+  } ],
   "contentsAmount" : "15",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/03/RINGANA-fresh-tooth-balm-sample.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 312,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "200",
+    "currency" : "EUR",
+    "description" : "scrub",
+    "imageId" : 687,
+    "matchcode" : "FSC",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 238,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 47.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29
+      },
+      "partner" : {
+        "brutto" : 47.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-scrub",
+    "title" : "FRESH scrub face & body",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "tooth oil",
+    "imageId" : 788,
+    "matchcode" : "BZO",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 122.4,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 15.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 8.9
+      },
+      "partner" : {
+        "brutto" : 15.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 8.9
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-tooth-oil",
+    "title" : "FRESH tooth oil",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "5",
+    "currency" : "EUR",
+    "description" : "lip balm",
+    "imageId" : 1159,
+    "matchcode" : "BLB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2420,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 12.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 7
+      },
+      "partner" : {
+        "brutto" : 12.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-lip-balm",
+    "title" : "FRESH lip balm",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 776,
+    "mediaId" : 1189
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 794,
+    "mediaId" : 1190
+  }, {
+    "caption" : "product.PTB.imageGallery795.caption",
+    "captionLink" : "corporate/products/care-facts",
+    "id" : 795,
+    "mediaId" : 1176
+  }, {
+    "caption" : "product.PTB.imageGallery796.caption",
+    "captionLink" : "corporate/products/care-facts",
+    "id" : 796,
+    "mediaId" : 1177
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-tooth-balm-sample/",
   "maxPerCart" : 99999,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 146.6,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
       "brutto" : 2.2,
       "bruttoWithoutDiscount" : null,
@@ -56,15 +258,85 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.PTB.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-tooth-balm-sample",
+  "socialMedia" : {
+    "id" : 312,
+    "imageId" : 1189,
+    "text" : "product.PTB.socialMedia.text",
+    "title" : "product.PTB.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "sample",
+  "tabs" : [ {
+    "description" : "product.PTB.tabs0.description",
+    "id" : 731,
+    "showPrintButton" : false,
+    "title" : "product.PTB.tabs0.title"
+  }, {
+    "description" : "product.PTB.tabs1.description",
+    "id" : 732,
+    "showPrintButton" : false,
+    "title" : "product.PTB.tabs1.title"
+  }, {
+    "description" : "product.PTB.tabs2.description",
+    "id" : 733,
+    "showPrintButton" : false,
+    "title" : "product.PTB.tabs2.title"
+  }, {
+    "description" : "product.PTB.tabs3.description",
+    "id" : 734,
+    "showPrintButton" : false,
+    "title" : "product.PTB.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH tooth balm sample",
   "unit" : "Reisegröße",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 43592,
-  "usp" : "Multitalent für gesunde Zähne"
+  "usp" : "product.PTB.usp",
+  "values" : [ {
+    "iconMediaId" : 1100,
+    "name" : "value.value45.name"
+  }, {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  }, {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  }, {
+    "iconMediaId" : 1057,
+    "name" : "value.value2.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 826,
+    "language" : null,
+    "matchcode" : "PTB",
+    "name" : null,
+    "size" : 15,
+    "slug" : "fresh-tooth-balm-sample",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 827,
+    "language" : null,
+    "matchcode" : "FTB",
+    "name" : null,
+    "size" : 125,
+    "slug" : "fresh-tooth-balm-sample",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }

@@ -1,36 +1,271 @@
 {
   "matchcode" : "FHT",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 200.8,
-    "unit" : "ml",
-    "unitId" : 827
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1046,
+    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
+    "name" : "COSMOS Organic"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/n3xs1yzr",
+    "name" : "cosmeticsanalysis.com - FRESH hair treatment"
+  } ],
+  "blogPostIds" : [ 172902, 113040, 160856 ],
+  "categories" : [ {
+    "id" : 8,
+    "infoColorNeeded" : false,
+    "name" : "category.category8.name",
+    "primary" : true,
+    "slug" : "hair",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 94,
+    "infoColorNeeded" : false,
+    "name" : "category.category94.name",
+    "primary" : false,
+    "slug" : "washing-care",
+    "visible" : true
+  }, {
+    "id" : 90,
+    "infoColorNeeded" : false,
+    "name" : "category.category90.name",
+    "primary" : false,
+    "slug" : "hair-care",
+    "visible" : true
+  }, {
+    "id" : 87,
+    "infoColorNeeded" : false,
+    "name" : "category.category87.name",
+    "primary" : false,
+    "slug" : "sport-essentials",
+    "visible" : true
+  }, {
+    "id" : 79,
+    "infoColorNeeded" : false,
+    "name" : "category.category79.name",
+    "primary" : false,
+    "slug" : "microbiome-friendly",
+    "visible" : true
+  } ],
   "contentsAmount" : "125",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/03/RINGANA-Produktfoto-fresh-hair-treatment-haircare.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 109,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "200",
+    "currency" : "EUR",
+    "description" : "shampoo",
+    "imageId" : 1166,
+    "matchcode" : "BRS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 103,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 20.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 12
+      },
+      "partner" : {
+        "brutto" : 20.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 12
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-shampoonbc7",
+    "title" : "FRESH shampoo",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "700",
+    "currency" : "EUR",
+    "description" : "Wash care",
+    "imageId" : 526,
+    "matchcode" : "FWCS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 71,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 35.8
+      },
+      "partner" : {
+        "brutto" : 71,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 35.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-wash-care-set",
+    "title" : "FRESH wash care set",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 90,
+      "type" : 1
+    },
+    "contentsAmount" : "37,1",
+    "currency" : "EUR",
+    "description" : "beauty & hair",
+    "imageId" : 1161,
+    "matchcode" : "CBH",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1571.4,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.6
+      },
+      "partner" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "caps-beautyhair",
+    "title" : "CAPS beauty & hair",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 303,
+    "mediaId" : 528
+  }, {
+    "caption" : "product.FHT.imageGallery4.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 307,
+    "mediaId" : 534
+  }, {
+    "caption" : "",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 306,
+    "mediaId" : 1263
+  }, {
+    "caption" : "product.FHT.imageGallery304.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 304,
+    "mediaId" : 531
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 305,
+    "mediaId" : 532
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-hair-treatment/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 223.2,
+      "unit" : "ml",
+      "unitId" : 827
+    },
     "customer" : {
-      "brutto" : 25.11,
-      "bruttoWithoutDiscount" : 27.9,
-      "discountPercentage" : 10,
-      "discountUntil" : "2024-09-13T08:00:00Z",
+      "brutto" : 27.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -38,13 +273,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 13.12
+      "provisionPoints" : 16.2
     },
     "partner" : {
-      "brutto" : 25.11,
-      "bruttoWithoutDiscount" : 27.9,
-      "discountPercentage" : 10,
-      "discountUntil" : "2024-09-13T08:00:00Z",
+      "brutto" : 27.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -52,19 +287,72 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 13.12
+      "provisionPoints" : 16.2
     }
   },
   "purchasePossible" : true,
-  "setContents" : { },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.FHT.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-hair-treatment",
+  "socialMedia" : {
+    "id" : 109,
+    "imageId" : 527,
+    "text" : "product.FHT.socialMedia.text",
+    "title" : "product.FHT.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "hair treatment",
+  "tabs" : [ {
+    "description" : "product.FHT.tabs0.description",
+    "id" : 419,
+    "showPrintButton" : false,
+    "title" : "product.FHT.tabs0.title"
+  }, {
+    "description" : "product.FHT.tabs1.description",
+    "id" : 420,
+    "showPrintButton" : true,
+    "title" : "product.FHT.tabs1.title"
+  }, {
+    "description" : "product.FHT.tabs2.description",
+    "id" : 421,
+    "showPrintButton" : false,
+    "title" : "product.FHT.tabs2.title"
+  }, {
+    "description" : "product.FHT.tabs3.description",
+    "id" : 422,
+    "showPrintButton" : false,
+    "title" : "product.FHT.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH hair treatment",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "4-in-1-Performance-Haarbalsam"
+  "usp" : "product.FHT.usp",
+  "values" : [ {
+    "iconMediaId" : 1091,
+    "name" : "value.value36.name"
+  }, {
+    "iconMediaId" : 1102,
+    "name" : "value.value47.name"
+  }, {
+    "iconMediaId" : 1059,
+    "name" : "value.value4.name"
+  }, {
+    "iconMediaId" : 1081,
+    "name" : "value.value26.name"
+  }, {
+    "iconMediaId" : 1068,
+    "name" : "value.value13.name"
+  }, {
+    "iconMediaId" : 1113,
+    "name" : "value.value58.name"
+  } ],
+  "variants" : [ ]
 }

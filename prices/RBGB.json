@@ -1,31 +1,205 @@
 {
   "matchcode" : "RBGB",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : null,
-    "brutto" : null,
-    "unit" : null,
-    "unitId" : null
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ 177281, 169159, 169158 ],
+  "categories" : [ {
+    "id" : 15,
+    "infoColorNeeded" : false,
+    "name" : "category.category15.name",
+    "primary" : true,
+    "slug" : "fresh-baby",
+    "visible" : true
+  } ],
   "contentsAmount" : "1",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/01/RINGANA-fresh-baby-gift-box-bath-mitt-edition-veggie-award.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 333,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "currency" : "EUR",
+    "description" : "",
+    "imageId" : 793,
+    "matchcode" : "RBMB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 8.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 8.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringana-baby-muslin-bib",
+    "title" : "RINGANA baby muslin bib"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "currency" : "EUR",
+    "description" : "",
+    "imageId" : 237,
+    "matchcode" : "RBHT",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 39.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 39.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringana-baby-hooded-towel",
+    "title" : "RINGANA baby hooded towel"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "50",
+    "currency" : "EUR",
+    "description" : "FRESH BABY",
+    "imageId" : 507,
+    "matchcode" : "RBO",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 182,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 9.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 4.7
+      },
+      "partner" : {
+        "brutto" : 9.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 4.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-baby-oil",
+    "title" : "FRESH baby oil",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 804,
+    "mediaId" : 1215
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 805,
+    "mediaId" : 1216
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 806,
+    "mediaId" : 1217
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-baby-gift-box/",
   "maxPerCart" : 1246576928,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
     "customer" : {
       "brutto" : 55.5,
       "bruttoWithoutDiscount" : null,
@@ -56,46 +230,89 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : {
-    "0" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "RBO"
-    },
-    "1" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "FSTF"
-    },
-    "2" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "RBW"
-    },
-    "3" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "RBDC"
-    },
-    "4" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "RBC"
-    },
-    "5" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "RBMD"
-    }
-  },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "RBO"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "FSTF"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "RBW"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "RBDC"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "RBC"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "RBMD"
+  } ],
+  "shortDescription" : "product.RBGB.shortDescription",
+  "showOnSpecialOffer" : 1,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-baby-gift-box",
+  "socialMedia" : {
+    "id" : 333,
+    "imageId" : 1217,
+    "text" : "product.RBGB.socialMedia.text",
+    "title" : "product.RBGB.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "Baby box",
+  "tabs" : [ {
+    "description" : "product.RBGB.tabs0.description",
+    "id" : 735,
+    "showPrintButton" : false,
+    "title" : "product.RBGB.tabs0.title"
+  }, {
+    "description" : "product.RBGB.tabs1.description",
+    "id" : 736,
+    "showPrintButton" : true,
+    "title" : "product.RBGB.tabs1.title"
+  }, {
+    "description" : "product.RBGB.tabs2.description",
+    "id" : 737,
+    "showPrintButton" : false,
+    "title" : "product.RBGB.tabs2.title"
+  }, {
+    "description" : "product.RBGB.tabs3.description",
+    "id" : 738,
+    "showPrintButton" : false,
+    "title" : "product.RBGB.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH baby gift box",
   "unit" : "Set",
   "unitContents" : "Set",
   "unitContentsId" : 43586,
   "unitId" : 43586,
-  "usp" : "Baby- und Kinderpflege Geschenkset"
+  "usp" : "product.RBGB.usp",
+  "values" : [ {
+    "iconMediaId" : 1114,
+    "name" : "value.value59.name"
+  }, {
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1088,
+    "name" : "value.value33.name"
+  }, {
+    "iconMediaId" : 1057,
+    "name" : "value.value2.name"
+  } ],
+  "variants" : [ ]
 }

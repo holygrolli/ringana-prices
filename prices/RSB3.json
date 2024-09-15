@@ -1,37 +1,235 @@
 {
   "matchcode" : "RSB3",
-  "availableVariants" : [ {
-    "matchcode" : "RSB",
-    "set" : false,
-    "travelSize" : false,
-    "unit" : "Pck.",
-    "unitId" : 43589
-  } ],
-  "basePrice" : {
-    "amount" : 1000,
-    "brutto" : 75,
-    "unit" : "g",
-    "unitId" : 812
+  "additionalUnitPrice" : {
+    "entity" : 42,
+    "type" : 2
   },
+  "awards" : [ {
+    "imageId" : 1048,
+    "link" : "https://www.koelnerliste.com/en/",
+    "name" : "Kölner Liste"
+  } ],
+  "blogPostIds" : [ 145049, 158403, 173675 ],
+  "categories" : [ {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  }, {
+    "id" : 99,
+    "infoColorNeeded" : false,
+    "name" : "category.category99.name",
+    "primary" : false,
+    "slug" : "supplement-sets",
+    "visible" : true
+  }, {
+    "id" : 14,
+    "infoColorNeeded" : false,
+    "name" : "category.category14.name",
+    "primary" : false,
+    "slug" : "sport",
+    "visible" : true
+  } ],
   "contentsAmount" : "2100",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/10/okH0WaTh-R_Produktfoto_sport-boost_2000x2000_setof3.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 21,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : 14,
+      "type" : 2
+    },
+    "contentsAmount" : "616",
+    "currency" : "EUR",
+    "description" : "SPORT protein",
+    "imageId" : 1858,
+    "matchcode" : "PROTEIN",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 94.8,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 58.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 33
+      },
+      "partner" : {
+        "brutto" : 58.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 33
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "sport-protein",
+    "title" : "SPORT protein",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "125",
+    "currency" : "EUR",
+    "description" : "SPORT go",
+    "imageId" : 469,
+    "matchcode" : "RSG",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 205.6,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 25.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 16.2
+      },
+      "partner" : {
+        "brutto" : 25.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 16.2
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringana-sport-go",
+    "title" : "SPORT go",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 90,
+      "type" : 1
+    },
+    "contentsAmount" : "49,5",
+    "currency" : "EUR",
+    "description" : "SPORT push",
+    "imageId" : 475,
+    "matchcode" : "RSP",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1327.2,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 65.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 39
+      },
+      "partner" : {
+        "brutto" : 65.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 39
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringana-sport-push",
+    "title" : "SPORT push",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 31,
+    "mediaId" : 128
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 30,
+    "mediaId" : 127
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 32,
+    "mediaId" : 129
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 33,
+    "mediaId" : 130
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/ringana-sport-set/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 75,
+      "unit" : "g",
+      "unitId" : 812
+    },
     "customer" : {
       "brutto" : 157.7,
       "bruttoWithoutDiscount" : null,
@@ -62,21 +260,80 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : {
-    "0" : {
-      "amount" : 3,
-      "gratis" : false,
-      "matchcode" : "RSB"
-    }
-  },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ {
+    "amount" : 3,
+    "freeOfCharge" : false,
+    "matchcode" : "RSB"
+  } ],
+  "shortDescription" : "product.RSB3.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "ringana-sport-set",
+  "socialMedia" : {
+    "id" : 21,
+    "imageId" : 126,
+    "text" : "product.RSB3.socialMedia.text",
+    "title" : "product.RSB3.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "SPORT boost",
+  "tabs" : [ {
+    "description" : "product.RSB3.tabs0.description",
+    "id" : 81,
+    "showPrintButton" : false,
+    "title" : "product.RSB3.tabs0.title"
+  }, {
+    "description" : "product.RSB3.tabs1.description",
+    "id" : 82,
+    "showPrintButton" : true,
+    "title" : "product.RSB3.tabs1.title"
+  }, {
+    "description" : "product.RSB3.tabs2.description",
+    "id" : 83,
+    "showPrintButton" : false,
+    "title" : "product.RSB3.tabs2.title"
+  }, {
+    "description" : "product.RSB3.tabs3.description",
+    "id" : 84,
+    "showPrintButton" : false,
+    "title" : "product.RSB3.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "SPORT boost, Set of 3",
   "unit" : "Set",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43586,
-  "usp" : "High Endurance"
+  "usp" : "product.RSB3.usp",
+  "values" : [ {
+    "iconMediaId" : 1072,
+    "name" : "value.value17.name"
+  }, {
+    "iconMediaId" : 1079,
+    "name" : "value.value24.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 25,
+    "language" : null,
+    "matchcode" : "RSB",
+    "name" : null,
+    "size" : 700,
+    "slug" : "ringana-sport-set",
+    "type" : 2,
+    "unit" : 2
+  }, {
+    "color" : null,
+    "id" : 26,
+    "language" : null,
+    "matchcode" : "RSB3",
+    "name" : null,
+    "size" : 2100,
+    "slug" : "ringana-sport-set",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }

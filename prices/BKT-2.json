@@ -1,31 +1,213 @@
 {
   "matchcode" : "BKT-2",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : null,
-    "brutto" : null,
-    "unit" : null,
-    "unitId" : null
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  }, {
+    "id" : 13,
+    "infoColorNeeded" : false,
+    "name" : "category.category13.name",
+    "primary" : false,
+    "slug" : "samples",
+    "visible" : true
+  }, {
+    "id" : 98,
+    "infoColorNeeded" : false,
+    "name" : "category.category98.name",
+    "primary" : false,
+    "slug" : "skincare-sets",
+    "visible" : true
+  } ],
   "contentsAmount" : "260",
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2023/09/R_FRESH_travel_set_medium.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 28,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "250",
+    "currency" : "EUR",
+    "description" : "TRAVEL SET",
+    "imageId" : 2326,
+    "matchcode" : "BKT-MEN",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 54,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.9
+      },
+      "partner" : {
+        "brutto" : 54,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.9
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "travel-set-for-men",
+    "title" : "FRESH travel set for men",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "200",
+    "currency" : "EUR",
+    "description" : "sunscreen",
+    "imageId" : 1990,
+    "matchcode" : "BSB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 244,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 48.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.2
+      },
+      "partner" : {
+        "brutto" : 48.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.2
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-sunscreen-spf-25",
+    "title" : "FRESH sunscreen",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 90,
+      "type" : 1
+    },
+    "contentsAmount" : "48,7",
+    "currency" : "EUR",
+    "description" : "CAPS d-gest",
+    "imageId" : 422,
+    "matchcode" : "CDG",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1039,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 50.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.5
+      },
+      "partner" : {
+        "brutto" : 50.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "caps-d-gest",
+    "title" : "CAPS d-gest",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 47,
+    "mediaId" : 2329
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-travel-set-medium/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
     "customer" : {
       "brutto" : 59.2,
       "bruttoWithoutDiscount" : null,
@@ -56,36 +238,106 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : {
-    "0" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "FSBW"
-    },
-    "1" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "FSBB"
-    },
-    "2" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "FSB2"
-    },
-    "3" : {
-      "amount" : 1,
-      "gratis" : true,
-      "matchcode" : "RTB"
-    }
-  },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "FSBW"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "FSBB"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "FSB2"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : true,
+    "matchcode" : "RTB"
+  } ],
+  "shortDescription" : "product.BKT-2.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-travel-set-medium",
+  "socialMedia" : {
+    "id" : 28,
+    "imageId" : 2329,
+    "text" : "product.BKT-2.socialMedia.text",
+    "title" : "product.BKT-2.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "TRAVEL SET",
+  "tabs" : [ {
+    "description" : "product.BKT-2.tabs0.description",
+    "id" : 109,
+    "showPrintButton" : false,
+    "title" : "product.BKT-2.tabs0.title"
+  }, {
+    "description" : "product.BKT-2.tabs1.description",
+    "id" : 110,
+    "showPrintButton" : true,
+    "title" : "product.BKT-2.tabs1.title"
+  }, {
+    "description" : "product.BKT-2.tabs2.description",
+    "id" : 111,
+    "showPrintButton" : false,
+    "title" : "product.BKT-2.tabs2.title"
+  }, {
+    "description" : "product.BKT-2.tabs3.description",
+    "id" : 112,
+    "showPrintButton" : false,
+    "title" : "product.BKT-2.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH travel set medium",
   "unit" : "Pck.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 43589,
-  "usp" : "Reiseset für normale Haut und Mischhaut"
+  "usp" : "product.BKT-2.usp",
+  "values" : [ ],
+  "variants" : [ {
+    "color" : "#e8d5ce",
+    "id" : 43,
+    "language" : null,
+    "matchcode" : "BKT-1",
+    "name" : "light",
+    "size" : null,
+    "slug" : "fresh-travel-set-medium",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#e8e0ce",
+    "id" : 44,
+    "language" : null,
+    "matchcode" : "BKT-2",
+    "name" : "medium",
+    "size" : null,
+    "slug" : "fresh-travel-set-medium",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#dac8b1",
+    "id" : 45,
+    "language" : null,
+    "matchcode" : "BKT-3",
+    "name" : "rich",
+    "size" : null,
+    "slug" : "fresh-travel-set-medium",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#dfd9c8",
+    "id" : 46,
+    "language" : null,
+    "matchcode" : "BKT-MEN",
+    "name" : "men",
+    "size" : null,
+    "slug" : "fresh-travel-set-medium",
+    "type" : 1,
+    "unit" : null
+  } ]
 }

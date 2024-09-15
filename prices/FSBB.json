@@ -1,31 +1,199 @@
 {
   "matchcode" : "FSBB",
-  "availableVariants" : [ ],
-  "basePrice" : {
-    "amount" : null,
-    "brutto" : null,
-    "unit" : null,
-    "unitId" : null
-  },
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ 99745, 173362, 85275 ],
+  "categories" : [ {
+    "id" : 13,
+    "infoColorNeeded" : false,
+    "name" : "category.category13.name",
+    "primary" : true,
+    "slug" : "samples",
+    "visible" : true
+  } ],
   "contentsAmount" : null,
+  "countryIso" : "DE",
   "currency" : "eur",
-  "customerProduct" : true,
-  "deliveryAddressIso" : "DE",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "image" : "https://i.ringana.com/2024/01/RINGANA-fresh-sample-box-body.png?q=100",
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 34,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "330",
+    "currency" : "EUR",
+    "description" : "Skin care",
+    "imageId" : 2557,
+    "matchcode" : "BP2",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 147.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 75.7
+      },
+      "partner" : {
+        "brutto" : 147.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 75.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-skin-care-set-medium",
+    "title" : "FRESH skin care set medium",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "35",
+    "currency" : "EUR",
+    "description" : "SAMPLE BOX",
+    "imageId" : 2324,
+    "matchcode" : "FSB-MEN",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 21.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 12.9
+      },
+      "partner" : {
+        "brutto" : 21.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 12.9
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "box-for-men",
+    "title" : "FRESH sample box for men",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : null,
+      "type" : null
+    },
+    "contentsAmount" : "165",
+    "currency" : "EUR",
+    "description" : "SAMPLE BOX",
+    "imageId" : 2325,
+    "matchcode" : "FSBW",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 22.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 13
+      },
+      "partner" : {
+        "brutto" : 22.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 13
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-sample-box-wash",
+    "title" : "FRESH sample box wash",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 56,
+    "mediaId" : 2323
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "lang" : "de",
-  "link" : "/produkt/fresh-sample-box-body/",
-  "maxPerCart" : null,
-  "nemBackgroundColor" : "",
-  "notSearchable" : false,
-  "partnerApplicationProduct" : false,
-  "partnerProduct" : true,
-  "prices" : {
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
     "customer" : {
       "brutto" : 9.9,
       "bruttoWithoutDiscount" : null,
@@ -56,36 +224,66 @@
     }
   },
   "purchasePossible" : true,
-  "setContents" : {
-    "0" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "PKM"
-    },
-    "1" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "PFB"
-    },
-    "2" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "PHB"
-    },
-    "3" : {
-      "amount" : 1,
-      "gratis" : false,
-      "matchcode" : "PDO"
-    }
-  },
-  "showOnFrontpage" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "PKM"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "PFB"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "PHB"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "PDO"
+  } ],
+  "shortDescription" : "product.FSBB.shortDescription",
+  "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
-  "skinTypes" : null,
+  "skinTypes" : [ ],
+  "slug" : "fresh-sample-box-body",
+  "socialMedia" : {
+    "id" : 34,
+    "imageId" : 175,
+    "text" : "product.FSBB.socialMedia.text",
+    "title" : "product.FSBB.socialMedia.title"
+  },
   "soldOut" : false,
+  "supplementDescription" : "SAMPLE BOX",
+  "tabs" : [ {
+    "description" : "product.FSBB.tabs0.description",
+    "id" : 133,
+    "showPrintButton" : false,
+    "title" : "product.FSBB.tabs0.title"
+  }, {
+    "description" : "product.FSBB.tabs1.description",
+    "id" : 134,
+    "showPrintButton" : true,
+    "title" : "product.FSBB.tabs1.title"
+  }, {
+    "description" : "product.FSBB.tabs2.description",
+    "id" : 135,
+    "showPrintButton" : false,
+    "title" : "product.FSBB.tabs2.title"
+  }, {
+    "description" : "product.FSBB.tabs3.description",
+    "id" : 136,
+    "showPrintButton" : false,
+    "title" : "product.FSBB.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH sample box body",
   "unit" : null,
   "unitContents" : null,
   "unitContentsId" : null,
   "unitId" : null,
-  "usp" : "FRESH body milk, foot balm, hand balm, deodorant"
+  "usp" : "product.FSBB.usp",
+  "values" : [ ],
+  "variants" : [ ]
 }
