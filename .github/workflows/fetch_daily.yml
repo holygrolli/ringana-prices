@@ -23,13 +23,13 @@ jobs:
       uses: docker://ghcr.io/holygrolli/ringana-shopscraper:1.0.4
       env:
         RINGANA_PRODUCTS_URL: https://www.ringana.com/wp-json/ringana/v1/productsByCategory
-        RINGANA_PRICES_URL: https://gr0ll.de/prices/products/
+        RINGANA_PRICES_URL: https://gr0ll.de/prices/product/products/
         RINGANA_OUTPUT_FOLDER: /github/workspace/prices
     - name: get all partner prices	    
       uses: docker://ghcr.io/holygrolli/ringana-shopscraper:1.0.4
       env:
         RINGANA_PRODUCTS_URL: https://www.ringana.com/wp-json/ringana/v1/productsByCategory?partnerProducts=true
-        RINGANA_PRICES_URL: https://gr0ll.de/prices/products/
+        RINGANA_PRICES_URL: https://gr0ll.de/prices/product/products/
         RINGANA_OUTPUT_FOLDER: /github/workspace/prices
     - run: |
         git config user.name cron
