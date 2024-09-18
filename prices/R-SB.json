@@ -70,7 +70,7 @@
         "provisionPoints" : 34.3
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "ringanadea",
     "title" : "RINGANAdea",
     "unitContents" : "ml"
