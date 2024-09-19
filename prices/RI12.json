@@ -2,7 +2,7 @@
   "matchcode" : "RI12",
   "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ ],
+  "blogPostIds" : [ 183520, 146383, 137378 ],
   "categories" : [ {
     "id" : 5,
     "infoColorNeeded" : false,
@@ -203,7 +203,7 @@
     "caption" : "",
     "captionLink" : null,
     "id" : 122,
-    "mediaId" : 267
+    "mediaId" : 3409
   } ],
   "infoColor" : "#bc204b",
   "isFreshCosmeticsProduct" : false,

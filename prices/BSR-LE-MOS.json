@@ -14,8 +14,8 @@
   "contentsAmount" : "100",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -195,15 +195,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 87.2,
+      "brutto" : 109,
       "unit" : "g",
       "unitId" : 812
     },
     "customer" : {
-      "brutto" : 8.72,
-      "bruttoWithoutDiscount" : 10.9,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-09-30T21:59:59Z",
+      "brutto" : 10.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -211,13 +211,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 3.6
+      "provisionPoints" : 5
     },
     "partner" : {
-      "brutto" : 8.72,
-      "bruttoWithoutDiscount" : 10.9,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-09-30T21:59:59Z",
+      "brutto" : 10.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -225,10 +225,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 3.6
+      "provisionPoints" : 5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -243,7 +243,7 @@
     "text" : "product.BSR-LE-MOS.socialMedia.text",
     "title" : "product.BSR-LE-MOS.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "african touch",
   "tabs" : [ {
     "description" : "product.BSR-LE-MOS.tabs0.description",
