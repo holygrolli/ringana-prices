@@ -23,6 +23,13 @@
     "slug" : "face",
     "visible" : true
   }, {
+    "id" : 133,
+    "infoColorNeeded" : false,
+    "name" : "category.category133.name",
+    "primary" : false,
+    "slug" : "dental-care",
+    "visible" : false
+  }, {
     "id" : 17,
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
