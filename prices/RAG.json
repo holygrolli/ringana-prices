@@ -10,7 +10,7 @@
     "link" : "https://skin.li/fe16b64e",
     "name" : "cosmeticsanalysis.com - FRESH ADDS glow"
   } ],
-  "blogPostIds" : [ 94744, 87604, 6664 ],
+  "blogPostIds" : [ 87604, 6664, 195364 ],
   "categories" : [ {
     "id" : 7,
     "infoColorNeeded" : false,
@@ -24,6 +24,13 @@
     "name" : "category.category17.name",
     "primary" : false,
     "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
     "visible" : true
   }, {
     "id" : 86,
@@ -61,18 +68,18 @@
     "slug" : "anti-pollution",
     "visible" : true
   }, {
-    "id" : 92,
+    "id" : 134,
     "infoColorNeeded" : false,
-    "name" : "category.category92.name",
+    "name" : "category.category134.name",
     "primary" : false,
-    "slug" : "facial-care",
-    "visible" : true
+    "slug" : "ringana-adds",
+    "visible" : false
   } ],
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -300,7 +307,7 @@
       "provisionPoints" : 29.6
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -315,7 +322,7 @@
     "text" : "product.RAG.socialMedia.text",
     "title" : "product.RAG.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "ADDS glow",
   "tabs" : [ {
     "description" : "product.RAG.tabs0.description",

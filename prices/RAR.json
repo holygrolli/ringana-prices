@@ -26,6 +26,20 @@
     "slug" : "fresh",
     "visible" : true
   }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 76,
+    "infoColorNeeded" : false,
+    "name" : "category.category76.name",
+    "primary" : false,
+    "slug" : "toning",
+    "visible" : true
+  }, {
     "id" : 86,
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
@@ -54,19 +68,12 @@
     "slug" : "oily-skin",
     "visible" : true
   }, {
-    "id" : 76,
+    "id" : 134,
     "infoColorNeeded" : false,
-    "name" : "category.category76.name",
+    "name" : "category.category134.name",
     "primary" : false,
-    "slug" : "toning",
-    "visible" : true
-  }, {
-    "id" : 92,
-    "infoColorNeeded" : false,
-    "name" : "category.category92.name",
-    "primary" : false,
-    "slug" : "facial-care",
-    "visible" : true
+    "slug" : "ringana-adds",
+    "visible" : false
   } ],
   "contentsAmount" : "15",
   "countryIso" : "DE",

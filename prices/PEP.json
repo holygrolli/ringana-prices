@@ -162,7 +162,7 @@
         "provisionPoints" : 29.6
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-adds-glow",
     "title" : "ADDS glow",
     "unitContents" : "ml"
