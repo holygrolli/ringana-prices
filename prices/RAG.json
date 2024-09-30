@@ -19,12 +19,12 @@
     "slug" : "face",
     "visible" : true
   }, {
-    "id" : 17,
+    "id" : 134,
     "infoColorNeeded" : false,
-    "name" : "category.category17.name",
+    "name" : "category.category134.name",
     "primary" : false,
-    "slug" : "fresh",
-    "visible" : true
+    "slug" : "ringana-adds",
+    "visible" : false
   }, {
     "id" : 92,
     "infoColorNeeded" : false,
@@ -68,12 +68,12 @@
     "slug" : "anti-pollution",
     "visible" : true
   }, {
-    "id" : 134,
+    "id" : 17,
     "infoColorNeeded" : false,
-    "name" : "category.category134.name",
+    "name" : "category.category17.name",
     "primary" : false,
-    "slug" : "ringana-adds",
-    "visible" : false
+    "slug" : "fresh",
+    "visible" : true
   } ],
   "contentsAmount" : "15",
   "countryIso" : "DE",
@@ -86,8 +86,8 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
-  "id" : 156,
+  "firstHeadline" : "product.RAG.firstHeadline",
+  "id" : 2082,
   "idealSupplements" : [ {
     "additionalUnitPrice" : {
       "entity" : null,
@@ -242,27 +242,22 @@
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 470,
-    "mediaId" : 739
+    "id" : 2837,
+    "mediaId" : 3410
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 472,
-    "mediaId" : 1184
+    "id" : 2838,
+    "mediaId" : 3411
   }, {
     "caption" : "",
-    "captionLink" : null,
-    "id" : 473,
-    "mediaId" : 741
-  }, {
-    "caption" : "product.RAG.imageGallery3.caption",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 474,
+    "id" : 2839,
     "mediaId" : 742
   }, {
-    "caption" : "product.RAG.imageGallery4.caption",
+    "caption" : "",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 475,
+    "id" : 2840,
     "mediaId" : 743
   } ],
   "infoColor" : null,
@@ -317,35 +312,58 @@
   "skinTypes" : [ ],
   "slug" : "fresh-adds-glow",
   "socialMedia" : {
-    "id" : 155,
-    "imageId" : 738,
+    "id" : 2082,
+    "imageId" : 3410,
     "text" : "product.RAG.socialMedia.text",
     "title" : "product.RAG.socialMedia.title"
   },
   "soldOut" : true,
   "supplementDescription" : "ADDS glow",
   "tabs" : [ {
-    "description" : "product.RAG.tabs0.description",
-    "id" : 589,
+    "description" : "product.RAG.tabs2521.description",
+    "id" : 2521,
     "showPrintButton" : false,
-    "title" : "product.RAG.tabs0.title"
+    "title" : "product.RAG.tabs2521.title"
   }, {
-    "description" : "product.RAG.tabs1.description",
-    "id" : 590,
+    "description" : "product.RAG.tabs2522.description",
+    "id" : 2522,
     "showPrintButton" : true,
-    "title" : "product.RAG.tabs1.title"
+    "title" : "product.RAG.tabs2522.title"
   }, {
-    "description" : "product.RAG.tabs2.description",
-    "id" : 591,
+    "description" : "product.RAG.tabs2523.description",
+    "id" : 2523,
     "showPrintButton" : false,
-    "title" : "product.RAG.tabs2.title"
+    "title" : "product.RAG.tabs2523.title"
   }, {
-    "description" : "product.RAG.tabs3.description",
-    "id" : 592,
+    "description" : "product.RAG.tabs2524.description",
+    "id" : 2524,
     "showPrintButton" : false,
-    "title" : "product.RAG.tabs3.title"
+    "title" : "product.RAG.tabs2524.title"
+  }, {
+    "description" : "product.RAG.tabs2525.description",
+    "id" : 2525,
+    "showPrintButton" : false,
+    "title" : "product.RAG.tabs2525.title"
   } ],
-  "teaserDots" : [ ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 10,
+    "id" : 3,
+    "lineHeight" : 1.3,
+    "position" : "top-left",
+    "text" : "New Formu-lation",
+    "textColor" : "#ffffff"
+  }, {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 12,
+    "id" : 133,
+    "lineHeight" : 1,
+    "position" : "top-left",
+    "text" : "-10%",
+    "textColor" : "#ffffff"
+  } ],
   "title" : "ADDS glow",
   "unit" : "Stk.",
   "unitContents" : "ml",
@@ -372,18 +390,8 @@
     "name" : "value.value43.name"
   } ],
   "variants" : [ {
-    "color" : "#828fa2",
-    "id" : 221,
-    "language" : null,
-    "matchcode" : "RAE",
-    "name" : "effect",
-    "size" : null,
-    "slug" : "fresh-adds-glow",
-    "type" : 1,
-    "unit" : null
-  }, {
     "color" : "#e5c286",
-    "id" : 222,
+    "id" : 1618,
     "language" : null,
     "matchcode" : "RAG",
     "name" : "glow",
@@ -392,8 +400,18 @@
     "type" : 1,
     "unit" : null
   }, {
+    "color" : "#828fa2",
+    "id" : 1619,
+    "language" : null,
+    "matchcode" : "RAE",
+    "name" : "effect",
+    "size" : null,
+    "slug" : "fresh-adds-glow",
+    "type" : 1,
+    "unit" : null
+  }, {
     "color" : "#83aa7e",
-    "id" : 223,
+    "id" : 1620,
     "language" : null,
     "matchcode" : "RAR",
     "name" : "repair",

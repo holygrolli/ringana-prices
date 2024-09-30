@@ -121,56 +121,6 @@
       "entity" : null,
       "type" : null
     },
-    "contentsAmount" : "15",
-    "currency" : "EUR",
-    "description" : "ADDS glow",
-    "imageId" : 739,
-    "matchcode" : "RAG",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 3246.6,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 48.7,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 29.6
-      },
-      "partner" : {
-        "brutto" : 48.7,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 29.6
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "fresh-adds-glow",
-    "title" : "ADDS glow",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
     "contentsAmount" : "30",
     "currency" : "EUR",
     "description" : "hydro serum",
