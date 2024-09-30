@@ -354,15 +354,6 @@
     "position" : "top-left",
     "text" : "New Formu-lation",
     "textColor" : "#ffffff"
-  }, {
-    "backgroundColor" : "#000000",
-    "borderColor" : "#000000",
-    "fontSize" : 12,
-    "id" : 133,
-    "lineHeight" : 1,
-    "position" : "top-left",
-    "text" : "-10%",
-    "textColor" : "#ffffff"
   } ],
   "title" : "ADDS glow",
   "unit" : "Stk.",
