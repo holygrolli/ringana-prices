@@ -191,16 +191,7 @@
   "soldOut" : false,
   "supplementDescription" : "summer pins",
   "tabs" : [ ],
-  "teaserDots" : [ {
-    "backgroundColor" : "#ffffff",
-    "borderColor" : "#000000",
-    "fontSize" : 12,
-    "id" : 1,
-    "lineHeight" : 1.5,
-    "position" : "top-left",
-    "text" : "NEW",
-    "textColor" : "#000000"
-  } ],
+  "teaserDots" : [ ],
   "title" : "RINGANA summer pins",
   "unit" : "Stk.",
   "unitContents" : "Stk.",

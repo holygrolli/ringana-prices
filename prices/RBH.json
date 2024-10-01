@@ -196,16 +196,7 @@
   "soldOut" : false,
   "supplementDescription" : "bucket hat",
   "tabs" : [ ],
-  "teaserDots" : [ {
-    "backgroundColor" : "#ffffff",
-    "borderColor" : "#000000",
-    "fontSize" : 12,
-    "id" : 1,
-    "lineHeight" : 1.5,
-    "position" : "top-left",
-    "text" : "NEW",
-    "textColor" : "#000000"
-  } ],
+  "teaserDots" : [ ],
   "title" : "RINGANA bucket hat",
   "unit" : "Stk.",
   "unitContents" : "Stk.",

@@ -10,10 +10,6 @@
     "link" : null,
     "name" : "UVA-protection"
   }, {
-    "imageId" : 1052,
-    "link" : "https://www.positivereefinitiative.com/en/",
-    "name" : "Positive Reef"
-  }, {
     "imageId" : 1046,
     "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
     "name" : "COSMOS Organic"
@@ -26,7 +22,7 @@
     "link" : "https://skin.li/92pfv74u",
     "name" : "cosmeticsanalysis.com - FRESH sunscreen face"
   } ],
-  "blogPostIds" : [ 190187, 175019, 191934 ],
+  "blogPostIds" : [ 195364, 190187, 175019 ],
   "categories" : [ {
     "id" : 7,
     "infoColorNeeded" : false,
