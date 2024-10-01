@@ -21,6 +21,7 @@
     "slug" : "body-shape",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "700",
   "countryIso" : "DE",
   "currency" : "eur",

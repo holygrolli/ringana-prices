@@ -21,6 +21,7 @@
     "slug" : "supplement-sets",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "1560",
   "countryIso" : "DE",
   "currency" : "eur",

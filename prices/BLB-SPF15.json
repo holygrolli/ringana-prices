@@ -66,6 +66,7 @@
     "slug" : "hydrating",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "5",
   "countryIso" : "DE",
   "currency" : "eur",

@@ -28,6 +28,7 @@
     "slug" : "supplements",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "1040",
   "countryIso" : "DE",
   "currency" : "eur",

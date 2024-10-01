@@ -28,6 +28,7 @@
     "slug" : "immune-system",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "40,5",
   "countryIso" : "DE",
   "currency" : "eur",

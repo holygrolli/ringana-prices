@@ -35,6 +35,7 @@
     "slug" : "body-shape",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "48,7",
   "countryIso" : "DE",
   "currency" : "eur",

@@ -18,6 +18,7 @@
     "slug" : "merchandise",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",

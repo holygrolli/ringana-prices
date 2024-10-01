@@ -58,6 +58,7 @@
     "slug" : "microbiome-friendly",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "125",
   "countryIso" : "DE",
   "currency" : "eur",

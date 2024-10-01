@@ -108,6 +108,7 @@
     "slug" : "impure-skin",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "30",
   "countryIso" : "DE",
   "currency" : "eur",

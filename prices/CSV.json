@@ -35,6 +35,7 @@
     "slug" : "anti-pollution",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "42,8",
   "countryIso" : "DE",
   "currency" : "eur",

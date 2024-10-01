@@ -44,6 +44,7 @@
     "slug" : "oral-hygiene",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "125",
   "countryIso" : "DE",
   "currency" : "eur",

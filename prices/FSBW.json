@@ -18,6 +18,7 @@
     "slug" : "washing-care",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "165",
   "countryIso" : "DE",
   "currency" : "eur",

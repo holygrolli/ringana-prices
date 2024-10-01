@@ -25,6 +25,7 @@
     "slug" : "skincare-sets",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "250",
   "countryIso" : "DE",
   "currency" : "eur",

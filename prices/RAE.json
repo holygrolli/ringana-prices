@@ -68,6 +68,7 @@
     "slug" : "ringana-adds",
     "visible" : false
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",

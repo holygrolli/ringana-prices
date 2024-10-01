@@ -43,6 +43,7 @@
     "slug" : "immune-system",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "360",
   "countryIso" : "DE",
   "currency" : "eur",

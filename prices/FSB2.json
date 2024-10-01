@@ -11,6 +11,7 @@
     "slug" : "samples",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "45",
   "countryIso" : "DE",
   "currency" : "eur",

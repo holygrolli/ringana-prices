@@ -79,6 +79,7 @@
     "slug" : "lifting",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "10",
   "countryIso" : "DE",
   "currency" : "eur",

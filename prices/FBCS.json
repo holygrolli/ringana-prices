@@ -39,6 +39,7 @@
     "slug" : "body-care",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "450",
   "countryIso" : "DE",
   "currency" : "eur",

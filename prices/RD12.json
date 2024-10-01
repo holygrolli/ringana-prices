@@ -32,6 +32,7 @@
     "slug" : "gut-feeling",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "360",
   "countryIso" : "DE",
   "currency" : "eur",

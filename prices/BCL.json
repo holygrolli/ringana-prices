@@ -65,6 +65,7 @@
     "slug" : "dry-skin",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",

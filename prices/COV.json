@@ -28,6 +28,7 @@
     "slug" : "better-aging",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "39,1",
   "countryIso" : "DE",
   "currency" : "eur",

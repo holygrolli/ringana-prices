@@ -21,6 +21,7 @@
     "slug" : "complete",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "2100",
   "countryIso" : "DE",
   "currency" : "eur",

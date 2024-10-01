@@ -45,6 +45,7 @@
     "slug" : "suncare",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "200",
   "countryIso" : "DE",
   "currency" : "eur",

@@ -15,6 +15,7 @@
     "slug" : "offers",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "100",
   "countryIso" : "DE",
   "currency" : "eur",

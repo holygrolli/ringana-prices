@@ -28,6 +28,7 @@
     "slug" : "mood",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "49,8",
   "countryIso" : "DE",
   "currency" : "eur",

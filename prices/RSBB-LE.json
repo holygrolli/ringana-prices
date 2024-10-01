@@ -25,6 +25,7 @@
     "slug" : "sport",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",

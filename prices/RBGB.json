@@ -11,6 +11,7 @@
     "slug" : "fresh-baby",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "1",
   "countryIso" : "DE",
   "currency" : "eur",

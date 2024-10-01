@@ -63,6 +63,7 @@
     "slug" : "cleansing",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "255",
   "countryIso" : "DE",
   "currency" : "eur",

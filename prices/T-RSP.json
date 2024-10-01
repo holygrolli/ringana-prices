@@ -39,6 +39,7 @@
     "slug" : "energy",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "3,3",
   "countryIso" : "DE",
   "currency" : "eur",

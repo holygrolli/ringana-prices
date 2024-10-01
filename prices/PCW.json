@@ -93,6 +93,7 @@
     "slug" : "fresh",
     "visible" : true
   } ],
+  "contentBlock" : null,
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
