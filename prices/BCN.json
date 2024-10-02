@@ -90,12 +90,9 @@
   "firstHeadline" : "",
   "id" : 137,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "15",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "ADDS effect",
     "imageId" : 773,
     "matchcode" : "RAE",
@@ -140,12 +137,9 @@
     "title" : "ADDS effect",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "overnight",
     "imageId" : 592,
     "matchcode" : "BBN",
@@ -190,12 +184,9 @@
     "title" : "FRESH overnight body treatment",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "anti wrinkle",
     "imageId" : 757,
     "matchcode" : "BSA",
@@ -389,7 +380,7 @@
     "matchcode" : "BBN",
     "name" : "body",
     "size" : null,
-    "slug" : "fresh-overnight-face-treatment",
+    "slug" : "fresh-overnight-body-treatment",
     "type" : 1,
     "unit" : null
   }, {

@@ -66,12 +66,9 @@
   "firstHeadline" : "",
   "id" : 134,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "NUANCE1",
     "imageId" : 642,
     "matchcode" : "BTF",
@@ -116,12 +113,9 @@
     "title" : "FRESH tinted moisturiser",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "cleanser",
     "imageId" : 750,
     "matchcode" : "BRM",
@@ -166,12 +160,9 @@
     "title" : "FRESH cleanser",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "enzyme mask",
     "imageId" : 672,
     "matchcode" : "FEP",

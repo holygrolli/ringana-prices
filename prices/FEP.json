@@ -128,12 +128,9 @@
   "firstHeadline" : "",
   "id" : 136,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "hydro serum",
     "imageId" : 1123,
     "matchcode" : "BHS",
@@ -178,12 +175,9 @@
     "title" : "FRESH hydro serum",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "anti wrinkle",
     "imageId" : 757,
     "matchcode" : "BSA",
@@ -382,7 +376,7 @@
     "matchcode" : "PEP",
     "name" : null,
     "size" : 10,
-    "slug" : "fresh-illuminating-enzyme-mask",
+    "slug" : "fresh-illuminating-enzyme-mask-sample",
     "type" : 2,
     "unit" : 6
   } ]

@@ -73,12 +73,9 @@
   "firstHeadline" : "",
   "id" : 127,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "body wash",
     "imageId" : 600,
     "matchcode" : "BDB",
@@ -123,12 +120,9 @@
     "title" : "FRESH body wash",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "overnight",
     "imageId" : 592,
     "matchcode" : "BBN",
@@ -173,12 +167,9 @@
     "title" : "FRESH overnight body treatment",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "foot balm",
     "imageId" : 1165,
     "matchcode" : "BFB",
@@ -377,7 +368,7 @@
     "matchcode" : "PKM",
     "name" : null,
     "size" : 15,
-    "slug" : "fresh-body-milk",
+    "slug" : "fresh-body-milk-sample",
     "type" : 2,
     "unit" : 6
   } ]

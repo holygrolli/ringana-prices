@@ -94,12 +94,9 @@
   "firstHeadline" : "",
   "id" : 139,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "cream light",
     "imageId" : 1126,
     "matchcode" : "BCE",
@@ -144,12 +141,9 @@
     "title" : "FRESH cream light",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "enzyme mask",
     "imageId" : 672,
     "matchcode" : "FEP",
@@ -194,12 +188,9 @@
     "title" : "FRESH illuminating enzyme mask",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "cleanser",
     "imageId" : 750,
     "matchcode" : "BRM",
@@ -398,7 +389,7 @@
     "matchcode" : "BSA",
     "name" : "anti wrinkle",
     "size" : null,
-    "slug" : "fresh-hydro-serum",
+    "slug" : "fresh-anti-wrinkle-serum",
     "type" : 1,
     "unit" : null
   } ]

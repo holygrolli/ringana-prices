@@ -43,12 +43,9 @@
   "firstHeadline" : "",
   "id" : 88,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "for men",
     "imageId" : 668,
     "matchcode" : "BMF",
@@ -93,12 +90,9 @@
     "title" : "FRESH moisturiser for men",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "180",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "Skin care",
     "imageId" : 2552,
     "matchcode" : "BP-MEN-BHS",
@@ -148,7 +142,7 @@
       "type" : 1
     },
     "contentsAmount" : "39,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "BEYOND omega",
     "imageId" : 440,
     "matchcode" : "COV",
@@ -332,7 +326,7 @@
     "matchcode" : "CMV3",
     "name" : null,
     "size" : 270,
-    "slug" : "caps-mascu",
+    "slug" : "caps-mascu-set",
     "type" : 2,
     "unit" : 1
   } ]

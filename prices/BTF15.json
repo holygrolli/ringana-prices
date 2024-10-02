@@ -53,12 +53,9 @@
   "firstHeadline" : "",
   "id" : 160,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "5",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "lip balm",
     "imageId" : 1159,
     "matchcode" : "BLB",
@@ -103,12 +100,9 @@
     "title" : "FRESH lip balm",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "Cleansing water",
     "imageId" : 765,
     "matchcode" : "FCW",
@@ -158,7 +152,7 @@
       "type" : 1
     },
     "contentsAmount" : "37,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "beauty & hair",
     "imageId" : 1161,
     "matchcode" : "CBH",
@@ -337,7 +331,7 @@
     "matchcode" : "BTF-TAN15",
     "name" : "N2",
     "size" : null,
-    "slug" : "fresh-tinted-moisturiser-spf15",
+    "slug" : "fresh-tinted-moisturiser-tan-spf15",
     "type" : 1,
     "unit" : null
   } ]

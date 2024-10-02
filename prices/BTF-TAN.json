@@ -101,11 +101,9 @@
   "firstHeadline" : "",
   "id" : 133,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
-    "currency" : "EUR",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : null,
+    "currency" : "eur",
     "description" : "",
     "imageId" : 234,
     "matchcode" : "RFOBR",
@@ -147,14 +145,12 @@
     },
     "purchasePossible" : true,
     "slug" : "ringana-foundation-brush",
-    "title" : "RINGANA foundation brush"
+    "title" : "RINGANA foundation brush",
+    "unitContents" : null
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "5",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "lip balm",
     "imageId" : 1159,
     "matchcode" : "BLB",
@@ -199,12 +195,9 @@
     "title" : "FRESH lip balm",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "scrub",
     "imageId" : 687,
     "matchcode" : "FSC",
@@ -388,7 +381,7 @@
     "matchcode" : "BTF",
     "name" : "N1",
     "size" : null,
-    "slug" : "fresh-tinted-moisturiser-tan",
+    "slug" : "fresh-tinted-moisturiser",
     "type" : 1,
     "unit" : null
   }, {

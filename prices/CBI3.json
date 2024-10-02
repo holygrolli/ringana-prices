@@ -44,7 +44,7 @@
       "type" : 2
     },
     "contentsAmount" : "520",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "pack cleansing",
     "imageId" : 1146,
     "matchcode" : "WPC",
@@ -89,12 +89,9 @@
     "title" : "FRESH pack cleansing",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "360",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "RINGANAdea",
     "imageId" : 240,
     "matchcode" : "RD12",
@@ -144,7 +141,7 @@
       "type" : 1
     },
     "contentsAmount" : "39,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "BEYOND omega",
     "imageId" : 440,
     "matchcode" : "COV",
@@ -327,7 +324,7 @@
     "matchcode" : "CBI",
     "name" : null,
     "size" : 60,
-    "slug" : "beyond-biotic-set",
+    "slug" : "beyond-biotic",
     "type" : 2,
     "unit" : 1
   }, {

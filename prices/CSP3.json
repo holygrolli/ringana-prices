@@ -39,12 +39,9 @@
   "firstHeadline" : "",
   "id" : 79,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "anti wrinkle",
     "imageId" : 757,
     "matchcode" : "BSA",
@@ -94,7 +91,7 @@
       "type" : 1
     },
     "contentsAmount" : "39,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "BEYOND omega",
     "imageId" : 440,
     "matchcode" : "COV",
@@ -139,12 +136,9 @@
     "title" : "BEYOND omega",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "overnight",
     "imageId" : 679,
     "matchcode" : "BCN",
@@ -327,7 +321,7 @@
     "matchcode" : "CSP",
     "name" : null,
     "size" : 60,
-    "slug" : "beyond-spermidine-set",
+    "slug" : "beyond-spermidine",
     "type" : 2,
     "unit" : 1
   }, {

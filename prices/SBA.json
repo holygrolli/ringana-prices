@@ -80,12 +80,9 @@
   "firstHeadline" : "",
   "id" : 125,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "sunscreen",
     "imageId" : 1990,
     "matchcode" : "BSB",
@@ -130,12 +127,9 @@
     "title" : "FRESH sunscreen",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "sunscreen face",
     "imageId" : 656,
     "matchcode" : "SSF",
@@ -185,7 +179,7 @@
       "type" : 1
     },
     "contentsAmount" : "42,8",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "CAPS protect",
     "imageId" : 1124,
     "matchcode" : "CSV",
@@ -389,7 +383,7 @@
     "matchcode" : "PBA",
     "name" : null,
     "size" : 15,
-    "slug" : "fresh-after-sun",
+    "slug" : "fresh-after-sun-tan-booster-sample",
     "type" : 2,
     "unit" : 6
   } ]

@@ -33,11 +33,9 @@
   "firstHeadline" : "",
   "id" : 26,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
-    "currency" : "EUR",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : null,
+    "currency" : "eur",
     "description" : "SAMPLE BOX",
     "imageId" : 2323,
     "matchcode" : "FSBB",
@@ -79,14 +77,12 @@
     },
     "purchasePossible" : true,
     "slug" : "fresh-sample-box-body",
-    "title" : "FRESH sample box body"
+    "title" : "FRESH sample box body",
+    "unitContents" : null
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "100",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "soapsoapsoap",
     "imageId" : 546,
     "matchcode" : "BSR",
@@ -131,12 +127,9 @@
     "title" : "FRESH soap",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "5",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "lip balm",
     "imageId" : 1159,
     "matchcode" : "BLB",

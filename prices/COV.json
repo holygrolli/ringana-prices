@@ -51,7 +51,7 @@
       "type" : 2
     },
     "contentsAmount" : "260",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "pack antiox",
     "imageId" : 1143,
     "matchcode" : "WPA",
@@ -101,7 +101,7 @@
       "type" : 2
     },
     "contentsAmount" : "700",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "MEAL REPLACEMENT",
     "imageId" : 257,
     "matchcode" : "D-EAT",
@@ -151,7 +151,7 @@
       "type" : 1
     },
     "contentsAmount" : "34,7",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "spermidine",
     "imageId" : 460,
     "matchcode" : "CSP",
@@ -335,7 +335,7 @@
     "matchcode" : "COV3",
     "name" : null,
     "size" : 180,
-    "slug" : "beyond-omega",
+    "slug" : "beyond-omega-set",
     "type" : 2,
     "unit" : 1
   } ]

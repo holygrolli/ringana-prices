@@ -45,7 +45,7 @@
       "type" : 2
     },
     "contentsAmount" : "700",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SPORT boost",
     "imageId" : 482,
     "matchcode" : "RSB",
@@ -95,7 +95,7 @@
       "type" : 1
     },
     "contentsAmount" : "49,5",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SPORT push",
     "imageId" : 475,
     "matchcode" : "RSP",
@@ -145,7 +145,7 @@
       "type" : 2
     },
     "contentsAmount" : "616",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SPORT protein",
     "imageId" : 1858,
     "matchcode" : "PROTEIN",

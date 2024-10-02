@@ -45,12 +45,9 @@
   "firstHeadline" : "",
   "id" : 312,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "scrub",
     "imageId" : 687,
     "matchcode" : "FSC",
@@ -95,12 +92,9 @@
     "title" : "FRESH scrub face & body",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "tooth oil",
     "imageId" : 788,
     "matchcode" : "BZO",
@@ -145,12 +139,9 @@
     "title" : "FRESH tooth oil",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "5",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "lip balm",
     "imageId" : 1159,
     "matchcode" : "BLB",
@@ -336,7 +327,7 @@
     "matchcode" : "FTB",
     "name" : null,
     "size" : 125,
-    "slug" : "fresh-tooth-balm-sample",
+    "slug" : "fresh-tooth-balm",
     "type" : 2,
     "unit" : 6
   } ]

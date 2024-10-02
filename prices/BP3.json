@@ -33,12 +33,9 @@
   "firstHeadline" : "",
   "id" : 9,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "scrub",
     "imageId" : 687,
     "matchcode" : "FSC",
@@ -88,7 +85,7 @@
       "type" : 1
     },
     "contentsAmount" : "37,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "beauty & hair",
     "imageId" : 1161,
     "matchcode" : "CBH",
@@ -133,12 +130,9 @@
     "title" : "CAPS beauty & hair",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "overnight",
     "imageId" : 679,
     "matchcode" : "BCN",
@@ -304,7 +298,7 @@
     "matchcode" : "BP1",
     "name" : "light",
     "size" : null,
-    "slug" : "fresh-skin-care-set-rich",
+    "slug" : "fresh-skin-care-set-light",
     "type" : 1,
     "unit" : null
   }, {
@@ -314,7 +308,7 @@
     "matchcode" : "BP2",
     "name" : "medium",
     "size" : null,
-    "slug" : "fresh-skin-care-set-rich",
+    "slug" : "fresh-skin-care-set-medium",
     "type" : 1,
     "unit" : null
   }, {
@@ -334,7 +328,7 @@
     "matchcode" : "BP-MEN-BHS",
     "name" : "men",
     "size" : null,
-    "slug" : "fresh-skin-care-set-rich",
+    "slug" : "set-for-men",
     "type" : 1,
     "unit" : null
   } ]

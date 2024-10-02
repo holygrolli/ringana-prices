@@ -85,12 +85,9 @@
   "firstHeadline" : "",
   "id" : 132,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "sunscreen",
     "imageId" : 1990,
     "matchcode" : "BSB",
@@ -135,12 +132,9 @@
     "title" : "FRESH sunscreen",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "after sun",
     "imageId" : 623,
     "matchcode" : "SBA",
@@ -190,7 +184,7 @@
       "type" : 1
     },
     "contentsAmount" : "42,8",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "CAPS protect",
     "imageId" : 1124,
     "matchcode" : "CSV",

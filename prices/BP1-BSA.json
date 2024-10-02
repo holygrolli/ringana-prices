@@ -33,12 +33,9 @@
   "firstHeadline" : "",
   "id" : 16,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "overnight",
     "imageId" : 679,
     "matchcode" : "BCN",
@@ -83,12 +80,9 @@
     "title" : "FRESH overnight face treatment",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "scrub",
     "imageId" : 687,
     "matchcode" : "FSC",
@@ -138,7 +132,7 @@
       "type" : 1
     },
     "contentsAmount" : "37,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "beauty & hair",
     "imageId" : 1161,
     "matchcode" : "CBH",

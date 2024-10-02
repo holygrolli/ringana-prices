@@ -26,12 +26,9 @@
   "firstHeadline" : "",
   "id" : 34,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "330",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "Skin care",
     "imageId" : 2557,
     "matchcode" : "BP2",
@@ -76,12 +73,9 @@
     "title" : "FRESH skin care set medium",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "35",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SAMPLE BOX",
     "imageId" : 2324,
     "matchcode" : "FSB-MEN",
@@ -126,12 +120,9 @@
     "title" : "FRESH sample box for men",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "165",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SAMPLE BOX",
     "imageId" : 2325,
     "matchcode" : "FSBW",

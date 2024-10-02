@@ -33,12 +33,9 @@
   "firstHeadline" : "",
   "id" : 5,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "scrub",
     "imageId" : 687,
     "matchcode" : "FSC",
@@ -83,12 +80,9 @@
     "title" : "FRESH scrub face & body",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "body wash",
     "imageId" : 600,
     "matchcode" : "BDB",
@@ -138,7 +132,7 @@
       "type" : 1
     },
     "contentsAmount" : "45,8",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "CAPS mascu",
     "imageId" : 407,
     "matchcode" : "CMV",
@@ -300,7 +294,7 @@
     "matchcode" : "BP1",
     "name" : "light",
     "size" : null,
-    "slug" : "set-for-men",
+    "slug" : "fresh-skin-care-set-light",
     "type" : 1,
     "unit" : null
   }, {
@@ -310,7 +304,7 @@
     "matchcode" : "BP2",
     "name" : "medium",
     "size" : null,
-    "slug" : "set-for-men",
+    "slug" : "fresh-skin-care-set-medium",
     "type" : 1,
     "unit" : null
   }, {
@@ -320,7 +314,7 @@
     "matchcode" : "BP3",
     "name" : "rich",
     "size" : null,
-    "slug" : "set-for-men",
+    "slug" : "fresh-skin-care-set-rich",
     "type" : 1,
     "unit" : null
   }, {

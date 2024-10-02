@@ -81,12 +81,9 @@
   "firstHeadline" : "",
   "id" : 861,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "FRESH BABY",
     "imageId" : 502,
     "matchcode" : "RBW",
@@ -131,12 +128,9 @@
     "title" : "FRESH baby body & hair wash",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "FRESH baby",
     "imageId" : 497,
     "matchcode" : "RBC",
@@ -181,11 +175,9 @@
     "title" : "FRESH baby cream",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
-    "currency" : "EUR",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : null,
+    "currency" : "eur",
     "description" : "",
     "imageId" : 237,
     "matchcode" : "RBHT",
@@ -227,7 +219,8 @@
     },
     "purchasePossible" : true,
     "slug" : "ringana-baby-hooded-towel",
-    "title" : "RINGANA baby hooded towel"
+    "title" : "RINGANA baby hooded towel",
+    "unitContents" : null
   } ],
   "imageGallery" : [ {
     "caption" : "",

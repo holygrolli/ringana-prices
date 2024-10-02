@@ -26,12 +26,9 @@
   "firstHeadline" : "",
   "id" : 32,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "5",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "lip balm",
     "imageId" : 1159,
     "matchcode" : "BLB",
@@ -76,12 +73,9 @@
     "title" : "FRESH lip balm",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "165",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SAMPLE BOX",
     "imageId" : 2325,
     "matchcode" : "FSBW",
@@ -126,11 +120,9 @@
     "title" : "FRESH sample box wash",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
-    "currency" : "EUR",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : null,
+    "currency" : "eur",
     "description" : "SAMPLE BOX",
     "imageId" : 2323,
     "matchcode" : "FSBB",
@@ -172,7 +164,8 @@
     },
     "purchasePossible" : true,
     "slug" : "fresh-sample-box-body",
-    "title" : "FRESH sample box body"
+    "title" : "FRESH sample box body",
+    "unitContents" : null
   } ],
   "imageGallery" : [ {
     "caption" : "",
@@ -301,7 +294,7 @@
     "matchcode" : "FSB2",
     "name" : "medium",
     "size" : null,
-    "slug" : "fresh-sample-box-face-light",
+    "slug" : "fresh-sample-box-face-medium",
     "type" : 1,
     "unit" : null
   }, {
@@ -311,7 +304,7 @@
     "matchcode" : "FSB3",
     "name" : "rich",
     "size" : null,
-    "slug" : "fresh-sample-box-face-light",
+    "slug" : "fresh-sample-box-face-rich",
     "type" : 1,
     "unit" : null
   } ]

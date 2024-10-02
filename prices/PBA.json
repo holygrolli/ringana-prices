@@ -73,12 +73,9 @@
   "firstHeadline" : "",
   "id" : 309,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "sunscreen",
     "imageId" : 1990,
     "matchcode" : "BSB",
@@ -128,7 +125,7 @@
       "type" : 1
     },
     "contentsAmount" : "42,8",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "CAPS protect",
     "imageId" : 1124,
     "matchcode" : "CSV",
@@ -173,12 +170,9 @@
     "title" : "CAPS protect",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "sunscreen face",
     "imageId" : 656,
     "matchcode" : "SSF",
@@ -367,7 +361,7 @@
     "matchcode" : "SBA",
     "name" : null,
     "size" : 125,
-    "slug" : "fresh-after-sun-tan-booster-sample",
+    "slug" : "fresh-after-sun",
     "type" : 2,
     "unit" : 6
   } ]

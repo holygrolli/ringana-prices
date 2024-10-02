@@ -94,12 +94,9 @@
   "firstHeadline" : "",
   "id" : 155,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "tonic pure",
     "imageId" : 636,
     "matchcode" : "BGS",
@@ -144,12 +141,9 @@
     "title" : "FRESH tonic pure",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "tonic calm",
     "imageId" : 630,
     "matchcode" : "BGL",
@@ -194,12 +188,9 @@
     "title" : "FRESH tonic calm",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "scrub",
     "imageId" : 687,
     "matchcode" : "FSC",
@@ -390,7 +381,7 @@
     "matchcode" : "FCW",
     "name" : "cleansing water",
     "size" : null,
-    "slug" : "fresh-cleanser",
+    "slug" : "fresh-cleansing-water",
     "type" : 1,
     "unit" : null
   } ]

@@ -31,7 +31,7 @@
       "type" : 2
     },
     "contentsAmount" : "520",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "pack cleansing",
     "imageId" : 1146,
     "matchcode" : "WPC",
@@ -81,7 +81,7 @@
       "type" : 2
     },
     "contentsAmount" : "260",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "pack antiox",
     "imageId" : 1143,
     "matchcode" : "WPA",
@@ -131,7 +131,7 @@
       "type" : 2
     },
     "contentsAmount" : "260",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "pack balancing",
     "imageId" : 1145,
     "matchcode" : "WPB",

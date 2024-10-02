@@ -37,12 +37,9 @@
   "firstHeadline" : "",
   "id" : 1060,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "15",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "sample",
     "imageId" : 2493,
     "matchcode" : "PKM",
@@ -87,12 +84,9 @@
     "title" : "FRESH body milk sample",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "15",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "sample",
     "imageId" : 1223,
     "matchcode" : "PBN",
@@ -249,15 +243,5 @@
     "iconMediaId" : 1057,
     "name" : "value.value2.name"
   } ],
-  "variants" : [ {
-    "color" : null,
-    "id" : 1191,
-    "language" : null,
-    "matchcode" : "TSR-LE-GTT",
-    "name" : null,
-    "size" : 20,
-    "slug" : "fresh-soap-green-tea-tiger-grass-sample",
-    "type" : 2,
-    "unit" : 2
-  } ]
+  "variants" : [ ]
 }

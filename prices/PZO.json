@@ -45,11 +45,9 @@
   "firstHeadline" : "",
   "id" : 31,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
-    "currency" : "EUR",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : null,
+    "currency" : "eur",
     "description" : "SAMPLE BOX",
     "imageId" : 2323,
     "matchcode" : "FSBB",
@@ -91,14 +89,12 @@
     },
     "purchasePossible" : true,
     "slug" : "fresh-sample-box-body",
-    "title" : "FRESH sample box body"
+    "title" : "FRESH sample box body",
+    "unitContents" : null
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "5",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "lip balm",
     "imageId" : 1159,
     "matchcode" : "BLB",
@@ -143,12 +139,9 @@
     "title" : "FRESH lip balm",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "tooth balm",
     "imageId" : 800,
     "matchcode" : "FTB",
@@ -321,7 +314,7 @@
     "matchcode" : "BZO",
     "name" : null,
     "size" : 125,
-    "slug" : "fresh-tooth-oil-sample",
+    "slug" : "fresh-tooth-oil",
     "type" : 2,
     "unit" : 6
   }, {

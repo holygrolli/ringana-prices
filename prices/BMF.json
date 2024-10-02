@@ -87,12 +87,9 @@
   "firstHeadline" : "",
   "id" : 135,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "15",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "eye serum",
     "imageId" : 707,
     "matchcode" : "BAS",
@@ -137,12 +134,9 @@
     "title" : "FRESH eye serum",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "hydro serum",
     "imageId" : 1123,
     "matchcode" : "BHS",
@@ -187,12 +181,9 @@
     "title" : "FRESH hydro serum",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "100",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "soapsoapsoap",
     "imageId" : 546,
     "matchcode" : "BSR",

@@ -55,7 +55,7 @@
       "type" : 1
     },
     "contentsAmount" : "41,7",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "CAPS moodoo",
     "imageId" : 1137,
     "matchcode" : "CMO",
@@ -100,12 +100,9 @@
     "title" : "CAPS moodoo",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "360",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "RINGANAchi",
     "imageId" : 252,
     "matchcode" : "RE12",
@@ -155,7 +152,7 @@
       "type" : 1
     },
     "contentsAmount" : "39,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "BEYOND omega",
     "imageId" : 440,
     "matchcode" : "COV",
@@ -348,7 +345,7 @@
     "matchcode" : "CCB3",
     "name" : null,
     "size" : 270,
-    "slug" : "caps-cerebro",
+    "slug" : "caps-cerebro-set",
     "type" : 2,
     "unit" : 1
   } ]

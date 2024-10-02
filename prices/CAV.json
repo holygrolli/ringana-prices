@@ -63,7 +63,7 @@
       "type" : 1
     },
     "contentsAmount" : "39,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "BEYOND omega",
     "imageId" : 440,
     "matchcode" : "COV",
@@ -113,7 +113,7 @@
       "type" : 2
     },
     "contentsAmount" : "1040",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "FRESH PACKS",
     "imageId" : 1141,
     "matchcode" : "WP1",
@@ -158,12 +158,9 @@
     "title" : "FRESH packs ABC",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SPORT go",
     "imageId" : 469,
     "matchcode" : "RSG",
@@ -346,7 +343,7 @@
     "matchcode" : "CAV3",
     "name" : null,
     "size" : 270,
-    "slug" : "caps-move",
+    "slug" : "caps-move-set",
     "type" : 2,
     "unit" : 1
   } ]

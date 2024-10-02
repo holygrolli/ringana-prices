@@ -50,12 +50,9 @@
   "firstHeadline" : "",
   "id" : 101,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SPORT go",
     "imageId" : 469,
     "matchcode" : "RSG",
@@ -105,7 +102,7 @@
       "type" : 1
     },
     "contentsAmount" : "49,5",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SPORT push",
     "imageId" : 475,
     "matchcode" : "RSP",
@@ -155,7 +152,7 @@
       "type" : 2
     },
     "contentsAmount" : "616",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SPORT protein",
     "imageId" : 1858,
     "matchcode" : "PROTEIN",
@@ -332,7 +329,7 @@
     "matchcode" : "RSB3",
     "name" : null,
     "size" : 2100,
-    "slug" : "ringana-sport-boost",
+    "slug" : "ringana-sport-set",
     "type" : 2,
     "unit" : 2
   } ]

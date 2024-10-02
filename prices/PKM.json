@@ -66,12 +66,9 @@
   "firstHeadline" : "",
   "id" : 41,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "hydro serum",
     "imageId" : 1123,
     "matchcode" : "BHS",
@@ -116,12 +113,9 @@
     "title" : "FRESH hydro serum",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "hand balm",
     "imageId" : 572,
     "matchcode" : "BHB",
@@ -166,12 +160,9 @@
     "title" : "FRESH hand balm",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "hair treatment",
     "imageId" : 528,
     "matchcode" : "FHT",
@@ -350,7 +341,7 @@
     "matchcode" : "BKM",
     "name" : null,
     "size" : 200,
-    "slug" : "fresh-body-milk-sample",
+    "slug" : "fresh-body-milk",
     "type" : 2,
     "unit" : 6
   }, {

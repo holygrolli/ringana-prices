@@ -64,12 +64,9 @@
   "firstHeadline" : "",
   "id" : 256,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "",
     "imageId" : 1260,
     "matchcode" : "MANA-TC",
@@ -114,12 +111,9 @@
     "title" : "manadental travel case",
     "unitContents" : "Stk."
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "600",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "mana liquid",
     "imageId" : 943,
     "matchcode" : "FTLL3",
@@ -164,12 +158,9 @@
     "title" : "manadental liquid, Set of 3",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "tooth balm",
     "imageId" : 800,
     "matchcode" : "FTB",

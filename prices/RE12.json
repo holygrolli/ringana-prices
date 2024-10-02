@@ -58,12 +58,9 @@
   "firstHeadline" : "",
   "id" : 56,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SOULBOTTLE",
     "imageId" : 223,
     "matchcode" : "R-SB",
@@ -113,7 +110,7 @@
       "type" : 1
     },
     "contentsAmount" : "39,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "BEYOND omega",
     "imageId" : 440,
     "matchcode" : "COV",
@@ -163,7 +160,7 @@
       "type" : 1
     },
     "contentsAmount" : "49,5",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SPORT push",
     "imageId" : 475,
     "matchcode" : "RSP",
@@ -343,7 +340,7 @@
     "matchcode" : "RE24",
     "name" : null,
     "size" : 720,
-    "slug" : "ringanachi",
+    "slug" : "ringanachi-set",
     "type" : 2,
     "unit" : 6
   } ]

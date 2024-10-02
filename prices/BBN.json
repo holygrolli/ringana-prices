@@ -118,7 +118,7 @@
       "type" : 1
     },
     "contentsAmount" : "34,7",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "spermidine",
     "imageId" : 460,
     "matchcode" : "CSP",
@@ -168,7 +168,7 @@
       "type" : 1
     },
     "contentsAmount" : "37,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "beauty & hair",
     "imageId" : 1161,
     "matchcode" : "CBH",
@@ -213,12 +213,9 @@
     "title" : "CAPS beauty & hair",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "overnight",
     "imageId" : 679,
     "matchcode" : "BCN",
@@ -417,7 +414,7 @@
     "matchcode" : "BCN",
     "name" : "face",
     "size" : null,
-    "slug" : "fresh-overnight-body-treatment",
+    "slug" : "fresh-overnight-face-treatment",
     "type" : 1,
     "unit" : null
   } ]

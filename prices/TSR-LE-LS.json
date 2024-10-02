@@ -37,12 +37,9 @@
   "firstHeadline" : "",
   "id" : 1422,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "hand balm",
     "imageId" : 572,
     "matchcode" : "BHB",
@@ -87,12 +84,9 @@
     "title" : "FRESH hand balm",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "stay fresh",
     "imageId" : 553,
     "matchcode" : "STF",
@@ -137,12 +131,9 @@
     "title" : "FRESH stay fresh",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "255",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "soap liquid",
     "imageId" : 567,
     "matchcode" : "FSLP",
@@ -321,7 +312,7 @@
     "matchcode" : "BSR-LE-LS",
     "name" : null,
     "size" : 100,
-    "slug" : "fresh-soap-lemon-scrub-sample",
+    "slug" : "fresh-soap-lemon-scrub",
     "type" : 2,
     "unit" : 2
   } ]

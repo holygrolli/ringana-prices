@@ -59,12 +59,9 @@
   "firstHeadline" : "",
   "id" : 42,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "100",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "soapsoapsoap",
     "imageId" : 546,
     "matchcode" : "BSR",
@@ -109,12 +106,9 @@
     "title" : "FRESH soap",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "scrub",
     "imageId" : 687,
     "matchcode" : "FSC",
@@ -159,12 +153,9 @@
     "title" : "FRESH scrub face & body",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "light legs",
     "imageId" : 587,
     "matchcode" : "FLL",
@@ -335,7 +326,7 @@
     "matchcode" : "BFB",
     "name" : null,
     "size" : 125,
-    "slug" : "fresh-foot-balm-sample",
+    "slug" : "fresh-foot-balm",
     "type" : 2,
     "unit" : 6
   }, {

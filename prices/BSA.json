@@ -87,12 +87,9 @@
   "firstHeadline" : "",
   "id" : 157,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "15",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "ADDS effect",
     "imageId" : 773,
     "matchcode" : "RAE",
@@ -137,12 +134,9 @@
     "title" : "ADDS effect",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "enzyme mask",
     "imageId" : 672,
     "matchcode" : "FEP",
@@ -187,12 +181,9 @@
     "title" : "FRESH illuminating enzyme mask",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "overnight",
     "imageId" : 679,
     "matchcode" : "BCN",
@@ -381,7 +372,7 @@
     "matchcode" : "BHS",
     "name" : "hydro",
     "size" : null,
-    "slug" : "fresh-anti-wrinkle-serum",
+    "slug" : "fresh-hydro-serum",
     "type" : 1,
     "unit" : null
   }, {

@@ -59,12 +59,9 @@
   "firstHeadline" : "",
   "id" : 126,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "light legs",
     "imageId" : 587,
     "matchcode" : "FLL",
@@ -109,12 +106,9 @@
     "title" : "FRESH light legs",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "100",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "soapsoapsoap",
     "imageId" : 546,
     "matchcode" : "BSR",
@@ -159,12 +153,9 @@
     "title" : "FRESH soap",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "pocket",
     "imageId" : 1164,
     "matchcode" : "FHB50",
@@ -335,7 +326,7 @@
     "matchcode" : "BDO",
     "name" : null,
     "size" : 125,
-    "slug" : "fresh-deodorant-pocket",
+    "slug" : "fresh-deodorant",
     "type" : 2,
     "unit" : 6
   }, {
@@ -355,7 +346,7 @@
     "matchcode" : "PDO",
     "name" : null,
     "size" : 5,
-    "slug" : "fresh-deodorant-pocket",
+    "slug" : "fresh-deodorant-sample",
     "type" : 2,
     "unit" : 6
   } ]

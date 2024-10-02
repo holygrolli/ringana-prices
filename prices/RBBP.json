@@ -33,12 +33,9 @@
   "firstHeadline" : "",
   "id" : 960,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "FRESH BABY",
     "imageId" : 502,
     "matchcode" : "RBW",
@@ -83,12 +80,9 @@
     "title" : "FRESH baby body & hair wash",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "baby sunscreen",
     "imageId" : 2849,
     "matchcode" : "RBSS",
@@ -133,12 +127,9 @@
     "title" : "FRESH baby sunscreen SPF 50",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "FRESH baby",
     "imageId" : 497,
     "matchcode" : "RBC",

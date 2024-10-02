@@ -36,12 +36,9 @@
   "firstHeadline" : "",
   "id" : 72,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "for men",
     "imageId" : 668,
     "matchcode" : "BMF",
@@ -91,7 +88,7 @@
       "type" : 1
     },
     "contentsAmount" : "39,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "BEYOND omega",
     "imageId" : 440,
     "matchcode" : "COV",
@@ -136,12 +133,9 @@
     "title" : "BEYOND omega",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "180",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "Skin care",
     "imageId" : 2552,
     "matchcode" : "BP-MEN-BHS",
@@ -324,7 +318,7 @@
     "matchcode" : "CMV",
     "name" : null,
     "size" : 90,
-    "slug" : "caps-mascu-set",
+    "slug" : "caps-mascu",
     "type" : 2,
     "unit" : 1
   }, {

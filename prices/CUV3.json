@@ -41,7 +41,7 @@
       "type" : 1
     },
     "contentsAmount" : "49,8",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "CAPS fem",
     "imageId" : 1156,
     "matchcode" : "CFV",
@@ -91,7 +91,7 @@
       "type" : 1
     },
     "contentsAmount" : "42,8",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "CAPS immu",
     "imageId" : 1148,
     "matchcode" : "CIV",
@@ -136,12 +136,9 @@
     "title" : "CAPS immu",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "sunscreen",
     "imageId" : 1990,
     "matchcode" : "BSB",
@@ -329,7 +326,7 @@
     "matchcode" : "CUV",
     "name" : null,
     "size" : 90,
-    "slug" : "caps-hydro-set",
+    "slug" : "caps-hydro",
     "type" : 2,
     "unit" : 1
   }, {

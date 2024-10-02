@@ -66,12 +66,9 @@
   "firstHeadline" : "",
   "id" : 121,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "5",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "lip balm",
     "imageId" : 1159,
     "matchcode" : "BLB",
@@ -116,12 +113,9 @@
     "title" : "FRESH lip balm",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "stay fresh",
     "imageId" : 553,
     "matchcode" : "STF",
@@ -166,12 +160,9 @@
     "title" : "FRESH stay fresh",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "pocket",
     "imageId" : 1170,
     "matchcode" : "FDO50",
@@ -342,7 +333,7 @@
     "matchcode" : "BHB",
     "name" : null,
     "size" : 125,
-    "slug" : "fresh-hand-balm-pocket",
+    "slug" : "fresh-hand-balm",
     "type" : 2,
     "unit" : 6
   }, {
@@ -362,7 +353,7 @@
     "matchcode" : "PHB",
     "name" : null,
     "size" : 15,
-    "slug" : "fresh-hand-balm-pocket",
+    "slug" : "fresh-hand-balm-sample",
     "type" : 2,
     "unit" : 6
   } ]

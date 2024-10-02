@@ -39,12 +39,9 @@
   "firstHeadline" : "",
   "id" : 59,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SHAKE! SHAKE!",
     "imageId" : 215,
     "matchcode" : "RSG-SBB",
@@ -94,7 +91,7 @@
       "type" : 1
     },
     "contentsAmount" : "39,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "BEYOND omega",
     "imageId" : 440,
     "matchcode" : "COV",
@@ -144,7 +141,7 @@
       "type" : 2
     },
     "contentsAmount" : "1040",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "FRESH PACKS",
     "imageId" : 1141,
     "matchcode" : "WP1",
@@ -318,7 +315,7 @@
     "matchcode" : "WPA",
     "name" : null,
     "size" : 260,
-    "slug" : "pack-antiox-set",
+    "slug" : "pack-antiox",
     "type" : 2,
     "unit" : 2
   }, {

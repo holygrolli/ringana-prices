@@ -59,12 +59,9 @@
   "firstHeadline" : "",
   "id" : 37,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "body milk",
     "imageId" : 606,
     "matchcode" : "BKM",
@@ -109,12 +106,9 @@
     "title" : "FRESH body milk",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "100",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "soapsoapsoap",
     "imageId" : 546,
     "matchcode" : "BSR",
@@ -159,12 +153,9 @@
     "title" : "FRESH soap",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "255",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "soap liquid",
     "imageId" : 567,
     "matchcode" : "FSLP",
@@ -335,7 +326,7 @@
     "matchcode" : "BHB",
     "name" : null,
     "size" : 125,
-    "slug" : "fresh-hand-balm-sample",
+    "slug" : "fresh-hand-balm",
     "type" : 2,
     "unit" : 6
   }, {
@@ -345,7 +336,7 @@
     "matchcode" : "FHB50",
     "name" : null,
     "size" : 50,
-    "slug" : "fresh-hand-balm-sample",
+    "slug" : "fresh-hand-balm-pocket",
     "type" : 2,
     "unit" : 6
   }, {

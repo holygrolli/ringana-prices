@@ -26,11 +26,9 @@
   "firstHeadline" : "",
   "id" : 333,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
-    "currency" : "EUR",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : null,
+    "currency" : "eur",
     "description" : "",
     "imageId" : 793,
     "matchcode" : "RBMB",
@@ -72,13 +70,12 @@
     },
     "purchasePossible" : true,
     "slug" : "ringana-baby-muslin-bib",
-    "title" : "RINGANA baby muslin bib"
+    "title" : "RINGANA baby muslin bib",
+    "unitContents" : null
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
-    "currency" : "EUR",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : null,
+    "currency" : "eur",
     "description" : "",
     "imageId" : 237,
     "matchcode" : "RBHT",
@@ -120,14 +117,12 @@
     },
     "purchasePossible" : true,
     "slug" : "ringana-baby-hooded-towel",
-    "title" : "RINGANA baby hooded towel"
+    "title" : "RINGANA baby hooded towel",
+    "unitContents" : null
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "FRESH BABY",
     "imageId" : 507,
     "matchcode" : "RBO",

@@ -40,12 +40,9 @@
   "firstHeadline" : "",
   "id" : 22,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SOULBOTTLE",
     "imageId" : 223,
     "matchcode" : "R-SB",
@@ -95,7 +92,7 @@
       "type" : 1
     },
     "contentsAmount" : "41,7",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "CAPS moodoo",
     "imageId" : 1137,
     "matchcode" : "CMO",
@@ -145,7 +142,7 @@
       "type" : 1
     },
     "contentsAmount" : "39,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "BEYOND omega",
     "imageId" : 440,
     "matchcode" : "COV",
@@ -314,7 +311,7 @@
     "matchcode" : "RI12",
     "name" : null,
     "size" : 360,
-    "slug" : "ringanaisi-set",
+    "slug" : "ringanaisi",
     "type" : 2,
     "unit" : 6
   }, {

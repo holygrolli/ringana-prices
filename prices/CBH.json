@@ -71,12 +71,9 @@
   "firstHeadline" : "",
   "id" : 98,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "15",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "ADDS repair",
     "imageId" : 745,
     "matchcode" : "RAR",
@@ -121,12 +118,9 @@
     "title" : "ADDS repair",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "shampoo",
     "imageId" : 1166,
     "matchcode" : "BRS",
@@ -171,12 +165,9 @@
     "title" : "FRESH shampoo",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "enzyme mask",
     "imageId" : 672,
     "matchcode" : "FEP",
@@ -362,7 +353,7 @@
     "matchcode" : "CBH3",
     "name" : null,
     "size" : 270,
-    "slug" : "caps-beautyhair",
+    "slug" : "caps-beautyhair-set",
     "type" : 2,
     "unit" : 1
   } ]

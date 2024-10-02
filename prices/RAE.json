@@ -83,12 +83,9 @@
   "firstHeadline" : "",
   "id" : 161,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "hydro serum",
     "imageId" : 1123,
     "matchcode" : "BHS",
@@ -133,12 +130,9 @@
     "title" : "FRESH hydro serum",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "cleanser",
     "imageId" : 750,
     "matchcode" : "BRM",
@@ -188,7 +182,7 @@
       "type" : 1
     },
     "contentsAmount" : "37,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "beauty & hair",
     "imageId" : 1161,
     "matchcode" : "CBH",
@@ -381,7 +375,7 @@
     "matchcode" : "RAG",
     "name" : "glow",
     "size" : null,
-    "slug" : "fresh-adds-effect",
+    "slug" : "fresh-adds-glow",
     "type" : 1,
     "unit" : null
   }, {
@@ -391,7 +385,7 @@
     "matchcode" : "RAR",
     "name" : "repair",
     "size" : null,
-    "slug" : "fresh-adds-effect",
+    "slug" : "fresh-adds-repair",
     "type" : 1,
     "unit" : null
   } ]

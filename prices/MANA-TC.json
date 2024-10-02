@@ -26,12 +26,9 @@
   "firstHeadline" : "",
   "id" : 242,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "manadental",
     "imageId" : 1255,
     "matchcode" : "MANA-SK",
@@ -76,12 +73,9 @@
     "title" : "manadental starter kit",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "mana liquid",
     "imageId" : 937,
     "matchcode" : "FTLL",
@@ -126,12 +120,9 @@
     "title" : "manadental liquid",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "tooth balm",
     "imageId" : 800,
     "matchcode" : "FTB",

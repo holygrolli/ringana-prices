@@ -80,12 +80,9 @@
   "firstHeadline" : "",
   "id" : 150,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "hydro serum",
     "imageId" : 1123,
     "matchcode" : "BHS",
@@ -130,12 +127,9 @@
     "title" : "FRESH hydro serum",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "tonic pure",
     "imageId" : 636,
     "matchcode" : "BGS",
@@ -180,12 +174,9 @@
     "title" : "FRESH tonic pure",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "15",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "eye serum",
     "imageId" : 707,
     "matchcode" : "BAS",
@@ -384,7 +375,7 @@
     "matchcode" : "BCL",
     "name" : "medium",
     "size" : null,
-    "slug" : "fresh-cream-light",
+    "slug" : "fresh-cream-medium",
     "type" : 1,
     "unit" : null
   }, {
@@ -394,7 +385,7 @@
     "matchcode" : "BCM",
     "name" : "rich",
     "size" : null,
-    "slug" : "fresh-cream-light",
+    "slug" : "fresh-cream-rich",
     "type" : 1,
     "unit" : null
   } ]

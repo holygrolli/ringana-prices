@@ -90,12 +90,9 @@
   "firstHeadline" : "product.RAG.firstHeadline",
   "id" : 2082,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "hydro serum",
     "imageId" : 1123,
     "matchcode" : "BHS",
@@ -140,12 +137,9 @@
     "title" : "FRESH hydro serum",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "tonic calm",
     "imageId" : 630,
     "matchcode" : "BGL",
@@ -190,12 +184,9 @@
     "title" : "FRESH tonic calm",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "anti wrinkle",
     "imageId" : 757,
     "matchcode" : "BSA",
@@ -398,7 +389,7 @@
     "matchcode" : "RAE",
     "name" : "effect",
     "size" : null,
-    "slug" : "fresh-adds-glow",
+    "slug" : "fresh-adds-effect",
     "type" : 1,
     "unit" : null
   }, {
@@ -408,7 +399,7 @@
     "matchcode" : "RAR",
     "name" : "repair",
     "size" : null,
-    "slug" : "fresh-adds-glow",
+    "slug" : "fresh-adds-repair",
     "type" : 1,
     "unit" : null
   } ]

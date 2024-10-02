@@ -40,12 +40,9 @@
   "firstHeadline" : "",
   "id" : 23,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SOULBOTTLE",
     "imageId" : 223,
     "matchcode" : "R-SB",
@@ -95,7 +92,7 @@
       "type" : 1
     },
     "contentsAmount" : "26,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "BEYOND biotic",
     "imageId" : 449,
     "matchcode" : "CBI",
@@ -145,7 +142,7 @@
       "type" : 1
     },
     "contentsAmount" : "40,5",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "CAPS hydro",
     "imageId" : 1130,
     "matchcode" : "CUV",
@@ -329,7 +326,7 @@
     "matchcode" : "RD12",
     "name" : null,
     "size" : 360,
-    "slug" : "ringanadea-set",
+    "slug" : "ringanadea",
     "type" : 2,
     "unit" : 6
   }, {

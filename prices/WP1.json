@@ -46,12 +46,9 @@
   "firstHeadline" : "",
   "id" : 62,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SHAKE! SHAKE!",
     "imageId" : 215,
     "matchcode" : "RSG-SBB",
@@ -96,12 +93,9 @@
     "title" : "RINGANA Glass Shaker & Shaker Ball",
     "unitContents" : "Stk."
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SHAKE! SHAKE!",
     "imageId" : 212,
     "matchcode" : "RS",
@@ -151,7 +145,7 @@
       "type" : 1
     },
     "contentsAmount" : "39,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "BEYOND omega",
     "imageId" : 440,
     "matchcode" : "COV",
@@ -319,7 +313,7 @@
     "matchcode" : "WP3",
     "name" : null,
     "size" : 3120,
-    "slug" : "packs-abc",
+    "slug" : "packs-abc-3er-set",
     "type" : 2,
     "unit" : 2
   } ]

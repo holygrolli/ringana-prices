@@ -103,12 +103,9 @@
   "firstHeadline" : "",
   "id" : 303,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "body milk",
     "imageId" : 606,
     "matchcode" : "BKM",
@@ -153,12 +150,9 @@
     "title" : "FRESH body milk",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "body wash",
     "imageId" : 600,
     "matchcode" : "BDB",
@@ -203,12 +197,9 @@
     "title" : "FRESH body wash",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "overnight",
     "imageId" : 679,
     "matchcode" : "BCN",
@@ -392,7 +383,7 @@
     "matchcode" : "BBN",
     "name" : null,
     "size" : 125,
-    "slug" : "fresh-overnight-body-treatment-sample",
+    "slug" : "fresh-overnight-body-treatment",
     "type" : 2,
     "unit" : 6
   } ]

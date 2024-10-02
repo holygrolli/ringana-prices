@@ -51,7 +51,7 @@
       "type" : 1
     },
     "contentsAmount" : "48,7",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "CAPS d-gest",
     "imageId" : 422,
     "matchcode" : "CDG",
@@ -101,7 +101,7 @@
       "type" : 1
     },
     "contentsAmount" : "26,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "BEYOND biotic",
     "imageId" : 449,
     "matchcode" : "CBI",
@@ -146,12 +146,9 @@
     "title" : "BEYOND biotic",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SHAKE! SHAKE!",
     "imageId" : 215,
     "matchcode" : "RSG-SBB",
@@ -326,7 +323,7 @@
     "matchcode" : "WPC3",
     "name" : null,
     "size" : 1560,
-    "slug" : "pack-cleansing",
+    "slug" : "pack-cleansing-set",
     "type" : 2,
     "unit" : 2
   } ]

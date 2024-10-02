@@ -59,12 +59,9 @@
   "firstHeadline" : "",
   "id" : 168,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "5",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "lip balm",
     "imageId" : 1159,
     "matchcode" : "BLB",
@@ -109,12 +106,9 @@
     "title" : "FRESH lip balm",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "tooth oil",
     "imageId" : 788,
     "matchcode" : "BZO",
@@ -159,12 +153,9 @@
     "title" : "FRESH tooth oil",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "manadental",
     "imageId" : 1255,
     "matchcode" : "MANA-SK",
@@ -360,7 +351,7 @@
     "matchcode" : "PTB",
     "name" : null,
     "size" : 15,
-    "slug" : "fresh-tooth-balm",
+    "slug" : "fresh-tooth-balm-sample",
     "type" : 2,
     "unit" : 6
   } ]

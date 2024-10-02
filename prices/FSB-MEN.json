@@ -26,12 +26,9 @@
   "firstHeadline" : "",
   "id" : 30,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "165",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SAMPLE BOX",
     "imageId" : 2325,
     "matchcode" : "FSBW",
@@ -76,12 +73,9 @@
     "title" : "FRESH sample box wash",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "250",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "TRAVEL SET",
     "imageId" : 2326,
     "matchcode" : "BKT-MEN",
@@ -131,7 +125,7 @@
       "type" : 1
     },
     "contentsAmount" : "45,8",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "CAPS mascu",
     "imageId" : 407,
     "matchcode" : "CMV",

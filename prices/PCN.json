@@ -80,12 +80,9 @@
   "firstHeadline" : "",
   "id" : 300,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "anti wrinkle",
     "imageId" : 757,
     "matchcode" : "BSA",
@@ -130,12 +127,9 @@
     "title" : "FRESH anti wrinkle serum",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "body milk",
     "imageId" : 606,
     "matchcode" : "BKM",
@@ -180,12 +174,9 @@
     "title" : "FRESH body milk",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "cleanser",
     "imageId" : 750,
     "matchcode" : "BRM",
@@ -369,7 +360,7 @@
     "matchcode" : "BCN",
     "name" : null,
     "size" : 30,
-    "slug" : "fresh-overnight-face-treatment-sample",
+    "slug" : "fresh-overnight-face-treatment",
     "type" : 2,
     "unit" : 6
   } ]

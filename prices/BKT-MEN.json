@@ -45,7 +45,7 @@
       "type" : 1
     },
     "contentsAmount" : "45,8",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "CAPS mascu",
     "imageId" : 407,
     "matchcode" : "CMV",
@@ -90,12 +90,9 @@
     "title" : "CAPS mascu",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "sunscreen",
     "imageId" : 1990,
     "matchcode" : "BSB",
@@ -145,7 +142,7 @@
       "type" : 1
     },
     "contentsAmount" : "48,7",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "CAPS d-gest",
     "imageId" : 422,
     "matchcode" : "CDG",
@@ -307,7 +304,7 @@
     "matchcode" : "BKT-1",
     "name" : "light",
     "size" : null,
-    "slug" : "travel-set-for-men",
+    "slug" : "fresh-travel-set-light",
     "type" : 1,
     "unit" : null
   }, {
@@ -317,7 +314,7 @@
     "matchcode" : "BKT-2",
     "name" : "medium",
     "size" : null,
-    "slug" : "travel-set-for-men",
+    "slug" : "fresh-travel-set-medium",
     "type" : 1,
     "unit" : null
   }, {
@@ -327,7 +324,7 @@
     "matchcode" : "BKT-3",
     "name" : "rich",
     "size" : null,
-    "slug" : "travel-set-for-men",
+    "slug" : "fresh-travel-set-rich",
     "type" : 1,
     "unit" : null
   }, {

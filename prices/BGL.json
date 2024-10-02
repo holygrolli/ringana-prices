@@ -87,12 +87,9 @@
   "firstHeadline" : "",
   "id" : 129,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "cleanser",
     "imageId" : 750,
     "matchcode" : "BRM",
@@ -137,12 +134,9 @@
     "title" : "FRESH cleanser",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "cream rich",
     "imageId" : 703,
     "matchcode" : "BCM",
@@ -187,12 +181,9 @@
     "title" : "FRESH cream rich",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "scrub",
     "imageId" : 687,
     "matchcode" : "FSC",
@@ -383,7 +374,7 @@
     "matchcode" : "BGS",
     "name" : "pure",
     "size" : null,
-    "slug" : "fresh-tonic-calm",
+    "slug" : "fresh-tonic-pure",
     "type" : 1,
     "unit" : null
   } ]

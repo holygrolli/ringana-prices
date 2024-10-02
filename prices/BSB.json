@@ -68,12 +68,9 @@
   "firstHeadline" : "",
   "id" : 117,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "sunscreen face",
     "imageId" : 656,
     "matchcode" : "SSF",
@@ -118,12 +115,9 @@
     "title" : "FRESH sunscreen face",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "after sun",
     "imageId" : 623,
     "matchcode" : "SBA",
@@ -173,7 +167,7 @@
       "type" : 1
     },
     "contentsAmount" : "42,8",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "CAPS protect",
     "imageId" : 1124,
     "matchcode" : "CSV",

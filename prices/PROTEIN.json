@@ -78,7 +78,7 @@
       "type" : 2
     },
     "contentsAmount" : "700",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SPORT boost",
     "imageId" : 482,
     "matchcode" : "RSB",
@@ -123,12 +123,9 @@
     "title" : "SPORT boost",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SPORT go",
     "imageId" : 469,
     "matchcode" : "RSG",
@@ -178,7 +175,7 @@
       "type" : 1
     },
     "contentsAmount" : "49,5",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SPORT push",
     "imageId" : 475,
     "matchcode" : "RSP",
@@ -355,7 +352,7 @@
     "matchcode" : "PROTEIN3",
     "name" : null,
     "size" : 1848,
-    "slug" : "sport-protein",
+    "slug" : "sport-protein-set",
     "type" : 2,
     "unit" : 2
   } ]

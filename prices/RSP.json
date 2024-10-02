@@ -62,7 +62,7 @@
       "type" : 2
     },
     "contentsAmount" : "700",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SPORT boost",
     "imageId" : 482,
     "matchcode" : "RSB",
@@ -107,12 +107,9 @@
     "title" : "SPORT boost",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SPORT go",
     "imageId" : 469,
     "matchcode" : "RSG",
@@ -162,7 +159,7 @@
       "type" : 2
     },
     "contentsAmount" : "616",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SPORT protein",
     "imageId" : 1858,
     "matchcode" : "PROTEIN",
@@ -351,7 +348,7 @@
     "matchcode" : "RSP3",
     "name" : null,
     "size" : 270,
-    "slug" : "ringana-sport-push",
+    "slug" : "ringana-sport-push-set",
     "type" : 2,
     "unit" : 1
   }, {
@@ -361,7 +358,7 @@
     "matchcode" : "T-RSP",
     "name" : null,
     "size" : 6,
-    "slug" : "ringana-sport-push",
+    "slug" : "ringana-sport-push-trial-size",
     "type" : 2,
     "unit" : 1
   } ]

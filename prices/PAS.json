@@ -76,12 +76,9 @@
   "firstHeadline" : "",
   "id" : 306,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "hydro serum",
     "imageId" : 1123,
     "matchcode" : "BHS",
@@ -126,12 +123,9 @@
     "title" : "FRESH hydro serum",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "cleanser",
     "imageId" : 750,
     "matchcode" : "BRM",
@@ -176,12 +170,9 @@
     "title" : "FRESH cleanser",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "cream light",
     "imageId" : 1126,
     "matchcode" : "BCE",
@@ -362,7 +353,7 @@
     "matchcode" : "BAS",
     "name" : null,
     "size" : 15,
-    "slug" : "fresh-eye-serum-sample",
+    "slug" : "fresh-eye-serum",
     "type" : 2,
     "unit" : 6
   } ]

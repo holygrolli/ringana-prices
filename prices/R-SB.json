@@ -26,12 +26,9 @@
   "firstHeadline" : "",
   "id" : 49,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "360",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "RINGANAdea",
     "imageId" : 240,
     "matchcode" : "RD12",
@@ -76,12 +73,9 @@
     "title" : "RINGANAdea",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "360",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "RINGANAchi",
     "imageId" : 252,
     "matchcode" : "RE12",
@@ -126,12 +120,9 @@
     "title" : "RINGANAchi",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "360",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "RINGANAisi",
     "imageId" : 263,
     "matchcode" : "RI12",

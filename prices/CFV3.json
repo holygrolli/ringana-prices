@@ -41,7 +41,7 @@
       "type" : 2
     },
     "contentsAmount" : "1040",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "FRESH PACKS",
     "imageId" : 1141,
     "matchcode" : "WP1",
@@ -86,12 +86,9 @@
     "title" : "FRESH packs ABC",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "NUANCE1",
     "imageId" : 642,
     "matchcode" : "BTF",
@@ -269,7 +266,7 @@
     "matchcode" : "CFV",
     "name" : null,
     "size" : 90,
-    "slug" : "caps-fem-set",
+    "slug" : "caps-fem",
     "type" : 2,
     "unit" : 1
   }, {

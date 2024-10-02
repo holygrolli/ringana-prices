@@ -36,12 +36,9 @@
   "firstHeadline" : "",
   "id" : 64,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "sunscreen",
     "imageId" : 1990,
     "matchcode" : "BSB",
@@ -86,12 +83,9 @@
     "title" : "FRESH sunscreen",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "sunscreen face",
     "imageId" : 656,
     "matchcode" : "SSF",
@@ -136,12 +130,9 @@
     "title" : "FRESH sunscreen face",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "after sun",
     "imageId" : 623,
     "matchcode" : "SBA",
@@ -329,7 +320,7 @@
     "matchcode" : "CSV",
     "name" : null,
     "size" : 90,
-    "slug" : "caps-protect-set",
+    "slug" : "caps-protect",
     "type" : 2,
     "unit" : 1
   }, {

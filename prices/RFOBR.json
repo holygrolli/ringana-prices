@@ -26,12 +26,9 @@
   "firstHeadline" : "",
   "id" : 50,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "NUANCE1",
     "imageId" : 642,
     "matchcode" : "BTF",
@@ -76,12 +73,9 @@
     "title" : "FRESH tinted moisturiser",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "NUANCE2",
     "imageId" : 648,
     "matchcode" : "BTF-TAN",
@@ -126,12 +120,9 @@
     "title" : "FRESH tinted moisturiser tan",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "15",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "eye serum",
     "imageId" : 707,
     "matchcode" : "BAS",

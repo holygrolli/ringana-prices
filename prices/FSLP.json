@@ -78,12 +78,9 @@
   "firstHeadline" : "",
   "id" : 116,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "body wash",
     "imageId" : 600,
     "matchcode" : "BDB",
@@ -128,12 +125,9 @@
     "title" : "FRESH body wash",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "hand balm",
     "imageId" : 572,
     "matchcode" : "BHB",
@@ -178,12 +172,9 @@
     "title" : "FRESH hand balm",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "stay fresh",
     "imageId" : 553,
     "matchcode" : "STF",

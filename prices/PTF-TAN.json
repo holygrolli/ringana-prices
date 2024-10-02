@@ -101,12 +101,9 @@
   "firstHeadline" : "",
   "id" : 36,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "cleanser",
     "imageId" : 750,
     "matchcode" : "BRM",
@@ -151,12 +148,9 @@
     "title" : "FRESH cleanser",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "5",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "lip balm",
     "imageId" : 1159,
     "matchcode" : "BLB",
@@ -201,12 +195,9 @@
     "title" : "FRESH lip balm",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "enzyme mask",
     "imageId" : 672,
     "matchcode" : "FEP",
@@ -385,7 +376,7 @@
     "matchcode" : "PTF",
     "name" : "N1",
     "size" : null,
-    "slug" : "fresh-tinted-moisturiser-tan-sample",
+    "slug" : "fresh-tinted-moisturiser-sample",
     "type" : 1,
     "unit" : null
   }, {

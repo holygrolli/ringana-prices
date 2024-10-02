@@ -50,12 +50,9 @@
   "firstHeadline" : "",
   "id" : 85,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "360",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "RINGANAchi",
     "imageId" : 252,
     "matchcode" : "RE12",
@@ -105,7 +102,7 @@
       "type" : 1
     },
     "contentsAmount" : "39,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "BEYOND omega",
     "imageId" : 440,
     "matchcode" : "COV",
@@ -150,12 +147,9 @@
     "title" : "BEYOND omega",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "360",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "RINGANAisi",
     "imageId" : 263,
     "matchcode" : "RI12",
@@ -344,7 +338,7 @@
     "matchcode" : "CMO3",
     "name" : null,
     "size" : 270,
-    "slug" : "caps-moodoo",
+    "slug" : "caps-moodoo-set",
     "type" : 2,
     "unit" : 1
   } ]

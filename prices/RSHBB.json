@@ -26,12 +26,9 @@
   "firstHeadline" : "",
   "id" : 46,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "SHAKE! SHAKE!",
     "imageId" : 212,
     "matchcode" : "RS",
@@ -81,7 +78,7 @@
       "type" : 2
     },
     "contentsAmount" : "1040",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "FRESH PACKS",
     "imageId" : 1141,
     "matchcode" : "WP1",
@@ -131,7 +128,7 @@
       "type" : 2
     },
     "contentsAmount" : "700",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "MEAL REPLACEMENT",
     "imageId" : 257,
     "matchcode" : "D-EAT",

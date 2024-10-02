@@ -48,7 +48,7 @@
       "type" : 2
     },
     "contentsAmount" : "1040",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "FRESH PACKS",
     "imageId" : 1141,
     "matchcode" : "WP1",
@@ -98,7 +98,7 @@
       "type" : 1
     },
     "contentsAmount" : "39,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "BEYOND omega",
     "imageId" : 440,
     "matchcode" : "COV",
@@ -143,12 +143,9 @@
     "title" : "BEYOND omega",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "360",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "RINGANAisi",
     "imageId" : 263,
     "matchcode" : "RI12",
@@ -329,7 +326,7 @@
     "matchcode" : "CCV3",
     "name" : null,
     "size" : 270,
-    "slug" : "caps-pump",
+    "slug" : "caps-pump-set",
     "type" : 2,
     "unit" : 1
   } ]

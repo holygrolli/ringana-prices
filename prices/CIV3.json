@@ -41,7 +41,7 @@
       "type" : 2
     },
     "contentsAmount" : "260",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "pack antiox",
     "imageId" : 1143,
     "matchcode" : "WPA",
@@ -91,7 +91,7 @@
       "type" : 1
     },
     "contentsAmount" : "26,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "BEYOND biotic",
     "imageId" : 449,
     "matchcode" : "CBI",
@@ -141,7 +141,7 @@
       "type" : 1
     },
     "contentsAmount" : "39,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "BEYOND omega",
     "imageId" : 440,
     "matchcode" : "COV",
@@ -319,7 +319,7 @@
     "matchcode" : "CIV",
     "name" : null,
     "size" : 90,
-    "slug" : "caps-immu-set",
+    "slug" : "caps-immu",
     "type" : 2,
     "unit" : 1
   }, {

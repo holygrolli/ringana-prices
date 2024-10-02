@@ -54,12 +54,9 @@
   "firstHeadline" : "",
   "id" : 103,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "FRESH BABY",
     "imageId" : 514,
     "matchcode" : "RBDC",
@@ -104,12 +101,9 @@
     "title" : "FRESH baby bum cream",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "FRESH BABY",
     "imageId" : 502,
     "matchcode" : "RBW",
@@ -154,12 +148,9 @@
     "title" : "FRESH baby body & hair wash",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : null,
-      "type" : null
-    },
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "FRESH BABY",
     "imageId" : 507,
     "matchcode" : "RBO",

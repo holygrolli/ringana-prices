@@ -41,7 +41,7 @@
       "type" : 2
     },
     "contentsAmount" : "260",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "pack balancing",
     "imageId" : 1145,
     "matchcode" : "WPB",
@@ -91,7 +91,7 @@
       "type" : 2
     },
     "contentsAmount" : "520",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "pack cleansing",
     "imageId" : 1146,
     "matchcode" : "WPC",
@@ -141,7 +141,7 @@
       "type" : 1
     },
     "contentsAmount" : "26,1",
-    "currency" : "EUR",
+    "currency" : "eur",
     "description" : "BEYOND biotic",
     "imageId" : 449,
     "matchcode" : "CBI",
@@ -328,7 +328,7 @@
     "matchcode" : "CDG",
     "name" : null,
     "size" : 90,
-    "slug" : "caps-d-gest-set",
+    "slug" : "caps-d-gest",
     "type" : 2,
     "unit" : 1
   }, {
