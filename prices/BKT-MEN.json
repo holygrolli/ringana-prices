@@ -29,8 +29,8 @@
   "contentsAmount" : "250",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -235,7 +235,7 @@
       "provisionPoints" : 28.9
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -266,7 +266,7 @@
     "text" : "product.BKT-MEN.socialMedia.text",
     "title" : "product.BKT-MEN.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "TRAVEL SET",
   "tabs" : [ {
     "description" : "product.BKT-MEN.tabs0.description",

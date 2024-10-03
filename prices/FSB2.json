@@ -15,8 +15,8 @@
   "contentsAmount" : "45",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -187,10 +187,10 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 21.36,
-      "bruttoWithoutDiscount" : 26.7,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-10-04T08:00:00Z",
+      "brutto" : 26.7,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -198,13 +198,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 11.38
+      "provisionPoints" : 15.8
     },
     "partner" : {
-      "brutto" : 21.36,
-      "bruttoWithoutDiscount" : 26.7,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-10-04T08:00:00Z",
+      "brutto" : 26.7,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -212,10 +212,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 11.38
+      "provisionPoints" : 15.8
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -246,7 +246,7 @@
     "text" : "product.FSB2.socialMedia.text",
     "title" : "product.FSB2.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "SAMPLE BOX",
   "tabs" : [ {
     "description" : "product.FSB2.tabs0.description",

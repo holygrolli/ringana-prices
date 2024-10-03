@@ -1,8 +1,8 @@
 {
-  "matchcode" : "BKT-3",
+  "matchcode" : "BHS-RAG-RC",
   "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ 173362, 178339, 195364 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
     "id" : 9,
     "infoColorNeeded" : false,
@@ -10,23 +10,9 @@
     "primary" : true,
     "slug" : "offers",
     "visible" : true
-  }, {
-    "id" : 13,
-    "infoColorNeeded" : false,
-    "name" : "category.category13.name",
-    "primary" : false,
-    "slug" : "samples",
-    "visible" : true
-  }, {
-    "id" : 98,
-    "infoColorNeeded" : false,
-    "name" : "category.category98.name",
-    "primary" : false,
-    "slug" : "skincare-sets",
-    "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "260",
+  "contentsAmount" : "45",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
@@ -37,71 +23,24 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
-  "id" : 24,
+  "firstHeadline" : "product.BHS-RAG-RC.firstHeadline",
+  "id" : 1785,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "250",
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "TRAVEL SET",
-    "imageId" : 2326,
-    "matchcode" : "BKT-MEN",
-    "priceInformation" : {
-      "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
-      },
-      "customer" : {
-        "brutto" : 54,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 28.9
-      },
-      "partner" : {
-        "brutto" : 54,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 28.9
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "travel-set-for-men",
-    "title" : "FRESH travel set for men",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "200",
-    "currency" : "eur",
-    "description" : "sunscreen",
-    "imageId" : 1990,
-    "matchcode" : "BSB",
+    "description" : "cleanser",
+    "imageId" : 750,
+    "matchcode" : "BRM",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 244,
+        "brutto" : 209.6,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 48.8,
+        "brutto" : 26.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -112,10 +51,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.2
+        "provisionPoints" : 14.4
       },
       "partner" : {
-        "brutto" : 48.8,
+        "brutto" : 26.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -126,35 +65,32 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.2
+        "provisionPoints" : 14.4
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-sunscreen-spf-25",
-    "title" : "FRESH sunscreen",
+    "slug" : "fresh-cleanser",
+    "title" : "FRESH cleanser",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : 90,
-      "type" : 1
-    },
-    "contentsAmount" : "48,7",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "CAPS d-gest",
-    "imageId" : 422,
-    "matchcode" : "CDG",
+    "description" : "Cleansing water",
+    "imageId" : 765,
+    "matchcode" : "FCW",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1039,
-        "unit" : "g",
-        "unitId" : 812
+        "brutto" : 188.6,
+        "unit" : "ml",
+        "unitId" : 827
       },
       "customer" : {
-        "brutto" : 50.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 23.58,
+        "bruttoWithoutDiscount" : 26.2,
+        "discountPercentage" : 10,
+        "discountUntil" : "2024-10-11T08:00:00Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -162,13 +98,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.5
+        "provisionPoints" : 11.66
       },
       "partner" : {
-        "brutto" : 50.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 23.58,
+        "bruttoWithoutDiscount" : 26.2,
+        "discountPercentage" : 10,
+        "discountUntil" : "2024-10-11T08:00:00Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -176,24 +112,71 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.5
+        "provisionPoints" : 11.66
       }
     },
     "purchasePossible" : true,
-    "slug" : "caps-d-gest",
-    "title" : "CAPS d-gest",
-    "unitContents" : "g"
+    "slug" : "fresh-cleansing-water",
+    "title" : "FRESH cleansing water",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "15",
+    "currency" : "eur",
+    "description" : "eye serum",
+    "imageId" : 707,
+    "matchcode" : "BAS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 3160,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 47.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 27.5
+      },
+      "partner" : {
+        "brutto" : 47.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 27.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-eye-serum",
+    "title" : "FRESH eye serum",
+    "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 43,
-    "mediaId" : 2327
+    "id" : 2540,
+    "mediaId" : 3608
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "maxPerCart" : 100,
+  "maxPerCart" : 99999,
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {
@@ -204,10 +187,10 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 63.3,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 96.3,
+      "bruttoWithoutDiscount" : 107,
+      "discountPercentage" : 10,
+      "discountUntil" : "2024-10-04T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -215,13 +198,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 34.3
+      "provisionPoints" : 50.54
     },
     "partner" : {
-      "brutto" : 63.3,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 96.3,
+      "bruttoWithoutDiscount" : 107,
+      "discountPercentage" : 10,
+      "discountUntil" : "2024-10-04T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -229,7 +212,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 34.3
+      "provisionPoints" : 50.54
     }
   },
   "purchasePossible" : true,
@@ -238,101 +221,66 @@
   "setContents" : [ {
     "amount" : 1,
     "freeOfCharge" : false,
-    "matchcode" : "FSBW"
+    "matchcode" : "BHS"
   }, {
     "amount" : 1,
     "freeOfCharge" : false,
-    "matchcode" : "FSBB"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "FSB3"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : true,
-    "matchcode" : "RTB"
+    "matchcode" : "RAG"
   } ],
-  "shortDescription" : "product.BKT-3.shortDescription",
+  "shortDescription" : "product.BHS-RAG-RC.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "fresh-travel-set-rich",
+  "slug" : "hydro-serum-adds-glow",
   "socialMedia" : {
-    "id" : 24,
-    "imageId" : 2327,
-    "text" : "product.BKT-3.socialMedia.text",
-    "title" : "product.BKT-3.socialMedia.title"
+    "id" : 1785,
+    "imageId" : 3608,
+    "text" : "",
+    "title" : ""
   },
   "soldOut" : false,
-  "supplementDescription" : "TRAVEL SET",
+  "supplementDescription" : "hydro & glow",
   "tabs" : [ {
-    "description" : "product.BKT-3.tabs0.description",
-    "id" : 93,
+    "description" : "product.BHS-RAG-RC.tabs2224.description",
+    "id" : 2224,
     "showPrintButton" : false,
-    "title" : "product.BKT-3.tabs0.title"
+    "title" : "product.BHS-RAG-RC.tabs2224.title"
   }, {
-    "description" : "product.BKT-3.tabs1.description",
-    "id" : 94,
-    "showPrintButton" : true,
-    "title" : "product.BKT-3.tabs1.title"
-  }, {
-    "description" : "product.BKT-3.tabs2.description",
-    "id" : 95,
+    "description" : "product.BHS-RAG-RC.tabs2225.description",
+    "id" : 2225,
     "showPrintButton" : false,
-    "title" : "product.BKT-3.tabs2.title"
+    "title" : "product.BHS-RAG-RC.tabs2225.title"
   }, {
-    "description" : "product.BKT-3.tabs3.description",
-    "id" : 96,
+    "description" : "product.BHS-RAG-RC.tabs2226.description",
+    "id" : 2226,
     "showPrintButton" : false,
-    "title" : "product.BKT-3.tabs3.title"
+    "title" : "product.BHS-RAG-RC.tabs2226.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "FRESH travel set rich",
-  "unit" : "Pck.",
+  "teaserDots" : [ {
+    "backgroundColor" : "#000",
+    "borderColor" : "#000000",
+    "fontSize" : 9,
+    "id" : 232,
+    "lineHeight" : 1.2,
+    "position" : "top-left",
+    "text" : "LIVE SPECIAL",
+    "textColor" : "#fff"
+  } ],
+  "title" : "FRESH hydro serum & ADDS glow",
+  "unit" : "Set",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : 43589,
-  "usp" : "product.BKT-3.usp",
-  "values" : [ ],
-  "variants" : [ {
-    "color" : "#e8d5ce",
-    "id" : 31,
-    "language" : null,
-    "matchcode" : "BKT-1",
-    "name" : "light",
-    "size" : null,
-    "slug" : "fresh-travel-set-light",
-    "type" : 1,
-    "unit" : null
+  "unitId" : 43586,
+  "usp" : "product.BHS-RAG-RC.usp",
+  "values" : [ {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
   }, {
-    "color" : "#e8e0ce",
-    "id" : 32,
-    "language" : null,
-    "matchcode" : "BKT-2",
-    "name" : "medium",
-    "size" : null,
-    "slug" : "fresh-travel-set-medium",
-    "type" : 1,
-    "unit" : null
+    "iconMediaId" : 1074,
+    "name" : "value.value19.name"
   }, {
-    "color" : "#dac8b1",
-    "id" : 33,
-    "language" : null,
-    "matchcode" : "BKT-3",
-    "name" : "rich",
-    "size" : null,
-    "slug" : "fresh-travel-set-rich",
-    "type" : 1,
-    "unit" : null
-  }, {
-    "color" : "#dfd9c8",
-    "id" : 34,
-    "language" : null,
-    "matchcode" : "BKT-MEN",
-    "name" : "men",
-    "size" : null,
-    "slug" : "travel-set-for-men",
-    "type" : 1,
-    "unit" : null
-  } ]
+    "iconMediaId" : 1060,
+    "name" : "value.value5.name"
+  } ],
+  "variants" : [ ]
 }

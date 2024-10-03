@@ -2,6 +2,10 @@
   "matchcode" : "BHS",
   "additionalUnitPrice" : null,
   "awards" : [ {
+    "imageId" : 1044,
+    "link" : "https://skin.li/701d2dce",
+    "name" : "cosmeticsanalysis.com - FRESH hydro serum"
+  }, {
     "imageId" : 1046,
     "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
     "name" : "COSMOS Organic"
@@ -9,25 +13,14 @@
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
-  }, {
-    "imageId" : 1044,
-    "link" : "https://skin.li/701d2dce",
-    "name" : "cosmeticsanalysis.com - FRESH hydro serum"
   } ],
-  "blogPostIds" : [ 99746, 57234, 178302 ],
+  "blogPostIds" : [ 195758, 57234, 178302 ],
   "categories" : [ {
     "id" : 7,
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
     "slug" : "face",
-    "visible" : true
-  }, {
-    "id" : 17,
-    "infoColorNeeded" : false,
-    "name" : "category.category17.name",
-    "primary" : false,
-    "slug" : "fresh",
     "visible" : true
   }, {
     "id" : 92,
@@ -78,6 +71,13 @@
     "primary" : false,
     "slug" : "toning",
     "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
   } ],
   "contentBlock" : null,
   "contentsAmount" : "30",
@@ -91,8 +91,8 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
-  "id" : 139,
+  "firstHeadline" : "product.BHS.firstHeadline",
+  "id" : 2148,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
     "contentsAmount" : "50",
@@ -103,15 +103,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 978,
+        "brutto" : 782.4,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 48.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 39.12,
+        "bruttoWithoutDiscount" : 48.9,
+        "discountPercentage" : 20,
+        "discountUntil" : "2024-10-03T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -119,13 +119,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.1
+        "provisionPoints" : 20.23
       },
       "partner" : {
-        "brutto" : 48.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 39.12,
+        "bruttoWithoutDiscount" : 48.9,
+        "discountPercentage" : 20,
+        "discountUntil" : "2024-10-03T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -133,7 +133,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.1
+        "provisionPoints" : 20.23
       }
     },
     "purchasePossible" : true,
@@ -238,28 +238,28 @@
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 694,
+    "id" : 2904,
     "mediaId" : 1123
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 435,
-    "mediaId" : 698
+    "id" : 2905,
+    "mediaId" : 3414
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 437,
-    "mediaId" : 699
+    "id" : 2906,
+    "mediaId" : 3607
   }, {
-    "caption" : "product.BHS.imageGallery3.caption",
+    "caption" : "",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 438,
+    "id" : 2907,
     "mediaId" : 700
   }, {
-    "caption" : "product.BHS.imageGallery4.caption",
+    "caption" : "",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 439,
-    "mediaId" : 701
+    "id" : 2908,
+    "mediaId" : 762
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
@@ -270,15 +270,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 1554.6,
+      "brutto" : 1943.3,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 46.64,
-      "bruttoWithoutDiscount" : 58.3,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-10-03T11:00:00Z",
+      "brutto" : 58.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -286,13 +286,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 23.62
+      "provisionPoints" : 32.8
     },
     "partner" : {
-      "brutto" : 46.64,
-      "bruttoWithoutDiscount" : 58.3,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-10-03T11:00:00Z",
+      "brutto" : 58.3,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -300,7 +300,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 23.62
+      "provisionPoints" : 32.8
     }
   },
   "purchasePossible" : true,
@@ -313,40 +313,49 @@
   "skinTypes" : [ ],
   "slug" : "fresh-hydro-serum",
   "socialMedia" : {
-    "id" : 140,
-    "imageId" : 696,
-    "text" : "product.BHS.socialMedia.text",
-    "title" : "product.BHS.socialMedia.title"
+    "id" : 2148,
+    "imageId" : 1123,
+    "text" : "",
+    "title" : ""
   },
   "soldOut" : false,
   "supplementDescription" : "hydro serum",
   "tabs" : [ {
-    "description" : "product.BHS.tabs0.description",
-    "id" : 539,
+    "description" : "product.BHS.tabs2587.description",
+    "id" : 2587,
     "showPrintButton" : false,
-    "title" : "product.BHS.tabs0.title"
+    "title" : "product.BHS.tabs2587.title"
   }, {
-    "description" : "product.BHS.tabs1.description",
-    "id" : 540,
-    "showPrintButton" : true,
-    "title" : "product.BHS.tabs1.title"
-  }, {
-    "description" : "product.BHS.tabs2.description",
-    "id" : 541,
+    "description" : "product.BHS.tabs2588.description",
+    "id" : 2588,
     "showPrintButton" : false,
-    "title" : "product.BHS.tabs2.title"
+    "title" : "product.BHS.tabs2588.title"
   }, {
-    "description" : "product.BHS.tabs3.description",
-    "id" : 542,
+    "description" : "product.BHS.tabs2589.description",
+    "id" : 2589,
     "showPrintButton" : false,
-    "title" : "product.BHS.tabs3.title"
+    "title" : "product.BHS.tabs2589.title"
   }, {
-    "description" : "product.BHS.tabs2027.description",
-    "id" : 2027,
+    "description" : "product.BHS.tabs2590.description",
+    "id" : 2590,
     "showPrintButton" : false,
-    "title" : "product.BHS.tabs2027.title"
+    "title" : "product.BHS.tabs2590.title"
+  }, {
+    "description" : "product.BHS.tabs2591.description",
+    "id" : 2591,
+    "showPrintButton" : false,
+    "title" : "product.BHS.tabs2591.title"
   } ],
-  "teaserDots" : [ ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 10,
+    "id" : 3,
+    "lineHeight" : 1.3,
+    "position" : "top-left",
+    "text" : "New Formu-lation",
+    "textColor" : "#ffffff"
+  } ],
   "title" : "FRESH hydro serum",
   "unit" : "Stk.",
   "unitContents" : "ml",
@@ -354,27 +363,27 @@
   "unitId" : 996,
   "usp" : "product.BHS.usp",
   "values" : [ {
-    "iconMediaId" : 1090,
-    "name" : "value.value35.name"
-  }, {
-    "iconMediaId" : 1089,
-    "name" : "value.value34.name"
-  }, {
-    "iconMediaId" : 1094,
-    "name" : "value.value39.name"
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
   }, {
     "iconMediaId" : 1096,
     "name" : "value.value41.name"
   }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
     "iconMediaId" : 1074,
     "name" : "value.value19.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
   }, {
     "iconMediaId" : 1060,
     "name" : "value.value5.name"
   } ],
   "variants" : [ {
     "color" : "#d3c798",
-    "id" : 207,
+    "id" : 1651,
     "language" : null,
     "matchcode" : "BHS",
     "name" : "hydro",
@@ -384,7 +393,7 @@
     "unit" : null
   }, {
     "color" : "#e9e3bc",
-    "id" : 208,
+    "id" : 1652,
     "language" : null,
     "matchcode" : "BSA",
     "name" : "anti wrinkle",

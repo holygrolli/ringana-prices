@@ -87,10 +87,10 @@
         "unitId" : null
       },
       "customer" : {
-        "brutto" : 17.2,
-        "bruttoWithoutDiscount" : 21.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2024-10-04T08:00:00Z",
+        "brutto" : 21.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -98,13 +98,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 9.29
+        "provisionPoints" : 12.9
       },
       "partner" : {
-        "brutto" : 17.2,
-        "bruttoWithoutDiscount" : 21.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2024-10-04T08:00:00Z",
+        "brutto" : 21.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -112,10 +112,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 9.29
+        "provisionPoints" : 12.9
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "box-for-men",
     "title" : "FRESH sample box for men",
     "unitContents" : "ml"
