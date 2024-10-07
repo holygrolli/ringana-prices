@@ -82,7 +82,7 @@
         "provisionPoints" : 28.9
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "travel-set-for-men",
     "title" : "FRESH travel set for men",
     "unitContents" : "ml"

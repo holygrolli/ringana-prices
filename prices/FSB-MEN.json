@@ -15,8 +15,8 @@
   "contentsAmount" : "35",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -115,7 +115,7 @@
         "provisionPoints" : 28.9
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "travel-set-for-men",
     "title" : "FRESH travel set for men",
     "unitContents" : "ml"
@@ -218,7 +218,7 @@
       "provisionPoints" : 12.9
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -245,7 +245,7 @@
     "text" : "product.FSB-MEN.socialMedia.text",
     "title" : "product.FSB-MEN.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "SAMPLE BOX",
   "tabs" : [ {
     "description" : "product.FSB-MEN.tabs0.description",

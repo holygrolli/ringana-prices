@@ -29,8 +29,8 @@
   "contentsAmount" : "260",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -82,7 +82,7 @@
         "provisionPoints" : 28.9
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "travel-set-for-men",
     "title" : "FRESH travel set for men",
     "unitContents" : "ml"
@@ -232,7 +232,7 @@
       "provisionPoints" : 31.8
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -263,7 +263,7 @@
     "text" : "product.BKT-2.socialMedia.text",
     "title" : "product.BKT-2.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "TRAVEL SET",
   "tabs" : [ {
     "description" : "product.BKT-2.tabs0.description",
