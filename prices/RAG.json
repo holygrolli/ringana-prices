@@ -196,6 +196,11 @@
     "mediaId" : 3411
   }, {
     "caption" : "",
+    "captionLink" : null,
+    "id" : 2973,
+    "mediaId" : 3678
+  }, {
+    "caption" : "",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
     "id" : 2839,
     "mediaId" : 742
