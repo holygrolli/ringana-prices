@@ -295,25 +295,5 @@
     "iconMediaId" : 1057,
     "name" : "value.value2.name"
   } ],
-  "variants" : [ {
-    "color" : null,
-    "id" : 1488,
-    "language" : null,
-    "matchcode" : "TSR-LE-LS",
-    "name" : null,
-    "size" : 20,
-    "slug" : "fresh-soap-lemon-scrub-sample",
-    "type" : 2,
-    "unit" : 2
-  }, {
-    "color" : null,
-    "id" : 1489,
-    "language" : null,
-    "matchcode" : "BSR-LE-LS",
-    "name" : null,
-    "size" : 100,
-    "slug" : "",
-    "type" : 2,
-    "unit" : 2
-  } ]
+  "variants" : [ ]
 }

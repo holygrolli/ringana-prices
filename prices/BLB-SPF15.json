@@ -70,8 +70,8 @@
   "contentsAmount" : "5",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -275,7 +275,7 @@
       "provisionPoints" : 7.7
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -290,7 +290,7 @@
     "text" : "product.BLB-SPF15.socialMedia.text",
     "title" : "product.BLB-SPF15.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "lip balm spf",
   "tabs" : [ {
     "description" : "product.BLB-SPF15.tabs0.description",
