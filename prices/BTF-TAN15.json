@@ -120,7 +120,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.BTF-TAN15.firstHeadline",
   "id" : 162,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,

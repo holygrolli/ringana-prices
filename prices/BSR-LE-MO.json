@@ -1,67 +1,37 @@
 {
-  "matchcode" : "CBH",
-  "additionalUnitPrice" : {
-    "entity" : 90,
-    "type" : 1
-  },
-  "awards" : [ ],
-  "blogPostIds" : [ 113040, 178302, 160856 ],
+  "matchcode" : "BSR-LE-MO",
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1049,
+    "link" : "https://www.lacon-institut.com/en/philosophy/",
+    "name" : "Lacon"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  } ],
+  "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 3,
+    "id" : 166,
     "infoColorNeeded" : false,
-    "name" : "category.category3.name",
+    "name" : "category.category166.name",
     "primary" : true,
-    "slug" : "caps",
+    "slug" : "limited-xmas-editions",
     "visible" : true
   }, {
-    "id" : 18,
+    "id" : 9,
     "infoColorNeeded" : false,
-    "name" : "category.category18.name",
+    "name" : "category.category9.name",
     "primary" : false,
-    "slug" : "supplements",
-    "visible" : true
-  }, {
-    "id" : 75,
-    "infoColorNeeded" : false,
-    "name" : "category.category75.name",
-    "primary" : false,
-    "slug" : "lifting",
-    "visible" : true
-  }, {
-    "id" : 92,
-    "infoColorNeeded" : false,
-    "name" : "category.category92.name",
-    "primary" : false,
-    "slug" : "facial-care",
-    "visible" : true
-  }, {
-    "id" : 90,
-    "infoColorNeeded" : false,
-    "name" : "category.category90.name",
-    "primary" : false,
-    "slug" : "hair-care",
-    "visible" : true
-  }, {
-    "id" : 76,
-    "infoColorNeeded" : false,
-    "name" : "category.category76.name",
-    "primary" : false,
-    "slug" : "toning",
-    "visible" : true
-  }, {
-    "id" : 73,
-    "infoColorNeeded" : false,
-    "name" : "category.category73.name",
-    "primary" : false,
-    "slug" : "body-shape",
+    "slug" : "offers",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "37,1",
+  "contentsAmount" : "100",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -69,23 +39,23 @@
   "disruptor" : null,
   "faqs" : [ ],
   "firstHeadline" : "",
-  "id" : 98,
+  "id" : 564,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "15",
+    "contentsAmount" : "30",
     "currency" : "eur",
-    "description" : "ADDS repair",
-    "imageId" : 745,
-    "matchcode" : "RAR",
+    "description" : "overnight",
+    "imageId" : 679,
+    "matchcode" : "BCN",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 3246.6,
+        "brutto" : 2650,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 48.7,
+        "brutto" : 79.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -96,10 +66,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29.6
+        "provisionPoints" : 46.7
       },
       "partner" : {
-        "brutto" : 48.7,
+        "brutto" : 79.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -110,12 +80,59 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29.6
+        "provisionPoints" : 46.7
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-adds-repair",
-    "title" : "ADDS repair",
+    "slug" : "fresh-overnight-face-treatment",
+    "title" : "FRESH overnight face treatment",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "200",
+    "currency" : "eur",
+    "description" : "body milk",
+    "imageId" : 606,
+    "matchcode" : "BKM",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 189.5,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 37.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 21.1
+      },
+      "partner" : {
+        "brutto" : 37.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 21.1
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-body-milk",
+    "title" : "FRESH body milk",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
@@ -164,76 +181,14 @@
     "slug" : "fresh-shampoonbc7",
     "title" : "FRESH shampoo",
     "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "50",
-    "currency" : "eur",
-    "description" : "enzyme mask",
-    "imageId" : 672,
-    "matchcode" : "FEP",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 784,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 39.2,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 23.8
-      },
-      "partner" : {
-        "brutto" : 39.2,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 23.8
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-illuminating-enzyme-mask",
-    "title" : "FRESH illuminating enzyme mask",
-    "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 257,
-    "mediaId" : 1161
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 252,
-    "mediaId" : 456
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 253,
-    "mediaId" : 457
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 255,
-    "mediaId" : 1162
+    "id" : 1055,
+    "mediaId" : 3712
   } ],
-  "infoColor" : "#c5b4e3",
+  "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
@@ -242,12 +197,12 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 1571.4,
+      "brutto" : 109,
       "unit" : "g",
       "unitId" : 812
     },
     "customer" : {
-      "brutto" : 58.3,
+      "brutto" : 10.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -258,10 +213,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 32.6
+      "provisionPoints" : 5
     },
     "partner" : {
-      "brutto" : 58.3,
+      "brutto" : 10.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -272,89 +227,99 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 32.6
+      "provisionPoints" : 5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
-  "shortDescription" : "product.CBH.shortDescription",
+  "shortDescription" : "product.BSR-LE-MO.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "caps-beautyhair",
+  "slug" : "fresh-soap-mandarine-orange",
   "socialMedia" : {
-    "id" : 98,
-    "imageId" : 455,
-    "text" : "product.CBH.socialMedia.text",
-    "title" : "product.CBH.socialMedia.title"
+    "id" : 564,
+    "imageId" : 1429,
+    "text" : "product.BSR-LE-MO.socialMedia.text",
+    "title" : "product.BSR-LE-MO.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "beauty & hair",
+  "supplementDescription" : "FRESH soap mandarine & orange",
   "tabs" : [ {
-    "description" : "product.CBH.tabs0.description",
-    "id" : 368,
+    "description" : "product.BSR-LE-MO.tabs0.description",
+    "id" : 970,
     "showPrintButton" : false,
-    "title" : "product.CBH.tabs0.title"
+    "title" : "product.BSR-LE-MO.tabs0.title"
   }, {
-    "description" : "product.CBH.tabs1.description",
-    "id" : 369,
-    "showPrintButton" : true,
-    "title" : "product.CBH.tabs1.title"
-  }, {
-    "description" : "product.CBH.tabs2.description",
-    "id" : 370,
+    "description" : "product.BSR-LE-MO.tabs1.description",
+    "id" : 971,
     "showPrintButton" : false,
-    "title" : "product.CBH.tabs2.title"
+    "title" : "product.BSR-LE-MO.tabs1.title"
   }, {
-    "description" : "product.CBH.tabs3.description",
-    "id" : 371,
+    "description" : "product.BSR-LE-MO.tabs2.description",
+    "id" : 972,
     "showPrintButton" : false,
-    "title" : "product.CBH.tabs3.title"
+    "title" : "product.BSR-LE-MO.tabs2.title"
+  }, {
+    "description" : "product.BSR-LE-MO.tabs3.description",
+    "id" : 973,
+    "showPrintButton" : false,
+    "title" : "product.BSR-LE-MO.tabs3.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "CAPS beauty & hair",
-  "unit" : "Pck.",
+  "teaserDots" : [ {
+    "backgroundColor" : "#273062",
+    "borderColor" : "#273062",
+    "fontSize" : 12,
+    "id" : 331,
+    "lineHeight" : 1,
+    "position" : "top-left",
+    "text" : "from 21.10.",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH soap mandarine & orange",
+  "unit" : "Stk.",
   "unitContents" : "g",
   "unitContentsId" : 812,
-  "unitId" : 43589,
-  "usp" : "product.CBH.usp",
+  "unitId" : 996,
+  "usp" : "product.BSR-LE-MO.usp",
   "values" : [ {
-    "iconMediaId" : 1061,
-    "name" : "value.value6.name"
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
   }, {
-    "iconMediaId" : 1074,
-    "name" : "value.value19.name"
-  }, {
-    "iconMediaId" : 1095,
-    "name" : "value.value40.name"
-  }, {
-    "iconMediaId" : 1080,
-    "name" : "value.value25.name"
-  }, {
-    "iconMediaId" : 1121,
-    "name" : "value.value66.name"
+    "iconMediaId" : 1069,
+    "name" : "value.value14.name"
   } ],
   "variants" : [ {
     "color" : null,
-    "id" : 166,
+    "id" : 892,
     "language" : null,
-    "matchcode" : "CBH",
+    "matchcode" : "BSR-LE-MO",
     "name" : null,
-    "size" : 90,
-    "slug" : "caps-beautyhair",
+    "size" : 100,
+    "slug" : "fresh-soap-mandarine-orange",
     "type" : 2,
-    "unit" : 1
+    "unit" : 2
   }, {
     "color" : null,
-    "id" : 167,
+    "id" : 893,
     "language" : null,
-    "matchcode" : "CBH3",
+    "matchcode" : "BSR-LE-MO-10",
     "name" : null,
-    "size" : 270,
-    "slug" : "caps-beautyhair-set",
+    "size" : 10,
+    "slug" : "fresh-soap-mandarine-orange-set-of-10",
     "type" : 2,
-    "unit" : 1
+    "unit" : 5
+  }, {
+    "color" : null,
+    "id" : 1753,
+    "language" : null,
+    "matchcode" : "TSR-LE-MO",
+    "name" : null,
+    "size" : 20,
+    "slug" : "fresh-soap-mandarine-orange-sample",
+    "type" : 2,
+    "unit" : 2
   } ]
 }

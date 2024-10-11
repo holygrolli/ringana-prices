@@ -1,67 +1,29 @@
 {
-  "matchcode" : "CBH",
-  "additionalUnitPrice" : {
-    "entity" : 90,
-    "type" : 1
-  },
+  "matchcode" : "RE12-LE-PB",
+  "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ 113040, 178302, 160856 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 3,
+    "id" : 166,
     "infoColorNeeded" : false,
-    "name" : "category.category3.name",
+    "name" : "category.category166.name",
     "primary" : true,
-    "slug" : "caps",
+    "slug" : "limited-xmas-editions",
     "visible" : true
   }, {
-    "id" : 18,
+    "id" : 9,
     "infoColorNeeded" : false,
-    "name" : "category.category18.name",
+    "name" : "category.category9.name",
     "primary" : false,
-    "slug" : "supplements",
-    "visible" : true
-  }, {
-    "id" : 75,
-    "infoColorNeeded" : false,
-    "name" : "category.category75.name",
-    "primary" : false,
-    "slug" : "lifting",
-    "visible" : true
-  }, {
-    "id" : 92,
-    "infoColorNeeded" : false,
-    "name" : "category.category92.name",
-    "primary" : false,
-    "slug" : "facial-care",
-    "visible" : true
-  }, {
-    "id" : 90,
-    "infoColorNeeded" : false,
-    "name" : "category.category90.name",
-    "primary" : false,
-    "slug" : "hair-care",
-    "visible" : true
-  }, {
-    "id" : 76,
-    "infoColorNeeded" : false,
-    "name" : "category.category76.name",
-    "primary" : false,
-    "slug" : "toning",
-    "visible" : true
-  }, {
-    "id" : 73,
-    "infoColorNeeded" : false,
-    "name" : "category.category73.name",
-    "primary" : false,
-    "slug" : "body-shape",
+    "slug" : "offers",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "37,1",
+  "contentsAmount" : "360",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -69,23 +31,70 @@
   "disruptor" : null,
   "faqs" : [ ],
   "firstHeadline" : "",
-  "id" : 98,
+  "id" : 677,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "15",
+    "contentsAmount" : "1",
     "currency" : "eur",
-    "description" : "ADDS repair",
-    "imageId" : 745,
-    "matchcode" : "RAR",
+    "description" : "SOULBOTTLE",
+    "imageId" : 223,
+    "matchcode" : "R-SB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 31.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 31.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringana-soulbottle",
+    "title" : "RINGANA Soulbottle",
+    "unitContents" : "Stk."
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "360",
+    "currency" : "eur",
+    "description" : "RINGANAchi",
+    "imageId" : 252,
+    "matchcode" : "RE12",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 3246.6,
+        "brutto" : 138.3,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 48.7,
+        "brutto" : 49.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -96,10 +105,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29.6
+        "provisionPoints" : 27
       },
       "partner" : {
-        "brutto" : 48.7,
+        "brutto" : 49.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -110,29 +119,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29.6
+        "provisionPoints" : 27
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-adds-repair",
-    "title" : "ADDS repair",
+    "slug" : "ringanachi",
+    "title" : "RINGANAchi",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "200",
+    "contentsAmount" : "360",
     "currency" : "eur",
-    "description" : "shampoo",
-    "imageId" : 1166,
-    "matchcode" : "BRS",
+    "description" : "RINGANAisi",
+    "imageId" : 263,
+    "matchcode" : "RI12",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 103,
+        "brutto" : 154.7,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 20.6,
+        "brutto" : 55.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -143,10 +152,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 12
+        "provisionPoints" : 32
       },
       "partner" : {
-        "brutto" : 20.6,
+        "brutto" : 55.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -157,83 +166,21 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 12
+        "provisionPoints" : 32
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-shampoonbc7",
-    "title" : "FRESH shampoo",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "50",
-    "currency" : "eur",
-    "description" : "enzyme mask",
-    "imageId" : 672,
-    "matchcode" : "FEP",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 784,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 39.2,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 23.8
-      },
-      "partner" : {
-        "brutto" : 39.2,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 23.8
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-illuminating-enzyme-mask",
-    "title" : "FRESH illuminating enzyme mask",
+    "slug" : "ringanaisi",
+    "title" : "RINGANAisi",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 257,
-    "mediaId" : 1161
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 252,
-    "mediaId" : 456
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 253,
-    "mediaId" : 457
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 255,
-    "mediaId" : 1162
+    "id" : 1168,
+    "mediaId" : 1528
   } ],
-  "infoColor" : "#c5b4e3",
+  "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
@@ -242,12 +189,12 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 1571.4,
-      "unit" : "g",
-      "unitId" : 812
+      "brutto" : 138.3,
+      "unit" : "ml",
+      "unitId" : 827
     },
     "customer" : {
-      "brutto" : 58.3,
+      "brutto" : 49.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -258,10 +205,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 32.6
+      "provisionPoints" : 27
     },
     "partner" : {
-      "brutto" : 58.3,
+      "brutto" : 49.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -272,89 +219,72 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 32.6
+      "provisionPoints" : 27
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
-  "shortDescription" : "product.CBH.shortDescription",
+  "shortDescription" : "product.RE12-LE-PB.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "caps-beautyhair",
+  "slug" : "ringanachi-punch",
   "socialMedia" : {
-    "id" : 98,
-    "imageId" : 455,
-    "text" : "product.CBH.socialMedia.text",
-    "title" : "product.CBH.socialMedia.title"
+    "id" : 677,
+    "imageId" : 1528,
+    "text" : "product.RE12-LE-PB.socialMedia.text",
+    "title" : "product.RE12-LE-PB.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "beauty & hair",
+  "supplementDescription" : "RINGANAchi",
   "tabs" : [ {
-    "description" : "product.CBH.tabs0.description",
-    "id" : 368,
+    "description" : "product.RE12-LE-PB.tabs0.description",
+    "id" : 1158,
     "showPrintButton" : false,
-    "title" : "product.CBH.tabs0.title"
+    "title" : "product.RE12-LE-PB.tabs0.title"
   }, {
-    "description" : "product.CBH.tabs1.description",
-    "id" : 369,
-    "showPrintButton" : true,
-    "title" : "product.CBH.tabs1.title"
-  }, {
-    "description" : "product.CBH.tabs2.description",
-    "id" : 370,
+    "description" : "product.RE12-LE-PB.tabs1.description",
+    "id" : 1159,
     "showPrintButton" : false,
-    "title" : "product.CBH.tabs2.title"
+    "title" : "product.RE12-LE-PB.tabs1.title"
   }, {
-    "description" : "product.CBH.tabs3.description",
-    "id" : 371,
+    "description" : "product.RE12-LE-PB.tabs2.description",
+    "id" : 1160,
     "showPrintButton" : false,
-    "title" : "product.CBH.tabs3.title"
+    "title" : "product.RE12-LE-PB.tabs2.title"
+  }, {
+    "description" : "product.RE12-LE-PB.tabs3.description",
+    "id" : 1161,
+    "showPrintButton" : false,
+    "title" : "product.RE12-LE-PB.tabs3.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "CAPS beauty & hair",
+  "teaserDots" : [ {
+    "backgroundColor" : "#273062",
+    "borderColor" : "#273062",
+    "fontSize" : 12,
+    "id" : 332,
+    "lineHeight" : 1,
+    "position" : "top-left",
+    "text" : "from 28.10.",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "RINGANAchi punch",
   "unit" : "Pck.",
-  "unitContents" : "g",
-  "unitContentsId" : 812,
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
   "unitId" : 43589,
-  "usp" : "product.CBH.usp",
+  "usp" : "product.RE12-LE-PB.usp",
   "values" : [ {
-    "iconMediaId" : 1061,
-    "name" : "value.value6.name"
-  }, {
-    "iconMediaId" : 1074,
-    "name" : "value.value19.name"
-  }, {
-    "iconMediaId" : 1095,
-    "name" : "value.value40.name"
-  }, {
-    "iconMediaId" : 1080,
-    "name" : "value.value25.name"
-  }, {
     "iconMediaId" : 1121,
     "name" : "value.value66.name"
-  } ],
-  "variants" : [ {
-    "color" : null,
-    "id" : 166,
-    "language" : null,
-    "matchcode" : "CBH",
-    "name" : null,
-    "size" : 90,
-    "slug" : "caps-beautyhair",
-    "type" : 2,
-    "unit" : 1
   }, {
-    "color" : null,
-    "id" : 167,
-    "language" : null,
-    "matchcode" : "CBH3",
-    "name" : null,
-    "size" : 270,
-    "slug" : "caps-beautyhair-set",
-    "type" : 2,
-    "unit" : 1
-  } ]
+    "iconMediaId" : 1072,
+    "name" : "value.value17.name"
+  }, {
+    "iconMediaId" : 1065,
+    "name" : "value.value10.name"
+  } ],
+  "variants" : [ ]
 }

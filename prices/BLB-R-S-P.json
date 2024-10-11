@@ -1,86 +1,52 @@
 {
-  "matchcode" : "CBH",
-  "additionalUnitPrice" : {
-    "entity" : 90,
-    "type" : 1
-  },
-  "awards" : [ ],
-  "blogPostIds" : [ 113040, 178302, 160856 ],
+  "matchcode" : "BLB-R-S-P",
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  } ],
+  "blogPostIds" : [ 195758, 113041, 87604 ],
   "categories" : [ {
-    "id" : 3,
+    "id" : 166,
     "infoColorNeeded" : false,
-    "name" : "category.category3.name",
+    "name" : "category.category166.name",
     "primary" : true,
-    "slug" : "caps",
+    "slug" : "limited-xmas-editions",
     "visible" : true
   }, {
-    "id" : 18,
+    "id" : 9,
     "infoColorNeeded" : false,
-    "name" : "category.category18.name",
+    "name" : "category.category9.name",
     "primary" : false,
-    "slug" : "supplements",
-    "visible" : true
-  }, {
-    "id" : 75,
-    "infoColorNeeded" : false,
-    "name" : "category.category75.name",
-    "primary" : false,
-    "slug" : "lifting",
-    "visible" : true
-  }, {
-    "id" : 92,
-    "infoColorNeeded" : false,
-    "name" : "category.category92.name",
-    "primary" : false,
-    "slug" : "facial-care",
-    "visible" : true
-  }, {
-    "id" : 90,
-    "infoColorNeeded" : false,
-    "name" : "category.category90.name",
-    "primary" : false,
-    "slug" : "hair-care",
-    "visible" : true
-  }, {
-    "id" : 76,
-    "infoColorNeeded" : false,
-    "name" : "category.category76.name",
-    "primary" : false,
-    "slug" : "toning",
-    "visible" : true
-  }, {
-    "id" : 73,
-    "infoColorNeeded" : false,
-    "name" : "category.category73.name",
-    "primary" : false,
-    "slug" : "body-shape",
+    "slug" : "offers",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "37,1",
+  "contentsAmount" : "5",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
-  "id" : 98,
+  "firstHeadline" : "product.BLB-R-S-P.firstHeadline",
+  "id" : 1983,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "15",
+    "contentsAmount" : "30",
     "currency" : "eur",
-    "description" : "ADDS repair",
-    "imageId" : 745,
-    "matchcode" : "RAR",
+    "description" : "NUANCE1",
+    "imageId" : 642,
+    "matchcode" : "BTF",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 3246.6,
+        "brutto" : 1623.3,
         "unit" : "ml",
         "unitId" : 827
       },
@@ -96,7 +62,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29.6
+        "provisionPoints" : 28.8
       },
       "partner" : {
         "brutto" : 48.7,
@@ -110,29 +76,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29.6
+        "provisionPoints" : 28.8
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-adds-repair",
-    "title" : "ADDS repair",
+    "slug" : "fresh-tinted-moisturiser",
+    "title" : "FRESH tinted moisturiser",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "200",
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "shampoo",
-    "imageId" : 1166,
-    "matchcode" : "BRS",
+    "description" : "cleanser",
+    "imageId" : 750,
+    "matchcode" : "BRM",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 103,
+        "brutto" : 209.6,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 20.6,
+        "brutto" : 26.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -143,10 +109,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 12
+        "provisionPoints" : 14.4
       },
       "partner" : {
-        "brutto" : 20.6,
+        "brutto" : 26.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -157,12 +123,12 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 12
+        "provisionPoints" : 14.4
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-shampoonbc7",
-    "title" : "FRESH shampoo",
+    "slug" : "fresh-cleanser",
+    "title" : "FRESH cleanser",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
@@ -215,25 +181,15 @@
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 257,
-    "mediaId" : 1161
+    "id" : 2738,
+    "mediaId" : 3508
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 252,
-    "mediaId" : 456
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 253,
-    "mediaId" : 457
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 255,
-    "mediaId" : 1162
+    "id" : 2739,
+    "mediaId" : 3509
   } ],
-  "infoColor" : "#c5b4e3",
+  "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
@@ -242,12 +198,12 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 1571.4,
-      "unit" : "g",
-      "unitId" : 812
+      "brutto" : 2580,
+      "unit" : "ml",
+      "unitId" : 827
     },
     "customer" : {
-      "brutto" : 58.3,
+      "brutto" : 12.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -258,10 +214,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 32.6
+      "provisionPoints" : 7.7
     },
     "partner" : {
-      "brutto" : 58.3,
+      "brutto" : 12.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -272,89 +228,75 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 32.6
+      "provisionPoints" : 7.7
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
-  "shortDescription" : "product.CBH.shortDescription",
+  "shortDescription" : "product.BLB-R-S-P.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "caps-beautyhair",
+  "slug" : "fresh-lip-balm-rose-plump",
   "socialMedia" : {
-    "id" : 98,
-    "imageId" : 455,
-    "text" : "product.CBH.socialMedia.text",
-    "title" : "product.CBH.socialMedia.title"
+    "id" : 1983,
+    "imageId" : 3508,
+    "text" : "product.BLB-R-S-P.socialMedia.text",
+    "title" : "product.BLB-R-S-P.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "beauty & hair",
+  "supplementDescription" : "rosé & plump",
   "tabs" : [ {
-    "description" : "product.CBH.tabs0.description",
-    "id" : 368,
+    "description" : "product.BLB-R-S-P.tabs2390.description",
+    "id" : 2390,
     "showPrintButton" : false,
-    "title" : "product.CBH.tabs0.title"
+    "title" : "product.BLB-R-S-P.tabs2390.title"
   }, {
-    "description" : "product.CBH.tabs1.description",
-    "id" : 369,
+    "description" : "product.BLB-R-S-P.tabs2391.description",
+    "id" : 2391,
     "showPrintButton" : true,
-    "title" : "product.CBH.tabs1.title"
+    "title" : "product.BLB-R-S-P.tabs2391.title"
   }, {
-    "description" : "product.CBH.tabs2.description",
-    "id" : 370,
+    "description" : "product.BLB-R-S-P.tabs2392.description",
+    "id" : 2392,
     "showPrintButton" : false,
-    "title" : "product.CBH.tabs2.title"
+    "title" : "product.BLB-R-S-P.tabs2392.title"
   }, {
-    "description" : "product.CBH.tabs3.description",
-    "id" : 371,
+    "description" : "product.BLB-R-S-P.tabs2393.description",
+    "id" : 2393,
     "showPrintButton" : false,
-    "title" : "product.CBH.tabs3.title"
+    "title" : "product.BLB-R-S-P.tabs2393.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "CAPS beauty & hair",
-  "unit" : "Pck.",
-  "unitContents" : "g",
-  "unitContentsId" : 812,
-  "unitId" : 43589,
-  "usp" : "product.CBH.usp",
+  "teaserDots" : [ {
+    "backgroundColor" : "#273062",
+    "borderColor" : "#273062",
+    "fontSize" : 12,
+    "id" : 334,
+    "lineHeight" : 1,
+    "position" : "top-left",
+    "text" : "from 11.11.",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH lip balm rosé & plump",
+  "unit" : "Stk.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 996,
+  "usp" : "product.BLB-R-S-P.usp",
   "values" : [ {
-    "iconMediaId" : 1061,
-    "name" : "value.value6.name"
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
   }, {
-    "iconMediaId" : 1074,
-    "name" : "value.value19.name"
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
   }, {
-    "iconMediaId" : 1095,
-    "name" : "value.value40.name"
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
   }, {
-    "iconMediaId" : 1080,
-    "name" : "value.value25.name"
-  }, {
-    "iconMediaId" : 1121,
-    "name" : "value.value66.name"
+    "iconMediaId" : 1107,
+    "name" : "value.value52.name"
   } ],
-  "variants" : [ {
-    "color" : null,
-    "id" : 166,
-    "language" : null,
-    "matchcode" : "CBH",
-    "name" : null,
-    "size" : 90,
-    "slug" : "caps-beautyhair",
-    "type" : 2,
-    "unit" : 1
-  }, {
-    "color" : null,
-    "id" : 167,
-    "language" : null,
-    "matchcode" : "CBH3",
-    "name" : null,
-    "size" : 270,
-    "slug" : "caps-beautyhair-set",
-    "type" : 2,
-    "unit" : 1
-  } ]
+  "variants" : [ ]
 }

@@ -50,7 +50,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.BTF15.firstHeadline",
   "id" : 160,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
@@ -109,15 +109,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 188.6,
+        "brutto" : 209.6,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 23.58,
-        "bruttoWithoutDiscount" : 26.2,
-        "discountPercentage" : 10,
-        "discountUntil" : "2024-10-11T08:00:00Z",
+        "brutto" : 26.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -125,13 +125,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 11.66
+        "provisionPoints" : 14.4
       },
       "partner" : {
-        "brutto" : 23.58,
-        "bruttoWithoutDiscount" : 26.2,
-        "discountPercentage" : 10,
-        "discountUntil" : "2024-10-11T08:00:00Z",
+        "brutto" : 26.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -139,7 +139,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 11.66
+        "provisionPoints" : 14.4
       }
     },
     "purchasePossible" : true,

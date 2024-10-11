@@ -1,56 +1,124 @@
 {
-  "matchcode" : "CBH3",
-  "additionalUnitPrice" : {
-    "entity" : 270,
-    "type" : 1
-  },
+  "matchcode" : "MANA-SK-BZO-FTB",
+  "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ 113040, 178302, 160856 ],
+  "blogPostIds" : [ 189850, 186646, 189265 ],
   "categories" : [ {
+    "id" : 166,
+    "infoColorNeeded" : false,
+    "name" : "category.category166.name",
+    "primary" : true,
+    "slug" : "limited-xmas-editions",
+    "visible" : true
+  }, {
     "id" : 9,
     "infoColorNeeded" : false,
     "name" : "category.category9.name",
-    "primary" : true,
-    "slug" : "offers",
-    "visible" : true
-  }, {
-    "id" : 99,
-    "infoColorNeeded" : false,
-    "name" : "category.category99.name",
     "primary" : false,
-    "slug" : "supplement-sets",
+    "slug" : "offers",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "111,3",
+  "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
-  "faqs" : [ ],
+  "faqs" : [ {
+    "answer" : "product.MANA-SK-BZO-FTB.faqs0.answer",
+    "id" : 847,
+    "question" : "product.MANA-SK-BZO-FTB.faqs0.question"
+  }, {
+    "answer" : "product.MANA-SK-BZO-FTB.faqs1.answer",
+    "id" : 848,
+    "question" : "product.MANA-SK-BZO-FTB.faqs1.question"
+  }, {
+    "answer" : "product.MANA-SK-BZO-FTB.faqs2.answer",
+    "id" : 849,
+    "question" : "product.MANA-SK-BZO-FTB.faqs2.question"
+  }, {
+    "answer" : "product.MANA-SK-BZO-FTB.faqs3.answer",
+    "id" : 850,
+    "question" : "product.MANA-SK-BZO-FTB.faqs3.question"
+  }, {
+    "answer" : "product.MANA-SK-BZO-FTB.faqs4.answer",
+    "id" : 851,
+    "question" : "product.MANA-SK-BZO-FTB.faqs4.question"
+  }, {
+    "answer" : "product.MANA-SK-BZO-FTB.faqs5.answer",
+    "id" : 852,
+    "question" : "product.MANA-SK-BZO-FTB.faqs5.question"
+  } ],
   "firstHeadline" : "",
-  "id" : 74,
+  "id" : 2223,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "15",
+    "contentsAmount" : "1",
     "currency" : "eur",
-    "description" : "ADDS repair",
-    "imageId" : 745,
-    "matchcode" : "RAR",
+    "description" : "",
+    "imageId" : 1260,
+    "matchcode" : "MANA-TC",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 39,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 39,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "manadental-travel-case",
+    "title" : "manadental travel case",
+    "unitContents" : "Stk."
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "600",
+    "currency" : "eur",
+    "description" : "mana liquid",
+    "imageId" : 943,
+    "matchcode" : "FTLL3",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 3246.6,
+        "brutto" : 132.8,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 48.7,
+        "brutto" : 79.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -61,10 +129,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29.6
+        "provisionPoints" : 38.9
       },
       "partner" : {
-        "brutto" : 48.7,
+        "brutto" : 79.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -75,29 +143,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29.6
+        "provisionPoints" : 38.9
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-adds-repair",
-    "title" : "ADDS repair",
+    "slug" : "manadental-liquid-set-of-3",
+    "title" : "manadental liquid, Set of 3",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "200",
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "shampoo",
-    "imageId" : 1166,
-    "matchcode" : "BRS",
+    "description" : "tooth balm",
+    "imageId" : 800,
+    "matchcode" : "FTB",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 103,
+        "brutto" : 122.4,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 20.6,
+        "brutto" : 15.3,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -108,10 +176,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 12
+        "provisionPoints" : 8.9
       },
       "partner" : {
-        "brutto" : 20.6,
+        "brutto" : 15.3,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -122,81 +190,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 12
+        "provisionPoints" : 8.9
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-shampoonbc7",
-    "title" : "FRESH shampoo",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "50",
-    "currency" : "eur",
-    "description" : "enzyme mask",
-    "imageId" : 672,
-    "matchcode" : "FEP",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 784,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 39.2,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 23.8
-      },
-      "partner" : {
-        "brutto" : 39.2,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 23.8
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-illuminating-enzyme-mask",
-    "title" : "FRESH illuminating enzyme mask",
+    "slug" : "fresh-tooth-balm",
+    "title" : "FRESH tooth balm",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
-    "captionLink" : null,
-    "id" : 176,
-    "mediaId" : 1163
+    "captionLink" : "blog/ringana-x-manadental/",
+    "id" : 2980,
+    "mediaId" : 3706
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 178,
-    "mediaId" : 349
+    "id" : 2981,
+    "mediaId" : 938
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 177,
-    "mediaId" : 347
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 181,
-    "mediaId" : 1162
+    "id" : 2982,
+    "mediaId" : 1256
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -206,13 +222,13 @@
   "press" : null,
   "priceInformation" : {
     "base" : {
-      "amount" : 1000,
-      "brutto" : 1414.1,
-      "unit" : "g",
-      "unitId" : 812
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
     },
     "customer" : {
-      "brutto" : 157.4,
+      "brutto" : 279,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -223,10 +239,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 79.2
+      "provisionPoints" : 94
     },
     "partner" : {
-      "brutto" : 157.4,
+      "brutto" : 279,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -237,93 +253,93 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 79.2
+      "provisionPoints" : 94
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
-    "amount" : 3,
+    "amount" : 1,
     "freeOfCharge" : false,
-    "matchcode" : "CBH"
+    "matchcode" : "MANA-SK"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : true,
+    "matchcode" : "BZO"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : true,
+    "matchcode" : "FTB"
   } ],
-  "shortDescription" : "product.CBH3.shortDescription",
+  "shortDescription" : "product.MANA-SK-BZO-FTB.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "caps-beautyhair-set",
+  "slug" : "manadental-starter-kit-xmas-special",
   "socialMedia" : {
-    "id" : 74,
-    "imageId" : 348,
-    "text" : "product.CBH3.socialMedia.text",
-    "title" : "product.CBH3.socialMedia.title"
+    "id" : 2223,
+    "imageId" : 934,
+    "text" : "product.MANA-SK-BZO-FTB.socialMedia.text",
+    "title" : "product.MANA-SK-BZO-FTB.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "beauty & hair",
+  "supplementDescription" : "manadental",
   "tabs" : [ {
-    "description" : "product.CBH3.tabs0.description",
-    "id" : 276,
+    "description" : "product.MANA-SK-BZO-FTB.tabs2658.description",
+    "id" : 2658,
     "showPrintButton" : false,
-    "title" : "product.CBH3.tabs0.title"
+    "title" : "product.MANA-SK-BZO-FTB.tabs2658.title"
   }, {
-    "description" : "product.CBH3.tabs1.description",
-    "id" : 277,
-    "showPrintButton" : true,
-    "title" : "product.CBH3.tabs1.title"
-  }, {
-    "description" : "product.CBH3.tabs2.description",
-    "id" : 280,
+    "description" : "product.MANA-SK-BZO-FTB.tabs2659.description",
+    "id" : 2659,
     "showPrintButton" : false,
-    "title" : "product.CBH3.tabs2.title"
+    "title" : "product.MANA-SK-BZO-FTB.tabs2659.title"
   }, {
-    "description" : "product.CBH3.tabs3.description",
-    "id" : 282,
+    "description" : "product.MANA-SK-BZO-FTB.tabs2660.description",
+    "id" : 2660,
     "showPrintButton" : false,
-    "title" : "product.CBH3.tabs3.title"
+    "title" : "product.MANA-SK-BZO-FTB.tabs2660.title"
+  }, {
+    "description" : "product.MANA-SK-BZO-FTB.tabs2661.description",
+    "id" : 2661,
+    "showPrintButton" : false,
+    "title" : "product.MANA-SK-BZO-FTB.tabs2661.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "CAPS beauty & hair, Set of 3",
+  "teaserDots" : [ {
+    "backgroundColor" : "#273062",
+    "borderColor" : "#273062",
+    "fontSize" : 12,
+    "id" : 333,
+    "lineHeight" : 1,
+    "position" : "top-left",
+    "text" : "from 04.11.",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "manadental starter kit x-mas special",
   "unit" : "Set",
-  "unitContents" : "g",
-  "unitContentsId" : 812,
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
   "unitId" : 43586,
-  "usp" : "product.CBH3.usp",
+  "usp" : "product.MANA-SK-BZO-FTB.usp",
   "values" : [ {
-    "iconMediaId" : 1061,
-    "name" : "value.value6.name"
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
   }, {
-    "iconMediaId" : 1074,
-    "name" : "value.value19.name"
+    "iconMediaId" : 1088,
+    "name" : "value.value33.name"
   }, {
-    "iconMediaId" : 1095,
-    "name" : "value.value40.name"
+    "iconMediaId" : 1117,
+    "name" : "value.value62.name"
   }, {
-    "iconMediaId" : 1080,
-    "name" : "value.value25.name"
+    "iconMediaId" : 1118,
+    "name" : "value.value63.name"
   }, {
-    "iconMediaId" : 1121,
-    "name" : "value.value66.name"
+    "iconMediaId" : 1119,
+    "name" : "value.value64.name"
+  }, {
+    "iconMediaId" : 1120,
+    "name" : "value.value65.name"
   } ],
-  "variants" : [ {
-    "color" : null,
-    "id" : 118,
-    "language" : null,
-    "matchcode" : "CBH",
-    "name" : null,
-    "size" : 90,
-    "slug" : "caps-beautyhair",
-    "type" : 2,
-    "unit" : 1
-  }, {
-    "color" : null,
-    "id" : 120,
-    "language" : null,
-    "matchcode" : "CBH3",
-    "name" : null,
-    "size" : 270,
-    "slug" : "caps-beautyhair-set",
-    "type" : 2,
-    "unit" : 1
-  } ]
+  "variants" : [ ]
 }

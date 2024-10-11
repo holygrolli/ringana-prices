@@ -47,7 +47,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.CDG.firstHeadline",
   "id" : 91,
   "idealSupplements" : [ {
     "additionalUnitPrice" : {
@@ -269,7 +269,7 @@
   "slug" : "caps-d-gest",
   "socialMedia" : {
     "id" : 91,
-    "imageId" : 420,
+    "imageId" : 422,
     "text" : "product.CDG.socialMedia.text",
     "title" : "product.CDG.socialMedia.title"
   },

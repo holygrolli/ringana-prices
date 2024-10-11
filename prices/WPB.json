@@ -14,18 +14,18 @@
     "slug" : "packs",
     "visible" : true
   }, {
-    "id" : 18,
-    "infoColorNeeded" : false,
-    "name" : "category.category18.name",
-    "primary" : false,
-    "slug" : "supplements",
-    "visible" : true
-  }, {
     "id" : 71,
     "infoColorNeeded" : false,
     "name" : "category.category71.name",
     "primary" : false,
     "slug" : "gut-feeling",
+    "visible" : true
+  }, {
+    "id" : 18,
+    "infoColorNeeded" : false,
+    "name" : "category.category18.name",
+    "primary" : false,
+    "slug" : "supplements",
     "visible" : true
   } ],
   "contentBlock" : null,
@@ -43,7 +43,7 @@
     "posterMediaId" : 316
   },
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.WPB.firstHeadline",
   "id" : 67,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,

@@ -1,91 +1,53 @@
 {
-  "matchcode" : "CBH",
-  "additionalUnitPrice" : {
-    "entity" : 90,
-    "type" : 1
-  },
+  "matchcode" : "RX-2024-3",
+  "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ 113040, 178302, 160856 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 3,
+    "id" : 166,
     "infoColorNeeded" : false,
-    "name" : "category.category3.name",
+    "name" : "category.category166.name",
     "primary" : true,
-    "slug" : "caps",
+    "slug" : "limited-xmas-editions",
     "visible" : true
   }, {
-    "id" : 18,
+    "id" : 9,
     "infoColorNeeded" : false,
-    "name" : "category.category18.name",
+    "name" : "category.category9.name",
     "primary" : false,
-    "slug" : "supplements",
-    "visible" : true
-  }, {
-    "id" : 75,
-    "infoColorNeeded" : false,
-    "name" : "category.category75.name",
-    "primary" : false,
-    "slug" : "lifting",
-    "visible" : true
-  }, {
-    "id" : 92,
-    "infoColorNeeded" : false,
-    "name" : "category.category92.name",
-    "primary" : false,
-    "slug" : "facial-care",
-    "visible" : true
-  }, {
-    "id" : 90,
-    "infoColorNeeded" : false,
-    "name" : "category.category90.name",
-    "primary" : false,
-    "slug" : "hair-care",
-    "visible" : true
-  }, {
-    "id" : 76,
-    "infoColorNeeded" : false,
-    "name" : "category.category76.name",
-    "primary" : false,
-    "slug" : "toning",
-    "visible" : true
-  }, {
-    "id" : 73,
-    "infoColorNeeded" : false,
-    "name" : "category.category73.name",
-    "primary" : false,
-    "slug" : "body-shape",
+    "slug" : "offers",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "37,1",
+  "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
-  "id" : 98,
+  "firstHeadline" : "product.RX-2024-3.firstHeadline",
+  "id" : 1851,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "15",
+    "contentsAmount" : "360",
     "currency" : "eur",
-    "description" : "ADDS repair",
-    "imageId" : 745,
-    "matchcode" : "RAR",
+    "description" : "RINGANAisi",
+    "imageId" : 263,
+    "matchcode" : "RI12",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 3246.6,
+        "brutto" : 154.7,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 48.7,
+        "brutto" : 55.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -96,10 +58,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29.6
+        "provisionPoints" : 32
       },
       "partner" : {
-        "brutto" : 48.7,
+        "brutto" : 55.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -110,29 +72,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29.6
+        "provisionPoints" : 32
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-adds-repair",
-    "title" : "ADDS repair",
+    "slug" : "ringanaisi",
+    "title" : "RINGANAisi",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
     "contentsAmount" : "200",
     "currency" : "eur",
-    "description" : "shampoo",
-    "imageId" : 1166,
-    "matchcode" : "BRS",
+    "description" : "body milk",
+    "imageId" : 606,
+    "matchcode" : "BKM",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 103,
+        "brutto" : 189.5,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 20.6,
+        "brutto" : 37.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -143,10 +105,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 12
+        "provisionPoints" : 21.1
       },
       "partner" : {
-        "brutto" : 20.6,
+        "brutto" : 37.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -157,29 +119,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 12
+        "provisionPoints" : 21.1
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-shampoonbc7",
-    "title" : "FRESH shampoo",
+    "slug" : "fresh-body-milk",
+    "title" : "FRESH body milk",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "50",
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "enzyme mask",
-    "imageId" : 672,
-    "matchcode" : "FEP",
+    "description" : "overnight",
+    "imageId" : 592,
+    "matchcode" : "BBN",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 784,
+        "brutto" : 598.4,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 39.2,
+        "brutto" : 74.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -190,10 +152,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 23.8
+        "provisionPoints" : 44.6
       },
       "partner" : {
-        "brutto" : 39.2,
+        "brutto" : 74.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -204,36 +166,21 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 23.8
+        "provisionPoints" : 44.6
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-illuminating-enzyme-mask",
-    "title" : "FRESH illuminating enzyme mask",
+    "slug" : "fresh-overnight-body-treatment",
+    "title" : "FRESH overnight body treatment",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 257,
-    "mediaId" : 1161
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 252,
-    "mediaId" : 456
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 253,
-    "mediaId" : 457
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 255,
-    "mediaId" : 1162
+    "id" : 2606,
+    "mediaId" : 3442
   } ],
-  "infoColor" : "#c5b4e3",
+  "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
@@ -241,13 +188,13 @@
   "press" : null,
   "priceInformation" : {
     "base" : {
-      "amount" : 1000,
-      "brutto" : 1571.4,
-      "unit" : "g",
-      "unitId" : 812
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
     },
     "customer" : {
-      "brutto" : 58.3,
+      "brutto" : 56.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -258,10 +205,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 32.6
+      "provisionPoints" : 19.3
     },
     "partner" : {
-      "brutto" : 58.3,
+      "brutto" : 56.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -272,89 +219,71 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 32.6
+      "provisionPoints" : 19.3
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
-  "setContents" : [ ],
-  "shortDescription" : "product.CBH.shortDescription",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "FEP"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "RSPASET"
+  } ],
+  "shortDescription" : "product.RX-2024-3.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "caps-beautyhair",
+  "slug" : "fresh-face-spa-xmas-set",
   "socialMedia" : {
-    "id" : 98,
-    "imageId" : 455,
-    "text" : "product.CBH.socialMedia.text",
-    "title" : "product.CBH.socialMedia.title"
+    "id" : 1851,
+    "imageId" : 3442,
+    "text" : "product.RX-2024-3.socialMedia.text",
+    "title" : "product.RX-2024-3.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "beauty & hair",
+  "supplementDescription" : "face spa",
   "tabs" : [ {
-    "description" : "product.CBH.tabs0.description",
-    "id" : 368,
+    "description" : "product.RX-2024-3.tabs2257.description",
+    "id" : 2257,
     "showPrintButton" : false,
-    "title" : "product.CBH.tabs0.title"
+    "title" : "product.RX-2024-3.tabs2257.title"
   }, {
-    "description" : "product.CBH.tabs1.description",
-    "id" : 369,
-    "showPrintButton" : true,
-    "title" : "product.CBH.tabs1.title"
-  }, {
-    "description" : "product.CBH.tabs2.description",
-    "id" : 370,
+    "description" : "product.RX-2024-3.tabs2258.description",
+    "id" : 2258,
     "showPrintButton" : false,
-    "title" : "product.CBH.tabs2.title"
+    "title" : "product.RX-2024-3.tabs2258.title"
   }, {
-    "description" : "product.CBH.tabs3.description",
-    "id" : 371,
+    "description" : "product.RX-2024-3.tabs2259.description",
+    "id" : 2259,
     "showPrintButton" : false,
-    "title" : "product.CBH.tabs3.title"
+    "title" : "product.RX-2024-3.tabs2259.title"
+  }, {
+    "description" : "product.RX-2024-3.tabs2260.description",
+    "id" : 2260,
+    "showPrintButton" : false,
+    "title" : "product.RX-2024-3.tabs2260.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "CAPS beauty & hair",
-  "unit" : "Pck.",
-  "unitContents" : "g",
-  "unitContentsId" : 812,
-  "unitId" : 43589,
-  "usp" : "product.CBH.usp",
-  "values" : [ {
-    "iconMediaId" : 1061,
-    "name" : "value.value6.name"
-  }, {
-    "iconMediaId" : 1074,
-    "name" : "value.value19.name"
-  }, {
-    "iconMediaId" : 1095,
-    "name" : "value.value40.name"
-  }, {
-    "iconMediaId" : 1080,
-    "name" : "value.value25.name"
-  }, {
-    "iconMediaId" : 1121,
-    "name" : "value.value66.name"
+  "teaserDots" : [ {
+    "backgroundColor" : "#273062",
+    "borderColor" : "#273062",
+    "fontSize" : 12,
+    "id" : 334,
+    "lineHeight" : 1,
+    "position" : "top-left",
+    "text" : "from 11.11.",
+    "textColor" : "#ffffff"
   } ],
-  "variants" : [ {
-    "color" : null,
-    "id" : 166,
-    "language" : null,
-    "matchcode" : "CBH",
-    "name" : null,
-    "size" : 90,
-    "slug" : "caps-beautyhair",
-    "type" : 2,
-    "unit" : 1
-  }, {
-    "color" : null,
-    "id" : 167,
-    "language" : null,
-    "matchcode" : "CBH3",
-    "name" : null,
-    "size" : 270,
-    "slug" : "caps-beautyhair-set",
-    "type" : 2,
-    "unit" : 1
-  } ]
+  "title" : "FRESH face spa x-mas set",
+  "unit" : "Set",
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
+  "unitId" : 43586,
+  "usp" : "product.RX-2024-3.usp",
+  "values" : [ ],
+  "variants" : [ ]
 }

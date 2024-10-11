@@ -315,8 +315,8 @@
   "socialMedia" : {
     "id" : 2148,
     "imageId" : 1123,
-    "text" : "",
-    "title" : ""
+    "text" : "product.BHS.socialMedia.text",
+    "title" : "product.BHS.socialMedia.title"
   },
   "soldOut" : false,
   "supplementDescription" : "hydro serum",

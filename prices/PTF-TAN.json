@@ -98,7 +98,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.PTF-TAN.firstHeadline",
   "id" : 36,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,

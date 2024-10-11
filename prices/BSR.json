@@ -75,7 +75,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.BSR.firstHeadline",
   "id" : 114,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,

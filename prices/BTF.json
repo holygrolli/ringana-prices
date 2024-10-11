@@ -14,7 +14,7 @@
     "link" : "https://skin.li/5874400d",
     "name" : "cosmeticsanalysis.com - FRESH tinted moisturiser"
   } ],
-  "blogPostIds" : [ 99737, 99745, 194501 ],
+  "blogPostIds" : [ 196283, 195758, 99737 ],
   "categories" : [ {
     "id" : 7,
     "infoColorNeeded" : false,
@@ -98,7 +98,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.BTF.firstHeadline",
   "id" : 131,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,

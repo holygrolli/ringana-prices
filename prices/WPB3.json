@@ -36,7 +36,7 @@
     "posterMediaId" : 278
   },
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.WPB3.firstHeadline",
   "id" : 61,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,

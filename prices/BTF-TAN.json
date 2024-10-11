@@ -14,7 +14,7 @@
     "link" : "https://skin.li/c95c37bd",
     "name" : "cosmeticsanalysis.com - FRESH tinted moisturiser tan"
   } ],
-  "blogPostIds" : [ 99737, 99745, 194501 ],
+  "blogPostIds" : [ 99737, 196283, 195758 ],
   "categories" : [ {
     "id" : 7,
     "infoColorNeeded" : false,
@@ -98,7 +98,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.BTF-TAN.firstHeadline",
   "id" : 133,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,

@@ -14,7 +14,7 @@
     "link" : "https://skin.li/5a1d0cee",
     "name" : "cosmeticsanalysis.com - FRESH tonic pure"
   } ],
-  "blogPostIds" : [ 178302, 93675, 99745 ],
+  "blogPostIds" : [ 178302, 93675, 196283 ],
   "categories" : [ {
     "id" : 7,
     "infoColorNeeded" : false,
@@ -23,18 +23,18 @@
     "slug" : "face",
     "visible" : true
   }, {
-    "id" : 92,
-    "infoColorNeeded" : false,
-    "name" : "category.category92.name",
-    "primary" : false,
-    "slug" : "facial-care",
-    "visible" : true
-  }, {
     "id" : 86,
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
     "slug" : "combination-skin",
+    "visible" : true
+  }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
     "visible" : true
   }, {
     "id" : 84,
@@ -77,7 +77,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.BGS.firstHeadline",
   "id" : 130,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,

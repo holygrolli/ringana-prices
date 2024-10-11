@@ -33,7 +33,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.CDG3.firstHeadline",
   "id" : 75,
   "idealSupplements" : [ {
     "additionalUnitPrice" : {
@@ -259,7 +259,7 @@
   "slug" : "caps-d-gest-set",
   "socialMedia" : {
     "id" : 75,
-    "imageId" : 420,
+    "imageId" : 422,
     "text" : "product.CDG3.socialMedia.text",
     "title" : "product.CDG3.socialMedia.title"
   },

@@ -1,67 +1,53 @@
 {
-  "matchcode" : "CBH",
-  "additionalUnitPrice" : {
-    "entity" : 90,
-    "type" : 1
-  },
-  "awards" : [ ],
-  "blogPostIds" : [ 113040, 178302, 160856 ],
+  "matchcode" : "BSR-10",
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1049,
+    "link" : "https://www.lacon-institut.com/en/philosophy/",
+    "name" : "Lacon"
+  }, {
+    "imageId" : 1053,
+    "link" : "https://www.umweltzeichen.at/de/produkte/haushalt-reinigung?cert_number=UW+1162",
+    "name" : "Umweltzeichen"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1047,
+    "link" : "https://www.umweltzeichen.at/de/ecolabel/living-and-cosmetics?cert_number=AT/030/004",
+    "name" : "EU Ecolabel"
+  }, {
+    "imageId" : 1826,
+    "link" : null,
+    "name" : "Reusable Materials"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/80e6acfc",
+    "name" : "cosmeticsanalysis.com - FRESH soap"
+  } ],
+  "blogPostIds" : [ 155090, 191456, 170591 ],
   "categories" : [ {
-    "id" : 3,
+    "id" : 166,
     "infoColorNeeded" : false,
-    "name" : "category.category3.name",
+    "name" : "category.category166.name",
     "primary" : true,
-    "slug" : "caps",
+    "slug" : "limited-xmas-editions",
     "visible" : true
   }, {
-    "id" : 18,
+    "id" : 9,
     "infoColorNeeded" : false,
-    "name" : "category.category18.name",
+    "name" : "category.category9.name",
     "primary" : false,
-    "slug" : "supplements",
-    "visible" : true
-  }, {
-    "id" : 75,
-    "infoColorNeeded" : false,
-    "name" : "category.category75.name",
-    "primary" : false,
-    "slug" : "lifting",
-    "visible" : true
-  }, {
-    "id" : 92,
-    "infoColorNeeded" : false,
-    "name" : "category.category92.name",
-    "primary" : false,
-    "slug" : "facial-care",
-    "visible" : true
-  }, {
-    "id" : 90,
-    "infoColorNeeded" : false,
-    "name" : "category.category90.name",
-    "primary" : false,
-    "slug" : "hair-care",
-    "visible" : true
-  }, {
-    "id" : 76,
-    "infoColorNeeded" : false,
-    "name" : "category.category76.name",
-    "primary" : false,
-    "slug" : "toning",
-    "visible" : true
-  }, {
-    "id" : 73,
-    "infoColorNeeded" : false,
-    "name" : "category.category73.name",
-    "primary" : false,
-    "slug" : "body-shape",
+    "slug" : "offers",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "37,1",
+  "contentsAmount" : "1000",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -69,23 +55,23 @@
   "disruptor" : null,
   "faqs" : [ ],
   "firstHeadline" : "",
-  "id" : 98,
+  "id" : 2182,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "15",
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "ADDS repair",
-    "imageId" : 745,
-    "matchcode" : "RAR",
+    "description" : "hand balm",
+    "imageId" : 572,
+    "matchcode" : "BHB",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 3246.6,
+        "brutto" : 196,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 48.7,
+        "brutto" : 24.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -96,10 +82,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29.6
+        "provisionPoints" : 13.7
       },
       "partner" : {
-        "brutto" : 48.7,
+        "brutto" : 24.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -110,76 +96,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29.6
+        "provisionPoints" : 13.7
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-adds-repair",
-    "title" : "ADDS repair",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "200",
-    "currency" : "eur",
-    "description" : "shampoo",
-    "imageId" : 1166,
-    "matchcode" : "BRS",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 103,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 20.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 12
-      },
-      "partner" : {
-        "brutto" : 20.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 12
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-shampoonbc7",
-    "title" : "FRESH shampoo",
+    "slug" : "fresh-hand-balm",
+    "title" : "FRESH hand balm",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
     "contentsAmount" : "50",
     "currency" : "eur",
-    "description" : "enzyme mask",
-    "imageId" : 672,
-    "matchcode" : "FEP",
+    "description" : "stay fresh",
+    "imageId" : 553,
+    "matchcode" : "STF",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 784,
+        "brutto" : 218,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 39.2,
+        "brutto" : 10.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -190,10 +129,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 23.8
+        "provisionPoints" : 5.7
       },
       "partner" : {
-        "brutto" : 39.2,
+        "brutto" : 10.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -204,36 +143,83 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 23.8
+        "provisionPoints" : 5.7
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-illuminating-enzyme-mask",
-    "title" : "FRESH illuminating enzyme mask",
+    "slug" : "fresh-stay-fresh",
+    "title" : "FRESH stay fresh",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "255",
+    "currency" : "eur",
+    "description" : "soap liquid",
+    "imageId" : 567,
+    "matchcode" : "FSLP",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 80,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 20.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 11.6
+      },
+      "partner" : {
+        "brutto" : 20.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 11.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-soap-liquid",
+    "title" : "FRESH soap liquid",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 257,
-    "mediaId" : 1161
+    "id" : 2937,
+    "mediaId" : 546
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 252,
-    "mediaId" : 456
+    "id" : 2938,
+    "mediaId" : 547
   }, {
     "caption" : "",
-    "captionLink" : null,
-    "id" : 253,
-    "mediaId" : 457
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 2939,
+    "mediaId" : 548
   }, {
     "caption" : "",
-    "captionLink" : null,
-    "id" : 255,
-    "mediaId" : 1162
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 2940,
+    "mediaId" : 549
   } ],
-  "infoColor" : "#c5b4e3",
+  "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
@@ -242,12 +228,12 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 1571.4,
+      "brutto" : 95.4,
       "unit" : "g",
       "unitId" : 812
     },
     "customer" : {
-      "brutto" : 58.3,
+      "brutto" : 95.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -258,10 +244,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 32.6
+      "provisionPoints" : 40.5
     },
     "partner" : {
-      "brutto" : 58.3,
+      "brutto" : 95.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -272,89 +258,105 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 32.6
+      "provisionPoints" : 40.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
-  "setContents" : [ ],
-  "shortDescription" : "product.CBH.shortDescription",
+  "setContents" : [ {
+    "amount" : 10,
+    "freeOfCharge" : false,
+    "matchcode" : "BSR"
+  } ],
+  "shortDescription" : "product.BSR-10.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "caps-beautyhair",
+  "slug" : "fresh-soap-set-of-10",
   "socialMedia" : {
-    "id" : 98,
-    "imageId" : 455,
-    "text" : "product.CBH.socialMedia.text",
-    "title" : "product.CBH.socialMedia.title"
+    "id" : 2182,
+    "imageId" : 545,
+    "text" : "product.BSR-10.socialMedia.text",
+    "title" : "product.BSR-10.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "beauty & hair",
+  "supplementDescription" : "soapsoapsoap",
   "tabs" : [ {
-    "description" : "product.CBH.tabs0.description",
-    "id" : 368,
+    "description" : "product.BSR-10.tabs2624.description",
+    "id" : 2624,
     "showPrintButton" : false,
-    "title" : "product.CBH.tabs0.title"
+    "title" : "product.BSR-10.tabs2624.title"
   }, {
-    "description" : "product.CBH.tabs1.description",
-    "id" : 369,
+    "description" : "product.BSR-10.tabs2625.description",
+    "id" : 2625,
     "showPrintButton" : true,
-    "title" : "product.CBH.tabs1.title"
+    "title" : "product.BSR-10.tabs2625.title"
   }, {
-    "description" : "product.CBH.tabs2.description",
-    "id" : 370,
+    "description" : "product.BSR-10.tabs2626.description",
+    "id" : 2626,
     "showPrintButton" : false,
-    "title" : "product.CBH.tabs2.title"
+    "title" : "product.BSR-10.tabs2626.title"
   }, {
-    "description" : "product.CBH.tabs3.description",
-    "id" : 371,
+    "description" : "product.BSR-10.tabs2627.description",
+    "id" : 2627,
     "showPrintButton" : false,
-    "title" : "product.CBH.tabs3.title"
+    "title" : "product.BSR-10.tabs2627.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "CAPS beauty & hair",
-  "unit" : "Pck.",
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 12,
+    "id" : 100,
+    "lineHeight" : 1,
+    "position" : "top-right",
+    "text" : "Set of 10",
+    "textColor" : "#ffffff"
+  }, {
+    "backgroundColor" : "#273062",
+    "borderColor" : "#273062",
+    "fontSize" : 12,
+    "id" : 331,
+    "lineHeight" : 1,
+    "position" : "top-left",
+    "text" : "from 21.10.",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH soap, Set of 10",
+  "unit" : null,
   "unitContents" : "g",
   "unitContentsId" : 812,
-  "unitId" : 43589,
-  "usp" : "product.CBH.usp",
+  "unitId" : null,
+  "usp" : "product.BSR-10.usp",
   "values" : [ {
-    "iconMediaId" : 1061,
-    "name" : "value.value6.name"
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
   }, {
-    "iconMediaId" : 1074,
-    "name" : "value.value19.name"
+    "iconMediaId" : 1069,
+    "name" : "value.value14.name"
   }, {
-    "iconMediaId" : 1095,
-    "name" : "value.value40.name"
-  }, {
-    "iconMediaId" : 1080,
-    "name" : "value.value25.name"
-  }, {
-    "iconMediaId" : 1121,
-    "name" : "value.value66.name"
+    "iconMediaId" : 1057,
+    "name" : "value.value2.name"
   } ],
   "variants" : [ {
     "color" : null,
-    "id" : 166,
+    "id" : 1688,
     "language" : null,
-    "matchcode" : "CBH",
+    "matchcode" : "BSR-10",
     "name" : null,
-    "size" : 90,
-    "slug" : "caps-beautyhair",
+    "size" : 10,
+    "slug" : "fresh-soap-set-of-10",
     "type" : 2,
-    "unit" : 1
+    "unit" : 5
   }, {
     "color" : null,
-    "id" : 167,
+    "id" : 1689,
     "language" : null,
-    "matchcode" : "CBH3",
+    "matchcode" : "BSR",
     "name" : null,
-    "size" : 270,
-    "slug" : "caps-beautyhair-set",
+    "size" : 1,
+    "slug" : "fresh-soap",
     "type" : 2,
-    "unit" : 1
+    "unit" : 5
   } ]
 }
