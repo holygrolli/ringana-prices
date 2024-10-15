@@ -36,7 +36,7 @@
     "posterMediaId" : 392
   },
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.CBI3.firstHeadline",
   "id" : 83,
   "idealSupplements" : [ {
     "additionalUnitPrice" : {

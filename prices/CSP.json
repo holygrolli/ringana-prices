@@ -47,7 +47,7 @@
     "id" : 29,
     "question" : "product.CSP.faqs1.question"
   } ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.CSP.firstHeadline",
   "id" : 97,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,

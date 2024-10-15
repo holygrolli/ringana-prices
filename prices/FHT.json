@@ -70,7 +70,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.FHT.firstHeadline",
   "id" : 109,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,

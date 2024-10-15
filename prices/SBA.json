@@ -77,7 +77,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.SBA.firstHeadline",
   "id" : 125,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,

@@ -47,7 +47,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.CCB.firstHeadline",
   "id" : 89,
   "idealSupplements" : [ {
     "additionalUnitPrice" : {

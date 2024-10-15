@@ -10,7 +10,7 @@
     "link" : "https://skin.li/a5a73e10",
     "name" : "cosmeticsanalysis.com - FRESH ADDS effect"
   } ],
-  "blogPostIds" : [ 99745, 178282, 6664 ],
+  "blogPostIds" : [ 178282, 6664, 196283 ],
   "categories" : [ {
     "id" : 7,
     "infoColorNeeded" : false,
@@ -24,6 +24,13 @@
     "name" : "category.category17.name",
     "primary" : false,
     "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 86,
+    "infoColorNeeded" : false,
+    "name" : "category.category86.name",
+    "primary" : false,
+    "slug" : "combination-skin",
     "visible" : true
   }, {
     "id" : 83,
@@ -54,13 +61,6 @@
     "slug" : "facial-care",
     "visible" : true
   }, {
-    "id" : 86,
-    "infoColorNeeded" : false,
-    "name" : "category.category86.name",
-    "primary" : false,
-    "slug" : "combination-skin",
-    "visible" : true
-  }, {
     "id" : 134,
     "infoColorNeeded" : false,
     "name" : "category.category134.name",
@@ -80,7 +80,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.RAE.firstHeadline",
   "id" : 161,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
@@ -264,7 +264,7 @@
   "slug" : "fresh-adds-effect",
   "socialMedia" : {
     "id" : 161,
-    "imageId" : 772,
+    "imageId" : 773,
     "text" : "product.RAE.socialMedia.text",
     "title" : "product.RAE.socialMedia.title"
   },

@@ -47,7 +47,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.CMO.firstHeadline",
   "id" : 85,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
@@ -268,7 +268,7 @@
   "slug" : "caps-moodoo",
   "socialMedia" : {
     "id" : 85,
-    "imageId" : 394,
+    "imageId" : 1137,
     "text" : "product.CMO.socialMedia.text",
     "title" : "product.CMO.socialMedia.title"
   },

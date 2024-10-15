@@ -33,7 +33,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.CSV3.firstHeadline",
   "id" : 64,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
@@ -260,7 +260,7 @@
   "slug" : "caps-protect-set",
   "socialMedia" : {
     "id" : 64,
-    "imageId" : 297,
+    "imageId" : 1129,
     "text" : "product.CSV3.socialMedia.text",
     "title" : "product.CSV3.socialMedia.title"
   },

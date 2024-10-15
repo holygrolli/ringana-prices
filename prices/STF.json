@@ -14,7 +14,7 @@
     "link" : "https://skin.li/bijry2lf",
     "name" : "cosmeticsanalysis.com - FRESH stay fresh"
   } ],
-  "blogPostIds" : [ 150146, 146360, 150232 ],
+  "blogPostIds" : [ 150146, 150232, 196283 ],
   "categories" : [ {
     "id" : 2,
     "infoColorNeeded" : false,
@@ -63,7 +63,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.STF.firstHeadline",
   "id" : 118,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
@@ -281,7 +281,7 @@
   "slug" : "fresh-stay-fresh",
   "socialMedia" : {
     "id" : 118,
-    "imageId" : 552,
+    "imageId" : 553,
     "text" : "product.STF.socialMedia.text",
     "title" : "product.STF.socialMedia.title"
   },

@@ -37,7 +37,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.RI12.firstHeadline",
   "id" : 58,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,

@@ -59,7 +59,7 @@
     "id" : 27,
     "question" : "product.RU23-CSV-RNX.faqs3.question"
   } ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.CSV.firstHeadline",
   "id" : 84,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
@@ -282,7 +282,7 @@
   "slug" : "caps-protect",
   "socialMedia" : {
     "id" : 86,
-    "imageId" : 401,
+    "imageId" : 1124,
     "text" : "product.CSV.socialMedia.text",
     "title" : "product.CSV.socialMedia.title"
   },

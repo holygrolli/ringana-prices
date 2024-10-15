@@ -33,7 +33,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.CCB3.firstHeadline",
   "id" : 76,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,

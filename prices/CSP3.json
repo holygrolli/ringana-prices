@@ -36,7 +36,7 @@
     "posterMediaId" : 375
   },
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.CSP3.firstHeadline",
   "id" : 79,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
