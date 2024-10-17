@@ -5,7 +5,7 @@
     "type" : 2
   },
   "awards" : [ ],
-  "blogPostIds" : [ 156677, 146360, 168257 ],
+  "blogPostIds" : [ 156677, 168257, 54631 ],
   "categories" : [ {
     "id" : 9,
     "infoColorNeeded" : false,
@@ -139,56 +139,6 @@
     "slug" : "pack-shaker",
     "title" : "RINGANA Shaker & Shaker Ball",
     "unitContents" : "Stk."
-  }, {
-    "additionalUnitPrice" : {
-      "entity" : 60,
-      "type" : 1
-    },
-    "contentsAmount" : "39,1",
-    "currency" : "eur",
-    "description" : "BEYOND omega",
-    "imageId" : 440,
-    "matchcode" : "COV",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 2398.9,
-        "unit" : "g",
-        "unitId" : 812
-      },
-      "customer" : {
-        "brutto" : 93.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 52.7
-      },
-      "partner" : {
-        "brutto" : 93.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 52.7
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "beyond-omega",
-    "title" : "BEYOND omega",
-    "unitContents" : "g"
   } ],
   "imageGallery" : [ {
     "caption" : "",

@@ -1,0 +1,141 @@
+{
+  "matchcode" : "OME-SG-WPA",
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  } ],
+  "contentBlock" : null,
+  "contentsAmount" : null,
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 2315,
+  "idealSupplements" : [ ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3073,
+    "mediaId" : 3809
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
+  "isMerchandise" : false,
+  "maxPerCart" : 99999999,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
+    "customer" : {
+      "brutto" : 149.85,
+      "bruttoWithoutDiscount" : 166.5,
+      "discountPercentage" : 10,
+      "discountUntil" : "2024-10-17T21:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 72.01
+    },
+    "partner" : {
+      "brutto" : 149.85,
+      "bruttoWithoutDiscount" : 166.5,
+      "discountPercentage" : 10,
+      "discountUntil" : "2024-10-17T21:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 72.01
+    }
+  },
+  "purchasePossible" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "OME-SG"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "WPA"
+  } ],
+  "shortDescription" : "product.OME-SG-WPA.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "live-special-omega-antiox",
+  "socialMedia" : {
+    "id" : 2315,
+    "imageId" : null,
+    "text" : "",
+    "title" : ""
+  },
+  "soldOut" : false,
+  "supplementDescription" : "",
+  "tabs" : [ {
+    "description" : "product.OME-SG-WPA.tabs2760.description",
+    "id" : 2760,
+    "showPrintButton" : false,
+    "title" : "product.OME-SG-WPA.tabs2760.title"
+  }, {
+    "description" : "product.OME-SG-WPA.tabs2761.description",
+    "id" : 2761,
+    "showPrintButton" : false,
+    "title" : "product.OME-SG-WPA.tabs2761.title"
+  }, {
+    "description" : "product.OME-SG-WPA.tabs2762.description",
+    "id" : 2762,
+    "showPrintButton" : false,
+    "title" : "product.OME-SG-WPA.tabs2762.title"
+  }, {
+    "description" : "product.OME-SG-WPA.tabs2763.description",
+    "id" : 2763,
+    "showPrintButton" : false,
+    "title" : "product.OME-SG-WPA.tabs2763.title"
+  } ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#000",
+    "borderColor" : "#000000",
+    "fontSize" : 9,
+    "id" : 232,
+    "lineHeight" : 1.2,
+    "position" : "top-right",
+    "text" : "LIVE SPECIAL",
+    "textColor" : "#fff"
+  } ],
+  "title" : "Live Special - BEYOND omega & FRESH pack antiox",
+  "unit" : "Set",
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
+  "unitId" : 43586,
+  "usp" : "product.OME-SG-WPA.usp",
+  "values" : [ ],
+  "variants" : [ ]
+}

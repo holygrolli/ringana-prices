@@ -5,7 +5,7 @@
     "type" : 1
   },
   "awards" : [ ],
-  "blogPostIds" : [ 137378, 178302, 99745 ],
+  "blogPostIds" : [ 196283, 137378, 178302 ],
   "categories" : [ {
     "id" : 3,
     "infoColorNeeded" : false,
@@ -139,6 +139,53 @@
     "slug" : "fresh-tinted-moisturiser",
     "title" : "FRESH tinted moisturiser",
     "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "360",
+    "currency" : "eur",
+    "description" : "RINGANAisi",
+    "imageId" : 263,
+    "matchcode" : "RI12",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 154.7,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 55.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32
+      },
+      "partner" : {
+        "brutto" : 55.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringanaisi",
+    "title" : "RINGANAisi",
+    "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
@@ -209,7 +256,7 @@
   "slug" : "caps-fem",
   "socialMedia" : {
     "id" : 93,
-    "imageId" : 436,
+    "imageId" : 1156,
     "text" : "product.CFV.socialMedia.text",
     "title" : "product.CFV.socialMedia.title"
   },

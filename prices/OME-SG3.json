@@ -1,11 +1,11 @@
 {
-  "matchcode" : "COV",
+  "matchcode" : "OME-SG3",
   "additionalUnitPrice" : {
     "entity" : 60,
     "type" : 1
   },
   "awards" : [ ],
-  "blogPostIds" : [ 54631, 146360, 118137 ],
+  "blogPostIds" : [ 54631, 118137, 196283 ],
   "categories" : [ {
     "id" : 3,
     "infoColorNeeded" : false,
@@ -14,37 +14,35 @@
     "slug" : "caps",
     "visible" : true
   }, {
-    "id" : 18,
+    "id" : 99,
     "infoColorNeeded" : false,
-    "name" : "category.category18.name",
+    "name" : "category.category99.name",
     "primary" : false,
-    "slug" : "supplements",
-    "visible" : true
-  }, {
-    "id" : 74,
-    "infoColorNeeded" : false,
-    "name" : "category.category74.name",
-    "primary" : false,
-    "slug" : "better-aging",
+    "slug" : "supplement-sets",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "39,1",
+  "contentsAmount" : "150",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "disruptor" : {
-    "mediaId" : 439,
-    "posterMediaId" : 441
-  },
-  "faqs" : [ ],
-  "firstHeadline" : "",
-  "id" : 94,
+  "disruptor" : null,
+  "faqs" : [ {
+    "answer" : "product.OME-SG3.faqs0.answer",
+    "id" : 879,
+    "question" : "product.OME-SG3.faqs0.question"
+  }, {
+    "answer" : "product.OME-SG3.faqs1.answer",
+    "id" : 880,
+    "question" : "product.OME-SG3.faqs1.question"
+  } ],
+  "firstHeadline" : "product.OME-SG3.firstHeadline",
+  "id" : 2313,
   "idealSupplements" : [ {
     "additionalUnitPrice" : {
       "entity" : 26,
@@ -199,20 +197,20 @@
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 245,
-    "mediaId" : 440
+    "id" : 3069,
+    "mediaId" : 3806
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 248,
-    "mediaId" : 442
+    "id" : 3070,
+    "mediaId" : 3412
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 250,
-    "mediaId" : 444
+    "id" : 3071,
+    "mediaId" : 3805
   } ],
-  "infoColor" : "#8f648c",
+  "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
@@ -221,12 +219,12 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 2398.9,
+      "brutto" : 1594.6,
       "unit" : "g",
       "unitId" : 812
     },
     "customer" : {
-      "brutto" : 93.8,
+      "brutto" : 239.2,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -237,10 +235,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 52.7
+      "provisionPoints" : 120.5
     },
     "partner" : {
-      "brutto" : 93.8,
+      "brutto" : 239.2,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -251,91 +249,104 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 52.7
+      "provisionPoints" : 120.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
-  "setContents" : [ ],
-  "shortDescription" : "product.COV.shortDescription",
+  "setContents" : [ {
+    "amount" : 3,
+    "freeOfCharge" : false,
+    "matchcode" : "OME-SG"
+  } ],
+  "shortDescription" : "product.OME-SG3.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "beyond-omega",
+  "slug" : "beyond-omega-set",
   "socialMedia" : {
-    "id" : 94,
-    "imageId" : 438,
-    "text" : "product.COV.socialMedia.text",
-    "title" : "product.COV.socialMedia.title"
+    "id" : 2313,
+    "imageId" : 3806,
+    "text" : "product.OME-SG3.socialMedia.text",
+    "title" : "product.OME-SG3.socialMedia.title"
   },
   "soldOut" : false,
   "supplementDescription" : "BEYOND omega",
   "tabs" : [ {
-    "description" : "product.COV.tabs0.description",
-    "id" : 359,
+    "description" : "product.OME-SG3.tabs2752.description",
+    "id" : 2752,
     "showPrintButton" : false,
-    "title" : "product.COV.tabs0.title"
+    "title" : "product.OME-SG3.tabs2752.title"
   }, {
-    "description" : "product.COV.tabs1.description",
-    "id" : 363,
-    "showPrintButton" : true,
-    "title" : "product.COV.tabs1.title"
-  }, {
-    "description" : "product.COV.tabs2.description",
-    "id" : 366,
+    "description" : "product.OME-SG3.tabs2753.description",
+    "id" : 2753,
     "showPrintButton" : false,
-    "title" : "product.COV.tabs2.title"
+    "title" : "product.OME-SG3.tabs2753.title"
   }, {
-    "description" : "product.COV.tabs3.description",
-    "id" : 367,
+    "description" : "product.OME-SG3.tabs2754.description",
+    "id" : 2754,
     "showPrintButton" : false,
-    "title" : "product.COV.tabs3.title"
+    "title" : "product.OME-SG3.tabs2754.title"
+  }, {
+    "description" : "product.OME-SG3.tabs2755.description",
+    "id" : 2755,
+    "showPrintButton" : false,
+    "title" : "product.OME-SG3.tabs2755.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "BEYOND omega",
-  "unit" : "Pck.",
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 10,
+    "id" : 3,
+    "lineHeight" : 1.3,
+    "position" : "top-left",
+    "text" : "New Formu-lation",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "BEYOND omega, Set of 3",
+  "unit" : "Set",
   "unitContents" : "g",
   "unitContentsId" : 812,
-  "unitId" : 43589,
-  "usp" : "product.COV.usp",
+  "unitId" : 43586,
+  "usp" : "product.OME-SG3.usp",
   "values" : [ {
-    "iconMediaId" : 1112,
-    "name" : "value.value57.name"
-  }, {
-    "iconMediaId" : 1083,
-    "name" : "value.value28.name"
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
   }, {
     "iconMediaId" : 1061,
     "name" : "value.value6.name"
   }, {
+    "iconMediaId" : 1112,
+    "name" : "value.value57.name"
+  }, {
     "iconMediaId" : 1080,
     "name" : "value.value25.name"
   }, {
+    "iconMediaId" : 1075,
+    "name" : "value.value20.name"
+  }, {
     "iconMediaId" : 1058,
     "name" : "value.value3.name"
-  }, {
-    "iconMediaId" : 1121,
-    "name" : "value.value66.name"
   } ],
   "variants" : [ {
     "color" : null,
-    "id" : 164,
+    "id" : 1818,
     "language" : null,
-    "matchcode" : "COV",
+    "matchcode" : "OME-SG3",
     "name" : null,
-    "size" : 60,
-    "slug" : "beyond-omega",
+    "size" : 180,
+    "slug" : "beyond-omega-set",
     "type" : 2,
     "unit" : 1
   }, {
     "color" : null,
-    "id" : 165,
+    "id" : 1819,
     "language" : null,
-    "matchcode" : "COV3",
+    "matchcode" : "OME-SG",
     "name" : null,
-    "size" : 180,
-    "slug" : "beyond-omega-set",
+    "size" : 60,
+    "slug" : "beyond-omega",
     "type" : 2,
     "unit" : 1
   } ]
