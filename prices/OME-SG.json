@@ -57,7 +57,7 @@
       "text" : "product.OME-SG.contentBlockItem5.text"
     } ],
     "id" : 1,
-    "imageId" : 3838,
+    "imageId" : 3839,
     "imageLayoutLeft" : false,
     "subtitle" : "product.OME-SG.contentBlock.subtitle",
     "title" : "product.OME-SG.contentBlock.title"
@@ -65,8 +65,8 @@
   "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -292,7 +292,7 @@
       "provisionPoints" : 49.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],

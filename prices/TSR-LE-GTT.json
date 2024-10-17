@@ -26,8 +26,8 @@
   "contentsAmount" : "20",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -146,15 +146,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 104,
+      "brutto" : 130,
       "unit" : "g",
       "unitId" : 812
     },
     "customer" : {
-      "brutto" : 2.08,
-      "bruttoWithoutDiscount" : 2.6,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-10-25T08:00:00Z",
+      "brutto" : 2.6,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -162,13 +162,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0.72
+      "provisionPoints" : 1
     },
     "partner" : {
-      "brutto" : 2.08,
-      "bruttoWithoutDiscount" : 2.6,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-10-25T08:00:00Z",
+      "brutto" : 2.6,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -176,10 +176,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0.72
+      "provisionPoints" : 1
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -194,7 +194,7 @@
     "text" : "product.TSR-LE-GTT.socialMedia.text",
     "title" : "product.TSR-LE-GTT.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "fresh soap",
   "tabs" : [ {
     "description" : "product.TSR-LE-GTT.tabs0.description",
