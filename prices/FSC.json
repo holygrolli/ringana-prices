@@ -136,15 +136,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 156.8,
+        "brutto" : 196,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 19.6,
-        "bruttoWithoutDiscount" : 24.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2024-10-17T21:59:59Z",
+        "brutto" : 24.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -152,13 +152,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 9.86
+        "provisionPoints" : 13.7
       },
       "partner" : {
-        "brutto" : 19.6,
-        "bruttoWithoutDiscount" : 24.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2024-10-17T21:59:59Z",
+        "brutto" : 24.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -166,7 +166,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 9.86
+        "provisionPoints" : 13.7
       }
     },
     "purchasePossible" : true,
@@ -219,6 +219,53 @@
     "purchasePossible" : true,
     "slug" : "fresh-body-milk",
     "title" : "FRESH body milk",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "30",
+    "currency" : "eur",
+    "description" : "hydro serum",
+    "imageId" : 1123,
+    "matchcode" : "BHS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1943.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.8
+      },
+      "partner" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-hydro-serum",
+    "title" : "FRESH hydro serum",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {

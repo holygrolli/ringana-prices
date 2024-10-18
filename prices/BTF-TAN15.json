@@ -31,6 +31,20 @@
     "slug" : "offers",
     "visible" : true
   }, {
+    "id" : 77,
+    "infoColorNeeded" : false,
+    "name" : "category.category77.name",
+    "primary" : false,
+    "slug" : "hydrating",
+    "visible" : true
+  }, {
+    "id" : 7,
+    "infoColorNeeded" : false,
+    "name" : "category.category7.name",
+    "primary" : false,
+    "slug" : "face",
+    "visible" : true
+  }, {
     "id" : 83,
     "infoColorNeeded" : false,
     "name" : "category.category83.name",
@@ -50,20 +64,6 @@
     "name" : "category.category80.name",
     "primary" : false,
     "slug" : "anti-pollution",
-    "visible" : true
-  }, {
-    "id" : 77,
-    "infoColorNeeded" : false,
-    "name" : "category.category77.name",
-    "primary" : false,
-    "slug" : "hydrating",
-    "visible" : true
-  }, {
-    "id" : 7,
-    "infoColorNeeded" : false,
-    "name" : "category.category7.name",
-    "primary" : false,
-    "slug" : "face",
     "visible" : true
   }, {
     "id" : 92,
@@ -369,9 +369,6 @@
     "iconMediaId" : 1104,
     "name" : "value.value49.name"
   }, {
-    "iconMediaId" : 1090,
-    "name" : "value.value35.name"
-  }, {
     "iconMediaId" : 1089,
     "name" : "value.value34.name"
   }, {
@@ -383,6 +380,9 @@
   }, {
     "iconMediaId" : 1085,
     "name" : "value.value30.name"
+  }, {
+    "iconMediaId" : 1060,
+    "name" : "value.value5.name"
   } ],
   "variants" : [ {
     "color" : "#e0b8a4",

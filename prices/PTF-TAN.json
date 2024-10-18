@@ -30,6 +30,20 @@
     "slug" : "intern-cosmetics",
     "visible" : true
   }, {
+    "id" : 80,
+    "infoColorNeeded" : false,
+    "name" : "category.category80.name",
+    "primary" : false,
+    "slug" : "anti-pollution",
+    "visible" : true
+  }, {
+    "id" : 77,
+    "infoColorNeeded" : false,
+    "name" : "category.category77.name",
+    "primary" : false,
+    "slug" : "hydrating",
+    "visible" : true
+  }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
@@ -70,20 +84,6 @@
     "name" : "category.category81.name",
     "primary" : false,
     "slug" : "mature-skin",
-    "visible" : true
-  }, {
-    "id" : 80,
-    "infoColorNeeded" : false,
-    "name" : "category.category80.name",
-    "primary" : false,
-    "slug" : "anti-pollution",
-    "visible" : true
-  }, {
-    "id" : 77,
-    "infoColorNeeded" : false,
-    "name" : "category.category77.name",
-    "primary" : false,
-    "slug" : "hydrating",
     "visible" : true
   } ],
   "contentBlock" : null,
@@ -351,9 +351,6 @@
   "unitId" : 43592,
   "usp" : "product.PTF-TAN.usp",
   "values" : [ {
-    "iconMediaId" : 1090,
-    "name" : "value.value35.name"
-  }, {
     "iconMediaId" : 1061,
     "name" : "value.value6.name"
   }, {
@@ -368,6 +365,9 @@
   }, {
     "iconMediaId" : 1085,
     "name" : "value.value30.name"
+  }, {
+    "iconMediaId" : 1060,
+    "name" : "value.value5.name"
   } ],
   "variants" : [ {
     "color" : "#e0b8a4",

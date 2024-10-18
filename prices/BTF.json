@@ -356,9 +356,6 @@
   "unitId" : 996,
   "usp" : "product.BTF.usp",
   "values" : [ {
-    "iconMediaId" : 1090,
-    "name" : "value.value35.name"
-  }, {
     "iconMediaId" : 1061,
     "name" : "value.value6.name"
   }, {
@@ -373,6 +370,9 @@
   }, {
     "iconMediaId" : 1085,
     "name" : "value.value30.name"
+  }, {
+    "iconMediaId" : 1060,
+    "name" : "value.value5.name"
   } ],
   "variants" : [ {
     "color" : "#e0b8a4",

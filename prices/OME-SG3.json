@@ -1,23 +1,16 @@
 {
   "matchcode" : "OME-SG3",
   "additionalUnitPrice" : {
-    "entity" : 60,
+    "entity" : 180,
     "type" : 1
   },
   "awards" : [ ],
   "blogPostIds" : [ 54631, 118137, 196283 ],
   "categories" : [ {
-    "id" : 3,
-    "infoColorNeeded" : false,
-    "name" : "category.category3.name",
-    "primary" : true,
-    "slug" : "caps",
-    "visible" : true
-  }, {
     "id" : 99,
     "infoColorNeeded" : false,
     "name" : "category.category99.name",
-    "primary" : false,
+    "primary" : true,
     "slug" : "supplement-sets",
     "visible" : true
   } ],

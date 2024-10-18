@@ -174,6 +174,100 @@
     "slug" : "fresh-anti-wrinkle-serum",
     "title" : "FRESH anti wrinkle serum",
     "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "30",
+    "currency" : "eur",
+    "description" : "hydro serum",
+    "imageId" : 1123,
+    "matchcode" : "BHS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1943.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.8
+      },
+      "partner" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-hydro-serum",
+    "title" : "FRESH hydro serum",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "50",
+    "currency" : "eur",
+    "description" : "cream light",
+    "imageId" : 1126,
+    "matchcode" : "BCE",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 978,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 48.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.1
+      },
+      "partner" : {
+        "brutto" : 48.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.1
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-cream-light",
+    "title" : "FRESH cream light",
+    "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",

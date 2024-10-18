@@ -369,9 +369,6 @@
     "iconMediaId" : 1104,
     "name" : "value.value49.name"
   }, {
-    "iconMediaId" : 1090,
-    "name" : "value.value35.name"
-  }, {
     "iconMediaId" : 1089,
     "name" : "value.value34.name"
   }, {
@@ -383,6 +380,9 @@
   }, {
     "iconMediaId" : 1085,
     "name" : "value.value30.name"
+  }, {
+    "iconMediaId" : 1060,
+    "name" : "value.value5.name"
   } ],
   "variants" : [ {
     "color" : "#e0b8a4",

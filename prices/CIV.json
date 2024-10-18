@@ -142,6 +142,56 @@
     "slug" : "beyond-biotic",
     "title" : "BEYOND biotic",
     "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 60,
+      "type" : 1
+    },
+    "contentsAmount" : "50",
+    "currency" : "eur",
+    "description" : "BEYOND omega",
+    "imageId" : 3413,
+    "matchcode" : "OME-SG",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1772,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 88.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 49.6
+      },
+      "partner" : {
+        "brutto" : 88.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 49.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "beyond-omega",
+    "title" : "BEYOND omega",
+    "unitContents" : "g"
   } ],
   "imageGallery" : [ {
     "caption" : "",
@@ -168,15 +218,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 1035.5,
+      "brutto" : 1294.3,
       "unit" : "g",
       "unitId" : 812
     },
     "customer" : {
-      "brutto" : 44.32,
-      "bruttoWithoutDiscount" : 55.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-10-17T21:59:59Z",
+      "brutto" : 55.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -184,13 +234,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 22.03
+      "provisionPoints" : 30.6
     },
     "partner" : {
-      "brutto" : 44.32,
-      "bruttoWithoutDiscount" : 55.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-10-17T21:59:59Z",
+      "brutto" : 55.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -198,7 +248,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 22.03
+      "provisionPoints" : 30.6
     }
   },
   "purchasePossible" : true,

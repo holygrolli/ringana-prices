@@ -129,6 +129,56 @@
     "slug" : "set-for-men",
     "title" : "FRESH skin care set for men",
     "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 60,
+      "type" : 1
+    },
+    "contentsAmount" : "50",
+    "currency" : "eur",
+    "description" : "BEYOND omega",
+    "imageId" : 3413,
+    "matchcode" : "OME-SG",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1772,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 88.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 49.6
+      },
+      "partner" : {
+        "brutto" : 88.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 49.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "beyond-omega",
+    "title" : "BEYOND omega",
+    "unitContents" : "g"
   } ],
   "imageGallery" : [ {
     "caption" : "",

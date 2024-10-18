@@ -30,34 +30,6 @@
     "slug" : "fresh",
     "visible" : true
   }, {
-    "id" : 81,
-    "infoColorNeeded" : false,
-    "name" : "category.category81.name",
-    "primary" : false,
-    "slug" : "mature-skin",
-    "visible" : true
-  }, {
-    "id" : 78,
-    "infoColorNeeded" : false,
-    "name" : "category.category78.name",
-    "primary" : false,
-    "slug" : "cleansing",
-    "visible" : true
-  }, {
-    "id" : 77,
-    "infoColorNeeded" : false,
-    "name" : "category.category77.name",
-    "primary" : false,
-    "slug" : "hydrating",
-    "visible" : true
-  }, {
-    "id" : 76,
-    "infoColorNeeded" : false,
-    "name" : "category.category76.name",
-    "primary" : false,
-    "slug" : "toning",
-    "visible" : true
-  }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
@@ -91,6 +63,34 @@
     "name" : "category.category83.name",
     "primary" : false,
     "slug" : "oily-skin",
+    "visible" : true
+  }, {
+    "id" : 81,
+    "infoColorNeeded" : false,
+    "name" : "category.category81.name",
+    "primary" : false,
+    "slug" : "mature-skin",
+    "visible" : true
+  }, {
+    "id" : 78,
+    "infoColorNeeded" : false,
+    "name" : "category.category78.name",
+    "primary" : false,
+    "slug" : "cleansing",
+    "visible" : true
+  }, {
+    "id" : 77,
+    "infoColorNeeded" : false,
+    "name" : "category.category77.name",
+    "primary" : false,
+    "slug" : "hydrating",
+    "visible" : true
+  }, {
+    "id" : 76,
+    "infoColorNeeded" : false,
+    "name" : "category.category76.name",
+    "primary" : false,
+    "slug" : "toning",
     "visible" : true
   } ],
   "contentBlock" : null,
@@ -215,6 +215,53 @@
     "purchasePossible" : true,
     "slug" : "fresh-tonic-pure",
     "title" : "FRESH tonic pure",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "30",
+    "currency" : "eur",
+    "description" : "hydro serum",
+    "imageId" : 1123,
+    "matchcode" : "BHS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1943.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.8
+      },
+      "partner" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-hydro-serum",
+    "title" : "FRESH hydro serum",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
