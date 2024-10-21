@@ -23,11 +23,18 @@
     "slug" : "face",
     "visible" : true
   }, {
-    "id" : 86,
+    "id" : 201,
     "infoColorNeeded" : false,
-    "name" : "category.category86.name",
+    "name" : "category.category201.name",
     "primary" : false,
-    "slug" : "combination-skin",
+    "slug" : "step-3-toning",
+    "visible" : true
+  }, {
+    "id" : 76,
+    "infoColorNeeded" : false,
+    "name" : "category.category76.name",
+    "primary" : false,
+    "slug" : "toning",
     "visible" : true
   }, {
     "id" : 92,
@@ -35,6 +42,13 @@
     "name" : "category.category92.name",
     "primary" : false,
     "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 86,
+    "infoColorNeeded" : false,
+    "name" : "category.category86.name",
+    "primary" : false,
+    "slug" : "combination-skin",
     "visible" : true
   }, {
     "id" : 84,
@@ -49,13 +63,6 @@
     "name" : "category.category83.name",
     "primary" : false,
     "slug" : "oily-skin",
-    "visible" : true
-  }, {
-    "id" : 76,
-    "infoColorNeeded" : false,
-    "name" : "category.category76.name",
-    "primary" : false,
-    "slug" : "toning",
     "visible" : true
   }, {
     "id" : 17,

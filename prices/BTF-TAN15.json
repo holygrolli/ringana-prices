@@ -24,10 +24,17 @@
   } ],
   "blogPostIds" : [ ],
   "categories" : [ {
+    "id" : 7,
+    "infoColorNeeded" : false,
+    "name" : "category.category7.name",
+    "primary" : true,
+    "slug" : "face",
+    "visible" : true
+  }, {
     "id" : 9,
     "infoColorNeeded" : false,
     "name" : "category.category9.name",
-    "primary" : true,
+    "primary" : false,
     "slug" : "offers",
     "visible" : true
   }, {
@@ -36,13 +43,6 @@
     "name" : "category.category77.name",
     "primary" : false,
     "slug" : "hydrating",
-    "visible" : true
-  }, {
-    "id" : 7,
-    "infoColorNeeded" : false,
-    "name" : "category.category7.name",
-    "primary" : false,
-    "slug" : "face",
     "visible" : true
   }, {
     "id" : 83,
@@ -66,18 +66,18 @@
     "slug" : "anti-pollution",
     "visible" : true
   }, {
+    "id" : 204,
+    "infoColorNeeded" : false,
+    "name" : "category.category204.name",
+    "primary" : false,
+    "slug" : "step-6-protecting",
+    "visible" : true
+  }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
     "slug" : "facial-care",
-    "visible" : true
-  }, {
-    "id" : 17,
-    "infoColorNeeded" : false,
-    "name" : "category.category17.name",
-    "primary" : false,
-    "slug" : "fresh",
     "visible" : true
   }, {
     "id" : 91,
@@ -106,6 +106,13 @@
     "name" : "category.category84.name",
     "primary" : false,
     "slug" : "impure-skin",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
     "visible" : true
   } ],
   "contentBlock" : null,

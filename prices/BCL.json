@@ -30,13 +30,6 @@
     "slug" : "fresh",
     "visible" : true
   }, {
-    "id" : 77,
-    "infoColorNeeded" : false,
-    "name" : "category.category77.name",
-    "primary" : false,
-    "slug" : "hydrating",
-    "visible" : true
-  }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
@@ -63,6 +56,20 @@
     "name" : "category.category82.name",
     "primary" : false,
     "slug" : "dry-skin",
+    "visible" : true
+  }, {
+    "id" : 77,
+    "infoColorNeeded" : false,
+    "name" : "category.category77.name",
+    "primary" : false,
+    "slug" : "hydrating",
+    "visible" : true
+  }, {
+    "id" : 203,
+    "infoColorNeeded" : false,
+    "name" : "category.category203.name",
+    "primary" : false,
+    "slug" : "step-5-moisturising",
     "visible" : true
   } ],
   "contentBlock" : null,

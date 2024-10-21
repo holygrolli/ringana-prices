@@ -37,6 +37,13 @@
     "slug" : "facial-care",
     "visible" : true
   }, {
+    "id" : 202,
+    "infoColorNeeded" : false,
+    "name" : "category.category202.name",
+    "primary" : false,
+    "slug" : "step-4-hydrating",
+    "visible" : true
+  }, {
     "id" : 86,
     "infoColorNeeded" : false,
     "name" : "category.category86.name",

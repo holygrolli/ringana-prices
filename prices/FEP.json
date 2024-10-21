@@ -23,6 +23,13 @@
     "slug" : "face",
     "visible" : true
   }, {
+    "id" : 200,
+    "infoColorNeeded" : false,
+    "name" : "category.category200.name",
+    "primary" : false,
+    "slug" : "step-2-exfoliating",
+    "visible" : true
+  }, {
     "id" : 17,
     "infoColorNeeded" : false,
     "name" : "category.category17.name",

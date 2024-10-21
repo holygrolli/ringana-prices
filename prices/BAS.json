@@ -19,6 +19,13 @@
     "slug" : "face",
     "visible" : true
   }, {
+    "id" : 202,
+    "infoColorNeeded" : false,
+    "name" : "category.category202.name",
+    "primary" : false,
+    "slug" : "step-4-hydrating",
+    "visible" : true
+  }, {
     "id" : 17,
     "infoColorNeeded" : false,
     "name" : "category.category17.name",

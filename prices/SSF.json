@@ -38,6 +38,13 @@
     "slug" : "fresh",
     "visible" : true
   }, {
+    "id" : 204,
+    "infoColorNeeded" : false,
+    "name" : "category.category204.name",
+    "primary" : false,
+    "slug" : "step-6-protecting",
+    "visible" : true
+  }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",

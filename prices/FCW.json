@@ -30,6 +30,13 @@
     "slug" : "fresh",
     "visible" : true
   }, {
+    "id" : 199,
+    "infoColorNeeded" : false,
+    "name" : "category.category199.name",
+    "primary" : false,
+    "slug" : "step-1-cleansing",
+    "visible" : true
+  }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",

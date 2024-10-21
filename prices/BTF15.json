@@ -24,18 +24,25 @@
   } ],
   "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 9,
-    "infoColorNeeded" : false,
-    "name" : "category.category9.name",
-    "primary" : true,
-    "slug" : "offers",
-    "visible" : true
-  }, {
     "id" : 7,
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
-    "primary" : false,
+    "primary" : true,
     "slug" : "face",
+    "visible" : true
+  }, {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : false,
+    "slug" : "offers",
+    "visible" : true
+  }, {
+    "id" : 204,
+    "infoColorNeeded" : false,
+    "name" : "category.category204.name",
+    "primary" : false,
+    "slug" : "step-6-protecting",
     "visible" : true
   }, {
     "id" : 92,
