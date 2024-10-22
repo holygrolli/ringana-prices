@@ -246,10 +246,10 @@
   "press" : null,
   "priceInformation" : {
     "base" : {
-      "amount" : 1000,
-      "brutto" : 273.3,
-      "unit" : "ml",
-      "unitId" : 827
+      "amount" : 1,
+      "brutto" : 0.27,
+      "unit" : "Pck.",
+      "unitId" : 43589
     },
     "customer" : {
       "brutto" : 4.1,
@@ -321,8 +321,8 @@
   "teaserDots" : [ ],
   "title" : "FRESH after sun & tan booster sample",
   "unit" : "Reisegröße",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
+  "unitContents" : "Pck.",
+  "unitContentsId" : 43589,
   "unitId" : 43592,
   "usp" : "product.PBA.usp",
   "values" : [ {

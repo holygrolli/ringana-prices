@@ -77,7 +77,7 @@
     "name" : "category.category203.name",
     "primary" : false,
     "slug" : "step-5-moisturising",
-    "visible" : true
+    "visible" : false
   } ],
   "contentBlock" : null,
   "contentsAmount" : "50",

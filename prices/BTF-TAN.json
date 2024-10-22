@@ -37,13 +37,6 @@
     "slug" : "hydrating",
     "visible" : true
   }, {
-    "id" : 203,
-    "infoColorNeeded" : false,
-    "name" : "category.category203.name",
-    "primary" : false,
-    "slug" : "step-5-moisturising",
-    "visible" : true
-  }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",

@@ -42,8 +42,8 @@
   "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -280,7 +280,7 @@
       "provisionPoints" : 7.27
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -295,7 +295,7 @@
     "text" : "product.RBSS.socialMedia.text",
     "title" : "product.RBSS.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "baby sunscreen",
   "tabs" : [ {
     "description" : "product.RBSS.tabs0.description",

@@ -24,7 +24,7 @@
     "name" : "category.category202.name",
     "primary" : false,
     "slug" : "step-4-hydrating",
-    "visible" : true
+    "visible" : false
   }, {
     "id" : 17,
     "infoColorNeeded" : false,
