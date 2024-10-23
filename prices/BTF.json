@@ -35,7 +35,7 @@
     "name" : "category.category203.name",
     "primary" : false,
     "slug" : "step-5-moisturising",
-    "visible" : false
+    "visible" : true
   }, {
     "id" : 92,
     "infoColorNeeded" : false,
