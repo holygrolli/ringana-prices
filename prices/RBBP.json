@@ -89,15 +89,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 392,
+        "brutto" : 196,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 19.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 9.8,
+        "bruttoWithoutDiscount" : 19.6,
+        "discountPercentage" : 50,
+        "discountUntil" : "2024-11-08T09:00:00Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -105,13 +105,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 10.1
+        "provisionPoints" : 4.54
       },
       "partner" : {
-        "brutto" : 19.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 9.8,
+        "bruttoWithoutDiscount" : 19.6,
+        "discountPercentage" : 50,
+        "discountUntil" : "2024-11-08T09:00:00Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -119,10 +119,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 10.1
+        "provisionPoints" : 4.54
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-baby-sunscreen-spf-50",
     "title" : "FRESH baby sunscreen SPF 50",
     "unitContents" : "ml"
