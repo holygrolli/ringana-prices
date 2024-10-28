@@ -162,7 +162,7 @@
         "provisionPoints" : 13
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-sample-box-wash",
     "title" : "FRESH sample box wash",
     "unitContents" : "ml"

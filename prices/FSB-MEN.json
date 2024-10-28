@@ -68,7 +68,7 @@
         "provisionPoints" : 13
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-sample-box-wash",
     "title" : "FRESH sample box wash",
     "unitContents" : "ml"
@@ -115,7 +115,7 @@
         "provisionPoints" : 28.9
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "travel-set-for-men",
     "title" : "FRESH travel set for men",
     "unitContents" : "ml"

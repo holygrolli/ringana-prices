@@ -1,29 +1,29 @@
 {
-  "matchcode" : "FSBW",
+  "matchcode" : "RE24-LE-PB",
   "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ 93675, 173362, 172902 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 13,
+    "id" : 166,
     "infoColorNeeded" : false,
-    "name" : "category.category13.name",
+    "name" : "category.category166.name",
     "primary" : true,
-    "slug" : "samples",
+    "slug" : "limited-xmas-editions",
     "visible" : true
   }, {
-    "id" : 94,
+    "id" : 9,
     "infoColorNeeded" : false,
-    "name" : "category.category94.name",
+    "name" : "category.category9.name",
     "primary" : false,
-    "slug" : "washing-care",
+    "slug" : "offers",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "165",
+  "contentsAmount" : "720",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -31,14 +31,14 @@
   "disruptor" : null,
   "faqs" : [ ],
   "firstHeadline" : "",
-  "id" : 26,
+  "id" : 678,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : null,
+    "contentsAmount" : "1",
     "currency" : "eur",
-    "description" : "SAMPLE BOX",
-    "imageId" : 2323,
-    "matchcode" : "FSBB",
+    "description" : "SOULBOTTLE",
+    "imageId" : 223,
+    "matchcode" : "R-SB",
     "priceInformation" : {
       "base" : {
         "amount" : null,
@@ -47,7 +47,7 @@
         "unitId" : null
       },
       "customer" : {
-        "brutto" : 9.9,
+        "brutto" : 31.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -58,10 +58,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 3
+        "provisionPoints" : 0
       },
       "partner" : {
-        "brutto" : 9.9,
+        "brutto" : 31.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -72,76 +72,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 3
+        "provisionPoints" : 0
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-sample-box-body",
-    "title" : "FRESH sample box body",
-    "unitContents" : null
+    "slug" : "ringana-soulbottle",
+    "title" : "RINGANA Soulbottle",
+    "unitContents" : "Stk."
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "100",
+    "contentsAmount" : "360",
     "currency" : "eur",
-    "description" : "soapsoapsoap",
-    "imageId" : 546,
-    "matchcode" : "BSR",
+    "description" : "RINGANAchi",
+    "imageId" : 252,
+    "matchcode" : "RE12",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 106,
-        "unit" : "g",
-        "unitId" : 812
-      },
-      "customer" : {
-        "brutto" : 10.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 5
-      },
-      "partner" : {
-        "brutto" : 10.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 5
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-soap",
-    "title" : "FRESH soap",
-    "unitContents" : "g"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "5",
-    "currency" : "eur",
-    "description" : "lip balm",
-    "imageId" : 1159,
-    "matchcode" : "BLB",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 2420,
+        "brutto" : 138.3,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 12.1,
+        "brutto" : 49.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -152,10 +105,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 7
+        "provisionPoints" : 27
       },
       "partner" : {
-        "brutto" : 12.1,
+        "brutto" : 49.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -166,19 +119,66 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 7
+        "provisionPoints" : 27
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-lip-balm",
-    "title" : "FRESH lip balm",
+    "slug" : "ringanachi",
+    "title" : "RINGANAchi",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "360",
+    "currency" : "eur",
+    "description" : "RINGANAisi",
+    "imageId" : 263,
+    "matchcode" : "RI12",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 154.7,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 55.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32
+      },
+      "partner" : {
+        "brutto" : 55.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringanaisi",
+    "title" : "RINGANAisi",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 45,
-    "mediaId" : 2325
+    "id" : 1169,
+    "mediaId" : 1529
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -188,13 +188,13 @@
   "press" : null,
   "priceInformation" : {
     "base" : {
-      "amount" : null,
-      "brutto" : null,
-      "unit" : null,
-      "unitId" : null
+      "amount" : 1000,
+      "brutto" : 124.4,
+      "unit" : "ml",
+      "unitId" : 827
     },
     "customer" : {
-      "brutto" : 22.6,
+      "brutto" : 89.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -205,10 +205,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 13
+      "provisionPoints" : 46.2
     },
     "partner" : {
-      "brutto" : 22.6,
+      "brutto" : 89.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -219,70 +219,96 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 13
+      "provisionPoints" : 46.2
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
-    "amount" : 1,
+    "amount" : 2,
     "freeOfCharge" : false,
-    "matchcode" : "TDB"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "TRS"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "STF"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "PZO"
+    "matchcode" : "RE12-LE-PB"
   } ],
-  "shortDescription" : "product.FSBW.shortDescription",
+  "shortDescription" : "product.RE24-LE-PB.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "fresh-sample-box-wash",
+  "slug" : "ringanachi-punch-set",
   "socialMedia" : {
-    "id" : 25,
-    "imageId" : 152,
-    "text" : "product.FSBW.socialMedia.text",
-    "title" : "product.FSBW.socialMedia.title"
+    "id" : 678,
+    "imageId" : 1529,
+    "text" : "product.RE24-LE-PB.socialMedia.text",
+    "title" : "product.RE24-LE-PB.socialMedia.title"
   },
-  "soldOut" : true,
-  "supplementDescription" : "SAMPLE BOX",
+  "soldOut" : false,
+  "supplementDescription" : "RINGANAchi",
   "tabs" : [ {
-    "description" : "product.FSBW.tabs0.description",
-    "id" : 97,
+    "description" : "product.RE24-LE-PB.tabs0.description",
+    "id" : 1162,
     "showPrintButton" : false,
-    "title" : "product.FSBW.tabs0.title"
+    "title" : "product.RE24-LE-PB.tabs0.title"
   }, {
-    "description" : "product.FSBW.tabs1.description",
-    "id" : 98,
-    "showPrintButton" : true,
-    "title" : "product.FSBW.tabs1.title"
-  }, {
-    "description" : "product.FSBW.tabs2.description",
-    "id" : 99,
+    "description" : "product.RE24-LE-PB.tabs1.description",
+    "id" : 1163,
     "showPrintButton" : false,
-    "title" : "product.FSBW.tabs2.title"
+    "title" : "product.RE24-LE-PB.tabs1.title"
   }, {
-    "description" : "product.FSBW.tabs3.description",
-    "id" : 101,
+    "description" : "product.RE24-LE-PB.tabs2.description",
+    "id" : 1164,
     "showPrintButton" : false,
-    "title" : "product.FSBW.tabs3.title"
+    "title" : "product.RE24-LE-PB.tabs2.title"
+  }, {
+    "description" : "product.RE24-LE-PB.tabs3.description",
+    "id" : 1165,
+    "showPrintButton" : false,
+    "title" : "product.RE24-LE-PB.tabs3.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "FRESH sample box wash",
-  "unit" : "Pck.",
+  "teaserDots" : [ {
+    "backgroundColor" : "#273062",
+    "borderColor" : "#273062",
+    "fontSize" : 12,
+    "id" : 332,
+    "lineHeight" : 1,
+    "position" : "top-left",
+    "text" : "from 28.10.",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "RINGANAchi punch, Set of 2",
+  "unit" : "Set",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : 43589,
-  "usp" : "product.FSBW.usp",
-  "values" : [ ],
-  "variants" : [ ]
+  "unitId" : 43586,
+  "usp" : "product.RE24-LE-PB.usp",
+  "values" : [ {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  }, {
+    "iconMediaId" : 1072,
+    "name" : "value.value17.name"
+  }, {
+    "iconMediaId" : 1065,
+    "name" : "value.value10.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 925,
+    "language" : null,
+    "matchcode" : "RE24-LE-PB",
+    "name" : null,
+    "size" : 720,
+    "slug" : "ringanachi-punch-set",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 926,
+    "language" : null,
+    "matchcode" : "RE12-LE-PB",
+    "name" : null,
+    "size" : 360,
+    "slug" : "ringanachi-punch",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }

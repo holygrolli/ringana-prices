@@ -22,8 +22,8 @@
   "contentsAmount" : "360",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -222,7 +222,7 @@
       "provisionPoints" : 27
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -286,5 +286,25 @@
     "iconMediaId" : 1065,
     "name" : "value.value10.name"
   } ],
-  "variants" : [ ]
+  "variants" : [ {
+    "color" : null,
+    "id" : 1882,
+    "language" : null,
+    "matchcode" : "RE12-LE-PB",
+    "name" : null,
+    "size" : 360,
+    "slug" : "ringanachi-punch",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 1883,
+    "language" : null,
+    "matchcode" : "RE24-LE-PB",
+    "name" : null,
+    "size" : 720,
+    "slug" : "ringanachi-punch-set",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }
