@@ -181,6 +181,11 @@
     "captionLink" : null,
     "id" : 92,
     "mediaId" : 220
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3235,
+    "mediaId" : 4138
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -235,7 +240,7 @@
   "slug" : "ringana-shaker-buddy",
   "socialMedia" : {
     "id" : 47,
-    "imageId" : 220,
+    "imageId" : 4138,
     "text" : "product.RSBUDDY.socialMedia.text",
     "title" : "product.RSBUDDY.socialMedia.title"
   },
