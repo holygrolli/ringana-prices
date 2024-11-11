@@ -122,7 +122,7 @@
         "provisionPoints" : 4.54
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-baby-sunscreen-spf-50",
     "title" : "FRESH baby sunscreen SPF 50",
     "unitContents" : "ml"
