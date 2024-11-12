@@ -1,5 +1,5 @@
 {
-  "matchcode" : "RX-2024-1 ",
+  "matchcode" : "RX-2024-1",
   "additionalUnitPrice" : null,
   "awards" : [ ],
   "blogPostIds" : [ ],
@@ -31,7 +31,7 @@
   "disruptor" : null,
   "faqs" : [ ],
   "firstHeadline" : "product.RX-2024-1.firstHeadline",
-  "id" : 1852,
+  "id" : 2480,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
     "contentsAmount" : "125",
@@ -177,7 +177,7 @@
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 2607,
+    "id" : 3266,
     "mediaId" : 3311
   } ],
   "infoColor" : null,
@@ -240,7 +240,7 @@
   "skinTypes" : [ ],
   "slug" : "fresh-bright-eyes-xmas-set",
   "socialMedia" : {
-    "id" : 1852,
+    "id" : 2478,
     "imageId" : 3311,
     "text" : "product.RX-2024-1.socialMedia.text",
     "title" : "product.RX-2024-1.socialMedia.title"
@@ -248,25 +248,25 @@
   "soldOut" : false,
   "supplementDescription" : "bright eyes",
   "tabs" : [ {
-    "description" : "product.RX-2024-1.tabs2261.description",
-    "id" : 2261,
+    "description" : "product.RX-2024-1.tabs2884.description",
+    "id" : 2884,
     "showPrintButton" : false,
-    "title" : "product.RX-2024-1.tabs2261.title"
+    "title" : "product.RX-2024-1.tabs2884.title"
   }, {
-    "description" : "product.RX-2024-1.tabs2262.description",
-    "id" : 2262,
+    "description" : "product.RX-2024-1.tabs2885.description",
+    "id" : 2885,
     "showPrintButton" : false,
-    "title" : "product.RX-2024-1.tabs2262.title"
+    "title" : "product.RX-2024-1.tabs2885.title"
   }, {
-    "description" : "product.RX-2024-1.tabs2263.description",
-    "id" : 2263,
+    "description" : "product.RX-2024-1.tabs2886.description",
+    "id" : 2886,
     "showPrintButton" : false,
-    "title" : "product.RX-2024-1.tabs2263.title"
+    "title" : "product.RX-2024-1.tabs2886.title"
   }, {
-    "description" : "product.RX-2024-1.tabs2264.description",
-    "id" : 2264,
+    "description" : "product.RX-2024-1.tabs2887.description",
+    "id" : 2887,
     "showPrintButton" : false,
-    "title" : "product.RX-2024-1.tabs2264.title"
+    "title" : "product.RX-2024-1.tabs2887.title"
   } ],
   "teaserDots" : [ {
     "backgroundColor" : "#273062",
