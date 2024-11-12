@@ -22,8 +22,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -222,7 +222,7 @@
       "provisionPoints" : 11.9
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -245,7 +245,7 @@
     "text" : "product.RX-2024-4.socialMedia.text",
     "title" : "product.RX-2024-4.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "lip set",
   "tabs" : [ {
     "description" : "product.RX-2024-4.tabs2424.description",
@@ -271,11 +271,11 @@
   "teaserDots" : [ {
     "backgroundColor" : "#273062",
     "borderColor" : "#273062",
-    "fontSize" : 12,
-    "id" : 332,
+    "fontSize" : 10,
+    "id" : 397,
     "lineHeight" : 1,
     "position" : "top-left",
-    "text" : "from 28.10.",
+    "text" : "LIMITED EDITION",
     "textColor" : "#ffffff"
   } ],
   "title" : "FRESH lip balm x-mas set",

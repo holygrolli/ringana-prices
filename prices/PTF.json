@@ -90,8 +90,8 @@
   "contentsAmount" : "5",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -253,7 +253,7 @@
       "provisionPoints" : 5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -268,7 +268,7 @@
     "text" : "product.PTF.socialMedia.text",
     "title" : "product.PTF.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "NUANCE1",
   "tabs" : [ {
     "description" : "product.PTF.tabs0.description",
