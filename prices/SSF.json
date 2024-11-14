@@ -134,7 +134,7 @@
         "provisionPoints" : 28.2
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-sunscreen-spf-25",
     "title" : "FRESH sunscreen",
     "unitContents" : "ml"
