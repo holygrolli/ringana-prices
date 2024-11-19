@@ -30,8 +30,8 @@
   "contentsAmount" : "20",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -230,7 +230,7 @@
       "provisionPoints" : 1
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -245,7 +245,7 @@
     "text" : "product.TSR-LE-MO.socialMedia.text",
     "title" : "product.TSR-LE-MO.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "FRESH soap mandarine & orange",
   "tabs" : [ {
     "description" : "product.TSR-LE-MO.tabs2686.description",
