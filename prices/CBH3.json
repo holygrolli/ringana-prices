@@ -92,15 +92,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 82.4,
+        "brutto" : 103,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 16.48,
-        "bruttoWithoutDiscount" : 20.6,
-        "discountPercentage" : 20,
-        "discountUntil" : "2024-11-25T22:59:59Z",
+        "brutto" : 20.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -108,13 +108,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 8.64
+        "provisionPoints" : 12
       },
       "partner" : {
-        "brutto" : 16.48,
-        "bruttoWithoutDiscount" : 20.6,
-        "discountPercentage" : 20,
-        "discountUntil" : "2024-11-25T22:59:59Z",
+        "brutto" : 20.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -122,10 +122,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 8.64
+        "provisionPoints" : 12
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-shampoonbc7",
     "title" : "FRESH shampoo",
     "unitContents" : "ml"
