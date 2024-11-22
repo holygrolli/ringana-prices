@@ -188,6 +188,11 @@
     "captionLink" : null,
     "id" : 2739,
     "mediaId" : 3509
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3464,
+    "mediaId" : 4401
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -268,6 +273,11 @@
     "id" : 2393,
     "showPrintButton" : false,
     "title" : "product.BLB-R-S-P.tabs2393.title"
+  }, {
+    "description" : "product.BLB-R-S-P.tabs3083.description",
+    "id" : 3083,
+    "showPrintButton" : false,
+    "title" : "product.BLB-R-S-P.tabs3083.title"
   } ],
   "teaserDots" : [ {
     "backgroundColor" : "#273062",

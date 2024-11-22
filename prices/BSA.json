@@ -345,6 +345,11 @@
     "id" : 600,
     "showPrintButton" : false,
     "title" : "product.BSA.tabs3.title"
+  }, {
+    "description" : "product.BSA.tabs3082.description",
+    "id" : 3082,
+    "showPrintButton" : false,
+    "title" : "product.BSA.tabs3082.title"
   } ],
   "teaserDots" : [ ],
   "title" : "FRESH anti wrinkle serum",
