@@ -142,7 +142,7 @@
     }
   },
   "purchasePossible" : true,
-  "searchable" : false,
+  "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
   "shortDescription" : "product.FHSV.shortDescription",

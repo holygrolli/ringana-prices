@@ -19,6 +19,13 @@
     "slug" : "fresh",
     "visible" : true
   }, {
+    "id" : 7,
+    "infoColorNeeded" : false,
+    "name" : "category.category7.name",
+    "primary" : false,
+    "slug" : "face",
+    "visible" : true
+  }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
