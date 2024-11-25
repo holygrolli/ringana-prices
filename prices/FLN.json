@@ -1,100 +1,97 @@
 {
-  "matchcode" : "RE12-LE-PB",
+  "matchcode" : "FLN",
   "additionalUnitPrice" : null,
-  "awards" : [ ],
+  "awards" : [ {
+    "imageId" : 1044,
+    "link" : "https://skin.li/6zcmikf7",
+    "name" : "cosmeticsanalysis.com - FRESH skin perfection"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  } ],
   "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 166,
+    "id" : 17,
     "infoColorNeeded" : false,
-    "name" : "category.category166.name",
+    "name" : "category.category17.name",
     "primary" : true,
-    "slug" : "limited-xmas-editions",
+    "slug" : "fresh",
     "visible" : true
   }, {
-    "id" : 9,
+    "id" : 92,
     "infoColorNeeded" : false,
-    "name" : "category.category9.name",
+    "name" : "category.category92.name",
     "primary" : false,
-    "slug" : "offers",
+    "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 82,
+    "infoColorNeeded" : false,
+    "name" : "category.category82.name",
+    "primary" : false,
+    "slug" : "dry-skin",
+    "visible" : true
+  }, {
+    "id" : 81,
+    "infoColorNeeded" : false,
+    "name" : "category.category81.name",
+    "primary" : false,
+    "slug" : "mature-skin",
+    "visible" : true
+  }, {
+    "id" : 77,
+    "infoColorNeeded" : false,
+    "name" : "category.category77.name",
+    "primary" : false,
+    "slug" : "hydrating",
+    "visible" : true
+  }, {
+    "id" : 75,
+    "infoColorNeeded" : false,
+    "name" : "category.category75.name",
+    "primary" : false,
+    "slug" : "lifting",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "360",
+  "contentsAmount" : "30",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
-  "faqs" : [ ],
-  "firstHeadline" : "",
-  "id" : 677,
+  "faqs" : [ {
+    "answer" : "product.FLN.faqs0.answer",
+    "id" : 978,
+    "question" : "product.FLN.faqs0.question"
+  }, {
+    "answer" : "product.FLN.faqs1.answer",
+    "id" : 979,
+    "question" : "product.FLN.faqs1.question"
+  } ],
+  "firstHeadline" : "product.FLN.firstHeadline",
+  "id" : 2709,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "1",
+    "contentsAmount" : "30",
     "currency" : "eur",
-    "description" : "SOULBOTTLE",
-    "imageId" : 223,
-    "matchcode" : "R-SB",
-    "priceInformation" : {
-      "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
-      },
-      "customer" : {
-        "brutto" : 31.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 0
-      },
-      "partner" : {
-        "brutto" : 31.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 0
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "ringana-soulbottle",
-    "title" : "RINGANA Soulbottle",
-    "unitContents" : "Stk."
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "360",
-    "currency" : "eur",
-    "description" : "RINGANAchi",
-    "imageId" : 252,
-    "matchcode" : "RE12",
+    "description" : "overnight",
+    "imageId" : 679,
+    "matchcode" : "BCN",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 138.3,
+        "brutto" : 2650,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 49.8,
+        "brutto" : 79.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -105,10 +102,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 27
+        "provisionPoints" : 46.7
       },
       "partner" : {
-        "brutto" : 49.8,
+        "brutto" : 79.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -119,29 +116,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 27
+        "provisionPoints" : 46.7
       }
     },
     "purchasePossible" : true,
-    "slug" : "ringanachi",
-    "title" : "RINGANAchi",
+    "slug" : "fresh-overnight-face-treatment",
+    "title" : "FRESH overnight face treatment",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "360",
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "RINGANAisi",
-    "imageId" : 263,
-    "matchcode" : "RI12",
+    "description" : "overnight",
+    "imageId" : 592,
+    "matchcode" : "BBN",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 154.7,
+        "brutto" : 598.4,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 55.7,
+        "brutto" : 74.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -152,10 +149,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32
+        "provisionPoints" : 44.6
       },
       "partner" : {
-        "brutto" : 55.7,
+        "brutto" : 74.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -166,22 +163,89 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32
+        "provisionPoints" : 44.6
       }
     },
     "purchasePossible" : true,
-    "slug" : "ringanaisi",
-    "title" : "RINGANAisi",
+    "slug" : "fresh-overnight-body-treatment",
+    "title" : "FRESH overnight body treatment",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "15",
+    "currency" : "eur",
+    "description" : "eye serum",
+    "imageId" : 707,
+    "matchcode" : "BAS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 3160,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 47.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 27.5
+      },
+      "partner" : {
+        "brutto" : 47.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 27.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-eye-serum",
+    "title" : "FRESH eye serum",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 1168,
-    "mediaId" : 1528
+    "id" : 3497,
+    "mediaId" : 4267
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3498,
+    "mediaId" : 4335
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3499,
+    "mediaId" : 4269
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3500,
+    "mediaId" : 4268
+  }, {
+    "caption" : "product.FLN.imageGallery3501.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 3501,
+    "mediaId" : 4336
   } ],
   "infoColor" : null,
-  "isFreshCosmeticsProduct" : false,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
   "nemBackgroundColor" : null,
@@ -189,12 +253,12 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 138.3,
+      "brutto" : 2983.3,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 49.8,
+      "brutto" : 89.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -205,10 +269,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 27
+      "provisionPoints" : 52.5
     },
     "partner" : {
-      "brutto" : 49.8,
+      "brutto" : 89.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -219,92 +283,81 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 27
+      "provisionPoints" : 52.5
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
-  "shortDescription" : "product.RE12-LE-PB.shortDescription",
+  "shortDescription" : "product.FLN.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "ringanachi-punch",
+  "slug" : "fresh-skin-perfection",
   "socialMedia" : {
-    "id" : 677,
-    "imageId" : 1528,
-    "text" : "product.RE12-LE-PB.socialMedia.text",
-    "title" : "product.RE12-LE-PB.socialMedia.title"
+    "id" : 2709,
+    "imageId" : 4268,
+    "text" : "",
+    "title" : ""
   },
-  "soldOut" : true,
-  "supplementDescription" : "RINGANAchi",
+  "soldOut" : false,
+  "supplementDescription" : "perfection",
   "tabs" : [ {
-    "description" : "product.RE12-LE-PB.tabs0.description",
-    "id" : 1158,
+    "description" : "product.FLN.tabs3115.description",
+    "id" : 3115,
     "showPrintButton" : false,
-    "title" : "product.RE12-LE-PB.tabs0.title"
+    "title" : "product.FLN.tabs3115.title"
   }, {
-    "description" : "product.RE12-LE-PB.tabs1.description",
-    "id" : 1159,
+    "description" : "product.FLN.tabs3116.description",
+    "id" : 3116,
     "showPrintButton" : false,
-    "title" : "product.RE12-LE-PB.tabs1.title"
+    "title" : "product.FLN.tabs3116.title"
   }, {
-    "description" : "product.RE12-LE-PB.tabs2.description",
-    "id" : 1160,
+    "description" : "product.FLN.tabs3117.description",
+    "id" : 3117,
     "showPrintButton" : false,
-    "title" : "product.RE12-LE-PB.tabs2.title"
+    "title" : "product.FLN.tabs3117.title"
   }, {
-    "description" : "product.RE12-LE-PB.tabs3.description",
-    "id" : 1161,
+    "description" : "product.FLN.tabs3118.description",
+    "id" : 3118,
     "showPrintButton" : false,
-    "title" : "product.RE12-LE-PB.tabs3.title"
+    "title" : "product.FLN.tabs3118.title"
   } ],
   "teaserDots" : [ {
-    "backgroundColor" : "#273062",
-    "borderColor" : "#273062",
-    "fontSize" : 10,
-    "id" : 397,
-    "lineHeight" : 1,
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 11,
+    "id" : 7,
+    "lineHeight" : 1.2,
     "position" : "top-left",
-    "text" : "LIMITED EDITION",
+    "text" : "BRAND NEW",
     "textColor" : "#ffffff"
   } ],
-  "title" : "RINGANAchi punch",
-  "unit" : "Pck.",
+  "title" : "FRESH skin perfection",
+  "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : 43589,
-  "usp" : "product.RE12-LE-PB.usp",
+  "unitId" : 996,
+  "usp" : "product.FLN.usp",
   "values" : [ {
-    "iconMediaId" : 1121,
-    "name" : "value.value66.name"
+    "iconMediaId" : 1112,
+    "name" : "value.value57.name"
   }, {
-    "iconMediaId" : 1072,
-    "name" : "value.value17.name"
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
   }, {
-    "iconMediaId" : 1065,
-    "name" : "value.value10.name"
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1085,
+    "name" : "value.value30.name"
+  }, {
+    "iconMediaId" : 1074,
+    "name" : "value.value19.name"
   } ],
-  "variants" : [ {
-    "color" : null,
-    "id" : 1882,
-    "language" : null,
-    "matchcode" : "RE12-LE-PB",
-    "name" : null,
-    "size" : 360,
-    "slug" : "ringanachi-punch",
-    "type" : 2,
-    "unit" : 6
-  }, {
-    "color" : null,
-    "id" : 1883,
-    "language" : null,
-    "matchcode" : "RE24-LE-PB",
-    "name" : null,
-    "size" : 720,
-    "slug" : "ringanachi-punch-set",
-    "type" : 2,
-    "unit" : 6
-  } ]
+  "variants" : [ ]
 }

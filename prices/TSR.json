@@ -1,8 +1,32 @@
 {
-  "matchcode" : "FSBW",
+  "matchcode" : "TSR",
   "additionalUnitPrice" : null,
-  "awards" : [ ],
-  "blogPostIds" : [ 93675, 173362, 172902 ],
+  "awards" : [ {
+    "imageId" : 1826,
+    "link" : null,
+    "name" : "Reusable Materials"
+  }, {
+    "imageId" : 1053,
+    "link" : "https://www.umweltzeichen.at/de/produkte/haushalt-reinigung?cert_number=UW+1162",
+    "name" : "Umweltzeichen"
+  }, {
+    "imageId" : 1049,
+    "link" : "https://www.lacon-institut.com/en/philosophy/",
+    "name" : "Lacon"
+  }, {
+    "imageId" : 1047,
+    "link" : "https://www.umweltzeichen.at/de/ecolabel/living-and-cosmetics?cert_number=AT/030/004",
+    "name" : "EU Ecolabel"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/80e6acfc",
+    "name" : "cosmeticsanalysis.com - FRESH soap"
+  } ],
+  "blogPostIds" : [ ],
   "categories" : [ {
     "id" : 13,
     "infoColorNeeded" : false,
@@ -11,19 +35,19 @@
     "slug" : "samples",
     "visible" : true
   }, {
-    "id" : 94,
+    "id" : 9,
     "infoColorNeeded" : false,
-    "name" : "category.category94.name",
+    "name" : "category.category9.name",
     "primary" : false,
-    "slug" : "washing-care",
+    "slug" : "offers",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "165",
+  "contentsAmount" : "20",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -31,117 +55,23 @@
   "disruptor" : null,
   "faqs" : [ ],
   "firstHeadline" : "",
-  "id" : 26,
+  "id" : 795,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : null,
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "SAMPLE BOX",
-    "imageId" : 2323,
-    "matchcode" : "FSBB",
-    "priceInformation" : {
-      "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
-      },
-      "customer" : {
-        "brutto" : 9.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 3
-      },
-      "partner" : {
-        "brutto" : 9.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 3
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-sample-box-body",
-    "title" : "FRESH sample box body",
-    "unitContents" : null
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "100",
-    "currency" : "eur",
-    "description" : "soapsoapsoap",
-    "imageId" : 546,
-    "matchcode" : "BSR",
+    "description" : "hand balm",
+    "imageId" : 572,
+    "matchcode" : "BHB",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 106,
-        "unit" : "g",
-        "unitId" : 812
-      },
-      "customer" : {
-        "brutto" : 10.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 5
-      },
-      "partner" : {
-        "brutto" : 10.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 5
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-soap",
-    "title" : "FRESH soap",
-    "unitContents" : "g"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "5",
-    "currency" : "eur",
-    "description" : "lip balm",
-    "imageId" : 1159,
-    "matchcode" : "BLB",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 2420,
+        "brutto" : 196,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 12.1,
+        "brutto" : 24.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -152,10 +82,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 7
+        "provisionPoints" : 13.7
       },
       "partner" : {
-        "brutto" : 12.1,
+        "brutto" : 24.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -166,19 +96,123 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 7
+        "provisionPoints" : 13.7
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-lip-balm",
-    "title" : "FRESH lip balm",
+    "slug" : "fresh-hand-balm",
+    "title" : "FRESH hand balm",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "50",
+    "currency" : "eur",
+    "description" : "stay fresh",
+    "imageId" : 553,
+    "matchcode" : "STF",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 218,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 10.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5.7
+      },
+      "partner" : {
+        "brutto" : 10.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-stay-fresh",
+    "title" : "FRESH stay fresh",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "255",
+    "currency" : "eur",
+    "description" : "soap liquid",
+    "imageId" : 567,
+    "matchcode" : "FSLP",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 80,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 20.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 11.6
+      },
+      "partner" : {
+        "brutto" : 20.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 11.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-soap-liquid",
+    "title" : "FRESH soap liquid",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 45,
-    "mediaId" : 2325
+    "id" : 1286,
+    "mediaId" : 1627
+  }, {
+    "caption" : "product.TSR.imageGallery1320.caption",
+    "captionLink" : "corporate/products/care-facts",
+    "id" : 1320,
+    "mediaId" : 548
+  }, {
+    "caption" : "product.TSR.imageGallery1321.caption",
+    "captionLink" : "corporate/products/care-facts",
+    "id" : 1321,
+    "mediaId" : 549
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -188,13 +222,13 @@
   "press" : null,
   "priceInformation" : {
     "base" : {
-      "amount" : null,
-      "brutto" : null,
-      "unit" : null,
-      "unitId" : null
+      "amount" : 1000,
+      "brutto" : 120,
+      "unit" : "g",
+      "unitId" : 812
     },
     "customer" : {
-      "brutto" : 22.6,
+      "brutto" : 2.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -205,10 +239,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 13
+      "provisionPoints" : 1
     },
     "partner" : {
-      "brutto" : 22.6,
+      "brutto" : 2.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -219,70 +253,83 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 13
+      "provisionPoints" : 1
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
-  "setContents" : [ {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "TDB"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "TRS"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "STF"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "PZO"
-  } ],
-  "shortDescription" : "product.FSBW.shortDescription",
+  "setContents" : [ ],
+  "shortDescription" : "product.TSR.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "fresh-sample-box-wash",
+  "slug" : "fresh-soap-sample",
   "socialMedia" : {
-    "id" : 25,
-    "imageId" : 152,
-    "text" : "product.FSBW.socialMedia.text",
-    "title" : "product.FSBW.socialMedia.title"
+    "id" : 795,
+    "imageId" : 1627,
+    "text" : "product.TSR.socialMedia.text",
+    "title" : "product.TSR.socialMedia.title"
   },
-  "soldOut" : true,
-  "supplementDescription" : "SAMPLE BOX",
+  "soldOut" : false,
+  "supplementDescription" : "soap sample",
   "tabs" : [ {
-    "description" : "product.FSBW.tabs0.description",
-    "id" : 97,
+    "description" : "product.TSR.tabs0.description",
+    "id" : 1267,
     "showPrintButton" : false,
-    "title" : "product.FSBW.tabs0.title"
+    "title" : "product.TSR.tabs0.title"
   }, {
-    "description" : "product.FSBW.tabs1.description",
-    "id" : 98,
-    "showPrintButton" : true,
-    "title" : "product.FSBW.tabs1.title"
-  }, {
-    "description" : "product.FSBW.tabs2.description",
-    "id" : 99,
+    "description" : "product.TSR.tabs1.description",
+    "id" : 1268,
     "showPrintButton" : false,
-    "title" : "product.FSBW.tabs2.title"
+    "title" : "product.TSR.tabs1.title"
   }, {
-    "description" : "product.FSBW.tabs3.description",
-    "id" : 101,
+    "description" : "product.TSR.tabs2.description",
+    "id" : 1269,
     "showPrintButton" : false,
-    "title" : "product.FSBW.tabs3.title"
+    "title" : "product.TSR.tabs2.title"
+  }, {
+    "description" : "product.TSR.tabs3.description",
+    "id" : 1270,
+    "showPrintButton" : false,
+    "title" : "product.TSR.tabs3.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "FRESH sample box wash",
-  "unit" : "Pck.",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
-  "unitId" : 43589,
-  "usp" : "product.FSBW.usp",
-  "values" : [ ],
-  "variants" : [ ]
+  "title" : "FRESH soap sample",
+  "unit" : null,
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : null,
+  "usp" : "product.TSR.usp",
+  "values" : [ {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1069,
+    "name" : "value.value14.name"
+  }, {
+    "iconMediaId" : 1057,
+    "name" : "value.value2.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 991,
+    "language" : null,
+    "matchcode" : "TSR",
+    "name" : null,
+    "size" : 20,
+    "slug" : "fresh-soap-sample",
+    "type" : 2,
+    "unit" : 2
+  }, {
+    "color" : null,
+    "id" : 992,
+    "language" : null,
+    "matchcode" : "BSR",
+    "name" : null,
+    "size" : 100,
+    "slug" : "fresh-soap",
+    "type" : 2,
+    "unit" : 2
+  } ]
 }

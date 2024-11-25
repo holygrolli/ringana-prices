@@ -84,53 +84,6 @@
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "200",
-    "currency" : "eur",
-    "description" : "shampoo",
-    "imageId" : 1166,
-    "matchcode" : "BRS",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 103,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 20.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 12
-      },
-      "partner" : {
-        "brutto" : 20.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 12
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "fresh-shampoonbc7",
-    "title" : "FRESH shampoo",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
     "currency" : "eur",
     "description" : "enzyme mask",

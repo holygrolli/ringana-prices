@@ -117,7 +117,7 @@
     "contentsAmount" : "125",
     "currency" : "eur",
     "description" : "hair treatment",
-    "imageId" : 528,
+    "imageId" : 4465,
     "matchcode" : "FHT",
     "priceInformation" : {
       "base" : {
@@ -155,7 +155,7 @@
         "provisionPoints" : 16.2
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-hair-treatment",
     "title" : "FRESH hair treatment",
     "unitContents" : "ml"

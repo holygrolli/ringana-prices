@@ -123,53 +123,6 @@
     "title" : "SPORT boost",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "125",
-    "currency" : "eur",
-    "description" : "SPORT go",
-    "imageId" : 469,
-    "matchcode" : "RSG",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 205.6,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 25.7,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 16.2
-      },
-      "partner" : {
-        "brutto" : 25.7,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 16.2
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "ringana-sport-go",
-    "title" : "SPORT go",
-    "unitContents" : "ml"
-  }, {
     "additionalUnitPrice" : {
       "entity" : 90,
       "type" : 1

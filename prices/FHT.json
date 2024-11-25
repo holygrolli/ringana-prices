@@ -14,7 +14,7 @@
     "link" : "https://skin.li/n3xs1yzr",
     "name" : "cosmeticsanalysis.com - FRESH hair treatment"
   } ],
-  "blogPostIds" : [ 172902, 113040, 160856 ],
+  "blogPostIds" : [ 198188, 197488, 197501 ],
   "categories" : [ {
     "id" : 8,
     "infoColorNeeded" : false,
@@ -62,8 +62,8 @@
   "contentsAmount" : "125",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -73,100 +73,6 @@
   "firstHeadline" : "product.FHT.firstHeadline",
   "id" : 109,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "200",
-    "currency" : "eur",
-    "description" : "shampoo",
-    "imageId" : 1166,
-    "matchcode" : "BRS",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 103,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 20.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 12
-      },
-      "partner" : {
-        "brutto" : 20.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 12
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "fresh-shampoonbc7",
-    "title" : "FRESH shampoo",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "700",
-    "currency" : "eur",
-    "description" : "Wash care",
-    "imageId" : 526,
-    "matchcode" : "FWCS",
-    "priceInformation" : {
-      "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
-      },
-      "customer" : {
-        "brutto" : 71,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 35.8
-      },
-      "partner" : {
-        "brutto" : 71,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 35.8
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-wash-care-set",
-    "title" : "FRESH wash care set",
-    "unitContents" : "ml"
-  }, {
     "additionalUnitPrice" : {
       "entity" : 90,
       "type" : 1
@@ -216,17 +122,111 @@
     "slug" : "caps-beautyhair",
     "title" : "CAPS beauty & hair",
     "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "200",
+    "currency" : "eur",
+    "description" : "volume",
+    "imageId" : 4366,
+    "matchcode" : "FHSV",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 103,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 20.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 12
+      },
+      "partner" : {
+        "brutto" : 20.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 12
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-volume-shampoo",
+    "title" : "FRESH volume shampoo",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "200",
+    "currency" : "eur",
+    "description" : "repair",
+    "imageId" : 4339,
+    "matchcode" : "FHSR",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 103,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 20.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 12
+      },
+      "partner" : {
+        "brutto" : 20.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 12
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-repair-shampoo",
+    "title" : "FRESH repair shampoo",
+    "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
     "id" : 303,
-    "mediaId" : 528
+    "mediaId" : 4465
   }, {
     "caption" : "product.FHT.imageGallery4.caption",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
     "id" : 307,
-    "mediaId" : 534
+    "mediaId" : 4168
   }, {
     "caption" : "",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
@@ -236,12 +236,7 @@
     "caption" : "product.FHT.imageGallery304.caption",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
     "id" : 304,
-    "mediaId" : 531
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 305,
-    "mediaId" : 532
+    "mediaId" : 4234
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
@@ -285,7 +280,7 @@
       "provisionPoints" : 16.2
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -296,11 +291,11 @@
   "slug" : "fresh-hair-treatment",
   "socialMedia" : {
     "id" : 109,
-    "imageId" : 527,
-    "text" : "product.FHT.socialMedia.text",
+    "imageId" : 1263,
+    "text" : "",
     "title" : "product.FHT.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "hair treatment",
   "tabs" : [ {
     "description" : "product.FHT.tabs0.description",
@@ -323,7 +318,16 @@
     "showPrintButton" : false,
     "title" : "product.FHT.tabs3.title"
   } ],
-  "teaserDots" : [ ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 10,
+    "id" : 3,
+    "lineHeight" : 1.3,
+    "position" : "top-left",
+    "text" : "New Formu-lation",
+    "textColor" : "#ffffff"
+  } ],
   "title" : "FRESH hair treatment",
   "unit" : "Stk.",
   "unitContents" : "ml",
@@ -331,12 +335,6 @@
   "unitId" : 996,
   "usp" : "product.FHT.usp",
   "values" : [ {
-    "iconMediaId" : 1091,
-    "name" : "value.value36.name"
-  }, {
-    "iconMediaId" : 1102,
-    "name" : "value.value47.name"
-  }, {
     "iconMediaId" : 1059,
     "name" : "value.value4.name"
   }, {
@@ -346,8 +344,14 @@
     "iconMediaId" : 1068,
     "name" : "value.value13.name"
   }, {
-    "iconMediaId" : 1113,
-    "name" : "value.value58.name"
+    "iconMediaId" : 4400,
+    "name" : "value.value101.name"
+  }, {
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
   } ],
   "variants" : [ ]
 }

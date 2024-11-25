@@ -29,8 +29,8 @@
   "contentsAmount" : "700",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -229,7 +229,7 @@
       "provisionPoints" : 35.8
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -268,7 +268,7 @@
     "text" : "product.FWCS.socialMedia.text",
     "title" : "product.FWCS.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "Wash care",
   "tabs" : [ {
     "description" : "product.FWCS.tabs0.description",

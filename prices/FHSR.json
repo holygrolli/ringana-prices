@@ -1,0 +1,243 @@
+{
+  "matchcode" : "FHSR",
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1044,
+    "link" : "https://skin.li/bvwuyscx",
+    "name" : "cosmeticsanalysis.com - FRESH repair shampoo"
+  }, {
+    "imageId" : 1046,
+    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
+    "name" : "COSMOS Organic"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  } ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 8,
+    "infoColorNeeded" : false,
+    "name" : "category.category8.name",
+    "primary" : true,
+    "slug" : "hair",
+    "visible" : true
+  }, {
+    "id" : 90,
+    "infoColorNeeded" : false,
+    "name" : "category.category90.name",
+    "primary" : false,
+    "slug" : "hair-care",
+    "visible" : true
+  }, {
+    "id" : 79,
+    "infoColorNeeded" : false,
+    "name" : "category.category79.name",
+    "primary" : false,
+    "slug" : "microbiome-friendly",
+    "visible" : true
+  }, {
+    "id" : 78,
+    "infoColorNeeded" : false,
+    "name" : "category.category78.name",
+    "primary" : false,
+    "slug" : "cleansing",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 94,
+    "infoColorNeeded" : false,
+    "name" : "category.category94.name",
+    "primary" : false,
+    "slug" : "washing-care",
+    "visible" : true
+  } ],
+  "contentBlock" : null,
+  "contentsAmount" : "200",
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "product.FHSR.firstHeadline",
+  "id" : 2513,
+  "idealSupplements" : [ ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3306,
+    "mediaId" : 4339
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3307,
+    "mediaId" : 4172
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3436,
+    "mediaId" : 4338
+  }, {
+    "caption" : "product.FHSR.imageGallery3344.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 3344,
+    "mediaId" : 4235
+  }, {
+    "caption" : "product.FHSR.imageGallery3345.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 3345,
+    "mediaId" : 4236
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
+  "isMerchandise" : false,
+  "maxPerCart" : 99999,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 103,
+      "unit" : "ml",
+      "unitId" : 827
+    },
+    "customer" : {
+      "brutto" : 20.6,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 12
+    },
+    "partner" : {
+      "brutto" : 20.6,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 12
+    }
+  },
+  "purchasePossible" : true,
+  "searchable" : false,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.FHSR.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "fresh-repair-shampoo",
+  "socialMedia" : {
+    "id" : 2513,
+    "imageId" : 4339,
+    "text" : "",
+    "title" : ""
+  },
+  "soldOut" : false,
+  "supplementDescription" : "repair",
+  "tabs" : [ {
+    "description" : "product.FHSR.tabs2925.description",
+    "id" : 2925,
+    "showPrintButton" : false,
+    "title" : "product.FHSR.tabs2925.title"
+  }, {
+    "description" : "product.FHSR.tabs2926.description",
+    "id" : 2926,
+    "showPrintButton" : false,
+    "title" : "product.FHSR.tabs2926.title"
+  }, {
+    "description" : "product.FHSR.tabs2927.description",
+    "id" : 2927,
+    "showPrintButton" : false,
+    "title" : "product.FHSR.tabs2927.title"
+  }, {
+    "description" : "product.FHSR.tabs2928.description",
+    "id" : 2928,
+    "showPrintButton" : false,
+    "title" : "product.FHSR.tabs2928.title"
+  }, {
+    "description" : "product.FHSR.tabs3149.description",
+    "id" : 3149,
+    "showPrintButton" : false,
+    "title" : "product.FHSR.tabs3149.title"
+  } ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 11,
+    "id" : 7,
+    "lineHeight" : 1.2,
+    "position" : "top-left",
+    "text" : "BRAND NEW",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH repair shampoo",
+  "unit" : "Stk.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 996,
+  "usp" : "product.FHSR.usp",
+  "values" : [ {
+    "iconMediaId" : 1102,
+    "name" : "value.value47.name"
+  }, {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  }, {
+    "iconMediaId" : 1091,
+    "name" : "value.value36.name"
+  }, {
+    "iconMediaId" : 1081,
+    "name" : "value.value26.name"
+  }, {
+    "iconMediaId" : 1059,
+    "name" : "value.value4.name"
+  }, {
+    "iconMediaId" : 4400,
+    "name" : "value.value101.name"
+  } ],
+  "variants" : [ {
+    "color" : "#e38c49",
+    "id" : 1921,
+    "language" : null,
+    "matchcode" : "FHSR",
+    "name" : "FRESH repair shampoo",
+    "size" : null,
+    "slug" : "fresh-repair-shampoo",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#e7d6a8",
+    "id" : 1922,
+    "language" : null,
+    "matchcode" : "FHSV",
+    "name" : "FRESH volume shampoo",
+    "size" : null,
+    "slug" : "fresh-volume-shampoo",
+    "type" : 1,
+    "unit" : null
+  } ]
+}
