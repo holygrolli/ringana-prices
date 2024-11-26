@@ -146,7 +146,7 @@
         "provisionPoints" : 38.9
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "manadental-liquid-set-of-3",
     "title" : "manadental liquid, Set of 3",
     "unitContents" : "ml"

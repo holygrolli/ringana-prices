@@ -115,7 +115,7 @@
         "provisionPoints" : 16
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "manadental-liquid",
     "title" : "manadental liquid",
     "unitContents" : "ml"
