@@ -169,7 +169,7 @@
         "provisionPoints" : 1.1
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-tooth-oil-sample",
     "title" : "FRESH tooth oil sample",
     "unitContents" : "ml"

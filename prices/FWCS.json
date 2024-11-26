@@ -185,7 +185,7 @@
     "caption" : "",
     "captionLink" : null,
     "id" : 302,
-    "mediaId" : 526
+    "mediaId" : 4499
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
@@ -264,7 +264,7 @@
   "slug" : "fresh-wash-care-set",
   "socialMedia" : {
     "id" : 111,
-    "imageId" : 525,
+    "imageId" : 4499,
     "text" : "product.FWCS.socialMedia.text",
     "title" : "product.FWCS.socialMedia.title"
   },
