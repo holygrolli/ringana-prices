@@ -31,13 +31,6 @@
     "slug" : "face",
     "visible" : true
   }, {
-    "id" : 9,
-    "infoColorNeeded" : false,
-    "name" : "category.category9.name",
-    "primary" : false,
-    "slug" : "offers",
-    "visible" : true
-  }, {
     "id" : 77,
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
