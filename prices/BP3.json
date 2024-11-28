@@ -75,7 +75,7 @@
         "provisionPoints" : 29
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-scrub",
     "title" : "FRESH scrub face & body",
     "unitContents" : "ml"

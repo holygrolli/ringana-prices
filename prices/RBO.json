@@ -27,8 +27,8 @@
   "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -206,7 +206,7 @@
         "provisionPoints" : 5.8
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-baby-bum-cream",
     "title" : "FRESH baby bum cream",
     "unitContents" : "ml"
@@ -274,7 +274,7 @@
       "provisionPoints" : 4.7
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -289,7 +289,7 @@
     "text" : "product.RBO.socialMedia.text",
     "title" : "product.RBO.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "FRESH BABY",
   "tabs" : [ {
     "description" : "product.RBO.tabs0.description",

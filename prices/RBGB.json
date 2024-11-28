@@ -162,7 +162,7 @@
         "provisionPoints" : 4.7
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-baby-oil",
     "title" : "FRESH baby oil",
     "unitContents" : "ml"
