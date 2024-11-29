@@ -22,8 +22,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -168,7 +168,7 @@
         "brutto" : 12.24,
         "bruttoWithoutDiscount" : 15.3,
         "discountPercentage" : 20,
-        "discountUntil" : "2024-11-28T22:59:59Z",
+        "discountUntil" : "2024-11-29T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -182,7 +182,7 @@
         "brutto" : 12.24,
         "bruttoWithoutDiscount" : 15.3,
         "discountPercentage" : 20,
-        "discountUntil" : "2024-11-28T22:59:59Z",
+        "discountUntil" : "2024-11-29T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -256,7 +256,7 @@
       "provisionPoints" : 94
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -283,7 +283,7 @@
     "text" : "product.MANA-SK-BZO-FTB.socialMedia.text",
     "title" : "product.MANA-SK-BZO-FTB.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "manadental",
   "tabs" : [ {
     "description" : "product.MANA-SK-BZO-FTB.tabs2658.description",
