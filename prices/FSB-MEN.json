@@ -165,7 +165,7 @@
         "provisionPoints" : 32.6
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "caps-mascu",
     "title" : "CAPS mascu",
     "unitContents" : "g"
