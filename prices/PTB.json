@@ -181,7 +181,7 @@
         "provisionPoints" : 7
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-lip-balm",
     "title" : "FRESH lip balm",
     "unitContents" : "ml"
