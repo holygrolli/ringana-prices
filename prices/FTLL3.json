@@ -22,8 +22,8 @@
   "contentsAmount" : "600",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -84,7 +84,7 @@
     "contentsAmount" : "125",
     "currency" : "eur",
     "description" : "tooth balm",
-    "imageId" : 800,
+    "imageId" : 4635,
     "matchcode" : "FTB",
     "priceInformation" : {
       "base" : {
@@ -131,7 +131,7 @@
     "contentsAmount" : "125",
     "currency" : "eur",
     "description" : "tooth oil",
-    "imageId" : 788,
+    "imageId" : 4634,
     "matchcode" : "BZO",
     "priceInformation" : {
       "base" : {
@@ -237,7 +237,7 @@
       "provisionPoints" : 38.9
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -256,7 +256,7 @@
     "text" : "product.FTLL3.socialMedia.text",
     "title" : "product.FTLL3.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "mana liquid",
   "tabs" : [ {
     "description" : "product.FTLL3.tabs0.description",

@@ -140,15 +140,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 784,
+        "brutto" : 627.2,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 39.2,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 31.36,
+        "bruttoWithoutDiscount" : 39.2,
+        "discountPercentage" : 20,
+        "discountUntil" : "2024-12-02T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -156,13 +156,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 23.8
+        "provisionPoints" : 17.14
       },
       "partner" : {
-        "brutto" : 39.2,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 31.36,
+        "bruttoWithoutDiscount" : 39.2,
+        "discountPercentage" : 20,
+        "discountUntil" : "2024-12-02T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -170,7 +170,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 23.8
+        "provisionPoints" : 17.14
       }
     },
     "purchasePossible" : true,
@@ -282,11 +282,11 @@
   "teaserDots" : [ {
     "backgroundColor" : "#273062",
     "borderColor" : "#273062",
-    "fontSize" : 12,
-    "id" : 364,
+    "fontSize" : 10,
+    "id" : 397,
     "lineHeight" : 1,
     "position" : "top-left",
-    "text" : "from 18.11.",
+    "text" : "LIMITED EDITION",
     "textColor" : "#ffffff"
   } ],
   "title" : "FRESH lip balm rosé & plump",

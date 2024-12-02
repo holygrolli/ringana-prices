@@ -101,7 +101,7 @@
         "provisionPoints" : 17
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-light-legs",
     "title" : "FRESH light legs",
     "unitContents" : "ml"
@@ -195,7 +195,7 @@
         "provisionPoints" : 5.9
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-hand-balm-pocket",
     "title" : "FRESH hand balm pocket",
     "unitContents" : "ml"

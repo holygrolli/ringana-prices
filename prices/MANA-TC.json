@@ -115,7 +115,7 @@
         "provisionPoints" : 16
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "manadental-liquid",
     "title" : "manadental liquid",
     "unitContents" : "ml"
@@ -124,7 +124,7 @@
     "contentsAmount" : "125",
     "currency" : "eur",
     "description" : "tooth balm",
-    "imageId" : 800,
+    "imageId" : 4635,
     "matchcode" : "FTB",
     "priceInformation" : {
       "base" : {

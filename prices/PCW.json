@@ -97,8 +97,8 @@
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -329,7 +329,7 @@
       "provisionPoints" : 1.8
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -344,7 +344,7 @@
     "text" : "product.PCW.socialMedia.text",
     "title" : "product.PCW.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "Cleansing water",
   "tabs" : [ {
     "description" : "product.PCW.tabs0.description",

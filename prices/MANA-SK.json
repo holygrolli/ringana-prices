@@ -146,7 +146,7 @@
         "provisionPoints" : 38.9
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "manadental-liquid-set-of-3",
     "title" : "manadental liquid, Set of 3",
     "unitContents" : "ml"
@@ -155,7 +155,7 @@
     "contentsAmount" : "125",
     "currency" : "eur",
     "description" : "tooth balm",
-    "imageId" : 800,
+    "imageId" : 4635,
     "matchcode" : "FTB",
     "priceInformation" : {
       "base" : {
