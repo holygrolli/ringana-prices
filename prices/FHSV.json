@@ -242,6 +242,11 @@
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
     "id" : 3347,
     "mediaId" : 4236
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3629,
+    "mediaId" : 4630
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
