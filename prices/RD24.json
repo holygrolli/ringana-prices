@@ -29,8 +29,8 @@
   "contentsAmount" : "720",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -200,11 +200,6 @@
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 40,
-    "mediaId" : 149
-  }, {
-    "caption" : "",
-    "captionLink" : null,
     "id" : 38,
     "mediaId" : 147
   }, {
@@ -260,7 +255,7 @@
       "provisionPoints" : 58.7
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -279,7 +274,7 @@
     "text" : "product.RD24.socialMedia.text",
     "title" : "product.RD24.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "RINGANAdea",
   "tabs" : [ {
     "description" : "product.RD24.tabs0.description",
