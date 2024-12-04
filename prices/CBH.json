@@ -127,15 +127,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 627.2,
+        "brutto" : 784,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 31.36,
-        "bruttoWithoutDiscount" : 39.2,
-        "discountPercentage" : 20,
-        "discountUntil" : "2024-12-03T22:59:59Z",
+        "brutto" : 39.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -143,13 +143,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 17.14
+        "provisionPoints" : 23.8
       },
       "partner" : {
-        "brutto" : 31.36,
-        "bruttoWithoutDiscount" : 39.2,
-        "discountPercentage" : 20,
-        "discountUntil" : "2024-12-03T22:59:59Z",
+        "brutto" : 39.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -157,10 +157,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 17.14
+        "provisionPoints" : 23.8
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-illuminating-enzyme-mask",
     "title" : "FRESH illuminating enzyme mask",
     "unitContents" : "ml"
