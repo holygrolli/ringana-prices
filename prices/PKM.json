@@ -55,8 +55,8 @@
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -122,15 +122,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 223.2,
+        "brutto" : 178.5,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 27.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 22.32,
+        "bruttoWithoutDiscount" : 27.9,
+        "discountPercentage" : 20,
+        "discountUntil" : "2024-12-06T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -138,13 +138,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 16.2
+        "provisionPoints" : 11.66
       },
       "partner" : {
-        "brutto" : 27.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 22.32,
+        "bruttoWithoutDiscount" : 27.9,
+        "discountPercentage" : 20,
+        "discountUntil" : "2024-12-06T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -152,7 +152,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 16.2
+        "provisionPoints" : 11.66
       }
     },
     "purchasePossible" : true,
@@ -223,7 +223,7 @@
       "provisionPoints" : 1.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -238,7 +238,7 @@
     "text" : "product.PKM.socialMedia.text",
     "title" : "product.PKM.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "sample",
   "tabs" : [ {
     "description" : "product.PKM.tabs0.description",
