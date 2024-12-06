@@ -13,6 +13,18 @@
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1826,
+    "link" : null,
+    "name" : "Reusable Materials"
+  }, {
+    "imageId" : 1053,
+    "link" : "https://www.umweltzeichen.at/de/produkte/haushalt-reinigung?cert_number=UW+1162",
+    "name" : "Umweltzeichen"
+  }, {
+    "imageId" : 1047,
+    "link" : "https://www.umweltzeichen.at/de/ecolabel/living-and-cosmetics?cert_number=AT/030/004",
+    "name" : "EU Ecolabel"
   } ],
   "blogPostIds" : [ ],
   "categories" : [ {
@@ -140,7 +152,7 @@
         "brutto" : 46.64,
         "bruttoWithoutDiscount" : 58.3,
         "discountPercentage" : 20,
-        "discountUntil" : "2024-12-05T22:59:59Z",
+        "discountUntil" : "2024-12-06T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -154,7 +166,7 @@
         "brutto" : 46.64,
         "bruttoWithoutDiscount" : 58.3,
         "discountPercentage" : 20,
-        "discountUntil" : "2024-12-05T22:59:59Z",
+        "discountUntil" : "2024-12-06T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
