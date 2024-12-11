@@ -26,8 +26,8 @@
   "contentsAmount" : "5",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -236,7 +236,7 @@
       "provisionPoints" : 7.7
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -251,7 +251,7 @@
     "text" : "product.BLB-R-S-P.socialMedia.text",
     "title" : "product.BLB-R-S-P.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "rosé & plump",
   "tabs" : [ {
     "description" : "product.BLB-R-S-P.tabs2390.description",
