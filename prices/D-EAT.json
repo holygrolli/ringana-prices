@@ -31,10 +31,7 @@
   "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "disruptor" : {
-    "mediaId" : 258,
-    "posterMediaId" : 260
-  },
+  "disruptor" : null,
   "faqs" : [ {
     "answer" : "product.D-EAT.faqs1.answer",
     "id" : 17,
