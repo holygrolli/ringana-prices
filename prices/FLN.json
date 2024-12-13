@@ -71,7 +71,10 @@
   "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "disruptor" : null,
+  "disruptor" : {
+    "mediaId" : 4762,
+    "posterMediaId" : null
+  },
   "faqs" : [ {
     "answer" : "product.FLN.faqs0.answer",
     "id" : 978,

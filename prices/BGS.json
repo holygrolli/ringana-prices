@@ -76,8 +76,8 @@
   "contentsAmount" : "125",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -296,7 +296,7 @@
       "provisionPoints" : 15.2
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -311,7 +311,7 @@
     "text" : "product.BGS.socialMedia.text",
     "title" : "product.BGS.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "tonic pure",
   "tabs" : [ {
     "description" : "product.BGS.tabs0.description",

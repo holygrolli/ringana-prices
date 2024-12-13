@@ -134,6 +134,53 @@
     "slug" : "fresh-body-milk",
     "title" : "FRESH body milk",
     "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "125",
+    "currency" : "eur",
+    "description" : "hand balm",
+    "imageId" : 572,
+    "matchcode" : "BHB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 196,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 24.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 13.7
+      },
+      "partner" : {
+        "brutto" : 24.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 13.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-hand-balm",
+    "title" : "FRESH hand balm",
+    "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
@@ -264,15 +311,5 @@
     "slug" : "fresh-soap-mandarine-orange-set-of-10",
     "type" : 2,
     "unit" : 5
-  }, {
-    "color" : null,
-    "id" : 1753,
-    "language" : null,
-    "matchcode" : "TSR-LE-MO",
-    "name" : null,
-    "size" : 20,
-    "slug" : "fresh-soap-mandarine-orange-sample",
-    "type" : 2,
-    "unit" : 2
   } ]
 }

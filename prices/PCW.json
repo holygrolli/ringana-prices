@@ -209,7 +209,7 @@
         "provisionPoints" : 15.2
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-tonic-pure",
     "title" : "FRESH tonic pure",
     "unitContents" : "ml"
