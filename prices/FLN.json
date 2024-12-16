@@ -83,6 +83,22 @@
     "answer" : "product.FLN.faqs1.answer",
     "id" : 979,
     "question" : "product.FLN.faqs1.question"
+  }, {
+    "answer" : "product.FLN.faqs2.answer",
+    "id" : 1044,
+    "question" : "product.FLN.faqs2.question"
+  }, {
+    "answer" : "product.FLN.faqs3.answer",
+    "id" : 1045,
+    "question" : "product.FLN.faqs3.question"
+  }, {
+    "answer" : "product.FLN.faqs4.answer",
+    "id" : 1046,
+    "question" : "product.FLN.faqs4.question"
+  }, {
+    "answer" : "product.FLN.faqs5.answer",
+    "id" : 1047,
+    "question" : "product.FLN.faqs5.question"
   } ],
   "firstHeadline" : "product.FLN.firstHeadline",
   "id" : 2709,
@@ -198,7 +214,7 @@
         "brutto" : 37.92,
         "bruttoWithoutDiscount" : 47.4,
         "discountPercentage" : 20,
-        "discountUntil" : "2024-12-15T22:59:59Z",
+        "discountUntil" : "2024-12-16T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -212,7 +228,7 @@
         "brutto" : 37.92,
         "bruttoWithoutDiscount" : 47.4,
         "discountPercentage" : 20,
-        "discountUntil" : "2024-12-15T22:59:59Z",
+        "discountUntil" : "2024-12-16T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
