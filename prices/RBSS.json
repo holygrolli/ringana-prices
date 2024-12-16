@@ -123,7 +123,7 @@
         "provisionPoints" : 4.1
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-baby-body-hair-wash",
     "title" : "FRESH baby body & hair wash",
     "unitContents" : "ml"
