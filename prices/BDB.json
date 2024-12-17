@@ -26,7 +26,7 @@
     "link" : "https://skin.li/cc7276c9",
     "name" : "cosmeticsanalysis.com - FRESH body wash"
   } ],
-  "blogPostIds" : [ 150146, 155090, 150232 ],
+  "blogPostIds" : [ 150146, 150232, 200213 ],
   "categories" : [ {
     "id" : 2,
     "infoColorNeeded" : false,
@@ -177,6 +177,53 @@
     "purchasePossible" : false,
     "slug" : "fresh-hair-treatment",
     "title" : "FRESH hair treatment",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "200",
+    "currency" : "eur",
+    "description" : "volume",
+    "imageId" : 4366,
+    "matchcode" : "FHSV",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 103,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 20.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 12
+      },
+      "partner" : {
+        "brutto" : 20.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 12
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-volume-shampoo",
+    "title" : "FRESH volume shampoo",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {

@@ -5,7 +5,7 @@
     "type" : 1
   },
   "awards" : [ ],
-  "blogPostIds" : [ 113040, 178302, 160856 ],
+  "blogPostIds" : [ 200213, 200015, 178302 ],
   "categories" : [ {
     "id" : 9,
     "infoColorNeeded" : false,
@@ -128,6 +128,53 @@
     "purchasePossible" : true,
     "slug" : "fresh-illuminating-enzyme-mask",
     "title" : "FRESH illuminating enzyme mask",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "200",
+    "currency" : "eur",
+    "description" : "repair",
+    "imageId" : 4339,
+    "matchcode" : "FHSR",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 103,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 20.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 12
+      },
+      "partner" : {
+        "brutto" : 20.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 12
+      }
+    },
+    "purchasePossible" : false,
+    "slug" : "fresh-repair-shampoo",
+    "title" : "FRESH repair shampoo",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
