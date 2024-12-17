@@ -157,6 +157,56 @@
     "slug" : "beyond-omega",
     "title" : "BEYOND omega",
     "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 14,
+      "type" : 2
+    },
+    "contentsAmount" : "700",
+    "currency" : "eur",
+    "description" : "SPORT boost",
+    "imageId" : 482,
+    "matchcode" : "RSB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 83.4,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 58.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 35.4
+      },
+      "partner" : {
+        "brutto" : 58.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 35.4
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringana-sport-boost",
+    "title" : "SPORT boost",
+    "unitContents" : "g"
   } ],
   "imageGallery" : [ {
     "caption" : "",
