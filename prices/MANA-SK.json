@@ -193,7 +193,7 @@
         "provisionPoints" : 8.9
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-tooth-balm",
     "title" : "FRESH tooth balm",
     "unitContents" : "ml"
