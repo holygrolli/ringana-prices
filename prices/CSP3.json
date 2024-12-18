@@ -31,10 +31,7 @@
   "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "disruptor" : {
-    "mediaId" : 374,
-    "posterMediaId" : 375
-  },
+  "disruptor" : null,
   "faqs" : [ ],
   "firstHeadline" : "product.CSP3.firstHeadline",
   "id" : 79,
