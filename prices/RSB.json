@@ -149,6 +149,56 @@
     "slug" : "caps-move",
     "title" : "CAPS move",
     "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 90,
+      "type" : 1
+    },
+    "contentsAmount" : "49,5",
+    "currency" : "eur",
+    "description" : "SPORT push",
+    "imageId" : 475,
+    "matchcode" : "RSP",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1327.2,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 65.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 39
+      },
+      "partner" : {
+        "brutto" : 65.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 39
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringana-sport-push",
+    "title" : "SPORT push",
+    "unitContents" : "g"
   } ],
   "imageGallery" : [ {
     "caption" : "",

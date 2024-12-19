@@ -2,7 +2,7 @@
   "matchcode" : "FSB-MEN",
   "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ 44933, 173362, 163960 ],
+  "blogPostIds" : [ 44933, 173362, 200222 ],
   "categories" : [ {
     "id" : 13,
     "infoColorNeeded" : false,
@@ -26,100 +26,6 @@
   "firstHeadline" : "",
   "id" : 30,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "165",
-    "currency" : "eur",
-    "description" : "SAMPLE BOX",
-    "imageId" : 2325,
-    "matchcode" : "FSBW",
-    "priceInformation" : {
-      "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
-      },
-      "customer" : {
-        "brutto" : 22.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 13
-      },
-      "partner" : {
-        "brutto" : 22.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 13
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "fresh-sample-box-wash",
-    "title" : "FRESH sample box wash",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "250",
-    "currency" : "eur",
-    "description" : "TRAVEL SET",
-    "imageId" : 2326,
-    "matchcode" : "BKT-MEN",
-    "priceInformation" : {
-      "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
-      },
-      "customer" : {
-        "brutto" : 54,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 28.9
-      },
-      "partner" : {
-        "brutto" : 54,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 28.9
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "travel-set-for-men",
-    "title" : "FRESH travel set for men",
-    "unitContents" : "ml"
-  }, {
     "additionalUnitPrice" : {
       "entity" : 90,
       "type" : 1
@@ -169,6 +75,100 @@
     "slug" : "caps-mascu",
     "title" : "CAPS mascu",
     "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : null,
+    "currency" : "eur",
+    "description" : "SAMPLE BOX",
+    "imageId" : 2323,
+    "matchcode" : "FSBB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 9.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 3
+      },
+      "partner" : {
+        "brutto" : 9.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 3
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-sample-box-body",
+    "title" : "FRESH sample box body",
+    "unitContents" : null
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "200",
+    "currency" : "eur",
+    "description" : "body wash",
+    "imageId" : 600,
+    "matchcode" : "BDB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 101,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 20.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 11.5
+      },
+      "partner" : {
+        "brutto" : 20.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 11.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-body-wash-nbc",
+    "title" : "FRESH body wash",
+    "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",

@@ -22,8 +22,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -222,7 +222,7 @@
       "provisionPoints" : 19.3
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -245,7 +245,7 @@
     "text" : "product.RX-2024-3.socialMedia.text",
     "title" : "product.RX-2024-3.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "face spa",
   "tabs" : [ {
     "description" : "product.RX-2024-3.tabs2257.description",

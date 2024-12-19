@@ -74,20 +74,20 @@
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "35",
+    "contentsAmount" : "100",
     "currency" : "eur",
-    "description" : "SAMPLE BOX",
-    "imageId" : 2324,
-    "matchcode" : "FSB-MEN",
+    "description" : "soapsoapsoap",
+    "imageId" : 546,
+    "matchcode" : "BSR",
     "priceInformation" : {
       "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
+        "amount" : 1000,
+        "brutto" : 106,
+        "unit" : "g",
+        "unitId" : 812
       },
       "customer" : {
-        "brutto" : 21.5,
+        "brutto" : 10.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -98,10 +98,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 12.9
+        "provisionPoints" : 5
       },
       "partner" : {
-        "brutto" : 21.5,
+        "brutto" : 10.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -112,29 +112,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 12.9
+        "provisionPoints" : 5
       }
     },
     "purchasePossible" : true,
-    "slug" : "box-for-men",
-    "title" : "FRESH sample box for men",
-    "unitContents" : "ml"
+    "slug" : "fresh-soap",
+    "title" : "FRESH soap",
+    "unitContents" : "g"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "165",
+    "contentsAmount" : "50",
     "currency" : "eur",
-    "description" : "SAMPLE BOX",
-    "imageId" : 2325,
-    "matchcode" : "FSBW",
+    "description" : "stay fresh",
+    "imageId" : 553,
+    "matchcode" : "STF",
     "priceInformation" : {
       "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
+        "amount" : 1000,
+        "brutto" : 218,
+        "unit" : "ml",
+        "unitId" : 827
       },
       "customer" : {
-        "brutto" : 22.6,
+        "brutto" : 10.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -145,10 +145,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 13
+        "provisionPoints" : 5.7
       },
       "partner" : {
-        "brutto" : 22.6,
+        "brutto" : 10.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -159,12 +159,12 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 13
+        "provisionPoints" : 5.7
       }
     },
-    "purchasePossible" : false,
-    "slug" : "fresh-sample-box-wash",
-    "title" : "FRESH sample box wash",
+    "purchasePossible" : true,
+    "slug" : "fresh-stay-fresh",
+    "title" : "FRESH stay fresh",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {

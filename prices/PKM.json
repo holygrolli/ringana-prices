@@ -75,15 +75,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 156.8,
+        "brutto" : 196,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 19.6,
-        "bruttoWithoutDiscount" : 24.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2024-12-18T22:59:59Z",
+        "brutto" : 24.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -91,13 +91,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 9.86
+        "provisionPoints" : 13.7
       },
       "partner" : {
-        "brutto" : 19.6,
-        "bruttoWithoutDiscount" : 24.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2024-12-18T22:59:59Z",
+        "brutto" : 24.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -105,7 +105,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 9.86
+        "provisionPoints" : 13.7
       }
     },
     "purchasePossible" : true,
@@ -114,20 +114,20 @@
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "125",
+    "contentsAmount" : "200",
     "currency" : "eur",
-    "description" : "hair treatment",
-    "imageId" : 4466,
-    "matchcode" : "FHT",
+    "description" : "body wash",
+    "imageId" : 600,
+    "matchcode" : "BDB",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 223.2,
+        "brutto" : 101,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 27.9,
+        "brutto" : 20.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -138,10 +138,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 16.2
+        "provisionPoints" : 11.5
       },
       "partner" : {
-        "brutto" : 27.9,
+        "brutto" : 20.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -152,12 +152,59 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 16.2
+        "provisionPoints" : 11.5
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-hair-treatment",
-    "title" : "FRESH hair treatment",
+    "slug" : "fresh-body-wash-nbc",
+    "title" : "FRESH body wash",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "125",
+    "currency" : "eur",
+    "description" : "overnight",
+    "imageId" : 592,
+    "matchcode" : "BBN",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 598.4,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 74.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 44.6
+      },
+      "partner" : {
+        "brutto" : 74.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 44.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-overnight-body-treatment",
+    "title" : "FRESH overnight body treatment",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
