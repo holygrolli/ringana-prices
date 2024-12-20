@@ -199,18 +199,18 @@
     "additionalUnitPrice" : null,
     "contentsAmount" : "30",
     "currency" : "eur",
-    "description" : "anti wrinkle",
-    "imageId" : 757,
-    "matchcode" : "BSA",
+    "description" : "perfection",
+    "imageId" : 4267,
+    "matchcode" : "FLN",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 2493.3,
+        "brutto" : 2983.3,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 74.8,
+        "brutto" : 89.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -221,10 +221,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 43
+        "provisionPoints" : 52.5
       },
       "partner" : {
-        "brutto" : 74.8,
+        "brutto" : 89.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -235,12 +235,12 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 43
+        "provisionPoints" : 52.5
       }
     },
-    "purchasePossible" : true,
-    "slug" : "fresh-anti-wrinkle-serum",
-    "title" : "FRESH anti wrinkle serum",
+    "purchasePossible" : false,
+    "slug" : "fresh-skin-perfection",
+    "title" : "FRESH skin perfection",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {

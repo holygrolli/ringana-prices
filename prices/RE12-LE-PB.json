@@ -1,36 +1,29 @@
 {
-  "matchcode" : "RD24",
+  "matchcode" : "RE12-LE-PB",
   "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ 168257, 118137, 146383 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
+    "id" : 166,
+    "infoColorNeeded" : false,
+    "name" : "category.category166.name",
+    "primary" : true,
+    "slug" : "limited-xmas-editions",
+    "visible" : true
+  }, {
     "id" : 9,
     "infoColorNeeded" : false,
     "name" : "category.category9.name",
     "primary" : false,
     "slug" : "offers",
     "visible" : true
-  }, {
-    "id" : 5,
-    "infoColorNeeded" : false,
-    "name" : "category.category5.name",
-    "primary" : false,
-    "slug" : "drinks",
-    "visible" : true
-  }, {
-    "id" : 99,
-    "infoColorNeeded" : false,
-    "name" : "category.category99.name",
-    "primary" : false,
-    "slug" : "supplement-sets",
-    "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "720",
+  "contentsAmount" : "360",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -38,7 +31,7 @@
   "disruptor" : null,
   "faqs" : [ ],
   "firstHeadline" : "",
-  "id" : 23,
+  "id" : 677,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
     "contentsAmount" : "1",
@@ -87,24 +80,21 @@
     "title" : "RINGANA Soulbottle",
     "unitContents" : "Stk."
   }, {
-    "additionalUnitPrice" : {
-      "entity" : 60,
-      "type" : 1
-    },
-    "contentsAmount" : "26,1",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "360",
     "currency" : "eur",
-    "description" : "BEYOND biotic",
-    "imageId" : 449,
-    "matchcode" : "CBI",
+    "description" : "RINGANAchi",
+    "imageId" : 252,
+    "matchcode" : "RE12",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 3659,
-        "unit" : "g",
-        "unitId" : 812
+        "brutto" : 138.3,
+        "unit" : "ml",
+        "unitId" : 827
       },
       "customer" : {
-        "brutto" : 95.5,
+        "brutto" : 49.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -115,10 +105,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 53.8
+        "provisionPoints" : 27
       },
       "partner" : {
-        "brutto" : 95.5,
+        "brutto" : 49.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -129,32 +119,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 53.8
+        "provisionPoints" : 27
       }
     },
     "purchasePossible" : true,
-    "slug" : "beyond-biotic",
-    "title" : "BEYOND biotic",
-    "unitContents" : "g"
+    "slug" : "ringanachi",
+    "title" : "RINGANAchi",
+    "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : 90,
-      "type" : 1
-    },
-    "contentsAmount" : "40,5",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "360",
     "currency" : "eur",
-    "description" : "CAPS hydro",
-    "imageId" : 1130,
-    "matchcode" : "CUV",
+    "description" : "RINGANAisi",
+    "imageId" : 263,
+    "matchcode" : "RI12",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1017.2,
-        "unit" : "g",
-        "unitId" : 812
+        "brutto" : 154.7,
+        "unit" : "ml",
+        "unitId" : 827
       },
       "customer" : {
-        "brutto" : 41.2,
+        "brutto" : 55.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -165,10 +152,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 22.8
+        "provisionPoints" : 32
       },
       "partner" : {
-        "brutto" : 41.2,
+        "brutto" : 55.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -179,39 +166,19 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 22.8
+        "provisionPoints" : 32
       }
     },
     "purchasePossible" : true,
-    "slug" : "caps-hydro",
-    "title" : "CAPS hydro",
-    "unitContents" : "g"
+    "slug" : "ringanaisi",
+    "title" : "RINGANAisi",
+    "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 37,
-    "mediaId" : 146
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 39,
-    "mediaId" : 148
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 38,
-    "mediaId" : 147
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 41,
-    "mediaId" : 150
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 42,
-    "mediaId" : 151
+    "id" : 1168,
+    "mediaId" : 1528
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -222,15 +189,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 155.9,
+      "brutto" : 110.6,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 112.3,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 39.84,
+      "bruttoWithoutDiscount" : 49.8,
+      "discountPercentage" : 20,
+      "discountUntil" : "2024-12-22T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -238,13 +205,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 58.7
+      "provisionPoints" : 19.44
     },
     "partner" : {
-      "brutto" : 112.3,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 39.84,
+      "bruttoWithoutDiscount" : 49.8,
+      "discountPercentage" : 20,
+      "discountUntil" : "2024-12-22T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -252,87 +219,72 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 58.7
+      "provisionPoints" : 19.44
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
-  "setContents" : [ {
-    "amount" : 2,
-    "freeOfCharge" : false,
-    "matchcode" : "RD12"
-  } ],
-  "shortDescription" : "product.RD24.shortDescription",
+  "setContents" : [ ],
+  "shortDescription" : "product.RE12-LE-PB.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "ringanadea-set",
+  "slug" : "ringanachi-punch",
   "socialMedia" : {
-    "id" : 23,
-    "imageId" : 145,
-    "text" : "product.RD24.socialMedia.text",
-    "title" : "product.RD24.socialMedia.title"
+    "id" : 677,
+    "imageId" : 1528,
+    "text" : "product.RE12-LE-PB.socialMedia.text",
+    "title" : "product.RE12-LE-PB.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "RINGANAdea",
+  "supplementDescription" : "RINGANAchi",
   "tabs" : [ {
-    "description" : "product.RD24.tabs0.description",
-    "id" : 89,
+    "description" : "product.RE12-LE-PB.tabs0.description",
+    "id" : 1158,
     "showPrintButton" : false,
-    "title" : "product.RD24.tabs0.title"
+    "title" : "product.RE12-LE-PB.tabs0.title"
   }, {
-    "description" : "product.RD24.tabs1.description",
-    "id" : 90,
-    "showPrintButton" : true,
-    "title" : "product.RD24.tabs1.title"
-  }, {
-    "description" : "product.RD24.tabs2.description",
-    "id" : 91,
+    "description" : "product.RE12-LE-PB.tabs1.description",
+    "id" : 1159,
     "showPrintButton" : false,
-    "title" : "product.RD24.tabs2.title"
+    "title" : "product.RE12-LE-PB.tabs1.title"
   }, {
-    "description" : "product.RD24.tabs3.description",
-    "id" : 92,
+    "description" : "product.RE12-LE-PB.tabs2.description",
+    "id" : 1160,
     "showPrintButton" : false,
-    "title" : "product.RD24.tabs3.title"
+    "title" : "product.RE12-LE-PB.tabs2.title"
+  }, {
+    "description" : "product.RE12-LE-PB.tabs3.description",
+    "id" : 1161,
+    "showPrintButton" : false,
+    "title" : "product.RE12-LE-PB.tabs3.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "RINGANAdea, Set of 2",
-  "unit" : "Set",
+  "teaserDots" : [ {
+    "backgroundColor" : "#273062",
+    "borderColor" : "#273062",
+    "fontSize" : 10,
+    "id" : 397,
+    "lineHeight" : 1,
+    "position" : "top-left",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "RINGANAchi punch",
+  "unit" : "Pck.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : 43586,
-  "usp" : "product.RD24.usp",
+  "unitId" : 43589,
+  "usp" : "product.RE12-LE-PB.usp",
   "values" : [ {
-    "iconMediaId" : 1108,
-    "name" : "value.value53.name"
-  }, {
-    "iconMediaId" : 1070,
-    "name" : "value.value15.name"
-  }, {
     "iconMediaId" : 1121,
     "name" : "value.value66.name"
-  } ],
-  "variants" : [ {
-    "color" : null,
-    "id" : 29,
-    "language" : null,
-    "matchcode" : "RD12",
-    "name" : null,
-    "size" : 360,
-    "slug" : "ringanadea",
-    "type" : 2,
-    "unit" : 6
   }, {
-    "color" : null,
-    "id" : 30,
-    "language" : null,
-    "matchcode" : "RD24",
-    "name" : null,
-    "size" : 720,
-    "slug" : "ringanadea-set",
-    "type" : 2,
-    "unit" : 6
-  } ]
+    "iconMediaId" : 1072,
+    "name" : "value.value17.name"
+  }, {
+    "iconMediaId" : 1065,
+    "name" : "value.value10.name"
+  } ],
+  "variants" : [ ]
 }

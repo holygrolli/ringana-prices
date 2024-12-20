@@ -93,15 +93,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 107.5,
+        "brutto" : 134.4,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 55.92,
-        "bruttoWithoutDiscount" : 69.9,
-        "discountPercentage" : 20,
-        "discountUntil" : "2024-12-19T22:59:59Z",
+        "brutto" : 69.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -109,13 +109,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.37
+        "provisionPoints" : 39.4
       },
       "partner" : {
-        "brutto" : 55.92,
-        "bruttoWithoutDiscount" : 69.9,
-        "discountPercentage" : 20,
-        "discountUntil" : "2024-12-19T22:59:59Z",
+        "brutto" : 69.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -123,10 +123,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.37
+        "provisionPoints" : 39.4
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "pack-cleansing",
     "title" : "FRESH pack cleansing",
     "unitContents" : "g"
@@ -258,15 +258,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 2927.2,
+      "brutto" : 3659,
       "unit" : "g",
       "unitId" : 812
     },
     "customer" : {
-      "brutto" : 76.4,
-      "bruttoWithoutDiscount" : 95.5,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-12-19T22:59:59Z",
+      "brutto" : 95.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -274,13 +274,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 38.74
+      "provisionPoints" : 53.8
     },
     "partner" : {
-      "brutto" : 76.4,
-      "bruttoWithoutDiscount" : 95.5,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-12-19T22:59:59Z",
+      "brutto" : 95.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -288,7 +288,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 38.74
+      "provisionPoints" : 53.8
     }
   },
   "purchasePossible" : true,

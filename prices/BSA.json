@@ -44,18 +44,18 @@
     "slug" : "step-4-hydrating",
     "visible" : true
   }, {
-    "id" : 86,
-    "infoColorNeeded" : false,
-    "name" : "category.category86.name",
-    "primary" : false,
-    "slug" : "combination-skin",
-    "visible" : true
-  }, {
     "id" : 83,
     "infoColorNeeded" : false,
     "name" : "category.category83.name",
     "primary" : false,
     "slug" : "oily-skin",
+    "visible" : true
+  }, {
+    "id" : 86,
+    "infoColorNeeded" : false,
+    "name" : "category.category86.name",
+    "primary" : false,
+    "slug" : "combination-skin",
     "visible" : true
   }, {
     "id" : 81,
@@ -142,53 +142,6 @@
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "50",
-    "currency" : "eur",
-    "description" : "enzyme mask",
-    "imageId" : 672,
-    "matchcode" : "FEP",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 784,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 39.2,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 23.8
-      },
-      "partner" : {
-        "brutto" : 39.2,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 23.8
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-illuminating-enzyme-mask",
-    "title" : "FRESH illuminating enzyme mask",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
     "contentsAmount" : "30",
     "currency" : "eur",
     "description" : "overnight",
@@ -233,6 +186,53 @@
     "purchasePossible" : true,
     "slug" : "fresh-overnight-face-treatment",
     "title" : "FRESH overnight face treatment",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "30",
+    "currency" : "eur",
+    "description" : "perfection",
+    "imageId" : 4267,
+    "matchcode" : "FLN",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2983.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 89.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.5
+      },
+      "partner" : {
+        "brutto" : 89.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.5
+      }
+    },
+    "purchasePossible" : false,
+    "slug" : "fresh-skin-perfection",
+    "title" : "FRESH skin perfection",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
