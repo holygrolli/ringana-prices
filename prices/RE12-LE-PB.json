@@ -22,8 +22,8 @@
   "contentsAmount" : "360",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -189,15 +189,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 110.6,
+      "brutto" : 138.3,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 39.84,
-      "bruttoWithoutDiscount" : 49.8,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-12-23T22:59:59Z",
+      "brutto" : 49.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -205,13 +205,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 19.44
+      "provisionPoints" : 27
     },
     "partner" : {
-      "brutto" : 39.84,
-      "bruttoWithoutDiscount" : 49.8,
-      "discountPercentage" : 20,
-      "discountUntil" : "2024-12-23T22:59:59Z",
+      "brutto" : 49.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -219,10 +219,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 19.44
+      "provisionPoints" : 27
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -237,7 +237,7 @@
     "text" : "product.RE12-LE-PB.socialMedia.text",
     "title" : "product.RE12-LE-PB.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "RINGANAchi",
   "tabs" : [ {
     "description" : "product.RE12-LE-PB.tabs0.description",
