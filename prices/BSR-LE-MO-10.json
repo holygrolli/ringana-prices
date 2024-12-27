@@ -4,17 +4,10 @@
   "awards" : [ ],
   "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 166,
-    "infoColorNeeded" : false,
-    "name" : "category.category166.name",
-    "primary" : true,
-    "slug" : "limited-xmas-editions",
-    "visible" : true
-  }, {
     "id" : 9,
     "infoColorNeeded" : false,
     "name" : "category.category9.name",
-    "primary" : false,
+    "primary" : true,
     "slug" : "offers",
     "visible" : true
   } ],

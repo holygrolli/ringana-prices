@@ -1,42 +1,18 @@
 {
-  "matchcode" : "BSR-10",
+  "matchcode" : "RE12-LE-PB",
   "additionalUnitPrice" : null,
-  "awards" : [ {
-    "imageId" : 1049,
-    "link" : "https://www.lacon-institut.com/en/philosophy/",
-    "name" : "Lacon"
-  }, {
-    "imageId" : 1053,
-    "link" : "https://www.umweltzeichen.at/de/produkte/haushalt-reinigung?cert_number=UW+1162",
-    "name" : "Umweltzeichen"
-  }, {
-    "imageId" : 1043,
-    "link" : "https://www.beatthemicrobead.org/zero-products/",
-    "name" : "Beat the Microbead"
-  }, {
-    "imageId" : 1047,
-    "link" : "https://www.umweltzeichen.at/de/ecolabel/living-and-cosmetics?cert_number=AT/030/004",
-    "name" : "EU Ecolabel"
-  }, {
-    "imageId" : 1826,
-    "link" : null,
-    "name" : "Reusable Materials"
-  }, {
-    "imageId" : 1044,
-    "link" : "https://skin.li/80e6acfc",
-    "name" : "cosmeticsanalysis.com - FRESH soap"
-  } ],
-  "blogPostIds" : [ 155090, 191456, 170591 ],
+  "awards" : [ ],
+  "blogPostIds" : [ ],
   "categories" : [ {
     "id" : 9,
     "infoColorNeeded" : false,
     "name" : "category.category9.name",
-    "primary" : true,
+    "primary" : false,
     "slug" : "offers",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "1000",
+  "contentsAmount" : "360",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
@@ -48,23 +24,70 @@
   "disruptor" : null,
   "faqs" : [ ],
   "firstHeadline" : "",
-  "id" : 2182,
+  "id" : 677,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "125",
+    "contentsAmount" : "1",
     "currency" : "eur",
-    "description" : "hand balm",
-    "imageId" : 572,
-    "matchcode" : "BHB",
+    "description" : "SOULBOTTLE",
+    "imageId" : 223,
+    "matchcode" : "R-SB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 31.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 31.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringana-soulbottle",
+    "title" : "RINGANA Soulbottle",
+    "unitContents" : "Stk."
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "360",
+    "currency" : "eur",
+    "description" : "RINGANAchi",
+    "imageId" : 252,
+    "matchcode" : "RE12",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 196,
+        "brutto" : 138.3,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 24.5,
+        "brutto" : 49.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -75,10 +98,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 13.7
+        "provisionPoints" : 27
       },
       "partner" : {
-        "brutto" : 24.5,
+        "brutto" : 49.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -89,29 +112,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 13.7
+        "provisionPoints" : 27
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-hand-balm",
-    "title" : "FRESH hand balm",
+    "slug" : "ringanachi",
+    "title" : "RINGANAchi",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "50",
+    "contentsAmount" : "360",
     "currency" : "eur",
-    "description" : "stay fresh",
-    "imageId" : 553,
-    "matchcode" : "STF",
+    "description" : "RINGANAisi",
+    "imageId" : 263,
+    "matchcode" : "RI12",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 218,
+        "brutto" : 154.7,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 10.9,
+        "brutto" : 55.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -122,10 +145,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 5.7
+        "provisionPoints" : 32
       },
       "partner" : {
-        "brutto" : 10.9,
+        "brutto" : 55.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -136,81 +159,19 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 5.7
+        "provisionPoints" : 32
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-stay-fresh",
-    "title" : "FRESH stay fresh",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "255",
-    "currency" : "eur",
-    "description" : "soap liquid",
-    "imageId" : 567,
-    "matchcode" : "FSLP",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 80,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 20.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 11.6
-      },
-      "partner" : {
-        "brutto" : 20.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 11.6
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-soap-liquid",
-    "title" : "FRESH soap liquid",
+    "slug" : "ringanaisi",
+    "title" : "RINGANAisi",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 2937,
-    "mediaId" : 546
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 2938,
-    "mediaId" : 547
-  }, {
-    "caption" : "",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 2939,
-    "mediaId" : 548
-  }, {
-    "caption" : "",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 2940,
-    "mediaId" : 549
+    "id" : 1168,
+    "mediaId" : 1528
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -221,15 +182,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 95.4,
-      "unit" : "g",
-      "unitId" : 812
+      "brutto" : 110.6,
+      "unit" : "ml",
+      "unitId" : 827
     },
     "customer" : {
-      "brutto" : 95.4,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 39.84,
+      "bruttoWithoutDiscount" : 49.8,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-01-02T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -237,13 +198,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 40.5
+      "provisionPoints" : 19.44
     },
     "partner" : {
-      "brutto" : 95.4,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 39.84,
+      "bruttoWithoutDiscount" : 49.8,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-01-02T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -251,61 +212,48 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 40.5
+      "provisionPoints" : 19.44
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
-  "setContents" : [ {
-    "amount" : 10,
-    "freeOfCharge" : false,
-    "matchcode" : "BSR"
-  } ],
-  "shortDescription" : "product.BSR-10.shortDescription",
+  "setContents" : [ ],
+  "shortDescription" : "product.RE12-LE-PB.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "fresh-soap-set-of-10",
+  "slug" : "ringanachi-punch",
   "socialMedia" : {
-    "id" : 2182,
-    "imageId" : 545,
-    "text" : "product.BSR-10.socialMedia.text",
-    "title" : "product.BSR-10.socialMedia.title"
+    "id" : 677,
+    "imageId" : 1528,
+    "text" : "product.RE12-LE-PB.socialMedia.text",
+    "title" : "product.RE12-LE-PB.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "soapsoapsoap",
+  "supplementDescription" : "RINGANAchi",
   "tabs" : [ {
-    "description" : "product.BSR-10.tabs2624.description",
-    "id" : 2624,
+    "description" : "product.RE12-LE-PB.tabs0.description",
+    "id" : 1158,
     "showPrintButton" : false,
-    "title" : "product.BSR-10.tabs2624.title"
+    "title" : "product.RE12-LE-PB.tabs0.title"
   }, {
-    "description" : "product.BSR-10.tabs2625.description",
-    "id" : 2625,
-    "showPrintButton" : true,
-    "title" : "product.BSR-10.tabs2625.title"
-  }, {
-    "description" : "product.BSR-10.tabs2626.description",
-    "id" : 2626,
+    "description" : "product.RE12-LE-PB.tabs1.description",
+    "id" : 1159,
     "showPrintButton" : false,
-    "title" : "product.BSR-10.tabs2626.title"
+    "title" : "product.RE12-LE-PB.tabs1.title"
   }, {
-    "description" : "product.BSR-10.tabs2627.description",
-    "id" : 2627,
+    "description" : "product.RE12-LE-PB.tabs2.description",
+    "id" : 1160,
     "showPrintButton" : false,
-    "title" : "product.BSR-10.tabs2627.title"
+    "title" : "product.RE12-LE-PB.tabs2.title"
+  }, {
+    "description" : "product.RE12-LE-PB.tabs3.description",
+    "id" : 1161,
+    "showPrintButton" : false,
+    "title" : "product.RE12-LE-PB.tabs3.title"
   } ],
   "teaserDots" : [ {
-    "backgroundColor" : "#000000",
-    "borderColor" : "#000000",
-    "fontSize" : 12,
-    "id" : 100,
-    "lineHeight" : 1,
-    "position" : "top-right",
-    "text" : "Set of 10",
-    "textColor" : "#ffffff"
-  }, {
     "backgroundColor" : "#273062",
     "borderColor" : "#273062",
     "fontSize" : 10,
@@ -315,41 +263,21 @@
     "text" : "LIMITED EDITION",
     "textColor" : "#ffffff"
   } ],
-  "title" : "FRESH soap, Set of 10",
-  "unit" : null,
-  "unitContents" : "g",
-  "unitContentsId" : 812,
-  "unitId" : null,
-  "usp" : "product.BSR-10.usp",
+  "title" : "RINGANAchi punch",
+  "unit" : "Pck.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 43589,
+  "usp" : "product.RE12-LE-PB.usp",
   "values" : [ {
-    "iconMediaId" : 1090,
-    "name" : "value.value35.name"
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
   }, {
-    "iconMediaId" : 1069,
-    "name" : "value.value14.name"
+    "iconMediaId" : 1072,
+    "name" : "value.value17.name"
   }, {
-    "iconMediaId" : 1057,
-    "name" : "value.value2.name"
+    "iconMediaId" : 1065,
+    "name" : "value.value10.name"
   } ],
-  "variants" : [ {
-    "color" : null,
-    "id" : 1688,
-    "language" : null,
-    "matchcode" : "BSR-10",
-    "name" : null,
-    "size" : 10,
-    "slug" : "fresh-soap-set-of-10",
-    "type" : 2,
-    "unit" : 5
-  }, {
-    "color" : null,
-    "id" : 1689,
-    "language" : null,
-    "matchcode" : "BSR",
-    "name" : null,
-    "size" : 1,
-    "slug" : "fresh-soap",
-    "type" : 2,
-    "unit" : 5
-  } ]
+  "variants" : [ ]
 }
