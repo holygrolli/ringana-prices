@@ -79,8 +79,8 @@
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -299,7 +299,7 @@
       "provisionPoints" : 21.31
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -314,7 +314,7 @@
     "text" : "product.RAG.socialMedia.text",
     "title" : "product.RAG.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "ADDS glow",
   "tabs" : [ {
     "description" : "product.RAG.tabs2521.description",
