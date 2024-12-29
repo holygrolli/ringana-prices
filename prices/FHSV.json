@@ -127,7 +127,7 @@
         "provisionPoints" : 11.66
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-hair-treatment",
     "title" : "FRESH hair treatment",
     "unitContents" : "ml"
