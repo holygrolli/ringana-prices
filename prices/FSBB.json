@@ -30,7 +30,7 @@
     "contentsAmount" : "330",
     "currency" : "eur",
     "description" : "Skin care",
-    "imageId" : 2557,
+    "imageId" : 4996,
     "matchcode" : "BP2",
     "priceInformation" : {
       "base" : {
@@ -68,7 +68,7 @@
         "provisionPoints" : 75.7
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-skin-care-set-medium",
     "title" : "FRESH skin care set medium",
     "unitContents" : "ml"

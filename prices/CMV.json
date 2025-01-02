@@ -94,7 +94,7 @@
     "contentsAmount" : "180",
     "currency" : "eur",
     "description" : "Skin care",
-    "imageId" : 2552,
+    "imageId" : 4993,
     "matchcode" : "BP-MEN-BHS",
     "priceInformation" : {
       "base" : {
@@ -132,7 +132,7 @@
         "provisionPoints" : 54.8
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "set-for-men",
     "title" : "FRESH skin care set for men",
     "unitContents" : "ml"

@@ -22,8 +22,8 @@
   "contentsAmount" : "330",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -181,7 +181,7 @@
     "caption" : "",
     "captionLink" : null,
     "id" : 15,
-    "mediaId" : 2554
+    "mediaId" : 4995
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -225,7 +225,7 @@
       "provisionPoints" : 73.3
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -260,7 +260,7 @@
     "text" : "product.BP1.socialMedia.text",
     "title" : "product.BP1.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "Skin care",
   "tabs" : [ {
     "description" : "product.BP1.tabs0.description",
