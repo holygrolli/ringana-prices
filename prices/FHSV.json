@@ -74,8 +74,8 @@
   "contentsAmount" : "200",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -127,7 +127,7 @@
         "provisionPoints" : 16.2
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-hair-treatment",
     "title" : "FRESH hair treatment",
     "unitContents" : "ml"
@@ -302,7 +302,7 @@
       "provisionPoints" : 12
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -317,7 +317,7 @@
     "text" : "",
     "title" : ""
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "volume",
   "tabs" : [ {
     "description" : "product.FHSV.tabs2921.description",

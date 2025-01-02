@@ -188,7 +188,7 @@
         "provisionPoints" : 94
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "manadental-starter-kit",
     "title" : "manadental starter kit",
     "unitContents" : "ml"

@@ -174,7 +174,7 @@
         "provisionPoints" : 16.2
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-hair-treatment",
     "title" : "FRESH hair treatment",
     "unitContents" : "ml"
@@ -221,7 +221,7 @@
         "provisionPoints" : 12
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-volume-shampoo",
     "title" : "FRESH volume shampoo",
     "unitContents" : "ml"
