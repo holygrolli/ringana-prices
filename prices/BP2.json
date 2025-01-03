@@ -197,7 +197,7 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 147.8,
+      "brutto" : 148.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -211,7 +211,7 @@
       "provisionPoints" : 75.7
     },
     "partner" : {
-      "brutto" : 147.8,
+      "brutto" : 148.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -244,10 +244,6 @@
     "amount" : 1,
     "freeOfCharge" : false,
     "matchcode" : "BCL"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "RHT"
   } ],
   "shortDescription" : "product.BP2.shortDescription",
   "showOnSpecialOffer" : 2,

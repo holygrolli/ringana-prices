@@ -197,7 +197,7 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 143.3,
+      "brutto" : 143.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -211,7 +211,7 @@
       "provisionPoints" : 73.3
     },
     "partner" : {
-      "brutto" : 143.3,
+      "brutto" : 143.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -244,10 +244,6 @@
     "amount" : 1,
     "freeOfCharge" : false,
     "matchcode" : "BCE"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "RHT"
   } ],
   "shortDescription" : "product.BP1-BGL.shortDescription",
   "showOnSpecialOffer" : 2,

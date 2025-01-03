@@ -197,7 +197,7 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 158.1,
+      "brutto" : 158.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -211,7 +211,7 @@
       "provisionPoints" : 81.6
     },
     "partner" : {
-      "brutto" : 158.1,
+      "brutto" : 158.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -244,10 +244,6 @@
     "amount" : 1,
     "freeOfCharge" : false,
     "matchcode" : "BCE"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "RHT"
   } ],
   "shortDescription" : "product.BP1-BSA.shortDescription",
   "showOnSpecialOffer" : 2,

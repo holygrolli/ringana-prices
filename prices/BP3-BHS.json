@@ -197,7 +197,7 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 153.5,
+      "brutto" : 154.1,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -211,7 +211,7 @@
       "provisionPoints" : 78.8
     },
     "partner" : {
-      "brutto" : 153.5,
+      "brutto" : 154.1,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -244,10 +244,6 @@
     "amount" : 1,
     "freeOfCharge" : false,
     "matchcode" : "BCM"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "RHT"
   } ],
   "shortDescription" : "product.BP3-BHS.shortDescription",
   "showOnSpecialOffer" : 2,

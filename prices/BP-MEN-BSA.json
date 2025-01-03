@@ -240,10 +240,6 @@
     "amount" : 1,
     "freeOfCharge" : false,
     "matchcode" : "BMF"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "RHT"
   } ],
   "shortDescription" : "product.BP-MEN-BSA.shortDescription",
   "showOnSpecialOffer" : 2,

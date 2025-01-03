@@ -201,7 +201,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 12.9
+      "provisionPoints" : 12.4
     },
     "partner" : {
       "brutto" : 21.5,
@@ -215,7 +215,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 12.9
+      "provisionPoints" : 12.4
     }
   },
   "purchasePossible" : true,
