@@ -132,7 +132,7 @@
         "provisionPoints" : 54.8
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "set-for-men",
     "title" : "FRESH skin care set for men",
     "unitContents" : "ml"
