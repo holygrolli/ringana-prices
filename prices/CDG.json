@@ -39,8 +39,8 @@
   "contentsAmount" : "48,7",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -258,7 +258,7 @@
       "provisionPoints" : 28.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -273,7 +273,7 @@
     "text" : "product.CDG.socialMedia.text",
     "title" : "product.CDG.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "CAPS d-gest",
   "tabs" : [ {
     "description" : "product.CDG.tabs0.description",
