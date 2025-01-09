@@ -129,7 +129,7 @@
         "provisionPoints" : 15.2
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-tonic-calm",
     "title" : "FRESH tonic calm",
     "unitContents" : "ml"
@@ -143,15 +143,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 2493.3,
+        "brutto" : 1994.6,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 74.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 59.84,
+        "bruttoWithoutDiscount" : 74.8,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-01-09T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -159,13 +159,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 43
+        "provisionPoints" : 30.96
       },
       "partner" : {
-        "brutto" : 74.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 59.84,
+        "bruttoWithoutDiscount" : 74.8,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-01-09T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -173,7 +173,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 43
+        "provisionPoints" : 30.96
       }
     },
     "purchasePossible" : true,
@@ -190,15 +190,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 3233.3,
+        "brutto" : 2586.6,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 48.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 38.8,
+        "bruttoWithoutDiscount" : 48.5,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-01-09T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -206,13 +206,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 27.5
+        "provisionPoints" : 19.8
       },
       "partner" : {
-        "brutto" : 48.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 38.8,
+        "bruttoWithoutDiscount" : 48.5,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-01-09T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -220,7 +220,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 27.5
+        "provisionPoints" : 19.8
       }
     },
     "purchasePossible" : true,

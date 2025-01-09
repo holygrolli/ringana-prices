@@ -91,7 +91,7 @@
         "provisionPoints" : 28.5
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "caps-d-gest",
     "title" : "CAPS d-gest",
     "unitContents" : "g"
