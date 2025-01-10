@@ -381,6 +381,11 @@
     "id" : 604,
     "showPrintButton" : false,
     "title" : "product.FCW.tabs3.title"
+  }, {
+    "description" : "product.FCW.tabs3247.description",
+    "id" : 3247,
+    "showPrintButton" : false,
+    "title" : "product.FCW.tabs3247.title"
   } ],
   "teaserDots" : [ ],
   "title" : "FRESH cleansing water",
