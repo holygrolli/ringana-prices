@@ -96,7 +96,7 @@
         "provisionPoints" : 5.8
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-baby-bum-cream",
     "title" : "FRESH baby bum cream",
     "unitContents" : "ml"
