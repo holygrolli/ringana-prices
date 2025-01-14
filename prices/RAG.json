@@ -19,13 +19,6 @@
     "slug" : "face",
     "visible" : true
   }, {
-    "id" : 134,
-    "infoColorNeeded" : false,
-    "name" : "category.category134.name",
-    "primary" : false,
-    "slug" : "ringana-adds",
-    "visible" : false
-  }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",

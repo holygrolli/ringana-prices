@@ -60,13 +60,6 @@
     "primary" : false,
     "slug" : "facial-care",
     "visible" : true
-  }, {
-    "id" : 134,
-    "infoColorNeeded" : false,
-    "name" : "category.category134.name",
-    "primary" : false,
-    "slug" : "ringana-adds",
-    "visible" : false
   } ],
   "contentBlock" : null,
   "contentsAmount" : "15",
