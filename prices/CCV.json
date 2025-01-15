@@ -32,8 +32,8 @@
   "contentsAmount" : "52",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -248,7 +248,7 @@
       "provisionPoints" : 30.6
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -263,7 +263,7 @@
     "text" : "product.CCV.socialMedia.text",
     "title" : "product.CCV.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "CAPS pump",
   "tabs" : [ {
     "description" : "product.CCV.tabs0.description",
