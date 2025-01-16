@@ -219,7 +219,7 @@
     "caption" : "",
     "captionLink" : null,
     "id" : 268,
-    "mediaId" : 486
+    "mediaId" : 5259
   } ],
   "infoColor" : "#e8edef",
   "isFreshCosmeticsProduct" : false,
@@ -274,7 +274,7 @@
   "slug" : "ringana-sport-boost",
   "socialMedia" : {
     "id" : 99,
-    "imageId" : 481,
+    "imageId" : 5259,
     "text" : "product.RSB.socialMedia.text",
     "title" : "product.RSB.socialMedia.title"
   },

@@ -214,7 +214,7 @@
     "caption" : "",
     "captionLink" : null,
     "id" : 236,
-    "mediaId" : 429
+    "mediaId" : 5224
   } ],
   "infoColor" : "#9bcbeb",
   "isFreshCosmeticsProduct" : false,
@@ -269,7 +269,7 @@
   "slug" : "caps-hydro",
   "socialMedia" : {
     "id" : 89,
-    "imageId" : 424,
+    "imageId" : 5224,
     "text" : "product.CUV.socialMedia.text",
     "title" : "product.CUV.socialMedia.title"
   },

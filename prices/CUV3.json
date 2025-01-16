@@ -207,7 +207,7 @@
     "caption" : "",
     "captionLink" : null,
     "id" : 191,
-    "mediaId" : 362
+    "mediaId" : 5224
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -266,7 +266,7 @@
   "slug" : "caps-hydro-set",
   "socialMedia" : {
     "id" : 77,
-    "imageId" : 355,
+    "imageId" : 5224,
     "text" : "product.CUV3.socialMedia.text",
     "title" : "product.CUV3.socialMedia.title"
   },

@@ -213,7 +213,7 @@
     "caption" : "",
     "captionLink" : null,
     "id" : 21,
-    "mediaId" : 117
+    "mediaId" : 5258
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -272,7 +272,7 @@
   "slug" : "ringana-sport-push-set",
   "socialMedia" : {
     "id" : 18,
-    "imageId" : 113,
+    "imageId" : 5258,
     "text" : "product.RSP3.socialMedia.text",
     "title" : "product.RSP3.socialMedia.title"
   },

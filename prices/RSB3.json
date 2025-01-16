@@ -216,7 +216,7 @@
     "caption" : "",
     "captionLink" : null,
     "id" : 33,
-    "mediaId" : 130
+    "mediaId" : 5259
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -275,7 +275,7 @@
   "slug" : "ringana-sport-set",
   "socialMedia" : {
     "id" : 21,
-    "imageId" : 126,
+    "imageId" : 5259,
     "text" : "product.RSB3.socialMedia.text",
     "title" : "product.RSB3.socialMedia.title"
   },
