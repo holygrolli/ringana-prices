@@ -68,7 +68,7 @@
         "provisionPoints" : 75.7
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-skin-care-set-medium",
     "title" : "FRESH skin care set medium",
     "unitContents" : "ml"
