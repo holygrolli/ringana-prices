@@ -111,15 +111,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 3248,
+        "brutto" : 4060,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 48.72,
-        "bruttoWithoutDiscount" : 60.9,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-01-22T22:59:59Z",
+        "brutto" : 60.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -127,13 +127,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 26.57
+        "provisionPoints" : 36.9
       },
       "partner" : {
-        "brutto" : 48.72,
-        "bruttoWithoutDiscount" : 60.9,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-01-22T22:59:59Z",
+        "brutto" : 60.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -141,10 +141,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 26.57
+        "provisionPoints" : 36.9
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-adds-effect",
     "title" : "ADDS effect",
     "unitContents" : "ml"
