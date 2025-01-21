@@ -37,18 +37,18 @@
     "slug" : "step-1-cleansing",
     "visible" : true
   }, {
-    "id" : 82,
-    "infoColorNeeded" : false,
-    "name" : "category.category82.name",
-    "primary" : false,
-    "slug" : "dry-skin",
-    "visible" : true
-  }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
     "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 82,
+    "infoColorNeeded" : false,
+    "name" : "category.category82.name",
+    "primary" : false,
+    "slug" : "dry-skin",
     "visible" : true
   }, {
     "id" : 86,
