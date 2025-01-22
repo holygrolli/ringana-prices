@@ -14,6 +14,13 @@
     "slug" : "caps",
     "visible" : true
   }, {
+    "id" : 232,
+    "infoColorNeeded" : false,
+    "name" : "category.category232.name",
+    "primary" : false,
+    "slug" : "men",
+    "visible" : false
+  }, {
     "id" : 18,
     "infoColorNeeded" : false,
     "name" : "category.category18.name",

@@ -11,6 +11,13 @@
     "slug" : "offers",
     "visible" : true
   }, {
+    "id" : 232,
+    "infoColorNeeded" : false,
+    "name" : "category.category232.name",
+    "primary" : false,
+    "slug" : "men",
+    "visible" : false
+  }, {
     "id" : 98,
     "infoColorNeeded" : false,
     "name" : "category.category98.name",
