@@ -202,7 +202,7 @@
       "brutto" : 8.72,
       "bruttoWithoutDiscount" : 10.9,
       "discountPercentage" : 20,
-      "discountUntil" : "2025-01-31T22:59:59Z",
+      "discountUntil" : "2025-02-10T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -216,7 +216,7 @@
       "brutto" : 8.72,
       "bruttoWithoutDiscount" : 10.9,
       "discountPercentage" : 20,
-      "discountUntil" : "2025-01-31T22:59:59Z",
+      "discountUntil" : "2025-02-10T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -291,25 +291,5 @@
     "iconMediaId" : 1057,
     "name" : "value.value2.name"
   } ],
-  "variants" : [ {
-    "color" : null,
-    "id" : 1686,
-    "language" : null,
-    "matchcode" : "BSR-LE-CP",
-    "name" : null,
-    "size" : 1,
-    "slug" : "fresh-soap-chai-scrub",
-    "type" : 2,
-    "unit" : 5
-  }, {
-    "color" : null,
-    "id" : 1687,
-    "language" : null,
-    "matchcode" : "BSR-LE-CP-10",
-    "name" : null,
-    "size" : 10,
-    "slug" : "",
-    "type" : 2,
-    "unit" : 5
-  } ]
+  "variants" : [ ]
 }
