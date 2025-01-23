@@ -69,8 +69,8 @@
   "contentsAmount" : "125",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -297,7 +297,7 @@
       "provisionPoints" : 16.5
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -312,7 +312,7 @@
     "text" : "product.SBA.socialMedia.text",
     "title" : "product.SBA.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "after sun",
   "tabs" : [ {
     "description" : "product.SBA.tabs0.description",
