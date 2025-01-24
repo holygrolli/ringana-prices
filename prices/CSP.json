@@ -89,7 +89,7 @@
         "provisionPoints" : 43
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-anti-wrinkle-serum",
     "title" : "FRESH anti wrinkle serum",
     "unitContents" : "ml"

@@ -76,8 +76,8 @@
   "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -176,7 +176,7 @@
         "provisionPoints" : 43
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-anti-wrinkle-serum",
     "title" : "FRESH anti wrinkle serum",
     "unitContents" : "ml"
@@ -296,7 +296,7 @@
       "provisionPoints" : 34.9
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -311,7 +311,7 @@
     "text" : "product.BCM.socialMedia.text",
     "title" : "product.BCM.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "cream rich",
   "tabs" : [ {
     "description" : "product.BCM.tabs0.description",
