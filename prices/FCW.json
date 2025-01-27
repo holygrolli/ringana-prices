@@ -172,7 +172,7 @@
         "provisionPoints" : 28.1
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-cream-light",
     "title" : "FRESH cream light",
     "unitContents" : "ml"

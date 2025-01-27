@@ -183,7 +183,7 @@
         "provisionPoints" : 34.9
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-cream-rich",
     "title" : "FRESH cream rich",
     "unitContents" : "ml"

@@ -1,5 +1,5 @@
 {
-  "matchcode" : "PAS",
+  "matchcode" : "RAE",
   "additionalUnitPrice" : null,
   "awards" : [ {
     "imageId" : 1043,
@@ -7,16 +7,16 @@
     "name" : "Beat the Microbead"
   }, {
     "imageId" : 1044,
-    "link" : "https://skin.li/5ca01b05",
-    "name" : "cosmeticsanalysis.com - FRESH eye serum"
+    "link" : "https://skin.li/a5a73e10",
+    "name" : "cosmeticsanalysis.com - FRESH ADDS effect"
   } ],
-  "blogPostIds" : [ ],
+  "blogPostIds" : [ 178282, 6664, 196283 ],
   "categories" : [ {
-    "id" : 13,
+    "id" : 7,
     "infoColorNeeded" : false,
-    "name" : "category.category13.name",
+    "name" : "category.category7.name",
     "primary" : true,
-    "slug" : "samples",
+    "slug" : "face",
     "visible" : true
   }, {
     "id" : 92,
@@ -33,11 +33,11 @@
     "slug" : "combination-skin",
     "visible" : true
   }, {
-    "id" : 82,
+    "id" : 83,
     "infoColorNeeded" : false,
-    "name" : "category.category82.name",
+    "name" : "category.category83.name",
     "primary" : false,
-    "slug" : "dry-skin",
+    "slug" : "oily-skin",
     "visible" : true
   }, {
     "id" : 81,
@@ -47,22 +47,22 @@
     "slug" : "mature-skin",
     "visible" : true
   }, {
-    "id" : 77,
-    "infoColorNeeded" : false,
-    "name" : "category.category77.name",
-    "primary" : false,
-    "slug" : "hydrating",
-    "visible" : true
-  }, {
     "id" : 75,
     "infoColorNeeded" : false,
     "name" : "category.category75.name",
     "primary" : false,
     "slug" : "lifting",
     "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "5",
+  "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
@@ -73,8 +73,8 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "product.PAS.firstHeadline",
-  "id" : 306,
+  "firstHeadline" : "product.RAE.firstHeadline",
+  "id" : 2944,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
     "contentsAmount" : "125",
@@ -124,20 +124,20 @@
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "50",
+    "contentsAmount" : "30",
     "currency" : "eur",
-    "description" : "cream light",
-    "imageId" : 5128,
-    "matchcode" : "BCE",
+    "description" : "hydro serum",
+    "imageId" : 1123,
+    "matchcode" : "BHS",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 998,
+        "brutto" : 1943.3,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 49.9,
+        "brutto" : 58.3,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -148,10 +148,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.1
+        "provisionPoints" : 32.8
       },
       "partner" : {
-        "brutto" : 49.9,
+        "brutto" : 58.3,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -162,29 +162,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.1
+        "provisionPoints" : 32.8
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-cream-light",
-    "title" : "FRESH cream light",
+    "slug" : "fresh-hydro-serum",
+    "title" : "FRESH hydro serum",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
     "contentsAmount" : "30",
     "currency" : "eur",
-    "description" : "anti wrinkle",
-    "imageId" : 757,
-    "matchcode" : "BSA",
+    "description" : "perfection",
+    "imageId" : 4267,
+    "matchcode" : "FLN",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 2520,
+        "brutto" : 2983.3,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 75.6,
+        "brutto" : 89.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -195,10 +195,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 43
+        "provisionPoints" : 52.5
       },
       "partner" : {
-        "brutto" : 75.6,
+        "brutto" : 89.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -209,45 +209,60 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 43
+        "provisionPoints" : 52.5
       }
     },
-    "purchasePossible" : true,
-    "slug" : "fresh-anti-wrinkle-serum",
-    "title" : "FRESH anti wrinkle serum",
+    "purchasePossible" : false,
+    "slug" : "fresh-skin-perfection",
+    "title" : "FRESH skin perfection",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 770,
-    "mediaId" : 1218
+    "id" : 3914,
+    "mediaId" : 773
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 811,
-    "mediaId" : 1219
+    "id" : 3915,
+    "mediaId" : 5125
   }, {
-    "caption" : "product.PAS.imageGallery812.caption",
-    "captionLink" : "corporate/products/care-facts/",
-    "id" : 812,
-    "mediaId" : 1220
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3916,
+    "mediaId" : 5126
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3917,
+    "mediaId" : 5127
+  }, {
+    "caption" : "",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 3918,
+    "mediaId" : 5428
+  }, {
+    "caption" : "",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 3919,
+    "mediaId" : 5429
   } ],
   "infoColor" : null,
-  "isFreshCosmeticsProduct" : false,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "maxPerCart" : 99999,
+  "maxPerCart" : 100,
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 3880,
+      "brutto" : 4453.3,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 19.4,
+      "brutto" : 66.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -258,10 +273,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 9.2
+      "provisionPoints" : 40.5
     },
     "partner" : {
-      "brutto" : 19.4,
+      "brutto" : 66.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -272,89 +287,105 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 9.2
+      "provisionPoints" : 40.5
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
-  "shortDescription" : "product.PAS.shortDescription",
+  "shortDescription" : "product.RAE.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "fresh-eye-serum-sample",
+  "slug" : "fresh-adds-effect",
   "socialMedia" : {
-    "id" : 306,
-    "imageId" : 1218,
-    "text" : "product.PAS.socialMedia.text",
-    "title" : "product.PAS.socialMedia.title"
+    "id" : 2944,
+    "imageId" : 773,
+    "text" : "product.RAE.socialMedia.text",
+    "title" : "product.RAE.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "sample",
+  "supplementDescription" : "ADDS effect",
   "tabs" : [ {
-    "description" : "product.PAS.tabs0.description",
-    "id" : 743,
+    "description" : "product.RAE.tabs3428.description",
+    "id" : 3428,
     "showPrintButton" : false,
-    "title" : "product.PAS.tabs0.title"
+    "title" : "product.RAE.tabs3428.title"
   }, {
-    "description" : "product.PAS.tabs1.description",
-    "id" : 744,
-    "showPrintButton" : false,
-    "title" : "product.PAS.tabs1.title"
+    "description" : "product.RAE.tabs3429.description",
+    "id" : 3429,
+    "showPrintButton" : true,
+    "title" : "product.RAE.tabs3429.title"
   }, {
-    "description" : "product.PAS.tabs2.description",
-    "id" : 745,
+    "description" : "product.RAE.tabs3430.description",
+    "id" : 3430,
     "showPrintButton" : false,
-    "title" : "product.PAS.tabs2.title"
+    "title" : "product.RAE.tabs3430.title"
   }, {
-    "description" : "product.PAS.tabs3.description",
-    "id" : 746,
+    "description" : "product.RAE.tabs3431.description",
+    "id" : 3431,
     "showPrintButton" : false,
-    "title" : "product.PAS.tabs3.title"
+    "title" : "product.RAE.tabs3431.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "FRESH eye serum sample",
-  "unit" : "Reisegröße",
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 10,
+    "id" : 3,
+    "lineHeight" : 1.3,
+    "position" : "top-left",
+    "text" : "New Formu-lation",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "ADDS effect",
+  "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : 43592,
-  "usp" : "product.PAS.usp",
+  "unitId" : 996,
+  "usp" : "product.RAE.usp",
   "values" : [ {
-    "iconMediaId" : 1097,
-    "name" : "value.value42.name"
-  }, {
-    "iconMediaId" : 1096,
-    "name" : "value.value41.name"
-  }, {
-    "iconMediaId" : 1090,
-    "name" : "value.value35.name"
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
   }, {
     "iconMediaId" : 1089,
     "name" : "value.value34.name"
   }, {
-    "iconMediaId" : 1061,
-    "name" : "value.value6.name"
+    "iconMediaId" : 1112,
+    "name" : "value.value57.name"
+  }, {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
   } ],
   "variants" : [ {
-    "color" : null,
-    "id" : 859,
+    "color" : "#828fa2",
+    "id" : 1983,
     "language" : null,
-    "matchcode" : "PAS",
-    "name" : null,
-    "size" : 5,
-    "slug" : "fresh-eye-serum-sample",
-    "type" : 2,
-    "unit" : 6
+    "matchcode" : "RAE",
+    "name" : "effect",
+    "size" : null,
+    "slug" : "fresh-adds-effect",
+    "type" : 1,
+    "unit" : null
   }, {
-    "color" : null,
-    "id" : 860,
+    "color" : "#e5c286",
+    "id" : 1984,
     "language" : null,
-    "matchcode" : "BAS",
-    "name" : null,
-    "size" : 15,
-    "slug" : "fresh-eye-serum",
-    "type" : 2,
-    "unit" : 6
+    "matchcode" : "RAG",
+    "name" : "glow",
+    "size" : null,
+    "slug" : "fresh-adds-glow",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#83aa7e",
+    "id" : 1985,
+    "language" : null,
+    "matchcode" : "RAR",
+    "name" : "repair",
+    "size" : null,
+    "slug" : "fresh-adds-repair",
+    "type" : 1,
+    "unit" : null
   } ]
 }

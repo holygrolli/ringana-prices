@@ -179,7 +179,7 @@
         "provisionPoints" : 28.1
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-cream-light",
     "title" : "FRESH cream light",
     "unitContents" : "ml"
@@ -226,7 +226,7 @@
         "provisionPoints" : 43
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-anti-wrinkle-serum",
     "title" : "FRESH anti wrinkle serum",
     "unitContents" : "ml"

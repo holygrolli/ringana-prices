@@ -125,7 +125,7 @@
         "provisionPoints" : 43
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-anti-wrinkle-serum",
     "title" : "FRESH anti wrinkle serum",
     "unitContents" : "ml"
@@ -360,7 +360,7 @@
     "matchcode" : "RAE",
     "name" : "effect",
     "size" : null,
-    "slug" : "",
+    "slug" : "fresh-adds-effect",
     "type" : 1,
     "unit" : null
   }, {

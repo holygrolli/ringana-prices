@@ -176,7 +176,7 @@
         "provisionPoints" : 31.1
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-cream-medium",
     "title" : "FRESH cream medium",
     "unitContents" : "ml"
@@ -223,7 +223,7 @@
         "provisionPoints" : 28.1
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-cream-light",
     "title" : "FRESH cream light",
     "unitContents" : "ml"

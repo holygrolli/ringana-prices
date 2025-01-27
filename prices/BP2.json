@@ -22,8 +22,8 @@
   "contentsAmount" : "330",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -225,7 +225,7 @@
       "provisionPoints" : 75.7
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -256,7 +256,7 @@
     "text" : "product.BP2.socialMedia.text",
     "title" : "product.BP2.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "Skin care",
   "tabs" : [ {
     "description" : "product.BP2.tabs0.description",

@@ -1,22 +1,40 @@
 {
-  "matchcode" : "PAS",
+  "matchcode" : "BCM",
   "additionalUnitPrice" : null,
   "awards" : [ {
+    "imageId" : 1045,
+    "link" : "https://www.cosmos-standard.org/",
+    "name" : "COSMOS Natural"
+  }, {
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
   }, {
     "imageId" : 1044,
-    "link" : "https://skin.li/5ca01b05",
-    "name" : "cosmeticsanalysis.com - FRESH eye serum"
+    "link" : "https://skin.li/a5339113",
+    "name" : "cosmeticsanalysis.com - FRESH cream rich"
   } ],
-  "blogPostIds" : [ ],
+  "blogPostIds" : [ 178302, 99737, 93675 ],
   "categories" : [ {
-    "id" : 13,
+    "id" : 7,
     "infoColorNeeded" : false,
-    "name" : "category.category13.name",
+    "name" : "category.category7.name",
     "primary" : true,
-    "slug" : "samples",
+    "slug" : "face",
+    "visible" : true
+  }, {
+    "id" : 265,
+    "infoColorNeeded" : false,
+    "name" : "category.category265.name",
+    "primary" : false,
+    "slug" : "skincare-basics",
+    "visible" : false
+  }, {
+    "id" : 203,
+    "infoColorNeeded" : false,
+    "name" : "category.category203.name",
+    "primary" : false,
+    "slug" : "step-5-moisturising",
     "visible" : true
   }, {
     "id" : 92,
@@ -26,11 +44,11 @@
     "slug" : "facial-care",
     "visible" : true
   }, {
-    "id" : 86,
+    "id" : 85,
     "infoColorNeeded" : false,
-    "name" : "category.category86.name",
+    "name" : "category.category85.name",
     "primary" : false,
-    "slug" : "combination-skin",
+    "slug" : "sensitive-reddened-skin",
     "visible" : true
   }, {
     "id" : 82,
@@ -54,15 +72,15 @@
     "slug" : "hydrating",
     "visible" : true
   }, {
-    "id" : 75,
+    "id" : 17,
     "infoColorNeeded" : false,
-    "name" : "category.category75.name",
+    "name" : "category.category17.name",
     "primary" : false,
-    "slug" : "lifting",
+    "slug" : "fresh",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "5",
+  "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
@@ -72,25 +90,33 @@
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
-  "faqs" : [ ],
-  "firstHeadline" : "product.PAS.firstHeadline",
-  "id" : 306,
+  "faqs" : [ {
+    "answer" : "product.BCM.faqs0.answer",
+    "id" : 1150,
+    "question" : "product.BCM.faqs0.question"
+  }, {
+    "answer" : "product.BCM.faqs1.answer",
+    "id" : 1151,
+    "question" : "product.BCM.faqs1.question"
+  } ],
+  "firstHeadline" : "product.BCM.firstHeadline",
+  "id" : 2943,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
     "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "cleanser",
-    "imageId" : 750,
-    "matchcode" : "BRM",
+    "description" : "tonic calm",
+    "imageId" : 630,
+    "matchcode" : "BGL",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 212,
+        "brutto" : 209.6,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 26.5,
+        "brutto" : 26.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -101,10 +127,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 14.4
+        "provisionPoints" : 15.2
       },
       "partner" : {
-        "brutto" : 26.5,
+        "brutto" : 26.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -115,29 +141,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 14.4
+        "provisionPoints" : 15.2
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-cleanser",
-    "title" : "FRESH cleanser",
+    "slug" : "fresh-tonic-calm",
+    "title" : "FRESH tonic calm",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "50",
+    "contentsAmount" : "15",
     "currency" : "eur",
-    "description" : "cream light",
-    "imageId" : 5128,
-    "matchcode" : "BCE",
+    "description" : "eye serum",
+    "imageId" : 707,
+    "matchcode" : "BAS",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 998,
+        "brutto" : 3233.3,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 49.9,
+        "brutto" : 48.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -148,10 +174,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.1
+        "provisionPoints" : 27.5
       },
       "partner" : {
-        "brutto" : 49.9,
+        "brutto" : 48.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -162,92 +188,55 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.1
+        "provisionPoints" : 27.5
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-cream-light",
-    "title" : "FRESH cream light",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "30",
-    "currency" : "eur",
-    "description" : "anti wrinkle",
-    "imageId" : 757,
-    "matchcode" : "BSA",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 2520,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 75.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 43
-      },
-      "partner" : {
-        "brutto" : 75.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 43
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-anti-wrinkle-serum",
-    "title" : "FRESH anti wrinkle serum",
+    "slug" : "fresh-eye-serum",
+    "title" : "FRESH eye serum",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 770,
-    "mediaId" : 1218
+    "id" : 3909,
+    "mediaId" : 703
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 811,
-    "mediaId" : 1219
+    "id" : 3910,
+    "mediaId" : 5134
   }, {
-    "caption" : "product.PAS.imageGallery812.caption",
-    "captionLink" : "corporate/products/care-facts/",
-    "id" : 812,
-    "mediaId" : 1220
+    "caption" : "",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 3911,
+    "mediaId" : 5135
+  }, {
+    "caption" : "",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 3912,
+    "mediaId" : 5424
+  }, {
+    "caption" : "",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 3913,
+    "mediaId" : 5425
   } ],
   "infoColor" : null,
-  "isFreshCosmeticsProduct" : false,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "maxPerCart" : 99999,
+  "maxPerCart" : 100,
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 3880,
+      "brutto" : 1216,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 19.4,
+      "brutto" : 60.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -258,10 +247,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 9.2
+      "provisionPoints" : 34.9
     },
     "partner" : {
-      "brutto" : 19.4,
+      "brutto" : 60.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -272,89 +261,108 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 9.2
+      "provisionPoints" : 34.9
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
-  "shortDescription" : "product.PAS.shortDescription",
+  "shortDescription" : "product.BCM.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "fresh-eye-serum-sample",
+  "slug" : "fresh-cream-rich",
   "socialMedia" : {
-    "id" : 306,
-    "imageId" : 1218,
-    "text" : "product.PAS.socialMedia.text",
-    "title" : "product.PAS.socialMedia.title"
+    "id" : 2943,
+    "imageId" : 5135,
+    "text" : "product.BCM.socialMedia.text",
+    "title" : "product.BCM.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "sample",
+  "supplementDescription" : "cream rich",
   "tabs" : [ {
-    "description" : "product.PAS.tabs0.description",
-    "id" : 743,
+    "description" : "product.BCM.tabs3424.description",
+    "id" : 3424,
     "showPrintButton" : false,
-    "title" : "product.PAS.tabs0.title"
+    "title" : "product.BCM.tabs3424.title"
   }, {
-    "description" : "product.PAS.tabs1.description",
-    "id" : 744,
-    "showPrintButton" : false,
-    "title" : "product.PAS.tabs1.title"
+    "description" : "product.BCM.tabs3425.description",
+    "id" : 3425,
+    "showPrintButton" : true,
+    "title" : "product.BCM.tabs3425.title"
   }, {
-    "description" : "product.PAS.tabs2.description",
-    "id" : 745,
+    "description" : "product.BCM.tabs3426.description",
+    "id" : 3426,
     "showPrintButton" : false,
-    "title" : "product.PAS.tabs2.title"
+    "title" : "product.BCM.tabs3426.title"
   }, {
-    "description" : "product.PAS.tabs3.description",
-    "id" : 746,
+    "description" : "product.BCM.tabs3427.description",
+    "id" : 3427,
     "showPrintButton" : false,
-    "title" : "product.PAS.tabs3.title"
+    "title" : "product.BCM.tabs3427.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "FRESH eye serum sample",
-  "unit" : "Reisegröße",
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 10,
+    "id" : 3,
+    "lineHeight" : 1.3,
+    "position" : "top-left",
+    "text" : "New Formu-lation",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH cream rich",
+  "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : 43592,
-  "usp" : "product.PAS.usp",
+  "unitId" : 996,
+  "usp" : "product.BCM.usp",
   "values" : [ {
-    "iconMediaId" : 1097,
-    "name" : "value.value42.name"
-  }, {
-    "iconMediaId" : 1096,
-    "name" : "value.value41.name"
-  }, {
     "iconMediaId" : 1090,
     "name" : "value.value35.name"
   }, {
     "iconMediaId" : 1089,
     "name" : "value.value34.name"
   }, {
-    "iconMediaId" : 1061,
-    "name" : "value.value6.name"
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  }, {
+    "iconMediaId" : 1107,
+    "name" : "value.value52.name"
   } ],
   "variants" : [ {
-    "color" : null,
-    "id" : 859,
+    "color" : "#dac8b1",
+    "id" : 1992,
     "language" : null,
-    "matchcode" : "PAS",
-    "name" : null,
-    "size" : 5,
-    "slug" : "fresh-eye-serum-sample",
-    "type" : 2,
-    "unit" : 6
+    "matchcode" : "BCM",
+    "name" : "rich",
+    "size" : null,
+    "slug" : "fresh-cream-rich",
+    "type" : 1,
+    "unit" : null
   }, {
-    "color" : null,
-    "id" : 860,
+    "color" : "#e8e0ce",
+    "id" : 1993,
     "language" : null,
-    "matchcode" : "BAS",
-    "name" : null,
-    "size" : 15,
-    "slug" : "fresh-eye-serum",
-    "type" : 2,
-    "unit" : 6
+    "matchcode" : "BCL",
+    "name" : "medium",
+    "size" : null,
+    "slug" : "fresh-cream-medium",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#e6e6e1",
+    "id" : 1994,
+    "language" : null,
+    "matchcode" : "BCE",
+    "name" : "light",
+    "size" : null,
+    "slug" : "fresh-cream-light",
+    "type" : 1,
+    "unit" : null
   } ]
 }
