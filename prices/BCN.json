@@ -103,53 +103,6 @@
   "id" : 137,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "15",
-    "currency" : "eur",
-    "description" : "ADDS effect",
-    "imageId" : 773,
-    "matchcode" : "RAE",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 4060,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 60.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 36.9
-      },
-      "partner" : {
-        "brutto" : 60.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 36.9
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "fresh-adds-effect",
-    "title" : "ADDS effect",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
     "currency" : "eur",
     "description" : "overnight",

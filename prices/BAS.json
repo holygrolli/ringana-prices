@@ -141,17 +141,17 @@
     "contentsAmount" : "50",
     "currency" : "eur",
     "description" : "cream light",
-    "imageId" : 1126,
+    "imageId" : 5128,
     "matchcode" : "BCE",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 978,
+        "brutto" : 998,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 48.9,
+        "brutto" : 49.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -165,7 +165,7 @@
         "provisionPoints" : 28.1
       },
       "partner" : {
-        "brutto" : 48.9,
+        "brutto" : 49.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -193,12 +193,12 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 2493.3,
+        "brutto" : 2520,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 74.8,
+        "brutto" : 75.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -212,7 +212,7 @@
         "provisionPoints" : 43
       },
       "partner" : {
-        "brutto" : 74.8,
+        "brutto" : 75.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,

@@ -187,7 +187,7 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 30.8,
+      "brutto" : 31.1,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -201,7 +201,7 @@
       "provisionPoints" : 17.7
     },
     "partner" : {
-      "brutto" : 30.8,
+      "brutto" : 31.1,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
