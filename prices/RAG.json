@@ -19,13 +19,6 @@
     "slug" : "face",
     "visible" : true
   }, {
-    "id" : 92,
-    "infoColorNeeded" : false,
-    "name" : "category.category92.name",
-    "primary" : false,
-    "slug" : "facial-care",
-    "visible" : true
-  }, {
     "id" : 86,
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
@@ -66,6 +59,13 @@
     "name" : "category.category17.name",
     "primary" : false,
     "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
     "visible" : true
   } ],
   "contentBlock" : null,
@@ -201,7 +201,7 @@
     "caption" : "",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
     "id" : 2840,
-    "mediaId" : 743
+    "mediaId" : 5429
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,

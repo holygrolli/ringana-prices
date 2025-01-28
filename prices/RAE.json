@@ -231,7 +231,7 @@
     "caption" : "",
     "captionLink" : null,
     "id" : 3916,
-    "mediaId" : 5126
+    "mediaId" : 5192
   }, {
     "caption" : "",
     "captionLink" : null,
@@ -327,6 +327,11 @@
     "id" : 3431,
     "showPrintButton" : false,
     "title" : "product.RAE.tabs3431.title"
+  }, {
+    "description" : "product.RAE.tabs3451.description",
+    "id" : 3451,
+    "showPrintButton" : false,
+    "title" : "product.RAE.tabs3451.title"
   } ],
   "teaserDots" : [ {
     "backgroundColor" : "#000000",

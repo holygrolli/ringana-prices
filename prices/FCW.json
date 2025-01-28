@@ -131,53 +131,6 @@
   "id" : 158,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "50",
-    "currency" : "eur",
-    "description" : "cream light",
-    "imageId" : 5128,
-    "matchcode" : "BCE",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 998,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 49.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 28.1
-      },
-      "partner" : {
-        "brutto" : 49.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 28.1
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-cream-light",
-    "title" : "FRESH cream light",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
     "currency" : "eur",
     "description" : "tonic pure",
@@ -280,7 +233,7 @@
     "caption" : "",
     "captionLink" : null,
     "id" : 487,
-    "mediaId" : 763
+    "mediaId" : 5526
   }, {
     "caption" : "",
     "captionLink" : null,

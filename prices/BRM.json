@@ -37,13 +37,6 @@
     "slug" : "step-1-cleansing",
     "visible" : true
   }, {
-    "id" : 92,
-    "infoColorNeeded" : false,
-    "name" : "category.category92.name",
-    "primary" : false,
-    "slug" : "facial-care",
-    "visible" : true
-  }, {
     "id" : 82,
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
@@ -63,6 +56,13 @@
     "name" : "category.category85.name",
     "primary" : false,
     "slug" : "sensitive-reddened-skin",
+    "visible" : true
+  }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
     "visible" : true
   }, {
     "id" : 81,
@@ -251,7 +251,7 @@
     "caption" : "",
     "captionLink" : null,
     "id" : 477,
-    "mediaId" : 752
+    "mediaId" : 5521
   }, {
     "caption" : "",
     "captionLink" : null,
