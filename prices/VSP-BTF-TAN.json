@@ -1,0 +1,288 @@
+{
+  "matchcode" : "VSP-BTF-TAN",
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  } ],
+  "contentBlock" : null,
+  "contentsAmount" : "35",
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 2875,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : null,
+    "currency" : "eur",
+    "description" : "",
+    "imageId" : 234,
+    "matchcode" : "RFOBR",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 28.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 28.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringana-foundation-brush",
+    "title" : "RINGANA foundation brush",
+    "unitContents" : null
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "30",
+    "currency" : "eur",
+    "description" : "perfection",
+    "imageId" : 4267,
+    "matchcode" : "FLN",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2983.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 89.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.5
+      },
+      "partner" : {
+        "brutto" : 89.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.5
+      }
+    },
+    "purchasePossible" : false,
+    "slug" : "fresh-skin-perfection",
+    "title" : "FRESH skin perfection",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "15",
+    "currency" : "eur",
+    "description" : "eye serum",
+    "imageId" : 707,
+    "matchcode" : "BAS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 3233.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 48.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 27.5
+      },
+      "partner" : {
+        "brutto" : 48.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 27.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-eye-serum",
+    "title" : "FRESH eye serum",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3828,
+    "mediaId" : 5357
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
+  "isMerchandise" : false,
+  "maxPerCart" : 1246576928,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
+    "customer" : {
+      "brutto" : 55.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 29.6
+    },
+    "partner" : {
+      "brutto" : 55.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 29.6
+    }
+  },
+  "purchasePossible" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "BTF-TAN"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "BLB-R-S"
+  } ],
+  "shortDescription" : "product.VSP-BTF-TAN.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "fresh-valentines-day-duo-tan",
+  "socialMedia" : {
+    "id" : 2875,
+    "imageId" : 5357,
+    "text" : "product.VSP-BTF-TAN.socialMedia.text",
+    "title" : "product.VSP-BTF-TAN.socialMedia.title"
+  },
+  "soldOut" : false,
+  "supplementDescription" : "valentine's day duo",
+  "tabs" : [ {
+    "description" : "product.VSP-BTF-TAN.tabs3349.description",
+    "id" : 3349,
+    "showPrintButton" : false,
+    "title" : "product.VSP-BTF-TAN.tabs3349.title"
+  }, {
+    "description" : "product.VSP-BTF-TAN.tabs3350.description",
+    "id" : 3350,
+    "showPrintButton" : false,
+    "title" : "product.VSP-BTF-TAN.tabs3350.title"
+  }, {
+    "description" : "product.VSP-BTF-TAN.tabs3351.description",
+    "id" : 3351,
+    "showPrintButton" : false,
+    "title" : "product.VSP-BTF-TAN.tabs3351.title"
+  } ],
+  "teaserDots" : [ ],
+  "title" : "FRESH valentine's day duo - Nuance 2",
+  "unit" : "Set",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 43586,
+  "usp" : "product.VSP-BTF-TAN.usp",
+  "values" : [ ],
+  "variants" : [ {
+    "color" : "#c48a6d",
+    "id" : 2016,
+    "language" : null,
+    "matchcode" : "VSP-BTF-TAN",
+    "name" : "N2",
+    "size" : null,
+    "slug" : "fresh-valentines-day-duo-tan",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#e0b8a4",
+    "id" : 2017,
+    "language" : null,
+    "matchcode" : "VSP-BTF",
+    "name" : "N1",
+    "size" : null,
+    "slug" : "fresh-valentines-day-duo",
+    "type" : 1,
+    "unit" : null
+  } ]
+}
