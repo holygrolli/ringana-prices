@@ -348,6 +348,11 @@
     "id" : 3423,
     "showPrintButton" : false,
     "title" : "product.BCL.tabs3423.title"
+  }, {
+    "description" : "product.BCL.tabs3479.description",
+    "id" : 3479,
+    "showPrintButton" : false,
+    "title" : "product.BCL.tabs3479.title"
   } ],
   "teaserDots" : [ {
     "backgroundColor" : "#000000",

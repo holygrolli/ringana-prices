@@ -348,6 +348,11 @@
     "id" : 3427,
     "showPrintButton" : false,
     "title" : "product.BCM.tabs3427.title"
+  }, {
+    "description" : "product.BCM.tabs3480.description",
+    "id" : 3480,
+    "showPrintButton" : false,
+    "title" : "product.BCM.tabs3480.title"
   } ],
   "teaserDots" : [ {
     "backgroundColor" : "#000000",

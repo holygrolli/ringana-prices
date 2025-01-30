@@ -349,6 +349,11 @@
     "id" : 3415,
     "showPrintButton" : false,
     "title" : "product.BSA.tabs3415.title"
+  }, {
+    "description" : "product.BSA.tabs3478.description",
+    "id" : 3478,
+    "showPrintButton" : false,
+    "title" : "product.BSA.tabs3478.title"
   } ],
   "teaserDots" : [ {
     "backgroundColor" : "#000000",

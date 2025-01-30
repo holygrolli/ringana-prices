@@ -15,8 +15,8 @@
   "contentsAmount" : "35",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -215,7 +215,7 @@
       "provisionPoints" : 29.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -264,5 +264,25 @@
   "unitId" : 43586,
   "usp" : "product.VSP-BTF-TAN15.usp",
   "values" : [ ],
-  "variants" : [ ]
+  "variants" : [ {
+    "color" : "#c48a6d",
+    "id" : 2020,
+    "language" : null,
+    "matchcode" : "VSP-BTF-TAN15",
+    "name" : "N2",
+    "size" : null,
+    "slug" : "fresh-valentines-day-duo-spf15-tan",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#e0b8a4",
+    "id" : 2021,
+    "language" : null,
+    "matchcode" : "VSP-BTF15",
+    "name" : "N1",
+    "size" : null,
+    "slug" : "fresh-valentines-day-duo-spf15",
+    "type" : 1,
+    "unit" : null
+  } ]
 }
