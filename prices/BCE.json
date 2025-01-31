@@ -356,6 +356,11 @@
     "id" : 3419,
     "showPrintButton" : false,
     "title" : "product.BCE.tabs3419.title"
+  }, {
+    "description" : "product.BCE.tabs3511.description",
+    "id" : 3511,
+    "showPrintButton" : false,
+    "title" : "product.BCE.tabs3511.title"
   } ],
   "teaserDots" : [ {
     "backgroundColor" : "#000000",

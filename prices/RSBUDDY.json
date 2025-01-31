@@ -71,7 +71,7 @@
         "provisionPoints" : 39.4
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "pack-cleansing",
     "title" : "FRESH pack cleansing",
     "unitContents" : "g"
