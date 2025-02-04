@@ -11,13 +11,6 @@
     "slug" : "offers",
     "visible" : true
   }, {
-    "id" : 232,
-    "infoColorNeeded" : false,
-    "name" : "category.category232.name",
-    "primary" : false,
-    "slug" : "men",
-    "visible" : false
-  }, {
     "id" : 98,
     "infoColorNeeded" : false,
     "name" : "category.category98.name",
@@ -52,15 +45,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1135.8,
+        "brutto" : 1262,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 52.02,
-        "bruttoWithoutDiscount" : 57.8,
-        "discountPercentage" : 10,
-        "discountUntil" : "2025-02-03T22:59:59Z",
+        "brutto" : 57.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -68,13 +61,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 26.41
+        "provisionPoints" : 32.6
       },
       "partner" : {
-        "brutto" : 52.02,
-        "bruttoWithoutDiscount" : 57.8,
-        "discountPercentage" : 10,
-        "discountUntil" : "2025-02-03T22:59:59Z",
+        "brutto" : 57.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -82,7 +75,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 26.41
+        "provisionPoints" : 32.6
       }
     },
     "purchasePossible" : true,
@@ -207,7 +200,7 @@
       "brutto" : 108.9,
       "bruttoWithoutDiscount" : 121,
       "discountPercentage" : 10,
-      "discountUntil" : "2025-02-03T22:59:59Z",
+      "discountUntil" : "2025-02-14T09:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -221,7 +214,7 @@
       "brutto" : 108.9,
       "bruttoWithoutDiscount" : 121,
       "discountPercentage" : 10,
-      "discountUntil" : "2025-02-03T22:59:59Z",
+      "discountUntil" : "2025-02-14T09:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
