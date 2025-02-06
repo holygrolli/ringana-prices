@@ -32,8 +32,8 @@
   "contentsAmount" : "520",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -251,7 +251,7 @@
       "provisionPoints" : 39.4
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -266,7 +266,7 @@
     "text" : "product.WPC.socialMedia.text",
     "title" : "product.WPC.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "pack cleansing",
   "tabs" : [ {
     "description" : "product.WPC.tabs0.description",

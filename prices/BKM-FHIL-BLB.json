@@ -1,11 +1,8 @@
 {
-  "matchcode" : "WPC3",
-  "additionalUnitPrice" : {
-    "entity" : 78,
-    "type" : 2
-  },
+  "matchcode" : "BKM-FHIL-BLB",
+  "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ 156677, 149993, 118137 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
     "id" : 9,
     "infoColorNeeded" : false,
@@ -13,16 +10,9 @@
     "primary" : true,
     "slug" : "offers",
     "visible" : true
-  }, {
-    "id" : 99,
-    "infoColorNeeded" : false,
-    "name" : "category.category99.name",
-    "primary" : false,
-    "slug" : "supplement-sets",
-    "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "1560",
+  "contentsAmount" : "215",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
@@ -31,32 +21,30 @@
   "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "disruptor" : {
-    "mediaId" : 284,
-    "posterMediaId" : 285
-  },
-  "faqs" : [ ],
-  "firstHeadline" : "",
-  "id" : 63,
+  "disruptor" : null,
+  "faqs" : [ {
+    "answer" : "product.BKM-FHIL-BLB.faqs0.answer",
+    "id" : 1176,
+    "question" : "product.BKM-FHIL-BLB.faqs0.question"
+  } ],
+  "firstHeadline" : "product.BKM-FHIL-BLB.firstHeadline",
+  "id" : 3006,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : 90,
-      "type" : 1
-    },
-    "contentsAmount" : "48,7",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "15",
     "currency" : "eur",
-    "description" : "CAPS d-gest",
-    "imageId" : 422,
-    "matchcode" : "CDG",
+    "description" : "eye serum",
+    "imageId" : 707,
+    "matchcode" : "BAS",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1039,
-        "unit" : "g",
-        "unitId" : 812
+        "brutto" : 3233.3,
+        "unit" : "ml",
+        "unitId" : 827
       },
       "customer" : {
-        "brutto" : 50.6,
+        "brutto" : 48.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -67,10 +55,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.5
+        "provisionPoints" : 27.5
       },
       "partner" : {
-        "brutto" : 50.6,
+        "brutto" : 48.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -81,79 +69,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.5
+        "provisionPoints" : 27.5
       }
     },
     "purchasePossible" : true,
-    "slug" : "caps-d-gest",
-    "title" : "CAPS d-gest",
-    "unitContents" : "g"
+    "slug" : "fresh-eye-serum",
+    "title" : "FRESH eye serum",
+    "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "1",
+    "contentsAmount" : "30",
     "currency" : "eur",
-    "description" : "SHAKE! SHAKE!",
-    "imageId" : 215,
-    "matchcode" : "RSG-SBB",
-    "priceInformation" : {
-      "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
-      },
-      "customer" : {
-        "brutto" : 7.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 0
-      },
-      "partner" : {
-        "brutto" : 7.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 0
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "pack-glass-shaker",
-    "title" : "RINGANA Glass Shaker & Shaker Ball",
-    "unitContents" : "Stk."
-  }, {
-    "additionalUnitPrice" : {
-      "entity" : 60,
-      "type" : 1
-    },
-    "contentsAmount" : "26,1",
-    "currency" : "eur",
-    "description" : "BEYOND biotic",
-    "imageId" : 449,
-    "matchcode" : "CBI",
+    "description" : "perfection",
+    "imageId" : 4267,
+    "matchcode" : "FLN",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 3659,
-        "unit" : "g",
-        "unitId" : 812
+        "brutto" : 2983.3,
+        "unit" : "ml",
+        "unitId" : 827
       },
       "customer" : {
-        "brutto" : 95.5,
+        "brutto" : 89.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -164,10 +102,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 53.8
+        "provisionPoints" : 52.5
       },
       "partner" : {
-        "brutto" : 95.5,
+        "brutto" : 89.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -178,45 +116,82 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 53.8
+        "provisionPoints" : 52.5
       }
     },
     "purchasePossible" : true,
-    "slug" : "beyond-biotic",
-    "title" : "BEYOND biotic",
-    "unitContents" : "g"
+    "slug" : "fresh-skin-perfection",
+    "title" : "FRESH skin perfection",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "125",
+    "currency" : "eur",
+    "description" : "hand balm",
+    "imageId" : 572,
+    "matchcode" : "BHB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 196,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 24.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 13.7
+      },
+      "partner" : {
+        "brutto" : 24.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 13.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-hand-balm",
+    "title" : "FRESH hand balm",
+    "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 721,
-    "mediaId" : 1147
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 139,
-    "mediaId" : 286
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 140,
-    "mediaId" : 287
+    "id" : 3959,
+    "mediaId" : 5653
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "maxPerCart" : 100,
+  "maxPerCart" : 1269769999,
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {
     "base" : {
-      "amount" : 1000,
-      "brutto" : 120.9,
-      "unit" : "g",
-      "unitId" : 812
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
     },
     "customer" : {
-      "brutto" : 188.7,
+      "brutto" : 72.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -227,10 +202,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 95.7
+      "provisionPoints" : 36.7
     },
     "partner" : {
-      "brutto" : 188.7,
+      "brutto" : 72.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -241,87 +216,78 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 95.7
+      "provisionPoints" : 36.7
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
-    "amount" : 3,
+    "amount" : 1,
     "freeOfCharge" : false,
-    "matchcode" : "WPC"
+    "matchcode" : "BKM"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "FHIL"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "BLB"
   } ],
-  "shortDescription" : "product.WPC3.shortDescription",
+  "shortDescription" : "product.BKM-FHIL-BLB.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "pack-cleansing-set",
+  "slug" : "fresh-highlight-your-body-set",
   "socialMedia" : {
-    "id" : 63,
-    "imageId" : 282,
-    "text" : "product.WPC3.socialMedia.text",
-    "title" : "product.WPC3.socialMedia.title"
+    "id" : 3006,
+    "imageId" : 5653,
+    "text" : "product.BKM-FHIL-BLB.socialMedia.text",
+    "title" : "product.BKM-FHIL-BLB.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "pack cleansing",
+  "supplementDescription" : "body highlight",
   "tabs" : [ {
-    "description" : "product.WPC3.tabs0.description",
-    "id" : 232,
+    "description" : "product.BKM-FHIL-BLB.tabs3544.description",
+    "id" : 3544,
     "showPrintButton" : false,
-    "title" : "product.WPC3.tabs0.title"
+    "title" : "product.BKM-FHIL-BLB.tabs3544.title"
   }, {
-    "description" : "product.WPC3.tabs1.description",
-    "id" : 233,
-    "showPrintButton" : true,
-    "title" : "product.WPC3.tabs1.title"
-  }, {
-    "description" : "product.WPC3.tabs2.description",
-    "id" : 234,
+    "description" : "product.BKM-FHIL-BLB.tabs3545.description",
+    "id" : 3545,
     "showPrintButton" : false,
-    "title" : "product.WPC3.tabs2.title"
+    "title" : "product.BKM-FHIL-BLB.tabs3545.title"
   }, {
-    "description" : "product.WPC3.tabs3.description",
-    "id" : 235,
+    "description" : "product.BKM-FHIL-BLB.tabs3546.description",
+    "id" : 3546,
     "showPrintButton" : false,
-    "title" : "product.WPC3.tabs3.title"
+    "title" : "product.BKM-FHIL-BLB.tabs3546.title"
+  }, {
+    "description" : "product.BKM-FHIL-BLB.tabs3547.description",
+    "id" : 3547,
+    "showPrintButton" : false,
+    "title" : "product.BKM-FHIL-BLB.tabs3547.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "FRESH pack cleansing, Set of 3",
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 9,
+    "id" : 4,
+    "lineHeight" : 1.4,
+    "position" : "top-left",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH highlight your body set",
   "unit" : "Set",
-  "unitContents" : "g",
-  "unitContentsId" : 812,
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
   "unitId" : 43586,
-  "usp" : "product.WPC3.usp",
+  "usp" : "product.BKM-FHIL-BLB.usp",
   "values" : [ {
-    "iconMediaId" : 1082,
-    "name" : "value.value27.name"
-  }, {
-    "iconMediaId" : 1070,
-    "name" : "value.value15.name"
-  }, {
     "iconMediaId" : 1121,
     "name" : "value.value66.name"
   } ],
-  "variants" : [ {
-    "color" : null,
-    "id" : 98,
-    "language" : null,
-    "matchcode" : "WPC",
-    "name" : null,
-    "size" : 520,
-    "slug" : "pack-cleansing",
-    "type" : 2,
-    "unit" : 2
-  }, {
-    "color" : null,
-    "id" : 99,
-    "language" : null,
-    "matchcode" : "WPC3",
-    "name" : null,
-    "size" : 1560,
-    "slug" : "pack-cleansing-set",
-    "type" : 2,
-    "unit" : 2
-  } ]
+  "variants" : [ ]
 }
