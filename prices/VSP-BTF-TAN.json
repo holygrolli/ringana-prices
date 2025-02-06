@@ -246,6 +246,11 @@
     "showPrintButton" : false,
     "title" : "product.VSP-BTF-TAN.tabs3349.title"
   }, {
+    "description" : "product.VSP-BTF-TAN.tabs3590.description",
+    "id" : 3590,
+    "showPrintButton" : false,
+    "title" : "product.VSP-BTF-TAN.tabs3590.title"
+  }, {
     "description" : "product.VSP-BTF-TAN.tabs3350.description",
     "id" : 3350,
     "showPrintButton" : false,

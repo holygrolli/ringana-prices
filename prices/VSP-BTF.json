@@ -246,6 +246,11 @@
     "showPrintButton" : false,
     "title" : "product.VSP-BTF.tabs3346.title"
   }, {
+    "description" : "product.VSP-BTF.tabs3589.description",
+    "id" : 3589,
+    "showPrintButton" : false,
+    "title" : "product.VSP-BTF.tabs3589.title"
+  }, {
     "description" : "product.VSP-BTF.tabs3347.description",
     "id" : 3347,
     "showPrintButton" : false,
