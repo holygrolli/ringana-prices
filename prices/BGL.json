@@ -142,53 +142,6 @@
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "50",
-    "currency" : "eur",
-    "description" : "cream rich",
-    "imageId" : 703,
-    "matchcode" : "BCM",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 1216,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 60.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 34.9
-      },
-      "partner" : {
-        "brutto" : 60.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 34.9
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-cream-rich",
-    "title" : "FRESH cream rich",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
     "contentsAmount" : "200",
     "currency" : "eur",
     "description" : "scrub",
