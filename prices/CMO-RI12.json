@@ -1,70 +1,18 @@
 {
-  "matchcode" : "CBI",
-  "additionalUnitPrice" : {
-    "entity" : 60,
-    "type" : 1
-  },
+  "matchcode" : "CMO-RI12",
+  "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ 149993, 148093, 150146 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 3,
+    "id" : 9,
     "infoColorNeeded" : false,
-    "name" : "category.category3.name",
+    "name" : "category.category9.name",
     "primary" : true,
-    "slug" : "caps",
-    "visible" : true
-  }, {
-    "id" : 18,
-    "infoColorNeeded" : false,
-    "name" : "category.category18.name",
-    "primary" : false,
-    "slug" : "supplements",
-    "visible" : true
-  }, {
-    "id" : 74,
-    "infoColorNeeded" : false,
-    "name" : "category.category74.name",
-    "primary" : false,
-    "slug" : "better-aging",
-    "visible" : true
-  }, {
-    "id" : 84,
-    "infoColorNeeded" : false,
-    "name" : "category.category84.name",
-    "primary" : false,
-    "slug" : "impure-skin",
-    "visible" : true
-  }, {
-    "id" : 76,
-    "infoColorNeeded" : false,
-    "name" : "category.category76.name",
-    "primary" : false,
-    "slug" : "toning",
-    "visible" : true
-  }, {
-    "id" : 73,
-    "infoColorNeeded" : false,
-    "name" : "category.category73.name",
-    "primary" : false,
-    "slug" : "body-shape",
-    "visible" : true
-  }, {
-    "id" : 71,
-    "infoColorNeeded" : false,
-    "name" : "category.category71.name",
-    "primary" : false,
-    "slug" : "gut-feeling",
-    "visible" : true
-  }, {
-    "id" : 67,
-    "infoColorNeeded" : false,
-    "name" : "category.category67.name",
-    "primary" : false,
-    "slug" : "immune-system",
+    "slug" : "offers",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "26,1",
+  "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
@@ -73,32 +21,29 @@
   "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "disruptor" : {
-    "mediaId" : 451,
-    "posterMediaId" : 450
-  },
+  "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "product.CBI.firstHeadline",
-  "id" : 96,
+  "firstHeadline" : "product.CMO-RI12.firstHeadline",
+  "id" : 1885,
   "idealSupplements" : [ {
     "additionalUnitPrice" : {
       "entity" : 26,
       "type" : 2
     },
-    "contentsAmount" : "520",
+    "contentsAmount" : "260",
     "currency" : "eur",
-    "description" : "pack cleansing",
-    "imageId" : 1146,
-    "matchcode" : "WPC",
+    "description" : "pack antiox",
+    "imageId" : 1143,
+    "matchcode" : "WPA",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 134.4,
+        "brutto" : 299.6,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 69.9,
+        "brutto" : 77.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -109,10 +54,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 39.4
+        "provisionPoints" : 39.3
       },
       "partner" : {
-        "brutto" : 69.9,
+        "brutto" : 77.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -123,29 +68,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 39.4
+        "provisionPoints" : 39.3
       }
     },
     "purchasePossible" : true,
-    "slug" : "pack-cleansing",
-    "title" : "FRESH pack cleansing",
+    "slug" : "pack-antiox",
+    "title" : "FRESH pack antiox",
     "unitContents" : "g"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "360",
+    "contentsAmount" : "200",
     "currency" : "eur",
-    "description" : "RINGANAdea",
-    "imageId" : 240,
-    "matchcode" : "RD12",
+    "description" : "body milk",
+    "imageId" : 606,
+    "matchcode" : "BKM",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 173.3,
+        "brutto" : 189.5,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 62.4,
+        "brutto" : 37.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -156,10 +101,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 34.3
+        "provisionPoints" : 21.1
       },
       "partner" : {
-        "brutto" : 62.4,
+        "brutto" : 37.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -170,12 +115,12 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 34.3
+        "provisionPoints" : 21.1
       }
     },
     "purchasePossible" : true,
-    "slug" : "ringanadea",
-    "title" : "RINGANAdea",
+    "slug" : "fresh-body-milk",
+    "title" : "FRESH body milk",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : {
@@ -231,42 +176,27 @@
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 244,
-    "mediaId" : 449
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 246,
-    "mediaId" : 452
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 249,
-    "mediaId" : 453
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 251,
-    "mediaId" : 2918
+    "id" : 2640,
+    "mediaId" : 5587
   } ],
-  "infoColor" : "#9b9295",
+  "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "maxPerCart" : 100,
+  "maxPerCart" : 99999999,
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {
     "base" : {
-      "amount" : 1000,
-      "brutto" : 2927.2,
-      "unit" : "g",
-      "unitId" : 812
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
     },
     "customer" : {
-      "brutto" : 76.4,
-      "bruttoWithoutDiscount" : 95.5,
+      "brutto" : 90.8,
+      "bruttoWithoutDiscount" : 113.5,
       "discountPercentage" : 20,
-      "discountUntil" : "2025-02-13T22:59:59Z",
+      "discountUntil" : "2025-02-27T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -274,13 +204,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 38.74
+      "provisionPoints" : 46.87
     },
     "partner" : {
-      "brutto" : 76.4,
-      "bruttoWithoutDiscount" : 95.5,
+      "brutto" : 90.8,
+      "bruttoWithoutDiscount" : 113.5,
       "discountPercentage" : 20,
-      "discountUntil" : "2025-02-13T22:59:59Z",
+      "discountUntil" : "2025-02-27T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -288,92 +218,74 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 38.74
+      "provisionPoints" : 46.87
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
-  "setContents" : [ ],
-  "shortDescription" : "product.CBI.shortDescription",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "CMO"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "RI12"
+  } ],
+  "shortDescription" : "product.CMO-RI12.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "beyond-biotic",
+  "slug" : "ringana-feel-good-set",
   "socialMedia" : {
-    "id" : 96,
-    "imageId" : 448,
-    "text" : "product.CBI.socialMedia.text",
-    "title" : "product.CBI.socialMedia.title"
+    "id" : 1885,
+    "imageId" : 5587,
+    "text" : "product.CMO-RI12.socialMedia.text",
+    "title" : "product.CMO-RI12.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "BEYOND biotic",
+  "supplementDescription" : "feel good",
   "tabs" : [ {
-    "description" : "product.CBI.tabs0.description",
-    "id" : 357,
+    "description" : "product.CMO-RI12.tabs2294.description",
+    "id" : 2294,
     "showPrintButton" : false,
-    "title" : "product.CBI.tabs0.title"
+    "title" : "product.CMO-RI12.tabs2294.title"
   }, {
-    "description" : "product.CBI.tabs1.description",
-    "id" : 360,
-    "showPrintButton" : true,
-    "title" : "product.CBI.tabs1.title"
-  }, {
-    "description" : "product.CBI.tabs2.description",
-    "id" : 362,
+    "description" : "product.CMO-RI12.tabs2295.description",
+    "id" : 2295,
     "showPrintButton" : false,
-    "title" : "product.CBI.tabs2.title"
+    "title" : "product.CMO-RI12.tabs2295.title"
   }, {
-    "description" : "product.CBI.tabs3.description",
-    "id" : 364,
+    "description" : "product.CMO-RI12.tabs2296.description",
+    "id" : 2296,
     "showPrintButton" : false,
-    "title" : "product.CBI.tabs3.title"
+    "title" : "product.CMO-RI12.tabs2296.title"
+  }, {
+    "description" : "product.CMO-RI12.tabs2297.description",
+    "id" : 2297,
+    "showPrintButton" : false,
+    "title" : "product.CMO-RI12.tabs2297.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "BEYOND biotic",
-  "unit" : "Pck.",
-  "unitContents" : "g",
-  "unitContentsId" : 812,
-  "unitId" : 43589,
-  "usp" : "product.CBI.usp",
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 9,
+    "id" : 4,
+    "lineHeight" : 1.4,
+    "position" : "top-left",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "RINGANA feel good set",
+  "unit" : "Set",
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
+  "unitId" : 43586,
+  "usp" : "product.CMO-RI12.usp",
   "values" : [ {
-    "iconMediaId" : 1084,
-    "name" : "value.value29.name"
-  }, {
-    "iconMediaId" : 1112,
-    "name" : "value.value57.name"
-  }, {
-    "iconMediaId" : 1070,
-    "name" : "value.value15.name"
-  }, {
-    "iconMediaId" : 1074,
-    "name" : "value.value19.name"
-  }, {
-    "iconMediaId" : 1083,
-    "name" : "value.value28.name"
-  }, {
     "iconMediaId" : 1121,
     "name" : "value.value66.name"
   } ],
-  "variants" : [ {
-    "color" : null,
-    "id" : 160,
-    "language" : null,
-    "matchcode" : "CBI",
-    "name" : null,
-    "size" : 60,
-    "slug" : "beyond-biotic",
-    "type" : 2,
-    "unit" : 1
-  }, {
-    "color" : null,
-    "id" : 162,
-    "language" : null,
-    "matchcode" : "CBI3",
-    "name" : null,
-    "size" : 180,
-    "slug" : "beyond-biotic-set",
-    "type" : 2,
-    "unit" : 1
-  } ]
+  "variants" : [ ]
 }

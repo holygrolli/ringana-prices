@@ -148,11 +148,6 @@
     "id" : 430,
     "mediaId" : 710
   }, {
-    "caption" : "product.BAS.imageGallery431.caption",
-    "captionLink" : "blog/eye-care-yes-please/",
-    "id" : 431,
-    "mediaId" : 711
-  }, {
     "caption" : "",
     "captionLink" : null,
     "id" : 432,
@@ -162,6 +157,11 @@
     "captionLink" : null,
     "id" : 434,
     "mediaId" : 713
+  }, {
+    "caption" : "product.BAS.imageGallery431.caption",
+    "captionLink" : "blog/eye-care-yes-please/",
+    "id" : 431,
+    "mediaId" : 711
   }, {
     "caption" : "product.BAS.imageGallery5.caption",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",

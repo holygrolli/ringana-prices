@@ -68,7 +68,32 @@
     "slug" : "facial-care",
     "visible" : true
   } ],
-  "contentBlock" : null,
+  "contentBlock" : {
+    "buttonLink" : null,
+    "buttonText" : null,
+    "contentBlockItems" : [ {
+      "id" : 34,
+      "link" : null,
+      "text" : "product.RAG.contentBlockItem0.text"
+    }, {
+      "id" : 35,
+      "link" : null,
+      "text" : "product.RAG.contentBlockItem1.text"
+    }, {
+      "id" : 36,
+      "link" : null,
+      "text" : "product.RAG.contentBlockItem2.text"
+    }, {
+      "id" : 37,
+      "link" : null,
+      "text" : "product.RAG.contentBlockItem3.text"
+    } ],
+    "id" : 34,
+    "imageId" : 5790,
+    "imageLayoutLeft" : false,
+    "subtitle" : "product.RAG.contentBlock.subtitle",
+    "title" : "product.RAG.contentBlock.title"
+  },
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",

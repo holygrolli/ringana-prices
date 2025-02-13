@@ -61,7 +61,32 @@
     "slug" : "lifting",
     "visible" : true
   } ],
-  "contentBlock" : null,
+  "contentBlock" : {
+    "buttonLink" : null,
+    "buttonText" : null,
+    "contentBlockItems" : [ {
+      "id" : 38,
+      "link" : null,
+      "text" : "product.FLN.contentBlockItem0.text"
+    }, {
+      "id" : 39,
+      "link" : null,
+      "text" : "product.FLN.contentBlockItem1.text"
+    }, {
+      "id" : 40,
+      "link" : null,
+      "text" : "product.FLN.contentBlockItem2.text"
+    }, {
+      "id" : 41,
+      "link" : null,
+      "text" : "product.FLN.contentBlockItem3.text"
+    } ],
+    "id" : 35,
+    "imageId" : 5791,
+    "imageLayoutLeft" : false,
+    "subtitle" : "product.FLN.contentBlock.subtitle",
+    "title" : "product.FLN.contentBlock.title"
+  },
   "contentsAmount" : "30",
   "countryIso" : "DE",
   "currency" : "eur",
