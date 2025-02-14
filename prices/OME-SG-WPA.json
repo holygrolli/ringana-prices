@@ -15,8 +15,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -88,15 +88,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 2927.2,
+        "brutto" : 3659,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 76.4,
-        "bruttoWithoutDiscount" : 95.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-02-13T22:59:59Z",
+        "brutto" : 95.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -104,13 +104,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 38.74
+        "provisionPoints" : 53.8
       },
       "partner" : {
-        "brutto" : 76.4,
-        "bruttoWithoutDiscount" : 95.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-02-13T22:59:59Z",
+        "brutto" : 95.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -118,7 +118,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 38.74
+        "provisionPoints" : 53.8
       }
     },
     "purchasePossible" : true,
@@ -196,10 +196,10 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 133.2,
-      "bruttoWithoutDiscount" : 166.5,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-02-13T22:59:59Z",
+      "brutto" : 166.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -207,13 +207,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 64.01
+      "provisionPoints" : 88.9
     },
     "partner" : {
-      "brutto" : 133.2,
-      "bruttoWithoutDiscount" : 166.5,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-02-13T22:59:59Z",
+      "brutto" : 166.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -221,10 +221,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 64.01
+      "provisionPoints" : 88.9
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -247,7 +247,7 @@
     "text" : "",
     "title" : ""
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "",
   "tabs" : [ {
     "description" : "product.OME-SG-WPA.tabs2760.description",

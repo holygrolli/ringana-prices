@@ -89,15 +89,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 238,
+        "brutto" : 214.2,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 47.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 42.84,
+        "bruttoWithoutDiscount" : 47.6,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-02-28T09:00:00Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -105,13 +105,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29
+        "provisionPoints" : 23.49
       },
       "partner" : {
-        "brutto" : 47.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 42.84,
+        "bruttoWithoutDiscount" : 47.6,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-02-28T09:00:00Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -119,7 +119,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29
+        "provisionPoints" : 23.49
       }
     },
     "purchasePossible" : true,
@@ -139,15 +139,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1571.4,
+        "brutto" : 1414.2,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 58.3,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 52.47,
+        "bruttoWithoutDiscount" : 58.3,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-02-28T09:00:00Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -155,13 +155,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32.6
+        "provisionPoints" : 26.41
       },
       "partner" : {
-        "brutto" : 58.3,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 52.47,
+        "bruttoWithoutDiscount" : 58.3,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-02-28T09:00:00Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -169,7 +169,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32.6
+        "provisionPoints" : 26.41
       }
     },
     "purchasePossible" : true,
@@ -197,10 +197,10 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 130.32,
-      "bruttoWithoutDiscount" : 144.8,
-      "discountPercentage" : 10,
-      "discountUntil" : "2025-02-14T09:00:00Z",
+      "brutto" : 144.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -208,13 +208,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 59.37
+      "provisionPoints" : 73.3
     },
     "partner" : {
-      "brutto" : 130.32,
-      "bruttoWithoutDiscount" : 144.8,
-      "discountPercentage" : 10,
-      "discountUntil" : "2025-02-14T09:00:00Z",
+      "brutto" : 144.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -222,7 +222,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 59.37
+      "provisionPoints" : 73.3
     }
   },
   "purchasePossible" : true,

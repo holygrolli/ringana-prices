@@ -15,8 +15,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -146,10 +146,10 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 132.32,
-      "bruttoWithoutDiscount" : 165.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-02-13T22:59:59Z",
+      "brutto" : 165.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -157,13 +157,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 67.1
+      "provisionPoints" : 93.2
     },
     "partner" : {
-      "brutto" : 132.32,
-      "bruttoWithoutDiscount" : 165.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-02-13T22:59:59Z",
+      "brutto" : 165.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -171,10 +171,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 67.1
+      "provisionPoints" : 93.2
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -197,7 +197,7 @@
     "text" : "",
     "title" : ""
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "",
   "tabs" : [ {
     "description" : "product.CBI-WPC.tabs3610.description",
