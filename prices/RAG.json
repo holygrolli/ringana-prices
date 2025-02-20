@@ -97,8 +97,8 @@
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -237,15 +237,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 3246.6,
+      "brutto" : 2597.3,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 48.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 38.96,
+      "bruttoWithoutDiscount" : 48.7,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-02-24T11:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -253,13 +253,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 29.6
+      "provisionPoints" : 21.31
     },
     "partner" : {
-      "brutto" : 48.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 38.96,
+      "bruttoWithoutDiscount" : 48.7,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-02-24T11:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -267,10 +267,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 29.6
+      "provisionPoints" : 21.31
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -285,7 +285,7 @@
     "text" : "product.RAG.socialMedia.text",
     "title" : "product.RAG.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "ADDS glow",
   "tabs" : [ {
     "description" : "product.RAG.tabs2521.description",

@@ -1,0 +1,119 @@
+{
+  "matchcode" : "RHT-L",
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 16,
+    "infoColorNeeded" : false,
+    "name" : "category.category16.name",
+    "primary" : true,
+    "slug" : "merchandise",
+    "visible" : true
+  } ],
+  "contentBlock" : null,
+  "contentsAmount" : null,
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 3106,
+  "idealSupplements" : [ ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4092,
+    "mediaId" : 5952
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4158,
+    "mediaId" : 5953
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
+  "isMerchandise" : false,
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
+    "customer" : {
+      "brutto" : 14.8,
+      "bruttoWithoutDiscount" : 18.5,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-02-20T22:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 0
+    },
+    "partner" : {
+      "brutto" : 14.8,
+      "bruttoWithoutDiscount" : 18.5,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-02-20T22:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 0
+    }
+  },
+  "purchasePossible" : true,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.RHT-L.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "ringana-towel-large",
+  "socialMedia" : {
+    "id" : 3106,
+    "imageId" : null,
+    "text" : "product.RHT-L.socialMedia.text",
+    "title" : "product.RHT-L.socialMedia.title"
+  },
+  "soldOut" : false,
+  "supplementDescription" : "towel",
+  "tabs" : [ {
+    "description" : "product.RHT-L.tabs3645.description",
+    "id" : 3645,
+    "showPrintButton" : false,
+    "title" : "product.RHT-L.tabs3645.title"
+  }, {
+    "description" : "product.RHT-L.tabs3646.description",
+    "id" : 3646,
+    "showPrintButton" : false,
+    "title" : "product.RHT-L.tabs3646.title"
+  } ],
+  "teaserDots" : [ ],
+  "title" : "RINGANA towel large",
+  "unit" : null,
+  "unitContents" : null,
+  "unitContentsId" : null,
+  "unitId" : null,
+  "usp" : "product.RHT-L.usp",
+  "values" : [ ],
+  "variants" : [ ]
+}
