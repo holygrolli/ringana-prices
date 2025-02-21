@@ -15,8 +15,8 @@
   "contentsAmount" : "35",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -68,7 +68,7 @@
         "provisionPoints" : 0
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "ringana-foundation-brush",
     "title" : "RINGANA foundation brush",
     "unitContents" : null
@@ -215,7 +215,7 @@
       "provisionPoints" : 29.6
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -238,7 +238,7 @@
     "text" : "product.VSP-BTF.socialMedia.text",
     "title" : "product.VSP-BTF.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "valentine's day duo",
   "tabs" : [ {
     "description" : "product.VSP-BTF.tabs3346.description",

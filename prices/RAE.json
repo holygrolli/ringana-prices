@@ -40,6 +40,13 @@
     "slug" : "oily-skin",
     "visible" : true
   }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
     "id" : 81,
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
@@ -52,13 +59,6 @@
     "name" : "category.category75.name",
     "primary" : false,
     "slug" : "lifting",
-    "visible" : true
-  }, {
-    "id" : 17,
-    "infoColorNeeded" : false,
-    "name" : "category.category17.name",
-    "primary" : false,
-    "slug" : "fresh",
     "visible" : true
   } ],
   "contentBlock" : null,
@@ -236,7 +236,7 @@
     "caption" : "",
     "captionLink" : null,
     "id" : 3916,
-    "mediaId" : 5917
+    "mediaId" : 5983
   }, {
     "caption" : "",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",

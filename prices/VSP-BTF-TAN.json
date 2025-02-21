@@ -68,7 +68,7 @@
         "provisionPoints" : 0
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "ringana-foundation-brush",
     "title" : "RINGANA foundation brush",
     "unitContents" : null
