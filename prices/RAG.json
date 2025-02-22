@@ -19,27 +19,6 @@
     "slug" : "face",
     "visible" : true
   }, {
-    "id" : 86,
-    "infoColorNeeded" : false,
-    "name" : "category.category86.name",
-    "primary" : false,
-    "slug" : "combination-skin",
-    "visible" : true
-  }, {
-    "id" : 83,
-    "infoColorNeeded" : false,
-    "name" : "category.category83.name",
-    "primary" : false,
-    "slug" : "oily-skin",
-    "visible" : true
-  }, {
-    "id" : 82,
-    "infoColorNeeded" : false,
-    "name" : "category.category82.name",
-    "primary" : false,
-    "slug" : "dry-skin",
-    "visible" : true
-  }, {
     "id" : 81,
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
@@ -66,6 +45,27 @@
     "name" : "category.category92.name",
     "primary" : false,
     "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 86,
+    "infoColorNeeded" : false,
+    "name" : "category.category86.name",
+    "primary" : false,
+    "slug" : "combination-skin",
+    "visible" : true
+  }, {
+    "id" : 83,
+    "infoColorNeeded" : false,
+    "name" : "category.category83.name",
+    "primary" : false,
+    "slug" : "oily-skin",
+    "visible" : true
+  }, {
+    "id" : 82,
+    "infoColorNeeded" : false,
+    "name" : "category.category82.name",
+    "primary" : false,
+    "slug" : "dry-skin",
     "visible" : true
   } ],
   "contentBlock" : {
