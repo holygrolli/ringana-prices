@@ -2,10 +2,6 @@
   "matchcode" : "BCE",
   "additionalUnitPrice" : null,
   "awards" : [ {
-    "imageId" : 1046,
-    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
-    "name" : "COSMOS Organic"
-  }, {
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
@@ -13,6 +9,10 @@
     "imageId" : 1044,
     "link" : "https://skin.li/nbge4tsq",
     "name" : "cosmeticsanalysis.com - FRESH cream light"
+  }, {
+    "imageId" : 1045,
+    "link" : "https://www.cosmos-standard.org/",
+    "name" : "COSMOS Natural"
   } ],
   "blogPostIds" : [ 178302, 178282, 6664 ],
   "categories" : [ {
