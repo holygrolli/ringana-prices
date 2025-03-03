@@ -299,8 +299,11 @@
     "iconMediaId" : 1117,
     "name" : "value.value62.name"
   }, {
-    "iconMediaId" : 1069,
-    "name" : "value.value14.name"
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  }, {
+    "iconMediaId" : 1088,
+    "name" : "value.value33.name"
   } ],
   "variants" : [ {
     "color" : null,
