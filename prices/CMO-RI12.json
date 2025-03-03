@@ -15,8 +15,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -221,7 +221,7 @@
       "provisionPoints" : 65.1
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -244,7 +244,7 @@
     "text" : "product.CMO-RI12.socialMedia.text",
     "title" : "product.CMO-RI12.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "feel good",
   "tabs" : [ {
     "description" : "product.CMO-RI12.tabs2294.description",
