@@ -108,6 +108,56 @@
   "firstHeadline" : "product.RAG.firstHeadline",
   "id" : 2082,
   "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : 90,
+      "type" : 1
+    },
+    "contentsAmount" : "37,1",
+    "currency" : "eur",
+    "description" : "beauty & hair",
+    "imageId" : 1161,
+    "matchcode" : "CBH",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1571.4,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.6
+      },
+      "partner" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "caps-beautyhair",
+    "title" : "CAPS beauty & hair",
+    "unitContents" : "g"
+  }, {
     "additionalUnitPrice" : null,
     "contentsAmount" : "125",
     "currency" : "eur",

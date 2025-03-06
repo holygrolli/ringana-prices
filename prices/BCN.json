@@ -103,6 +103,53 @@
   "id" : 137,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
+    "contentsAmount" : "30",
+    "currency" : "eur",
+    "description" : "anti wrinkle",
+    "imageId" : 757,
+    "matchcode" : "BSA",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2520,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 75.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 43
+      },
+      "partner" : {
+        "brutto" : 75.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 43
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-anti-wrinkle-serum",
+    "title" : "FRESH anti wrinkle serum",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
     "currency" : "eur",
     "description" : "overnight",

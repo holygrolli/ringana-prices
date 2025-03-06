@@ -91,6 +91,100 @@
   "id" : 141,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
+    "contentsAmount" : "30",
+    "currency" : "eur",
+    "description" : "anti wrinkle",
+    "imageId" : 757,
+    "matchcode" : "BSA",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2520,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 75.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 43
+      },
+      "partner" : {
+        "brutto" : 75.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 43
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-anti-wrinkle-serum",
+    "title" : "FRESH anti wrinkle serum",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "30",
+    "currency" : "eur",
+    "description" : "perfection",
+    "imageId" : 4267,
+    "matchcode" : "FLN",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2983.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 89.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.5
+      },
+      "partner" : {
+        "brutto" : 89.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-skin-perfection",
+    "title" : "FRESH skin perfection",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
     "currency" : "eur",
     "description" : "cleanser",
@@ -99,15 +193,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 212,
+        "brutto" : 169.6,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 26.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 21.2,
+        "bruttoWithoutDiscount" : 26.5,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-03-06T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -115,13 +209,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 14.4
+        "provisionPoints" : 10.37
       },
       "partner" : {
-        "brutto" : 26.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 21.2,
+        "bruttoWithoutDiscount" : 26.5,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-03-06T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -129,7 +223,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 14.4
+        "provisionPoints" : 10.37
       }
     },
     "purchasePossible" : true,

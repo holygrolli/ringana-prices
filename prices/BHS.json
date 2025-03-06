@@ -102,6 +102,53 @@
   "id" : 2148,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
+    "contentsAmount" : "15",
+    "currency" : "eur",
+    "description" : "eye serum",
+    "imageId" : 707,
+    "matchcode" : "BAS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 3233.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 48.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 27.5
+      },
+      "partner" : {
+        "brutto" : 48.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 27.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-eye-serum",
+    "title" : "FRESH eye serum",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
     "currency" : "eur",
     "description" : "enzyme mask",
@@ -157,15 +204,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 212,
+        "brutto" : 169.6,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 26.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 21.2,
+        "bruttoWithoutDiscount" : 26.5,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-03-06T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -173,13 +220,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 14.4
+        "provisionPoints" : 10.37
       },
       "partner" : {
-        "brutto" : 26.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 21.2,
+        "bruttoWithoutDiscount" : 26.5,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-03-06T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -187,7 +234,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 14.4
+        "provisionPoints" : 10.37
       }
     },
     "purchasePossible" : true,
