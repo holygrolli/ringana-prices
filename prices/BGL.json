@@ -14,7 +14,7 @@
     "link" : "https://skin.li/507de9c1",
     "name" : "cosmeticsanalysis.com - FRESH tonic calm"
   } ],
-  "blogPostIds" : [ 178302, 93675, 195735 ],
+  "blogPostIds" : [ 178302, 195735 ],
   "categories" : [ {
     "id" : 7,
     "infoColorNeeded" : false,
@@ -103,15 +103,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 169.6,
+        "brutto" : 212,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 21.2,
-        "bruttoWithoutDiscount" : 26.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-06T22:59:59Z",
+        "brutto" : 26.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -119,13 +119,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 10.37
+        "provisionPoints" : 14.4
       },
       "partner" : {
-        "brutto" : 21.2,
-        "bruttoWithoutDiscount" : 26.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-06T22:59:59Z",
+        "brutto" : 26.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -133,7 +133,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 10.37
+        "provisionPoints" : 14.4
       }
     },
     "purchasePossible" : true,
@@ -142,20 +142,20 @@
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "200",
+    "contentsAmount" : "15",
     "currency" : "eur",
-    "description" : "scrub",
-    "imageId" : 687,
-    "matchcode" : "FSC",
+    "description" : "ADDS repair",
+    "imageId" : 745,
+    "matchcode" : "RAR",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 238,
+        "brutto" : 3246.6,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 47.6,
+        "brutto" : 48.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -166,10 +166,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29
+        "provisionPoints" : 29.6
       },
       "partner" : {
-        "brutto" : 47.6,
+        "brutto" : 48.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -180,12 +180,59 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29
+        "provisionPoints" : 29.6
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-scrub",
-    "title" : "FRESH scrub face & body",
+    "slug" : "fresh-adds-repair",
+    "title" : "ADDS repair",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "30",
+    "currency" : "eur",
+    "description" : "hydro serum",
+    "imageId" : 1123,
+    "matchcode" : "BHS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1943.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.8
+      },
+      "partner" : {
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-hydro-serum",
+    "title" : "FRESH hydro serum",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
@@ -267,7 +314,7 @@
   "slug" : "fresh-tonic-calm",
   "socialMedia" : {
     "id" : 129,
-    "imageId" : 629,
+    "imageId" : 630,
     "text" : "product.BGL.socialMedia.text",
     "title" : "product.BGL.socialMedia.title"
   },

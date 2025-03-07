@@ -83,6 +83,53 @@
     "title" : "FRESH overnight face treatment",
     "unitContents" : "ml"
   }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "30",
+    "currency" : "eur",
+    "description" : "perfection",
+    "imageId" : 4267,
+    "matchcode" : "FLN",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2983.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 89.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.5
+      },
+      "partner" : {
+        "brutto" : 89.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-skin-perfection",
+    "title" : "FRESH skin perfection",
+    "unitContents" : "ml"
+  }, {
     "additionalUnitPrice" : {
       "entity" : 60,
       "type" : 1

@@ -109,6 +109,53 @@
   "id" : 131,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
+    "contentsAmount" : "50",
+    "currency" : "eur",
+    "description" : "enzyme mask",
+    "imageId" : 672,
+    "matchcode" : "FEP",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 784,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 39.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 23.8
+      },
+      "partner" : {
+        "brutto" : 39.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 23.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-illuminating-enzyme-mask",
+    "title" : "FRESH illuminating enzyme mask",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
     "contentsAmount" : "5",
     "currency" : "eur",
     "description" : "lip balm",

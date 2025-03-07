@@ -14,7 +14,7 @@
     "link" : "https://skin.li/5a1d0cee",
     "name" : "cosmeticsanalysis.com - FRESH tonic pure"
   } ],
-  "blogPostIds" : [ 178302, 93675, 196283 ],
+  "blogPostIds" : [ 178302, 196283 ],
   "categories" : [ {
     "id" : 7,
     "infoColorNeeded" : false,
@@ -37,20 +37,6 @@
     "slug" : "toning",
     "visible" : true
   }, {
-    "id" : 92,
-    "infoColorNeeded" : false,
-    "name" : "category.category92.name",
-    "primary" : false,
-    "slug" : "facial-care",
-    "visible" : true
-  }, {
-    "id" : 86,
-    "infoColorNeeded" : false,
-    "name" : "category.category86.name",
-    "primary" : false,
-    "slug" : "combination-skin",
-    "visible" : true
-  }, {
     "id" : 84,
     "infoColorNeeded" : false,
     "name" : "category.category84.name",
@@ -63,6 +49,20 @@
     "name" : "category.category83.name",
     "primary" : false,
     "slug" : "oily-skin",
+    "visible" : true
+  }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 86,
+    "infoColorNeeded" : false,
+    "name" : "category.category86.name",
+    "primary" : false,
+    "slug" : "combination-skin",
     "visible" : true
   }, {
     "id" : 17,
@@ -88,6 +88,100 @@
   "id" : 130,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
+    "contentsAmount" : "50",
+    "currency" : "eur",
+    "description" : "enzyme mask",
+    "imageId" : 672,
+    "matchcode" : "FEP",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 784,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 39.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 23.8
+      },
+      "partner" : {
+        "brutto" : 39.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 23.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-illuminating-enzyme-mask",
+    "title" : "FRESH illuminating enzyme mask",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "15",
+    "currency" : "eur",
+    "description" : "ADDS repair",
+    "imageId" : 745,
+    "matchcode" : "RAR",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 3246.6,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 48.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29.6
+      },
+      "partner" : {
+        "brutto" : 48.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-adds-repair",
+    "title" : "ADDS repair",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
     "currency" : "eur",
     "description" : "cleanser",
@@ -96,15 +190,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 169.6,
+        "brutto" : 212,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 21.2,
-        "bruttoWithoutDiscount" : 26.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-06T22:59:59Z",
+        "brutto" : 26.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -112,13 +206,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 10.37
+        "provisionPoints" : 14.4
       },
       "partner" : {
-        "brutto" : 21.2,
-        "bruttoWithoutDiscount" : 26.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-06T22:59:59Z",
+        "brutto" : 26.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -126,7 +220,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 10.37
+        "provisionPoints" : 14.4
       }
     },
     "purchasePossible" : true,

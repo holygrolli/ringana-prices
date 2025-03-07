@@ -164,17 +164,17 @@
     "contentsAmount" : "50",
     "currency" : "eur",
     "description" : "FRESH BABY",
-    "imageId" : 514,
-    "matchcode" : "RBDC",
+    "imageId" : 6214,
+    "matchcode" : "RBTG",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 226,
+        "brutto" : 218,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 11.3,
+        "brutto" : 10.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -185,10 +185,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 5.8
+        "provisionPoints" : 5.3
       },
       "partner" : {
-        "brutto" : 11.3,
+        "brutto" : 10.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -199,12 +199,12 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 5.8
+        "provisionPoints" : 5.3
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-baby-bum-cream",
-    "title" : "FRESH baby bum cream",
+    "slug" : "fresh-baby-tooth-gel",
+    "title" : "FRESH baby tooth gel",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {

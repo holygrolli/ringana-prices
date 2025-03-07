@@ -210,7 +210,7 @@
     "caption" : "",
     "captionLink" : null,
     "id" : 513,
-    "mediaId" : 796
+    "mediaId" : 6214
   }, {
     "caption" : "",
     "captionLink" : null,
@@ -280,12 +280,12 @@
   "slug" : "fresh-baby-tooth-gel",
   "socialMedia" : {
     "id" : 166,
-    "imageId" : 796,
+    "imageId" : 6214,
     "text" : "product.RBTG.socialMedia.text",
     "title" : "product.RBTG.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "",
+  "supplementDescription" : "FRESH BABY",
   "tabs" : [ {
     "description" : "product.RBTG.tabs0.description",
     "id" : 633,

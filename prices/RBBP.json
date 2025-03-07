@@ -83,7 +83,7 @@
     "additionalUnitPrice" : null,
     "contentsAmount" : "50",
     "currency" : "eur",
-    "description" : "baby sunscreen",
+    "description" : "fresh baby",
     "imageId" : 2849,
     "matchcode" : "RBSS",
     "priceInformation" : {
@@ -260,16 +260,7 @@
     "showPrintButton" : false,
     "title" : "product.RBBP.tabs1.title"
   } ],
-  "teaserDots" : [ {
-    "backgroundColor" : "#ffffff",
-    "borderColor" : "#000000",
-    "fontSize" : 12,
-    "id" : 1,
-    "lineHeight" : 1.5,
-    "position" : "top-left",
-    "text" : "NEW",
-    "textColor" : "#000000"
-  } ],
+  "teaserDots" : [ ],
   "title" : "RINGANA baby beach poncho",
   "unit" : null,
   "unitContents" : null,
