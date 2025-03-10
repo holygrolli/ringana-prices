@@ -257,7 +257,16 @@
     "showPrintButton" : false,
     "title" : "product.FSLP-LE-LB.tabs3.title"
   } ],
-  "teaserDots" : [ ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 9,
+    "id" : 4,
+    "lineHeight" : 1.4,
+    "position" : "top-left",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  } ],
   "title" : "FRESH soap liquid lemon & basil",
   "unit" : "Stk.",
   "unitContents" : "ml",

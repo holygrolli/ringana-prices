@@ -179,7 +179,7 @@
         "provisionPoints" : 37.8
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-skin-perfection",
     "title" : "FRESH skin perfection",
     "unitContents" : "ml"
