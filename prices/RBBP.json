@@ -262,10 +262,10 @@
   } ],
   "teaserDots" : [ ],
   "title" : "RINGANA baby beach poncho",
-  "unit" : null,
+  "unit" : "Stk.",
   "unitContents" : null,
   "unitContentsId" : null,
-  "unitId" : null,
+  "unitId" : 996,
   "usp" : "product.RBBP.usp",
   "values" : [ ],
   "variants" : [ ]
