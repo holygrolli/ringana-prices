@@ -129,15 +129,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 478.7,
+        "brutto" : 598.4,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 59.84,
-        "bruttoWithoutDiscount" : 74.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-13T22:59:59Z",
+        "brutto" : 74.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -145,13 +145,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32.11
+        "provisionPoints" : 44.6
       },
       "partner" : {
-        "brutto" : 59.84,
-        "bruttoWithoutDiscount" : 74.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-13T22:59:59Z",
+        "brutto" : 74.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -159,10 +159,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32.11
+        "provisionPoints" : 44.6
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-overnight-body-treatment",
     "title" : "FRESH overnight body treatment",
     "unitContents" : "ml"

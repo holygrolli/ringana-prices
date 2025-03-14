@@ -72,7 +72,7 @@
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : null,
+  "descriptionImageId" : 6320,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
@@ -169,7 +169,7 @@
         "provisionPoints" : 19.5
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-sunscreen-face",
     "title" : "FRESH sunscreen face",
     "unitContents" : "ml"

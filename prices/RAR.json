@@ -26,6 +26,13 @@
     "slug" : "fresh",
     "visible" : true
   }, {
+    "id" : 86,
+    "infoColorNeeded" : false,
+    "name" : "category.category86.name",
+    "primary" : false,
+    "slug" : "combination-skin",
+    "visible" : true
+  }, {
     "id" : 85,
     "infoColorNeeded" : false,
     "name" : "category.category85.name",
@@ -60,13 +67,6 @@
     "primary" : false,
     "slug" : "toning",
     "visible" : true
-  }, {
-    "id" : 86,
-    "infoColorNeeded" : false,
-    "name" : "category.category86.name",
-    "primary" : false,
-    "slug" : "combination-skin",
-    "visible" : true
   } ],
   "contentBlock" : null,
   "contentsAmount" : "15",
@@ -75,7 +75,7 @@
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : null,
+  "descriptionImageId" : 6319,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
