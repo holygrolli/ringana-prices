@@ -82,7 +82,7 @@
   "deliveryStatus" : "Ausverkauft",
   "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : null,
+  "descriptionImageId" : 6345,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : {

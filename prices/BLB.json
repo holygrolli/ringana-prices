@@ -14,7 +14,7 @@
     "link" : "https://skin.li/1458adb0",
     "name" : "cosmeticsanalysis.com - FRESH lip balm"
   } ],
-  "blogPostIds" : [ 113041, 87604, 194501 ],
+  "blogPostIds" : [ 113041, 87604 ],
   "categories" : [ {
     "id" : 7,
     "infoColorNeeded" : false,
@@ -58,7 +58,7 @@
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : null,
+  "descriptionImageId" : 6343,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,

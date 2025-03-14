@@ -37,27 +37,6 @@
     "slug" : "step-1-cleansing",
     "visible" : true
   }, {
-    "id" : 82,
-    "infoColorNeeded" : false,
-    "name" : "category.category82.name",
-    "primary" : false,
-    "slug" : "dry-skin",
-    "visible" : true
-  }, {
-    "id" : 86,
-    "infoColorNeeded" : false,
-    "name" : "category.category86.name",
-    "primary" : false,
-    "slug" : "combination-skin",
-    "visible" : true
-  }, {
-    "id" : 85,
-    "infoColorNeeded" : false,
-    "name" : "category.category85.name",
-    "primary" : false,
-    "slug" : "sensitive-reddened-skin",
-    "visible" : true
-  }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
@@ -70,6 +49,20 @@
     "name" : "category.category81.name",
     "primary" : false,
     "slug" : "mature-skin",
+    "visible" : true
+  }, {
+    "id" : 82,
+    "infoColorNeeded" : false,
+    "name" : "category.category82.name",
+    "primary" : false,
+    "slug" : "dry-skin",
+    "visible" : true
+  }, {
+    "id" : 86,
+    "infoColorNeeded" : false,
+    "name" : "category.category86.name",
+    "primary" : false,
+    "slug" : "combination-skin",
     "visible" : true
   }, {
     "id" : 76,
@@ -85,6 +78,13 @@
     "primary" : false,
     "slug" : "fresh",
     "visible" : true
+  }, {
+    "id" : 85,
+    "infoColorNeeded" : false,
+    "name" : "category.category85.name",
+    "primary" : false,
+    "slug" : "sensitive-reddened-skin",
+    "visible" : true
   } ],
   "contentBlock" : null,
   "contentsAmount" : "125",
@@ -93,7 +93,7 @@
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : null,
+  "descriptionImageId" : 6330,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,

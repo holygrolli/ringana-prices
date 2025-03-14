@@ -22,7 +22,7 @@
     "link" : "https://skin.li/tn9pe0va",
     "name" : "cosmeticanalysis.com - FRESH sunscreen medium SPF 25"
   } ],
-  "blogPostIds" : [ 190187, 176347, 175019 ],
+  "blogPostIds" : [ 190187, 176347 ],
   "categories" : [ {
     "id" : 2,
     "infoColorNeeded" : false,
@@ -52,7 +52,7 @@
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : null,
+  "descriptionImageId" : 6350,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,

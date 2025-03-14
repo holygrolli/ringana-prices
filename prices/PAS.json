@@ -68,7 +68,7 @@
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : null,
+  "descriptionImageId" : 6337,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,

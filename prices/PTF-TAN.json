@@ -23,27 +23,6 @@
     "slug" : "samples",
     "visible" : true
   }, {
-    "id" : 34,
-    "infoColorNeeded" : false,
-    "name" : "category.category34.name",
-    "primary" : false,
-    "slug" : "intern-cosmetics",
-    "visible" : true
-  }, {
-    "id" : 80,
-    "infoColorNeeded" : false,
-    "name" : "category.category80.name",
-    "primary" : false,
-    "slug" : "anti-pollution",
-    "visible" : true
-  }, {
-    "id" : 77,
-    "infoColorNeeded" : false,
-    "name" : "category.category77.name",
-    "primary" : false,
-    "slug" : "hydrating",
-    "visible" : true
-  }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
@@ -85,6 +64,27 @@
     "primary" : false,
     "slug" : "mature-skin",
     "visible" : true
+  }, {
+    "id" : 34,
+    "infoColorNeeded" : false,
+    "name" : "category.category34.name",
+    "primary" : false,
+    "slug" : "intern-cosmetics",
+    "visible" : true
+  }, {
+    "id" : 80,
+    "infoColorNeeded" : false,
+    "name" : "category.category80.name",
+    "primary" : false,
+    "slug" : "anti-pollution",
+    "visible" : true
+  }, {
+    "id" : 77,
+    "infoColorNeeded" : false,
+    "name" : "category.category77.name",
+    "primary" : false,
+    "slug" : "hydrating",
+    "visible" : true
   } ],
   "contentBlock" : null,
   "contentsAmount" : "5",
@@ -93,7 +93,7 @@
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : null,
+  "descriptionImageId" : 6351,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
