@@ -43,8 +43,8 @@
   "contentsAmount" : "3,3",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -252,7 +252,7 @@
       "provisionPoints" : 2
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -267,7 +267,7 @@
     "text" : "product.T-RSP.socialMedia.text",
     "title" : "product.T-RSP.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "SAMPLE",
   "tabs" : [ {
     "description" : "product.T-RSP.tabs0.description",
