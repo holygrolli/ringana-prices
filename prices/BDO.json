@@ -48,8 +48,8 @@
   "contentsAmount" : "125",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6335,
   "discountDate" : null,
@@ -123,7 +123,7 @@
         "brutto" : 8.48,
         "bruttoWithoutDiscount" : 10.6,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-03-16T22:59:59Z",
+        "discountUntil" : "2025-03-17T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -137,7 +137,7 @@
         "brutto" : 8.48,
         "bruttoWithoutDiscount" : 10.6,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-03-16T22:59:59Z",
+        "discountUntil" : "2025-03-17T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -230,15 +230,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 172.1,
+      "brutto" : 215.2,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 21.52,
-      "bruttoWithoutDiscount" : 26.9,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-03-16T22:59:59Z",
+      "brutto" : 26.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -246,13 +246,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 10.51
+      "provisionPoints" : 14.6
     },
     "partner" : {
-      "brutto" : 21.52,
-      "bruttoWithoutDiscount" : 26.9,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-03-16T22:59:59Z",
+      "brutto" : 26.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -260,10 +260,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 10.51
+      "provisionPoints" : 14.6
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -278,7 +278,7 @@
     "text" : "product.BDO.socialMedia.text",
     "title" : "product.BDO.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "DEODORANT",
   "tabs" : [ {
     "description" : "product.BDO.tabs0.description",

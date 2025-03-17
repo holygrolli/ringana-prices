@@ -23,20 +23,6 @@
     "slug" : "face",
     "visible" : true
   }, {
-    "id" : 201,
-    "infoColorNeeded" : false,
-    "name" : "category.category201.name",
-    "primary" : false,
-    "slug" : "step-3-toning",
-    "visible" : true
-  }, {
-    "id" : 76,
-    "infoColorNeeded" : false,
-    "name" : "category.category76.name",
-    "primary" : false,
-    "slug" : "toning",
-    "visible" : true
-  }, {
     "id" : 84,
     "infoColorNeeded" : false,
     "name" : "category.category84.name",
@@ -49,6 +35,20 @@
     "name" : "category.category83.name",
     "primary" : false,
     "slug" : "oily-skin",
+    "visible" : true
+  }, {
+    "id" : 201,
+    "infoColorNeeded" : false,
+    "name" : "category.category201.name",
+    "primary" : false,
+    "slug" : "step-3-toning",
+    "visible" : true
+  }, {
+    "id" : 76,
+    "infoColorNeeded" : false,
+    "name" : "category.category76.name",
+    "primary" : false,
+    "slug" : "toning",
     "visible" : true
   }, {
     "id" : 92,
@@ -79,7 +79,7 @@
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : null,
+  "descriptionImageId" : 6380,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,

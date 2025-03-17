@@ -34,10 +34,10 @@
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : null,
+  "descriptionImageId" : 6381,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
@@ -109,7 +109,7 @@
         "brutto" : 12.24,
         "bruttoWithoutDiscount" : 15.3,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-03-16T22:59:59Z",
+        "discountUntil" : "2025-03-17T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -123,7 +123,7 @@
         "brutto" : 12.24,
         "bruttoWithoutDiscount" : 15.3,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-03-16T22:59:59Z",
+        "discountUntil" : "2025-03-17T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -156,7 +156,7 @@
         "brutto" : 9.68,
         "bruttoWithoutDiscount" : 12.1,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-03-16T22:59:59Z",
+        "discountUntil" : "2025-03-17T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -170,7 +170,7 @@
         "brutto" : 9.68,
         "bruttoWithoutDiscount" : 12.1,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-03-16T22:59:59Z",
+        "discountUntil" : "2025-03-17T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -249,7 +249,7 @@
       "provisionPoints" : 1.1
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -264,7 +264,7 @@
     "text" : "product.PTB.socialMedia.text",
     "title" : "product.PTB.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "sample",
   "tabs" : [ {
     "description" : "product.PTB.tabs0.description",

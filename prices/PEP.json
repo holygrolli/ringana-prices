@@ -223,7 +223,7 @@
       "provisionPoints" : 4.8
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],

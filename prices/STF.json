@@ -23,6 +23,13 @@
     "slug" : "body",
     "visible" : true
   }, {
+    "id" : 78,
+    "infoColorNeeded" : false,
+    "name" : "category.category78.name",
+    "primary" : false,
+    "slug" : "cleansing",
+    "visible" : true
+  }, {
     "id" : 17,
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
@@ -35,13 +42,6 @@
     "name" : "category.category94.name",
     "primary" : false,
     "slug" : "washing-care",
-    "visible" : true
-  }, {
-    "id" : 78,
-    "infoColorNeeded" : false,
-    "name" : "category.category78.name",
-    "primary" : false,
-    "slug" : "cleansing",
     "visible" : true
   }, {
     "id" : 79,
@@ -58,7 +58,7 @@
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : null,
+  "descriptionImageId" : 6389,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
@@ -83,7 +83,7 @@
         "brutto" : 8.48,
         "bruttoWithoutDiscount" : 10.6,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-03-16T22:59:59Z",
+        "discountUntil" : "2025-03-17T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -97,7 +97,7 @@
         "brutto" : 8.48,
         "bruttoWithoutDiscount" : 10.6,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-03-16T22:59:59Z",
+        "discountUntil" : "2025-03-17T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -122,15 +122,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 80.8,
+        "brutto" : 101,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 16.16,
-        "bruttoWithoutDiscount" : 20.2,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-16T22:59:59Z",
+        "brutto" : 20.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -138,13 +138,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 8.28
+        "provisionPoints" : 11.5
       },
       "partner" : {
-        "brutto" : 16.16,
-        "bruttoWithoutDiscount" : 20.2,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-16T22:59:59Z",
+        "brutto" : 20.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -152,10 +152,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 8.28
+        "provisionPoints" : 11.5
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-body-wash-nbc",
     "title" : "FRESH body wash",
     "unitContents" : "ml"

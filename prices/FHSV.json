@@ -35,6 +35,20 @@
     "slug" : "hair",
     "visible" : true
   }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 78,
+    "infoColorNeeded" : false,
+    "name" : "category.category78.name",
+    "primary" : false,
+    "slug" : "cleansing",
+    "visible" : true
+  }, {
     "id" : 94,
     "infoColorNeeded" : false,
     "name" : "category.category94.name",
@@ -55,20 +69,6 @@
     "primary" : false,
     "slug" : "microbiome-friendly",
     "visible" : true
-  }, {
-    "id" : 17,
-    "infoColorNeeded" : false,
-    "name" : "category.category17.name",
-    "primary" : false,
-    "slug" : "fresh",
-    "visible" : true
-  }, {
-    "id" : 78,
-    "infoColorNeeded" : false,
-    "name" : "category.category78.name",
-    "primary" : false,
-    "slug" : "cleansing",
-    "visible" : true
   } ],
   "contentBlock" : null,
   "contentsAmount" : "200",
@@ -77,7 +77,7 @@
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : null,
+  "descriptionImageId" : 6383,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
