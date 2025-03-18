@@ -85,15 +85,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 212,
+        "brutto" : 169.6,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 26.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 21.2,
+        "bruttoWithoutDiscount" : 26.5,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-03-18T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -101,13 +101,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 14.4
+        "provisionPoints" : 10.37
       },
       "partner" : {
-        "brutto" : 26.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 21.2,
+        "bruttoWithoutDiscount" : 26.5,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-03-18T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -115,7 +115,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 14.4
+        "provisionPoints" : 10.37
       }
     },
     "purchasePossible" : true,
@@ -212,7 +212,7 @@
         "provisionPoints" : 52.5
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-skin-perfection",
     "title" : "FRESH skin perfection",
     "unitContents" : "ml"
