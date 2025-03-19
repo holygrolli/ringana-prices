@@ -48,8 +48,8 @@
   "contentsAmount" : "125",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6335,
   "discountDate" : null,
@@ -263,7 +263,7 @@
       "provisionPoints" : 14.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -278,7 +278,7 @@
     "text" : "product.BDO.socialMedia.text",
     "title" : "product.BDO.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "DEODORANT",
   "tabs" : [ {
     "description" : "product.BDO.tabs0.description",

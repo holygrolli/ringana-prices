@@ -172,7 +172,7 @@
         "provisionPoints" : 11.5
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-body-wash-nbc",
     "title" : "FRESH body wash",
     "unitContents" : "ml"

@@ -161,7 +161,7 @@
         "provisionPoints" : 14.6
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-deodorant",
     "title" : "FRESH deodorant",
     "unitContents" : "ml"
