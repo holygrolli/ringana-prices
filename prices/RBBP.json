@@ -42,15 +42,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 128,
+        "brutto" : 160,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 6.4,
-        "bruttoWithoutDiscount" : 8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-20T22:59:59Z",
+        "brutto" : 8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -58,13 +58,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 2.95
+        "provisionPoints" : 4.1
       },
       "partner" : {
-        "brutto" : 6.4,
-        "bruttoWithoutDiscount" : 8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-20T22:59:59Z",
+        "brutto" : 8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -72,10 +72,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 2.95
+        "provisionPoints" : 4.1
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-baby-body-hair-wash",
     "title" : "FRESH baby body & hair wash",
     "unitContents" : "ml"
@@ -89,15 +89,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 313.6,
+        "brutto" : 392,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 15.68,
-        "bruttoWithoutDiscount" : 19.6,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-20T22:59:59Z",
+        "brutto" : 19.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -105,13 +105,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 7.27
+        "provisionPoints" : 10.1
       },
       "partner" : {
-        "brutto" : 15.68,
-        "bruttoWithoutDiscount" : 19.6,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-20T22:59:59Z",
+        "brutto" : 19.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -119,7 +119,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 7.27
+        "provisionPoints" : 10.1
       }
     },
     "purchasePossible" : true,
@@ -136,15 +136,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 164.8,
+        "brutto" : 206,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 8.24,
-        "bruttoWithoutDiscount" : 10.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-20T22:59:59Z",
+        "brutto" : 10.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -152,13 +152,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 3.82
+        "provisionPoints" : 5.3
       },
       "partner" : {
-        "brutto" : 8.24,
-        "bruttoWithoutDiscount" : 10.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-20T22:59:59Z",
+        "brutto" : 10.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -166,10 +166,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 3.82
+        "provisionPoints" : 5.3
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-baby-cream",
     "title" : "FRESH baby cream",
     "unitContents" : "ml"
@@ -204,10 +204,10 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 22.72,
-      "bruttoWithoutDiscount" : 28.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-03-20T22:59:59Z",
+      "brutto" : 28.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -218,10 +218,10 @@
       "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 22.72,
-      "bruttoWithoutDiscount" : 28.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-03-20T22:59:59Z",
+      "brutto" : 28.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,

@@ -79,15 +79,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 128,
+        "brutto" : 160,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 6.4,
-        "bruttoWithoutDiscount" : 8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-20T22:59:59Z",
+        "brutto" : 8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -95,13 +95,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 2.95
+        "provisionPoints" : 4.1
       },
       "partner" : {
-        "brutto" : 6.4,
-        "bruttoWithoutDiscount" : 8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-20T22:59:59Z",
+        "brutto" : 8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -109,10 +109,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 2.95
+        "provisionPoints" : 4.1
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-baby-body-hair-wash",
     "title" : "FRESH baby body & hair wash",
     "unitContents" : "ml"
@@ -126,15 +126,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 164.8,
+        "brutto" : 206,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 8.24,
-        "bruttoWithoutDiscount" : 10.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-20T22:59:59Z",
+        "brutto" : 10.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -142,13 +142,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 3.82
+        "provisionPoints" : 5.3
       },
       "partner" : {
-        "brutto" : 8.24,
-        "bruttoWithoutDiscount" : 10.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-20T22:59:59Z",
+        "brutto" : 10.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -156,10 +156,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 3.82
+        "provisionPoints" : 5.3
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-baby-bum-foam",
     "title" : "FRESH baby bum foam",
     "unitContents" : "ml"
@@ -173,15 +173,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 180.8,
+        "brutto" : 226,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 9.04,
-        "bruttoWithoutDiscount" : 11.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-20T22:59:59Z",
+        "brutto" : 11.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -189,13 +189,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 4.18
+        "provisionPoints" : 5.8
       },
       "partner" : {
-        "brutto" : 9.04,
-        "bruttoWithoutDiscount" : 11.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-20T22:59:59Z",
+        "brutto" : 11.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -203,10 +203,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 4.18
+        "provisionPoints" : 5.8
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-baby-bum-cream",
     "title" : "FRESH baby bum cream",
     "unitContents" : "ml"
@@ -241,15 +241,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 145.6,
+      "brutto" : 182,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 7.28,
-      "bruttoWithoutDiscount" : 9.1,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-03-20T22:59:59Z",
+      "brutto" : 9.1,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -257,13 +257,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 3.38
+      "provisionPoints" : 4.7
     },
     "partner" : {
-      "brutto" : 7.28,
-      "bruttoWithoutDiscount" : 9.1,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-03-20T22:59:59Z",
+      "brutto" : 9.1,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -271,7 +271,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 3.38
+      "provisionPoints" : 4.7
     }
   },
   "purchasePossible" : true,
