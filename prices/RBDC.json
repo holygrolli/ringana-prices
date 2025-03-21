@@ -104,7 +104,7 @@
         "provisionPoints" : 5.3
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-baby-bum-foam",
     "title" : "FRESH baby bum foam",
     "unitContents" : "ml"
@@ -151,7 +151,7 @@
         "provisionPoints" : 4.1
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-baby-body-hair-wash",
     "title" : "FRESH baby body & hair wash",
     "unitContents" : "ml"

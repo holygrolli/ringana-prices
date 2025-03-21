@@ -79,8 +79,8 @@
   "contentsAmount" : "125",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6345,
   "discountDate" : null,
@@ -125,15 +125,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 2752.1,
+        "brutto" : 2201.7,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 95.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 76.4,
+        "bruttoWithoutDiscount" : 95.5,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-03-21T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -141,13 +141,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 53.8
+        "provisionPoints" : 38.74
       },
       "partner" : {
-        "brutto" : 95.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 76.4,
+        "bruttoWithoutDiscount" : 95.5,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-03-21T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -155,7 +155,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 53.8
+        "provisionPoints" : 38.74
       }
     },
     "purchasePossible" : true,
@@ -328,7 +328,7 @@
       "provisionPoints" : 44.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -343,7 +343,7 @@
     "text" : "product.BBN.socialMedia.text",
     "title" : "product.BBN.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "overnight",
   "tabs" : [ {
     "description" : "product.BBN.tabs0.description",

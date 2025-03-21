@@ -217,7 +217,7 @@
         "provisionPoints" : 44.6
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-overnight-body-treatment",
     "title" : "FRESH overnight body treatment",
     "unitContents" : "ml"

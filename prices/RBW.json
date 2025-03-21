@@ -27,8 +27,8 @@
   "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6323,
   "discountDate" : null,
@@ -155,7 +155,7 @@
         "provisionPoints" : 5.3
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-baby-bum-foam",
     "title" : "FRESH baby bum foam",
     "unitContents" : "ml"
@@ -275,7 +275,7 @@
       "provisionPoints" : 4.1
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -290,7 +290,7 @@
     "text" : "product.RBW.socialMedia.text",
     "title" : "product.RBW.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "FRESH BABY",
   "tabs" : [ {
     "description" : "product.RBW.tabs0.description",

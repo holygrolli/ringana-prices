@@ -27,8 +27,8 @@
   "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6325,
   "discountDate" : null,
@@ -275,7 +275,7 @@
       "provisionPoints" : 5.3
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -290,7 +290,7 @@
     "text" : "product.FSTF.socialMedia.text",
     "title" : "product.FSTF.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "FRESH BABY",
   "tabs" : [ {
     "description" : "product.FSTF.tabs0.description",
