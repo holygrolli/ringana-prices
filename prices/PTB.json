@@ -34,8 +34,8 @@
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6381,
   "discountDate" : null,
@@ -54,15 +54,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 238,
+        "brutto" : 190.4,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 47.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 38.08,
+        "bruttoWithoutDiscount" : 47.6,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-03-24T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -70,13 +70,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29
+        "provisionPoints" : 20.88
       },
       "partner" : {
-        "brutto" : 47.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 38.08,
+        "bruttoWithoutDiscount" : 47.6,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-03-24T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -84,7 +84,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29
+        "provisionPoints" : 20.88
       }
     },
     "purchasePossible" : true,
@@ -249,7 +249,7 @@
       "provisionPoints" : 1.1
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -264,7 +264,7 @@
     "text" : "product.PTB.socialMedia.text",
     "title" : "product.PTB.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "sample",
   "tabs" : [ {
     "description" : "product.PTB.tabs0.description",
