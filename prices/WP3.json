@@ -74,7 +74,7 @@
         "provisionPoints" : 0
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "pack-glass-shaker",
     "title" : "RINGANA Glass Shaker & Shaker Ball",
     "unitContents" : "Stk."
@@ -83,7 +83,7 @@
     "contentsAmount" : "1",
     "currency" : "eur",
     "description" : "SHAKE! SHAKE!",
-    "imageId" : 212,
+    "imageId" : 6445,
     "matchcode" : "RS",
     "priceInformation" : {
       "base" : {

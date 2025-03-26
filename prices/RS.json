@@ -68,7 +68,7 @@
         "provisionPoints" : 0
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "pack-glass-shaker",
     "title" : "RINGANA Glass Shaker & Shaker Ball",
     "unitContents" : "Stk."
@@ -177,7 +177,7 @@
     "caption" : "",
     "captionLink" : null,
     "id" : 87,
-    "mediaId" : 212
+    "mediaId" : 6445
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,

@@ -15,8 +15,8 @@
   "contentsAmount" : "1",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -30,7 +30,7 @@
     "contentsAmount" : "1",
     "currency" : "eur",
     "description" : "SHAKE! SHAKE!",
-    "imageId" : 212,
+    "imageId" : 6445,
     "matchcode" : "RS",
     "priceInformation" : {
       "base" : {
@@ -226,7 +226,7 @@
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -249,7 +249,7 @@
     "text" : "product.RSG-SBB.socialMedia.text",
     "title" : "product.RSG-SBB.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "SHAKE! SHAKE!",
   "tabs" : [ {
     "description" : "product.RSG-SBB.tabs0.description",
