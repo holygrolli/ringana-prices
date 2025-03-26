@@ -65,8 +65,8 @@
   "contentsAmount" : "5",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6346,
   "discountDate" : null,
@@ -232,7 +232,7 @@
       "provisionPoints" : 7.8
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -247,7 +247,7 @@
     "text" : "product.PCN.socialMedia.text",
     "title" : "product.PCN.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "sample",
   "tabs" : [ {
     "description" : "product.PCN.tabs0.description",
