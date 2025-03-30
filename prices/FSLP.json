@@ -214,7 +214,7 @@
         "provisionPoints" : 4.1
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-stay-fresh",
     "title" : "FRESH stay fresh",
     "unitContents" : "ml"
