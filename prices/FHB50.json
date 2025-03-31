@@ -122,15 +122,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 174.4,
+        "brutto" : 218,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 8.72,
-        "bruttoWithoutDiscount" : 10.9,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-30T21:59:59Z",
+        "brutto" : 10.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -138,13 +138,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 4.1
+        "provisionPoints" : 5.7
       },
       "partner" : {
-        "brutto" : 8.72,
-        "bruttoWithoutDiscount" : 10.9,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-30T21:59:59Z",
+        "brutto" : 10.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -152,10 +152,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 4.1
+        "provisionPoints" : 5.7
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-stay-fresh",
     "title" : "FRESH stay fresh",
     "unitContents" : "ml"

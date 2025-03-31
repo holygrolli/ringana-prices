@@ -113,7 +113,7 @@
         "provisionPoints" : 29.6
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-adds-repair",
     "title" : "ADDS repair",
     "unitContents" : "ml"
@@ -135,7 +135,7 @@
         "brutto" : 31.36,
         "bruttoWithoutDiscount" : 39.2,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-03-30T21:59:59Z",
+        "discountUntil" : "2025-03-31T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -149,7 +149,7 @@
         "brutto" : 31.36,
         "bruttoWithoutDiscount" : 39.2,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-03-30T21:59:59Z",
+        "discountUntil" : "2025-03-31T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,

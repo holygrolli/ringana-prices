@@ -202,7 +202,7 @@
         "provisionPoints" : 5.3
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-baby-tooth-gel",
     "title" : "FRESH baby tooth gel",
     "unitContents" : "ml"

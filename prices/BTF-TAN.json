@@ -97,8 +97,8 @@
   "contentsAmount" : "30",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6351,
   "discountDate" : null,
@@ -125,7 +125,7 @@
         "brutto" : 31.36,
         "bruttoWithoutDiscount" : 39.2,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-03-30T21:59:59Z",
+        "discountUntil" : "2025-03-31T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -139,7 +139,7 @@
         "brutto" : 31.36,
         "bruttoWithoutDiscount" : 39.2,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-03-30T21:59:59Z",
+        "discountUntil" : "2025-03-31T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -317,7 +317,7 @@
       "provisionPoints" : 28.8
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -332,7 +332,7 @@
     "text" : "product.BTF-TAN.socialMedia.text",
     "title" : "product.BTF-TAN.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "NUANCE2",
   "tabs" : [ {
     "description" : "product.BTF-TAN.tabs0.description",

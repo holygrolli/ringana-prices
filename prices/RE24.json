@@ -186,7 +186,7 @@
         "provisionPoints" : 49.6
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "beyond-omega",
     "title" : "BEYOND omega",
     "unitContents" : "g"
