@@ -19,8 +19,8 @@
   "contentsAmount" : "255",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -219,7 +219,7 @@
       "provisionPoints" : 8.35
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -234,7 +234,7 @@
     "text" : "product.FSLP-LE-LB.socialMedia.text",
     "title" : "product.FSLP-LE-LB.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "",
   "tabs" : [ {
     "description" : "product.FSLP-LE-LB.tabs0.description",
