@@ -97,8 +97,8 @@
   "contentsAmount" : "30",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6351,
   "discountDate" : null,
@@ -117,15 +117,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 627.2,
+        "brutto" : 784,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 31.36,
-        "bruttoWithoutDiscount" : 39.2,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-31T21:59:59Z",
+        "brutto" : 39.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -133,13 +133,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 17.14
+        "provisionPoints" : 23.8
       },
       "partner" : {
-        "brutto" : 31.36,
-        "bruttoWithoutDiscount" : 39.2,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-03-31T21:59:59Z",
+        "brutto" : 39.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -147,7 +147,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 17.14
+        "provisionPoints" : 23.8
       }
     },
     "purchasePossible" : true,
@@ -317,7 +317,7 @@
       "provisionPoints" : 28.8
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -332,7 +332,7 @@
     "text" : "product.BTF-TAN.socialMedia.text",
     "title" : "product.BTF-TAN.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "NUANCE2",
   "tabs" : [ {
     "description" : "product.BTF-TAN.tabs0.description",
