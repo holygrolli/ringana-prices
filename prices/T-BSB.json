@@ -1,40 +1,34 @@
 {
-  "matchcode" : "SBA",
+  "matchcode" : "T-BSB",
   "additionalUnitPrice" : null,
   "awards" : [ {
-    "imageId" : 1046,
-    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
-    "name" : "COSMOS Organic"
+    "imageId" : 2222,
+    "link" : null,
+    "name" : "UVB-protection"
+  }, {
+    "imageId" : 2223,
+    "link" : null,
+    "name" : "UVA-protection"
+  }, {
+    "imageId" : 1045,
+    "link" : "https://www.cosmos-standard.org/",
+    "name" : "COSMOS Natural"
   }, {
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
   }, {
     "imageId" : 1044,
-    "link" : "https://skin.li/6b54aa7b",
-    "name" : "cosmeticsanalysis.com - FRESH after sun & tan booster"
+    "link" : "https://skin.li/tn9pe0va",
+    "name" : "cosmeticanalysis.com - FRESH sunscreen medium SPF 25"
   } ],
-  "blogPostIds" : [ 142093, 142151, 190187 ],
+  "blogPostIds" : [ 190187, 176347 ],
   "categories" : [ {
     "id" : 2,
     "infoColorNeeded" : false,
     "name" : "category.category2.name",
     "primary" : true,
     "slug" : "body",
-    "visible" : true
-  }, {
-    "id" : 17,
-    "infoColorNeeded" : false,
-    "name" : "category.category17.name",
-    "primary" : false,
-    "slug" : "fresh",
-    "visible" : true
-  }, {
-    "id" : 93,
-    "infoColorNeeded" : false,
-    "name" : "category.category93.name",
-    "primary" : false,
-    "slug" : "body-care",
     "visible" : true
   }, {
     "id" : 91,
@@ -44,89 +38,43 @@
     "slug" : "suncare",
     "visible" : true
   }, {
-    "id" : 85,
+    "id" : 298,
     "infoColorNeeded" : false,
-    "name" : "category.category85.name",
+    "name" : "category.category298.name",
     "primary" : false,
-    "slug" : "sensitive-reddened-skin",
-    "visible" : true
+    "slug" : "chasing-the-sun",
+    "visible" : false
   }, {
-    "id" : 82,
+    "id" : 17,
     "infoColorNeeded" : false,
-    "name" : "category.category82.name",
+    "name" : "category.category17.name",
     "primary" : false,
-    "slug" : "dry-skin",
-    "visible" : true
-  }, {
-    "id" : 77,
-    "infoColorNeeded" : false,
-    "name" : "category.category77.name",
-    "primary" : false,
-    "slug" : "hydrating",
+    "slug" : "fresh",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "125",
+  "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : 6320,
+  "descriptionImageId" : 6350,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
-  "faqs" : [ ],
-  "firstHeadline" : "product.SBA.firstHeadline",
-  "id" : 125,
-  "idealSupplements" : [ {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "200",
-    "currency" : "eur",
-    "description" : "sunscreen",
-    "imageId" : 1990,
-    "matchcode" : "BSB",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 244,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 48.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 28.2
-      },
-      "partner" : {
-        "brutto" : 48.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 28.2
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-sunscreen-spf-25",
-    "title" : "FRESH sunscreen",
-    "unitContents" : "ml"
+  "faqs" : [ {
+    "answer" : "product.T-BSB.faqs0.answer",
+    "id" : 1242,
+    "question" : "product.T-BSB.faqs0.question"
   }, {
+    "answer" : "product.T-BSB.faqs1.answer",
+    "id" : 1243,
+    "question" : "product.T-BSB.faqs1.question"
+  } ],
+  "firstHeadline" : "",
+  "id" : 3138,
+  "idealSupplements" : [ {
     "additionalUnitPrice" : null,
     "contentsAmount" : "50",
     "currency" : "eur",
@@ -172,6 +120,53 @@
     "purchasePossible" : true,
     "slug" : "fresh-sunscreen-face",
     "title" : "FRESH sunscreen face",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "125",
+    "currency" : "eur",
+    "description" : "after sun",
+    "imageId" : 623,
+    "matchcode" : "SBA",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 228,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 28.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 16.5
+      },
+      "partner" : {
+        "brutto" : 28.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 16.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-after-sun",
+    "title" : "FRESH after sun & tan booster",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : {
@@ -227,52 +222,47 @@
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 357,
-    "mediaId" : 623
+    "id" : 4223,
+    "mediaId" : 6511
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 358,
-    "mediaId" : 624
+    "id" : 4224,
+    "mediaId" : 2192
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 360,
-    "mediaId" : 625
+    "id" : 4225,
+    "mediaId" : 6512
   }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 362,
-    "mediaId" : 626
+    "caption" : "product.T-BSB.imageGallery4226.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 4226,
+    "mediaId" : 562
   }, {
-    "caption" : "product.SBA.imageGallery4.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 363,
-    "mediaId" : 627
-  }, {
-    "caption" : "product.SBA.imageGallery5.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 364,
-    "mediaId" : 628
+    "caption" : "product.T-BSB.imageGallery4227.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 4227,
+    "mediaId" : 2091
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "maxPerCart" : 100,
+  "maxPerCart" : 99999,
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 228,
+      "brutto" : 286.2,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 28.5,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 14.31,
+      "bruttoWithoutDiscount" : 15.9,
+      "discountPercentage" : 10,
+      "discountUntil" : "2025-04-03T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -280,13 +270,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 16.5
+      "provisionPoints" : 7.37
     },
     "partner" : {
-      "brutto" : 28.5,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 14.31,
+      "bruttoWithoutDiscount" : 15.9,
+      "discountPercentage" : 10,
+      "discountUntil" : "2025-04-03T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -294,59 +284,54 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 16.5
+      "provisionPoints" : 7.37
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
-  "shortDescription" : "product.SBA.shortDescription",
+  "shortDescription" : "product.T-BSB.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "fresh-after-sun",
+  "slug" : "fresh-sunscreen-pocket",
   "socialMedia" : {
-    "id" : 125,
-    "imageId" : 620,
-    "text" : "product.SBA.socialMedia.text",
-    "title" : "product.SBA.socialMedia.title"
+    "id" : 3138,
+    "imageId" : 6511,
+    "text" : "product.T-BSB.socialMedia.text",
+    "title" : "product.T-BSB.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "after sun",
+  "supplementDescription" : "sunscreen",
   "tabs" : [ {
-    "description" : "product.SBA.tabs0.description",
-    "id" : 475,
+    "description" : "product.T-BSB.tabs3676.description",
+    "id" : 3676,
     "showPrintButton" : false,
-    "title" : "product.SBA.tabs0.title"
+    "title" : "product.T-BSB.tabs3676.title"
   }, {
-    "description" : "product.SBA.tabs1.description",
-    "id" : 476,
-    "showPrintButton" : true,
-    "title" : "product.SBA.tabs1.title"
-  }, {
-    "description" : "product.SBA.tabs2.description",
-    "id" : 477,
+    "description" : "product.T-BSB.tabs3677.description",
+    "id" : 3677,
     "showPrintButton" : false,
-    "title" : "product.SBA.tabs2.title"
+    "title" : "product.T-BSB.tabs3677.title"
   }, {
-    "description" : "product.SBA.tabs3.description",
-    "id" : 478,
+    "description" : "product.T-BSB.tabs3678.description",
+    "id" : 3678,
     "showPrintButton" : false,
-    "title" : "product.SBA.tabs3.title"
+    "title" : "product.T-BSB.tabs3678.title"
   }, {
-    "description" : "product.SBA.tabs2073.description",
-    "id" : 2073,
+    "description" : "product.T-BSB.tabs3679.description",
+    "id" : 3679,
     "showPrintButton" : false,
-    "title" : "product.SBA.tabs2073.title"
+    "title" : "product.T-BSB.tabs3679.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "FRESH after sun & tan booster",
+  "title" : "FRESH sunscreen pocket",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "product.SBA.usp",
+  "usp" : "product.T-BSB.usp",
   "values" : [ {
     "iconMediaId" : 1090,
     "name" : "value.value35.name"
@@ -357,33 +342,33 @@
     "iconMediaId" : 1089,
     "name" : "value.value34.name"
   }, {
+    "iconMediaId" : 1107,
+    "name" : "value.value52.name"
+  }, {
     "iconMediaId" : 1096,
     "name" : "value.value41.name"
   }, {
-    "iconMediaId" : 1097,
-    "name" : "value.value42.name"
-  }, {
-    "iconMediaId" : 1101,
-    "name" : "value.value46.name"
+    "iconMediaId" : 1104,
+    "name" : "value.value49.name"
   } ],
   "variants" : [ {
     "color" : null,
-    "id" : 832,
+    "id" : 2047,
     "language" : null,
-    "matchcode" : "SBA",
+    "matchcode" : "T-BSB",
     "name" : null,
-    "size" : 125,
-    "slug" : "fresh-after-sun",
+    "size" : 50,
+    "slug" : "fresh-sunscreen-pocket",
     "type" : 2,
     "unit" : 6
   }, {
     "color" : null,
-    "id" : 833,
+    "id" : 2048,
     "language" : null,
-    "matchcode" : "PBA",
+    "matchcode" : "BSB",
     "name" : null,
-    "size" : 15,
-    "slug" : "fresh-after-sun-tan-booster-sample",
+    "size" : 200,
+    "slug" : "fresh-sunscreen-spf-25",
     "type" : 2,
     "unit" : 6
   } ]

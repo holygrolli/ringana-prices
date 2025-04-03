@@ -1,18 +1,25 @@
 {
-  "matchcode" : "BKM-FHIL-BLB",
+  "matchcode" : "RSPIN",
   "additionalUnitPrice" : null,
   "awards" : [ ],
   "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 9,
+    "id" : 16,
     "infoColorNeeded" : false,
-    "name" : "category.category9.name",
+    "name" : "category.category16.name",
     "primary" : true,
-    "slug" : "offers",
+    "slug" : "merchandise",
     "visible" : true
+  }, {
+    "id" : 298,
+    "infoColorNeeded" : false,
+    "name" : "category.category298.name",
+    "primary" : false,
+    "slug" : "chasing-the-sun",
+    "visible" : false
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "215",
+  "contentsAmount" : "1",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
@@ -22,29 +29,25 @@
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
-  "faqs" : [ {
-    "answer" : "product.BKM-FHIL-BLB.faqs0.answer",
-    "id" : 1176,
-    "question" : "product.BKM-FHIL-BLB.faqs0.question"
-  } ],
-  "firstHeadline" : "product.BKM-FHIL-BLB.firstHeadline",
-  "id" : 3006,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 1192,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "15",
+    "contentsAmount" : "200",
     "currency" : "eur",
-    "description" : "eye serum",
-    "imageId" : 707,
-    "matchcode" : "BAS",
+    "description" : "sunscreen",
+    "imageId" : 1990,
+    "matchcode" : "BSB",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 3233.3,
+        "brutto" : 244,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 48.5,
+        "brutto" : 48.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -55,10 +58,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 27.5
+        "provisionPoints" : 28.2
       },
       "partner" : {
-        "brutto" : 48.5,
+        "brutto" : 48.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -69,32 +72,32 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 27.5
+        "provisionPoints" : 28.2
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-eye-serum",
-    "title" : "FRESH eye serum",
+    "slug" : "fresh-sunscreen-spf-25",
+    "title" : "FRESH sunscreen",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "30",
+    "contentsAmount" : "1",
     "currency" : "eur",
-    "description" : "perfection",
-    "imageId" : 4267,
-    "matchcode" : "FLN",
+    "description" : "bucket hat",
+    "imageId" : 2123,
+    "matchcode" : "RBH",
     "priceInformation" : {
       "base" : {
-        "amount" : 1000,
-        "brutto" : 2983.3,
-        "unit" : "ml",
-        "unitId" : 827
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
       },
       "customer" : {
-        "brutto" : 89.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 19.6,
+        "bruttoWithoutDiscount" : 24.5,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-04-03T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -102,13 +105,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 52.5
+        "provisionPoints" : 0
       },
       "partner" : {
-        "brutto" : 89.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 19.6,
+        "bruttoWithoutDiscount" : 24.5,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-04-03T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -116,29 +119,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 52.5
+        "provisionPoints" : 0
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-skin-perfection",
-    "title" : "FRESH skin perfection",
-    "unitContents" : "ml"
+    "slug" : "ringana-bucket-hat",
+    "title" : "RINGANA bucket hat",
+    "unitContents" : "Stk."
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "125",
+    "contentsAmount" : "1",
     "currency" : "eur",
-    "description" : "hand balm",
-    "imageId" : 572,
-    "matchcode" : "BHB",
+    "description" : "",
+    "imageId" : 197,
+    "matchcode" : "R-SG-RNX",
     "priceInformation" : {
       "base" : {
-        "amount" : 1000,
-        "brutto" : 196,
-        "unit" : "ml",
-        "unitId" : 827
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
       },
       "customer" : {
-        "brutto" : 24.5,
+        "brutto" : 99,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -149,10 +152,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 13.7
+        "provisionPoints" : 0
       },
       "partner" : {
-        "brutto" : 24.5,
+        "brutto" : 99,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -163,24 +166,24 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 13.7
+        "provisionPoints" : 0
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-hand-balm",
-    "title" : "FRESH hand balm",
-    "unitContents" : "ml"
+    "slug" : "sunglasses",
+    "title" : "RINGANA sunglasses",
+    "unitContents" : "Stk."
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 3959,
-    "mediaId" : 5653
+    "id" : 1864,
+    "mediaId" : 2420
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "maxPerCart" : 1269769999,
+  "maxPerCart" : 100,
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {
@@ -191,8 +194,8 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 58.24,
-      "bruttoWithoutDiscount" : 72.8,
+      "brutto" : 7.84,
+      "bruttoWithoutDiscount" : 9.8,
       "discountPercentage" : 20,
       "discountUntil" : "2025-04-03T21:59:59Z",
       "initialPurchase" : {
@@ -202,11 +205,11 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 26.42
+      "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 58.24,
-      "bruttoWithoutDiscount" : 72.8,
+      "brutto" : 7.84,
+      "bruttoWithoutDiscount" : 9.8,
       "discountPercentage" : 20,
       "discountUntil" : "2025-04-03T21:59:59Z",
       "initialPurchase" : {
@@ -216,78 +219,34 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 26.42
+      "provisionPoints" : 0
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
-  "setContents" : [ {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "BKM"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "FHIL"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "BLB"
-  } ],
-  "shortDescription" : "product.BKM-FHIL-BLB.shortDescription",
+  "setContents" : [ ],
+  "shortDescription" : "product.RSPIN.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "fresh-highlight-your-body-set",
+  "slug" : "ringana-summer-pins",
   "socialMedia" : {
-    "id" : 3006,
-    "imageId" : 5653,
-    "text" : "product.BKM-FHIL-BLB.socialMedia.text",
-    "title" : "product.BKM-FHIL-BLB.socialMedia.title"
+    "id" : 1192,
+    "imageId" : null,
+    "text" : "",
+    "title" : ""
   },
   "soldOut" : false,
-  "supplementDescription" : "body highlight",
-  "tabs" : [ {
-    "description" : "product.BKM-FHIL-BLB.tabs3544.description",
-    "id" : 3544,
-    "showPrintButton" : false,
-    "title" : "product.BKM-FHIL-BLB.tabs3544.title"
-  }, {
-    "description" : "product.BKM-FHIL-BLB.tabs3545.description",
-    "id" : 3545,
-    "showPrintButton" : false,
-    "title" : "product.BKM-FHIL-BLB.tabs3545.title"
-  }, {
-    "description" : "product.BKM-FHIL-BLB.tabs3546.description",
-    "id" : 3546,
-    "showPrintButton" : false,
-    "title" : "product.BKM-FHIL-BLB.tabs3546.title"
-  }, {
-    "description" : "product.BKM-FHIL-BLB.tabs3547.description",
-    "id" : 3547,
-    "showPrintButton" : false,
-    "title" : "product.BKM-FHIL-BLB.tabs3547.title"
-  } ],
-  "teaserDots" : [ {
-    "backgroundColor" : "#000000",
-    "borderColor" : "#000000",
-    "fontSize" : 9,
-    "id" : 4,
-    "lineHeight" : 1.4,
-    "position" : "top-left",
-    "text" : "LIMITED EDITION",
-    "textColor" : "#ffffff"
-  } ],
-  "title" : "FRESH highlight your body set",
-  "unit" : "Set",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
-  "unitId" : 43586,
-  "usp" : "product.BKM-FHIL-BLB.usp",
-  "values" : [ {
-    "iconMediaId" : 1121,
-    "name" : "value.value66.name"
-  } ],
+  "supplementDescription" : "summer pins",
+  "tabs" : [ ],
+  "teaserDots" : [ ],
+  "title" : "RINGANA summer pins",
+  "unit" : "Stk.",
+  "unitContents" : "Stk.",
+  "unitContentsId" : 996,
+  "unitId" : 996,
+  "usp" : "product.RSPIN.usp",
+  "values" : [ ],
   "variants" : [ ]
 }

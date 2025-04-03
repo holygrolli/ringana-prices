@@ -1,0 +1,136 @@
+{
+  "matchcode" : "FBSS",
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  } ],
+  "contentBlock" : null,
+  "contentsAmount" : "1",
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 3204,
+  "idealSupplements" : [ ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4289,
+    "mediaId" : 6513
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
+  "isMerchandise" : false,
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
+    "customer" : {
+      "brutto" : 38.4,
+      "bruttoWithoutDiscount" : 48,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-04-03T21:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 7.27
+    },
+    "partner" : {
+      "brutto" : 38.4,
+      "bruttoWithoutDiscount" : 48,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-04-03T21:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 7.27
+    }
+  },
+  "purchasePossible" : true,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "RBSS"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "RBBP"
+  } ],
+  "shortDescription" : "product.FBSS.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "fresh-baby-suncare-set",
+  "socialMedia" : {
+    "id" : 3204,
+    "imageId" : null,
+    "text" : "",
+    "title" : ""
+  },
+  "soldOut" : false,
+  "supplementDescription" : "baby suncare",
+  "tabs" : [ {
+    "description" : "product.FBSS.tabs3742.description",
+    "id" : 3742,
+    "showPrintButton" : false,
+    "title" : "product.FBSS.tabs3742.title"
+  }, {
+    "description" : "product.FBSS.tabs3743.description",
+    "id" : 3743,
+    "showPrintButton" : false,
+    "title" : "product.FBSS.tabs3743.title"
+  }, {
+    "description" : "product.FBSS.tabs3744.description",
+    "id" : 3744,
+    "showPrintButton" : false,
+    "title" : "product.FBSS.tabs3744.title"
+  } ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#000",
+    "borderColor" : "#000000",
+    "fontSize" : 9,
+    "id" : 232,
+    "lineHeight" : 1.2,
+    "position" : "top-left",
+    "text" : "LIVE SPECIAL",
+    "textColor" : "#fff"
+  } ],
+  "title" : "FRESH baby suncare set",
+  "unit" : "Set",
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
+  "unitId" : 43586,
+  "usp" : "product.FBSS.usp",
+  "values" : [ ],
+  "variants" : [ ]
+}

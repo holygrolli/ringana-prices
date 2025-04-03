@@ -1,35 +1,25 @@
 {
-  "matchcode" : "CUV",
-  "additionalUnitPrice" : {
-    "entity" : 90,
-    "type" : 1
-  },
+  "matchcode" : "FSCS",
+  "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ 175774, 137378, 176347 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 3,
+    "id" : 9,
     "infoColorNeeded" : false,
-    "name" : "category.category3.name",
+    "name" : "category.category9.name",
     "primary" : true,
-    "slug" : "caps",
+    "slug" : "offers",
     "visible" : true
   }, {
-    "id" : 18,
+    "id" : 298,
     "infoColorNeeded" : false,
-    "name" : "category.category18.name",
+    "name" : "category.category298.name",
     "primary" : false,
-    "slug" : "supplements",
-    "visible" : true
-  }, {
-    "id" : 67,
-    "infoColorNeeded" : false,
-    "name" : "category.category67.name",
-    "primary" : false,
-    "slug" : "immune-system",
-    "visible" : true
+    "slug" : "chasing-the-sun",
+    "visible" : false
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "40,5",
+  "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
@@ -40,74 +30,24 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
-  "id" : 90,
+  "firstHeadline" : "product.FSCS.firstHeadline",
+  "id" : 365,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : 90,
-      "type" : 1
-    },
-    "contentsAmount" : "42,8",
-    "currency" : "eur",
-    "description" : "CAPS immu",
-    "imageId" : 1148,
-    "matchcode" : "CIV",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 1294.3,
-        "unit" : "g",
-        "unitId" : 812
-      },
-      "customer" : {
-        "brutto" : 55.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 30.6
-      },
-      "partner" : {
-        "brutto" : 55.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 30.6
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "caps-immu",
-    "title" : "CAPS immu",
-    "unitContents" : "g"
-  }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "200",
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "sunscreen",
-    "imageId" : 1990,
-    "matchcode" : "BSB",
+    "description" : "light legs",
+    "imageId" : 587,
+    "matchcode" : "FLL",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 244,
+        "brutto" : 228.8,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 48.8,
+        "brutto" : 28.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -118,10 +58,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.2
+        "provisionPoints" : 17
       },
       "partner" : {
-        "brutto" : 48.8,
+        "brutto" : 28.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -132,32 +72,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.2
+        "provisionPoints" : 17
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-sunscreen-spf-25",
-    "title" : "FRESH sunscreen",
+    "slug" : "fresh-light-legs",
+    "title" : "FRESH light legs",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : 90,
-      "type" : 1
-    },
-    "contentsAmount" : "49,8",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "CAPS fem",
-    "imageId" : 1156,
-    "matchcode" : "CFV",
+    "description" : "DEODORANT",
+    "imageId" : 1168,
+    "matchcode" : "BDO",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1112.4,
-        "unit" : "g",
-        "unitId" : 812
+        "brutto" : 215.2,
+        "unit" : "ml",
+        "unitId" : 827
       },
       "customer" : {
-        "brutto" : 55.4,
+        "brutto" : 26.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -168,10 +105,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 30.6
+        "provisionPoints" : 14.6
       },
       "partner" : {
-        "brutto" : 55.4,
+        "brutto" : 26.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -182,41 +119,68 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 30.6
+        "provisionPoints" : 14.6
       }
     },
     "purchasePossible" : true,
-    "slug" : "caps-fem",
-    "title" : "CAPS fem",
-    "unitContents" : "g"
+    "slug" : "fresh-deodorant",
+    "title" : "FRESH deodorant",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "125",
+    "currency" : "eur",
+    "description" : "foot balm",
+    "imageId" : 1165,
+    "matchcode" : "BFB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 202.4,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 25.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 14.2
+      },
+      "partner" : {
+        "brutto" : 25.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 14.2
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-foot-balm",
+    "title" : "FRESH foot balm",
+    "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 701,
-    "mediaId" : 1130
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 228,
-    "mediaId" : 426
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 230,
-    "mediaId" : 427
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 233,
-    "mediaId" : 428
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 236,
-    "mediaId" : 5224
+    "id" : 834,
+    "mediaId" : 6577
   } ],
-  "infoColor" : "#9bcbeb",
+  "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
@@ -224,16 +188,16 @@
   "press" : null,
   "priceInformation" : {
     "base" : {
-      "amount" : 1000,
-      "brutto" : 813.8,
-      "unit" : "g",
-      "unitId" : 812
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
     },
     "customer" : {
-      "brutto" : 32.96,
-      "bruttoWithoutDiscount" : 41.2,
+      "brutto" : 123.52,
+      "bruttoWithoutDiscount" : 154.4,
       "discountPercentage" : 20,
-      "discountUntil" : "2025-04-03T21:59:59Z",
+      "discountUntil" : "2025-04-30T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -241,13 +205,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 16.42
+      "provisionPoints" : 46.08
     },
     "partner" : {
-      "brutto" : 32.96,
-      "bruttoWithoutDiscount" : 41.2,
+      "brutto" : 123.52,
+      "bruttoWithoutDiscount" : 154.4,
       "discountPercentage" : 20,
-      "discountUntil" : "2025-04-03T21:59:59Z",
+      "discountUntil" : "2025-04-30T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -255,92 +219,89 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 16.42
+      "provisionPoints" : 46.08
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
-  "setContents" : [ ],
-  "shortDescription" : "product.CUV.shortDescription",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "RSUTO"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "BSB"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "SSF"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "SBA"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "FLL50"
+  } ],
+  "shortDescription" : "product.FSCS.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "caps-hydro",
+  "slug" : "fresh-suncare-set",
   "socialMedia" : {
-    "id" : 89,
-    "imageId" : 5224,
-    "text" : "product.CUV.socialMedia.text",
-    "title" : "product.CUV.socialMedia.title"
+    "id" : 365,
+    "imageId" : 6577,
+    "text" : "product.FSCS.socialMedia.text",
+    "title" : "product.FSCS.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "CAPS hydro",
+  "supplementDescription" : "FRESH suncare set",
   "tabs" : [ {
-    "description" : "product.CUV.tabs0.description",
-    "id" : 342,
+    "description" : "product.FSCS.tabs0.description",
+    "id" : 830,
     "showPrintButton" : false,
-    "title" : "product.CUV.tabs0.title"
+    "title" : "product.FSCS.tabs0.title"
   }, {
-    "description" : "product.CUV.tabs1.description",
-    "id" : 344,
-    "showPrintButton" : true,
-    "title" : "product.CUV.tabs1.title"
-  }, {
-    "description" : "product.CUV.tabs2.description",
-    "id" : 346,
+    "description" : "product.FSCS.tabs1.description",
+    "id" : 831,
     "showPrintButton" : false,
-    "title" : "product.CUV.tabs2.title"
+    "title" : "product.FSCS.tabs1.title"
   }, {
-    "description" : "product.CUV.tabs3.description",
-    "id" : 347,
+    "description" : "product.FSCS.tabs2.description",
+    "id" : 832,
     "showPrintButton" : false,
-    "title" : "product.CUV.tabs3.title"
+    "title" : "product.FSCS.tabs2.title"
+  }, {
+    "description" : "product.FSCS.tabs3.description",
+    "id" : 833,
+    "showPrintButton" : false,
+    "title" : "product.FSCS.tabs3.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "CAPS hydro",
-  "unit" : "Pck.",
-  "unitContents" : "g",
-  "unitContentsId" : 812,
-  "unitId" : 43589,
-  "usp" : "product.CUV.usp",
+  "title" : "FRESH suncare set",
+  "unit" : "Set",
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
+  "unitId" : 43586,
+  "usp" : "product.FSCS.usp",
   "values" : [ {
-    "iconMediaId" : 1083,
-    "name" : "value.value28.name"
+    "iconMediaId" : 1104,
+    "name" : "value.value49.name"
   }, {
-    "iconMediaId" : 1109,
-    "name" : "value.value54.name"
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
   }, {
-    "iconMediaId" : 1095,
-    "name" : "value.value40.name"
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
   }, {
-    "iconMediaId" : 1080,
-    "name" : "value.value25.name"
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
   }, {
-    "iconMediaId" : 1058,
-    "name" : "value.value3.name"
-  }, {
-    "iconMediaId" : 1121,
-    "name" : "value.value66.name"
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
   } ],
-  "variants" : [ {
-    "color" : null,
-    "id" : 152,
-    "language" : null,
-    "matchcode" : "CUV",
-    "name" : null,
-    "size" : 90,
-    "slug" : "caps-hydro",
-    "type" : 2,
-    "unit" : 1
-  }, {
-    "color" : null,
-    "id" : 154,
-    "language" : null,
-    "matchcode" : "CUV3",
-    "name" : null,
-    "size" : 270,
-    "slug" : "caps-hydro-set",
-    "type" : 2,
-    "unit" : 1
-  } ]
+  "variants" : [ ]
 }

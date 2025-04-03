@@ -38,6 +38,13 @@
     "slug" : "fresh",
     "visible" : true
   }, {
+    "id" : 298,
+    "infoColorNeeded" : false,
+    "name" : "category.category298.name",
+    "primary" : false,
+    "slug" : "chasing-the-sun",
+    "visible" : false
+  }, {
     "id" : 91,
     "infoColorNeeded" : false,
     "name" : "category.category91.name",
@@ -77,12 +84,12 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 664,
+        "brutto" : 676,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 33.2,
+        "brutto" : 33.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -96,7 +103,7 @@
         "provisionPoints" : 19.5
       },
       "partner" : {
-        "brutto" : 33.2,
+        "brutto" : 33.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -110,7 +117,7 @@
         "provisionPoints" : 19.5
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-sunscreen-face",
     "title" : "FRESH sunscreen face",
     "unitContents" : "ml"
@@ -353,5 +360,25 @@
     "iconMediaId" : 1104,
     "name" : "value.value49.name"
   } ],
-  "variants" : [ ]
+  "variants" : [ {
+    "color" : null,
+    "id" : 2049,
+    "language" : null,
+    "matchcode" : "BSB",
+    "name" : null,
+    "size" : 200,
+    "slug" : "fresh-sunscreen-spf-25",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 2050,
+    "language" : null,
+    "matchcode" : "T-BSB",
+    "name" : null,
+    "size" : 50,
+    "slug" : "fresh-sunscreen-pocket",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }
