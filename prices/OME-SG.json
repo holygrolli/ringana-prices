@@ -65,8 +65,8 @@
   "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -292,7 +292,7 @@
       "provisionPoints" : 49.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -307,7 +307,7 @@
     "text" : "product.OME-SG.socialMedia.text",
     "title" : "product.OME-SG.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "BEYOND omega",
   "tabs" : [ {
     "description" : "product.OME-SG.tabs2785.description",
