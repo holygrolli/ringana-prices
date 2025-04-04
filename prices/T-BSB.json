@@ -238,12 +238,12 @@
     "caption" : "product.T-BSB.imageGallery4226.caption",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
     "id" : 4226,
-    "mediaId" : 562
+    "mediaId" : 6589
   }, {
     "caption" : "product.T-BSB.imageGallery4227.caption",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
     "id" : 4227,
-    "mediaId" : 2091
+    "mediaId" : 6588
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
@@ -254,15 +254,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 286.2,
+      "brutto" : 318,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 14.31,
-      "bruttoWithoutDiscount" : 15.9,
-      "discountPercentage" : 10,
-      "discountUntil" : "2025-04-03T21:59:59Z",
+      "brutto" : 15.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -270,13 +270,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 7.37
+      "provisionPoints" : 9.1
     },
     "partner" : {
-      "brutto" : 14.31,
-      "bruttoWithoutDiscount" : 15.9,
-      "discountPercentage" : 10,
-      "discountUntil" : "2025-04-03T21:59:59Z",
+      "brutto" : 15.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -284,7 +284,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 7.37
+      "provisionPoints" : 9.1
     }
   },
   "purchasePossible" : true,
