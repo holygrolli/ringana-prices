@@ -15,8 +15,8 @@
   "contentsAmount" : "1",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -230,7 +230,7 @@
       "provisionPoints" : 20.4
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -269,7 +269,7 @@
     "text" : "product.RBGB.socialMedia.text",
     "title" : "product.RBGB.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "Baby box",
   "tabs" : [ {
     "description" : "product.RBGB.tabs0.description",
