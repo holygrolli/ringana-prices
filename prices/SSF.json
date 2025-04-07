@@ -84,8 +84,8 @@
   "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6544,
   "discountDate" : null,
@@ -319,7 +319,7 @@
       "provisionPoints" : 19.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -334,7 +334,7 @@
     "text" : "product.SSF.socialMedia.text",
     "title" : "product.SSF.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "sunscreen face",
   "tabs" : [ {
     "description" : "product.SSF.tabs0.description",

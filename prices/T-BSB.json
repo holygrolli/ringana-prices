@@ -117,7 +117,7 @@
         "provisionPoints" : 19.5
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-sunscreen-face",
     "title" : "FRESH sunscreen face",
     "unitContents" : "ml"
@@ -325,7 +325,16 @@
     "showPrintButton" : false,
     "title" : "product.T-BSB.tabs3679.title"
   } ],
-  "teaserDots" : [ ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 9,
+    "id" : 4,
+    "lineHeight" : 1.4,
+    "position" : "top-left",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  } ],
   "title" : "FRESH sunscreen pocket",
   "unit" : "Stk.",
   "unitContents" : "ml",

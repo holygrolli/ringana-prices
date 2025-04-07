@@ -151,7 +151,7 @@
         "provisionPoints" : 19.5
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-sunscreen-face",
     "title" : "FRESH sunscreen face",
     "unitContents" : "ml"
