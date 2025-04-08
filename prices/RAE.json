@@ -61,7 +61,28 @@
     "slug" : "fresh",
     "visible" : true
   } ],
-  "contentBlock" : null,
+  "contentBlock" : {
+    "buttonLink" : null,
+    "buttonText" : null,
+    "contentBlockItems" : [ {
+      "id" : 67,
+      "link" : null,
+      "text" : "product.RAE.contentBlockItem0.text"
+    }, {
+      "id" : 68,
+      "link" : null,
+      "text" : "product.RAE.contentBlockItem1.text"
+    }, {
+      "id" : 69,
+      "link" : null,
+      "text" : "product.RAE.contentBlockItem2.text"
+    } ],
+    "id" : 67,
+    "imageId" : 6610,
+    "imageLayoutLeft" : false,
+    "subtitle" : "product.RAE.contentBlock.subtitle",
+    "title" : "product.RAE.contentBlock.title"
+  },
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
