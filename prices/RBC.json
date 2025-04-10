@@ -30,7 +30,7 @@
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : null,
+  "descriptionImageId" : 6683,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
@@ -204,7 +204,7 @@
     "caption" : "",
     "captionLink" : null,
     "id" : 277,
-    "mediaId" : 495
+    "mediaId" : 6679
   }, {
     "caption" : "",
     "captionLink" : null,

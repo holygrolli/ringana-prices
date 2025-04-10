@@ -70,7 +70,7 @@
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : null,
+  "descriptionImageId" : 6684,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
@@ -228,7 +228,7 @@
     "caption" : "",
     "captionLink" : null,
     "id" : 316,
-    "mediaId" : 568
+    "mediaId" : 6676
   }, {
     "caption" : "product.FSLP.imageGallery2.caption",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
