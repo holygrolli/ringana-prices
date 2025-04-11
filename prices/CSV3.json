@@ -125,7 +125,7 @@
         "provisionPoints" : 19.5
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-sunscreen-face",
     "title" : "FRESH sunscreen face",
     "unitContents" : "ml"
@@ -212,15 +212,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 1203.5,
+      "brutto" : 1337.2,
       "unit" : "g",
       "unitId" : 812
     },
     "customer" : {
-      "brutto" : 154.53,
-      "bruttoWithoutDiscount" : 171.7,
-      "discountPercentage" : 10,
-      "discountUntil" : "2025-04-11T08:00:00Z",
+      "brutto" : 171.7,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -228,13 +228,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 72.41
+      "provisionPoints" : 89.4
     },
     "partner" : {
-      "brutto" : 154.53,
-      "bruttoWithoutDiscount" : 171.7,
-      "discountPercentage" : 10,
-      "discountUntil" : "2025-04-11T08:00:00Z",
+      "brutto" : 171.7,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -242,7 +242,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 72.41
+      "provisionPoints" : 89.4
     }
   },
   "purchasePossible" : true,
