@@ -122,7 +122,7 @@
         "provisionPoints" : 0
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "ringana-summer-pins",
     "title" : "RINGANA summer pins",
     "unitContents" : "Stk."

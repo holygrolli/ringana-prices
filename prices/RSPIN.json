@@ -22,8 +22,8 @@
   "contentsAmount" : "1",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -222,7 +222,7 @@
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -237,7 +237,7 @@
     "text" : "",
     "title" : ""
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "summer pins",
   "tabs" : [ ],
   "teaserDots" : [ ],
