@@ -123,24 +123,21 @@
     "title" : "FRESH packs ABC",
     "unitContents" : "g"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : 14,
-      "type" : 2
-    },
-    "contentsAmount" : "700",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "1",
     "currency" : "eur",
-    "description" : "MEAL REPLACEMENT",
-    "imageId" : 257,
-    "matchcode" : "D-EAT",
+    "description" : "SHAKER BALL",
+    "imageId" : 1729,
+    "matchcode" : "RSHBB",
     "priceInformation" : {
       "base" : {
-        "amount" : 1000,
-        "brutto" : 93.8,
-        "unit" : "g",
-        "unitId" : 812
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
       },
       "customer" : {
-        "brutto" : 65.7,
+        "brutto" : 2.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -151,10 +148,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 36
+        "provisionPoints" : 0
       },
       "partner" : {
-        "brutto" : 65.7,
+        "brutto" : 2.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -165,19 +162,19 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 36
+        "provisionPoints" : 0
       }
     },
     "purchasePossible" : true,
-    "slug" : "complete-d-eat",
-    "title" : "COMPLETE d-eat",
-    "unitContents" : "g"
+    "slug" : "shaker-ball",
+    "title" : "RINGANA Shaker Ball",
+    "unitContents" : "Stk."
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
     "id" : 87,
-    "mediaId" : 6445
+    "mediaId" : 6748
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -250,7 +247,7 @@
     "title" : "product.RS.tabs1.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "RINGANA Shaker & Shaker Ball",
+  "title" : "RINGANA Shaker",
   "unit" : "Stk.",
   "unitContents" : "Stk.",
   "unitContentsId" : 996,

@@ -30,7 +30,7 @@
     "contentsAmount" : "1",
     "currency" : "eur",
     "description" : "SHAKE! SHAKE!",
-    "imageId" : 6445,
+    "imageId" : 6748,
     "matchcode" : "RS",
     "priceInformation" : {
       "base" : {
@@ -70,7 +70,7 @@
     },
     "purchasePossible" : true,
     "slug" : "pack-shaker",
-    "title" : "RINGANA Shaker & Shaker Ball",
+    "title" : "RINGANA Shaker",
     "unitContents" : "Stk."
   }, {
     "additionalUnitPrice" : {
