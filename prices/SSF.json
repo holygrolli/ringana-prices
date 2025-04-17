@@ -356,6 +356,11 @@
     "id" : 510,
     "showPrintButton" : false,
     "title" : "product.SSF.tabs3.title"
+  }, {
+    "description" : "product.SSF.tabs3907.description",
+    "id" : 3907,
+    "showPrintButton" : false,
+    "title" : "product.SSF.tabs3907.title"
   } ],
   "teaserDots" : [ ],
   "title" : "FRESH sunscreen face",
