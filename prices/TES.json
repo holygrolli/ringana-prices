@@ -1,0 +1,394 @@
+{
+  "matchcode" : "TES",
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "imageId" : 1044,
+    "link" : "https://skin.li/5ca01b05",
+    "name" : "cosmeticsanalysis.com - FRESH eye serum"
+  } ],
+  "blogPostIds" : [ 178302, 170743, 6664 ],
+  "categories" : [ {
+    "id" : 7,
+    "infoColorNeeded" : false,
+    "name" : "category.category7.name",
+    "primary" : true,
+    "slug" : "face",
+    "visible" : true
+  }, {
+    "id" : 81,
+    "infoColorNeeded" : false,
+    "name" : "category.category81.name",
+    "primary" : false,
+    "slug" : "mature-skin",
+    "visible" : true
+  }, {
+    "id" : 77,
+    "infoColorNeeded" : false,
+    "name" : "category.category77.name",
+    "primary" : false,
+    "slug" : "hydrating",
+    "visible" : true
+  }, {
+    "id" : 75,
+    "infoColorNeeded" : false,
+    "name" : "category.category75.name",
+    "primary" : false,
+    "slug" : "lifting",
+    "visible" : true
+  }, {
+    "id" : 202,
+    "infoColorNeeded" : false,
+    "name" : "category.category202.name",
+    "primary" : false,
+    "slug" : "step-4-hydrating",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 86,
+    "infoColorNeeded" : false,
+    "name" : "category.category86.name",
+    "primary" : false,
+    "slug" : "combination-skin",
+    "visible" : true
+  }, {
+    "id" : 82,
+    "infoColorNeeded" : false,
+    "name" : "category.category82.name",
+    "primary" : false,
+    "slug" : "dry-skin",
+    "visible" : true
+  } ],
+  "contentBlock" : {
+    "buttonLink" : null,
+    "buttonText" : null,
+    "contentBlockItems" : [ {
+      "id" : 100,
+      "link" : null,
+      "text" : "product.TES.contentBlockItem0.text"
+    }, {
+      "id" : 101,
+      "link" : null,
+      "text" : "product.TES.contentBlockItem1.text"
+    }, {
+      "id" : 102,
+      "link" : null,
+      "text" : "product.TES.contentBlockItem2.text"
+    }, {
+      "id" : 103,
+      "link" : null,
+      "text" : "product.TES.contentBlockItem3.text"
+    } ],
+    "id" : 100,
+    "imageId" : 6808,
+    "imageLayoutLeft" : false,
+    "subtitle" : "product.TES.contentBlock.subtitle",
+    "title" : "product.TES.contentBlock.title"
+  },
+  "contentsAmount" : "15",
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : 6644,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ {
+    "answer" : "product.TES.faqs0.answer",
+    "id" : 1343,
+    "question" : "product.TES.faqs0.question"
+  }, {
+    "answer" : "product.TES.faqs1.answer",
+    "id" : 1344,
+    "question" : "product.TES.faqs1.question"
+  } ],
+  "firstHeadline" : "product.TES.firstHeadline",
+  "id" : 3271,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "30",
+    "currency" : "eur",
+    "description" : "anti wrinkle",
+    "imageId" : 757,
+    "matchcode" : "BSA",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2520,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 75.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 43
+      },
+      "partner" : {
+        "brutto" : 75.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 43
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-anti-wrinkle-serum",
+    "title" : "FRESH anti wrinkle serum",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "30",
+    "currency" : "eur",
+    "description" : "perfection",
+    "imageId" : 4267,
+    "matchcode" : "FLN",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2983.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 89.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.5
+      },
+      "partner" : {
+        "brutto" : 89.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 52.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-skin-perfection",
+    "title" : "FRESH skin perfection",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "125",
+    "currency" : "eur",
+    "description" : "cleanser",
+    "imageId" : 750,
+    "matchcode" : "BRM",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 212,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 26.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 14.4
+      },
+      "partner" : {
+        "brutto" : 26.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 14.4
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-cleanser",
+    "title" : "FRESH cleanser",
+    "unitContents" : "ml"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4357,
+    "mediaId" : 6645
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4358,
+    "mediaId" : 6646
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
+  "isMerchandise" : false,
+  "maxPerCart" : 99999,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 3233.3,
+      "unit" : "ml",
+      "unitId" : 827
+    },
+    "customer" : {
+      "brutto" : 48.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 27.5
+    },
+    "partner" : {
+      "brutto" : 48.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 27.5
+    }
+  },
+  "purchasePossible" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.TES.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "fresh-eye-serum-brightening",
+  "socialMedia" : {
+    "id" : 3271,
+    "imageId" : 6645,
+    "text" : "product.TES.socialMedia.text",
+    "title" : "product.TES.socialMedia.title"
+  },
+  "soldOut" : false,
+  "supplementDescription" : "brightening",
+  "tabs" : [ {
+    "description" : "product.TES.tabs3812.description",
+    "id" : 3812,
+    "showPrintButton" : false,
+    "title" : "product.TES.tabs3812.title"
+  }, {
+    "description" : "product.TES.tabs3813.description",
+    "id" : 3813,
+    "showPrintButton" : true,
+    "title" : "product.TES.tabs3813.title"
+  }, {
+    "description" : "product.TES.tabs3814.description",
+    "id" : 3814,
+    "showPrintButton" : false,
+    "title" : "product.TES.tabs3814.title"
+  }, {
+    "description" : "product.TES.tabs3815.description",
+    "id" : 3815,
+    "showPrintButton" : false,
+    "title" : "product.TES.tabs3815.title"
+  } ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 9,
+    "id" : 4,
+    "lineHeight" : 1.4,
+    "position" : "top-left",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH eye serum brightening",
+  "unit" : "Stk.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 996,
+  "usp" : "product.TES.usp",
+  "values" : [ {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  }, {
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1085,
+    "name" : "value.value30.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  } ],
+  "variants" : [ ]
+}

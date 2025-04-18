@@ -317,7 +317,7 @@
   }, {
     "description" : "product.OME-SG.tabs2786.description",
     "id" : 2786,
-    "showPrintButton" : false,
+    "showPrintButton" : true,
     "title" : "product.OME-SG.tabs2786.title"
   }, {
     "description" : "product.OME-SG.tabs2787.description",
