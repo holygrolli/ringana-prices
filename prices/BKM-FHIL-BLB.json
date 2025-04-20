@@ -15,8 +15,8 @@
   "contentsAmount" : "215",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -219,7 +219,7 @@
       "provisionPoints" : 26.42
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -246,7 +246,7 @@
     "text" : "product.BKM-FHIL-BLB.socialMedia.text",
     "title" : "product.BKM-FHIL-BLB.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "body highlight",
   "tabs" : [ {
     "description" : "product.BKM-FHIL-BLB.tabs3544.description",
