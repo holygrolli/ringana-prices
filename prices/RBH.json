@@ -83,53 +83,6 @@
     "additionalUnitPrice" : null,
     "contentsAmount" : "1",
     "currency" : "eur",
-    "description" : "summer pins",
-    "imageId" : 2420,
-    "matchcode" : "RSPIN",
-    "priceInformation" : {
-      "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
-      },
-      "customer" : {
-        "brutto" : 9.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 0
-      },
-      "partner" : {
-        "brutto" : 9.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 0
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "ringana-summer-pins",
-    "title" : "RINGANA summer pins",
-    "unitContents" : "Stk."
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "1",
-    "currency" : "eur",
     "description" : "",
     "imageId" : 197,
     "matchcode" : "R-SG-RNX",
