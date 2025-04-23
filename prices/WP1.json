@@ -135,7 +135,7 @@
         "provisionPoints" : 0
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "pack-shaker",
     "title" : "RINGANA Shaker",
     "unitContents" : "Stk."
