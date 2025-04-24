@@ -1,22 +1,22 @@
 {
-  "matchcode" : "RSG-SBB",
+  "matchcode" : "WA-BCE-BHS",
   "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ 156677, 118137, 168257 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 16,
+    "id" : 9,
     "infoColorNeeded" : false,
-    "name" : "category.category16.name",
+    "name" : "category.category9.name",
     "primary" : true,
-    "slug" : "merchandise",
+    "slug" : "offers",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "1",
+  "contentsAmount" : "80",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -24,123 +24,23 @@
   "disruptor" : null,
   "faqs" : [ ],
   "firstHeadline" : "",
-  "id" : 45,
+  "id" : 631,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "1",
+    "contentsAmount" : "15",
     "currency" : "eur",
-    "description" : "SHAKE! SHAKE!",
-    "imageId" : 6748,
-    "matchcode" : "RS",
-    "priceInformation" : {
-      "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
-      },
-      "customer" : {
-        "brutto" : 4.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 0
-      },
-      "partner" : {
-        "brutto" : 4.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 0
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "pack-shaker",
-    "title" : "RINGANA Shaker",
-    "unitContents" : "Stk."
-  }, {
-    "additionalUnitPrice" : {
-      "entity" : 78,
-      "type" : 2
-    },
-    "contentsAmount" : "1040",
-    "currency" : "eur",
-    "description" : "FRESH PACKS",
-    "imageId" : 1141,
-    "matchcode" : "WP1",
-    "priceInformation" : {
-      "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
-      },
-      "customer" : {
-        "brutto" : 142,
-        "bruttoWithoutDiscount" : 177.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-04-25T21:59:00Z",
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 62.21
-      },
-      "partner" : {
-        "brutto" : 142,
-        "bruttoWithoutDiscount" : 177.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-04-25T21:59:00Z",
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 62.21
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "packs-abc",
-    "title" : "FRESH packs ABC",
-    "unitContents" : "g"
-  }, {
-    "additionalUnitPrice" : {
-      "entity" : 14,
-      "type" : 2
-    },
-    "contentsAmount" : "700",
-    "currency" : "eur",
-    "description" : "MEAL REPLACEMENT",
-    "imageId" : 257,
-    "matchcode" : "D-EAT",
+    "description" : "eye serum",
+    "imageId" : 707,
+    "matchcode" : "BAS",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 93.8,
-        "unit" : "g",
-        "unitId" : 812
+        "brutto" : 3233.3,
+        "unit" : "ml",
+        "unitId" : 827
       },
       "customer" : {
-        "brutto" : 65.7,
+        "brutto" : 48.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -151,10 +51,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 36
+        "provisionPoints" : 27.5
       },
       "partner" : {
-        "brutto" : 65.7,
+        "brutto" : 48.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -165,24 +65,113 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 36
+        "provisionPoints" : 27.5
       }
     },
     "purchasePossible" : true,
-    "slug" : "complete-d-eat",
-    "title" : "COMPLETE d-eat",
-    "unitContents" : "g"
+    "slug" : "fresh-eye-serum",
+    "title" : "FRESH eye serum",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "125",
+    "currency" : "eur",
+    "description" : "tonic pure",
+    "imageId" : 636,
+    "matchcode" : "BGS",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 209.6,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 26.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 15.2
+      },
+      "partner" : {
+        "brutto" : 26.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 15.2
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-tonic-pure",
+    "title" : "FRESH tonic pure",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "15",
+    "currency" : "eur",
+    "description" : "ADDS repair",
+    "imageId" : 745,
+    "matchcode" : "RAR",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 3246.6,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 48.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29.6
+      },
+      "partner" : {
+        "brutto" : 48.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-adds-repair",
+    "title" : "ADDS repair",
+    "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 89,
-    "mediaId" : 215
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 90,
-    "mediaId" : 216
+    "id" : 1122,
+    "mediaId" : 6624
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -198,10 +187,10 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 7.8,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 91.97,
+      "bruttoWithoutDiscount" : 108.2,
+      "discountPercentage" : 15,
+      "discountUntil" : "2025-05-09T08:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -209,13 +198,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 46.59
     },
     "partner" : {
-      "brutto" : 7.8,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 91.97,
+      "bruttoWithoutDiscount" : 108.2,
+      "discountPercentage" : 15,
+      "discountUntil" : "2025-05-09T08:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -223,52 +212,62 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 46.59
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
     "amount" : 1,
     "freeOfCharge" : false,
-    "matchcode" : "RSG-W"
+    "matchcode" : "BCE"
   }, {
     "amount" : 1,
-    "freeOfCharge" : true,
-    "matchcode" : "RSHBB"
+    "freeOfCharge" : false,
+    "matchcode" : "BHS"
   } ],
-  "shortDescription" : "product.RSG-SBB.shortDescription",
+  "shortDescription" : "product.WA-BCE-BHS.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "pack-glass-shaker",
+  "slug" : "fresh-cream-light-fresh-hydro-serum",
   "socialMedia" : {
-    "id" : 45,
-    "imageId" : 214,
-    "text" : "product.RSG-SBB.socialMedia.text",
-    "title" : "product.RSG-SBB.socialMedia.title"
+    "id" : 631,
+    "imageId" : null,
+    "text" : "",
+    "title" : ""
   },
-  "soldOut" : true,
-  "supplementDescription" : "SHAKE! SHAKE!",
+  "soldOut" : false,
+  "supplementDescription" : "",
   "tabs" : [ {
-    "description" : "product.RSG-SBB.tabs0.description",
-    "id" : 173,
+    "description" : "product.WA-BCE-BHS.tabs0.description",
+    "id" : 1040,
     "showPrintButton" : false,
-    "title" : "product.RSG-SBB.tabs0.title"
+    "title" : "product.WA-BCE-BHS.tabs0.title"
   }, {
-    "description" : "product.RSG-SBB.tabs1.description",
-    "id" : 174,
-    "showPrintButton" : true,
-    "title" : "product.RSG-SBB.tabs1.title"
+    "description" : "product.WA-BCE-BHS.tabs1.description",
+    "id" : 1041,
+    "showPrintButton" : false,
+    "title" : "product.WA-BCE-BHS.tabs1.title"
+  }, {
+    "description" : "product.WA-BCE-BHS.tabs2.description",
+    "id" : 1042,
+    "showPrintButton" : false,
+    "title" : "product.WA-BCE-BHS.tabs2.title"
+  }, {
+    "description" : "product.WA-BCE-BHS.tabs3.description",
+    "id" : 1043,
+    "showPrintButton" : false,
+    "title" : "product.WA-BCE-BHS.tabs3.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "RINGANA Glass Shaker & Shaker Ball",
-  "unit" : "Stk.",
-  "unitContents" : "Stk.",
-  "unitContentsId" : 996,
-  "unitId" : 996,
-  "usp" : "product.RSG-SBB.usp",
+  "title" : "FRESH cream light & FRESH hydro serum",
+  "unit" : "Set",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 43586,
+  "usp" : "product.WA-BCE-BHS.usp",
   "values" : [ ],
   "variants" : [ ]
 }

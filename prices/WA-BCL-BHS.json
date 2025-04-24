@@ -1,8 +1,8 @@
 {
-  "matchcode" : "BP2-BSA-BGL",
+  "matchcode" : "WA-BCL-BHS",
   "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ 178302, 178339, 125090 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
     "id" : 9,
     "infoColorNeeded" : false,
@@ -10,16 +10,9 @@
     "primary" : true,
     "slug" : "offers",
     "visible" : true
-  }, {
-    "id" : 98,
-    "infoColorNeeded" : false,
-    "name" : "category.category98.name",
-    "primary" : false,
-    "slug" : "skincare-sets",
-    "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "330",
+  "contentsAmount" : "80",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
@@ -31,26 +24,26 @@
   "disruptor" : null,
   "faqs" : [ ],
   "firstHeadline" : "",
-  "id" : 12,
+  "id" : 599,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "30",
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "overnight",
-    "imageId" : 679,
-    "matchcode" : "BCN",
+    "description" : "tonic pure",
+    "imageId" : 636,
+    "matchcode" : "BGS",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 2120,
+        "brutto" : 209.6,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 63.6,
-        "bruttoWithoutDiscount" : 79.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-04-24T21:59:59Z",
+        "brutto" : 26.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -58,13 +51,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 33.62
+        "provisionPoints" : 15.2
       },
       "partner" : {
-        "brutto" : 63.6,
-        "bruttoWithoutDiscount" : 79.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-04-24T21:59:59Z",
+        "brutto" : 26.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -72,29 +65,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 33.62
+        "provisionPoints" : 15.2
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-overnight-face-treatment",
-    "title" : "FRESH overnight face treatment",
+    "slug" : "fresh-tonic-pure",
+    "title" : "FRESH tonic pure",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "200",
+    "contentsAmount" : "15",
     "currency" : "eur",
-    "description" : "scrub",
-    "imageId" : 687,
-    "matchcode" : "FSC",
+    "description" : "eye serum",
+    "imageId" : 707,
+    "matchcode" : "BAS",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 238,
+        "brutto" : 3233.3,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 47.6,
+        "brutto" : 48.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -105,10 +98,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29
+        "provisionPoints" : 27.5
       },
       "partner" : {
-        "brutto" : 47.6,
+        "brutto" : 48.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -119,35 +112,32 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29
+        "provisionPoints" : 27.5
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-scrub",
-    "title" : "FRESH scrub face & body",
+    "slug" : "fresh-eye-serum",
+    "title" : "FRESH eye serum",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : 90,
-      "type" : 1
-    },
-    "contentsAmount" : "37,1",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "beauty & hair",
-    "imageId" : 1161,
-    "matchcode" : "CBH",
+    "description" : "cleanser",
+    "imageId" : 750,
+    "matchcode" : "BRM",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1257.1,
-        "unit" : "g",
-        "unitId" : 812
+        "brutto" : 212,
+        "unit" : "ml",
+        "unitId" : 827
       },
       "customer" : {
-        "brutto" : 46.64,
-        "bruttoWithoutDiscount" : 58.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-04-24T21:59:59Z",
+        "brutto" : 26.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -155,13 +145,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 23.47
+        "provisionPoints" : 14.4
       },
       "partner" : {
-        "brutto" : 46.64,
-        "bruttoWithoutDiscount" : 58.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-04-24T21:59:59Z",
+        "brutto" : 26.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -169,19 +159,19 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 23.47
+        "provisionPoints" : 14.4
       }
     },
     "purchasePossible" : true,
-    "slug" : "caps-beautyhair",
-    "title" : "CAPS beauty & hair",
-    "unitContents" : "g"
+    "slug" : "fresh-cleanser",
+    "title" : "FRESH cleanser",
+    "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 12,
-    "mediaId" : 4999
+    "id" : 1093,
+    "mediaId" : 1467
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -197,10 +187,10 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 164.9,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 96.22,
+      "bruttoWithoutDiscount" : 113.2,
+      "discountPercentage" : 15,
+      "discountUntil" : "2025-05-09T08:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -208,13 +198,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 84
+      "provisionPoints" : 48.88
     },
     "partner" : {
-      "brutto" : 164.9,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 96.22,
+      "bruttoWithoutDiscount" : 113.2,
+      "discountPercentage" : 15,
+      "discountUntil" : "2025-05-09T08:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -222,7 +212,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 84
+      "provisionPoints" : 48.88
     }
   },
   "purchasePossible" : true,
@@ -235,57 +225,49 @@
   }, {
     "amount" : 1,
     "freeOfCharge" : false,
-    "matchcode" : "BRM"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "BGL"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "BSA"
+    "matchcode" : "BHS"
   } ],
-  "shortDescription" : "product.BP2-BSA-BGL.shortDescription",
+  "shortDescription" : "product.WA-BCL-BHS.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "fresh-skin-care-set-medium-alternative-serum-tonic",
+  "slug" : "fresh-cream-medium-fresh-hydro-serum",
   "socialMedia" : {
-    "id" : 13,
-    "imageId" : 111,
-    "text" : "product.BP2-BSA-BGL.socialMedia.text",
-    "title" : "product.BP2-BSA-BGL.socialMedia.title"
+    "id" : 599,
+    "imageId" : null,
+    "text" : "",
+    "title" : ""
   },
   "soldOut" : false,
-  "supplementDescription" : "Skin care",
+  "supplementDescription" : "FRESH cream medium & FRESH hydro serum",
   "tabs" : [ {
-    "description" : "product.BP2-BSA-BGL.tabs0.description",
-    "id" : 47,
+    "description" : "product.WA-BCL-BHS.tabs0.description",
+    "id" : 1009,
     "showPrintButton" : false,
-    "title" : "product.BP2-BSA-BGL.tabs0.title"
+    "title" : "product.WA-BCL-BHS.tabs0.title"
   }, {
-    "description" : "product.BP2-BSA-BGL.tabs1.description",
-    "id" : 49,
-    "showPrintButton" : true,
-    "title" : "product.BP2-BSA-BGL.tabs1.title"
-  }, {
-    "description" : "product.BP2-BSA-BGL.tabs2.description",
-    "id" : 50,
+    "description" : "product.WA-BCL-BHS.tabs1.description",
+    "id" : 1010,
     "showPrintButton" : false,
-    "title" : "product.BP2-BSA-BGL.tabs2.title"
+    "title" : "product.WA-BCL-BHS.tabs1.title"
   }, {
-    "description" : "product.BP2-BSA-BGL.tabs3.description",
-    "id" : 52,
+    "description" : "product.WA-BCL-BHS.tabs2.description",
+    "id" : 1011,
     "showPrintButton" : false,
-    "title" : "product.BP2-BSA-BGL.tabs3.title"
+    "title" : "product.WA-BCL-BHS.tabs2.title"
+  }, {
+    "description" : "product.WA-BCL-BHS.tabs3.description",
+    "id" : 1012,
+    "showPrintButton" : false,
+    "title" : "product.WA-BCL-BHS.tabs3.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "FRESH skin care set medium - alternative serum & tonic",
+  "title" : "FRESH cream medium & FRESH hydro serum",
   "unit" : "Set",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 43586,
-  "usp" : "product.BP2-BSA-BGL.usp",
+  "usp" : "product.WA-BCL-BHS.usp",
   "values" : [ ],
   "variants" : [ ]
 }

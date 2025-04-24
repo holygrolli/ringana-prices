@@ -69,53 +69,6 @@
   "id" : 57,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "1",
-    "currency" : "eur",
-    "description" : "SHAKE! SHAKE!",
-    "imageId" : 215,
-    "matchcode" : "RSG-SBB",
-    "priceInformation" : {
-      "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
-      },
-      "customer" : {
-        "brutto" : 7.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 0
-      },
-      "partner" : {
-        "brutto" : 7.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 0
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "pack-glass-shaker",
-    "title" : "RINGANA Glass Shaker & Shaker Ball",
-    "unitContents" : "Stk."
-  }, {
-    "additionalUnitPrice" : null,
     "contentsAmount" : "360",
     "currency" : "eur",
     "description" : "RINGANAdea",

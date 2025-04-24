@@ -1,18 +1,18 @@
 {
-  "matchcode" : "RS",
+  "matchcode" : "WA-BCE-BSA",
   "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ 156677, 168257, 146360 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 16,
+    "id" : 9,
     "infoColorNeeded" : false,
-    "name" : "category.category16.name",
+    "name" : "category.category9.name",
     "primary" : true,
-    "slug" : "merchandise",
+    "slug" : "offers",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "1",
+  "contentsAmount" : "80",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
@@ -24,29 +24,26 @@
   "disruptor" : null,
   "faqs" : [ ],
   "firstHeadline" : "",
-  "id" : 44,
+  "id" : 630,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : 78,
-      "type" : 2
-    },
-    "contentsAmount" : "1040",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "15",
     "currency" : "eur",
-    "description" : "FRESH PACKS",
-    "imageId" : 1141,
-    "matchcode" : "WP1",
+    "description" : "eye serum",
+    "imageId" : 707,
+    "matchcode" : "BAS",
     "priceInformation" : {
       "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
+        "amount" : 1000,
+        "brutto" : 3233.3,
+        "unit" : "ml",
+        "unitId" : 827
       },
       "customer" : {
-        "brutto" : 142,
-        "bruttoWithoutDiscount" : 177.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-04-25T21:59:00Z",
+        "brutto" : 48.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -54,13 +51,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 62.21
+        "provisionPoints" : 27.5
       },
       "partner" : {
-        "brutto" : 142,
-        "bruttoWithoutDiscount" : 177.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-04-25T21:59:00Z",
+        "brutto" : 48.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -68,29 +65,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 62.21
+        "provisionPoints" : 27.5
       }
     },
     "purchasePossible" : true,
-    "slug" : "packs-abc",
-    "title" : "FRESH packs ABC",
-    "unitContents" : "g"
+    "slug" : "fresh-eye-serum",
+    "title" : "FRESH eye serum",
+    "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "1",
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "SHAKER BALL",
-    "imageId" : 1729,
-    "matchcode" : "RSHBB",
+    "description" : "cleanser",
+    "imageId" : 750,
+    "matchcode" : "BRM",
     "priceInformation" : {
       "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
+        "amount" : 1000,
+        "brutto" : 212,
+        "unit" : "ml",
+        "unitId" : 827
       },
       "customer" : {
-        "brutto" : 2.4,
+        "brutto" : 26.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -101,10 +98,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 0
+        "provisionPoints" : 14.4
       },
       "partner" : {
-        "brutto" : 2.4,
+        "brutto" : 26.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -115,19 +112,19 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 0
+        "provisionPoints" : 14.4
       }
     },
     "purchasePossible" : true,
-    "slug" : "shaker-ball",
-    "title" : "RINGANA Shaker Ball",
-    "unitContents" : "Stk."
+    "slug" : "fresh-cleanser",
+    "title" : "FRESH cleanser",
+    "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 87,
-    "mediaId" : 6748
+    "id" : 1121,
+    "mediaId" : 6625
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -143,10 +140,10 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 4.5,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 106.68,
+      "bruttoWithoutDiscount" : 125.5,
+      "discountPercentage" : 15,
+      "discountUntil" : "2025-05-09T08:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -154,13 +151,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 54.39
     },
     "partner" : {
-      "brutto" : 4.5,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 106.68,
+      "bruttoWithoutDiscount" : 125.5,
+      "discountPercentage" : 15,
+      "discountUntil" : "2025-05-09T08:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -168,44 +165,62 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 54.39
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
-  "setContents" : [ ],
-  "shortDescription" : "product.RS.shortDescription",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "BCE"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "BSA"
+  } ],
+  "shortDescription" : "product.WA-BCE-BSA.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "pack-shaker",
+  "slug" : "fresh-cream-light-fresh-anti-wrinkle-serum",
   "socialMedia" : {
-    "id" : 44,
-    "imageId" : 211,
-    "text" : "product.RS.socialMedia.text",
-    "title" : "product.RS.socialMedia.title"
+    "id" : 630,
+    "imageId" : null,
+    "text" : "",
+    "title" : ""
   },
   "soldOut" : false,
-  "supplementDescription" : "SHAKE! SHAKE!",
+  "supplementDescription" : "",
   "tabs" : [ {
-    "description" : "product.RS.tabs0.description",
-    "id" : 171,
+    "description" : "product.WA-BCE-BSA.tabs0.description",
+    "id" : 1036,
     "showPrintButton" : false,
-    "title" : "product.RS.tabs0.title"
+    "title" : "product.WA-BCE-BSA.tabs0.title"
   }, {
-    "description" : "product.RS.tabs1.description",
-    "id" : 172,
-    "showPrintButton" : true,
-    "title" : "product.RS.tabs1.title"
+    "description" : "product.WA-BCE-BSA.tabs1.description",
+    "id" : 1037,
+    "showPrintButton" : false,
+    "title" : "product.WA-BCE-BSA.tabs1.title"
+  }, {
+    "description" : "product.WA-BCE-BSA.tabs2.description",
+    "id" : 1038,
+    "showPrintButton" : false,
+    "title" : "product.WA-BCE-BSA.tabs2.title"
+  }, {
+    "description" : "product.WA-BCE-BSA.tabs3.description",
+    "id" : 1039,
+    "showPrintButton" : false,
+    "title" : "product.WA-BCE-BSA.tabs3.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "RINGANA Shaker",
-  "unit" : "Stk.",
-  "unitContents" : "Stk.",
-  "unitContentsId" : 996,
-  "unitId" : 996,
-  "usp" : "product.RS.usp",
+  "title" : "FRESH cream light & FRESH anti wrinkle serum",
+  "unit" : "Set",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 43586,
+  "usp" : "product.WA-BCE-BSA.usp",
   "values" : [ ],
   "variants" : [ ]
 }

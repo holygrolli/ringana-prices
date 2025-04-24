@@ -1,0 +1,132 @@
+{
+  "matchcode" : "WA-BCM-BHS",
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  } ],
+  "contentBlock" : null,
+  "contentsAmount" : "80",
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 601,
+  "idealSupplements" : [ ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 1095,
+    "mediaId" : 1469
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
+  "isMerchandise" : false,
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
+    "customer" : {
+      "brutto" : 101.24,
+      "bruttoWithoutDiscount" : 119.1,
+      "discountPercentage" : 15,
+      "discountUntil" : "2025-05-09T08:00:00Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 51.79
+    },
+    "partner" : {
+      "brutto" : 101.24,
+      "bruttoWithoutDiscount" : 119.1,
+      "discountPercentage" : 15,
+      "discountUntil" : "2025-05-09T08:00:00Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 51.79
+    }
+  },
+  "purchasePossible" : true,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "BCM"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "BHS"
+  } ],
+  "shortDescription" : "product.WA-BCM-BHS.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "fresh-cream-rich-fresh-hydro-serum",
+  "socialMedia" : {
+    "id" : 601,
+    "imageId" : null,
+    "text" : "",
+    "title" : ""
+  },
+  "soldOut" : false,
+  "supplementDescription" : "FRESH cream rich & FRESH hydro serum",
+  "tabs" : [ {
+    "description" : "product.WA-BCM-BHS.tabs0.description",
+    "id" : 1017,
+    "showPrintButton" : false,
+    "title" : "product.WA-BCM-BHS.tabs0.title"
+  }, {
+    "description" : "product.WA-BCM-BHS.tabs1.description",
+    "id" : 1018,
+    "showPrintButton" : false,
+    "title" : "product.WA-BCM-BHS.tabs1.title"
+  }, {
+    "description" : "product.WA-BCM-BHS.tabs2.description",
+    "id" : 1019,
+    "showPrintButton" : false,
+    "title" : "product.WA-BCM-BHS.tabs2.title"
+  }, {
+    "description" : "product.WA-BCM-BHS.tabs3.description",
+    "id" : 1020,
+    "showPrintButton" : false,
+    "title" : "product.WA-BCM-BHS.tabs3.title"
+  } ],
+  "teaserDots" : [ ],
+  "title" : "FRESH cream rich & FRESH hydro serum",
+  "unit" : "Set",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 43586,
+  "usp" : "product.WA-BCM-BHS.usp",
+  "values" : [ ],
+  "variants" : [ ]
+}

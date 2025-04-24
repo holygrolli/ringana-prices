@@ -1,0 +1,124 @@
+{
+  "matchcode" : "RREP",
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 16,
+    "infoColorNeeded" : false,
+    "name" : "category.category16.name",
+    "primary" : false,
+    "slug" : "merchandise",
+    "visible" : true
+  } ],
+  "contentBlock" : null,
+  "contentsAmount" : null,
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 3171,
+  "idealSupplements" : [ ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4260,
+    "mediaId" : 6915
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4488,
+    "mediaId" : 6916
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4489,
+    "mediaId" : 6917
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
+  "isMerchandise" : false,
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
+    "customer" : {
+      "brutto" : 12.2,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 0
+    },
+    "partner" : {
+      "brutto" : 12.2,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 0
+    }
+  },
+  "purchasePossible" : true,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.RREP.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "ringana-reusable-eye-patches",
+  "socialMedia" : {
+    "id" : 3171,
+    "imageId" : 6917,
+    "text" : "",
+    "title" : "product.RREP.socialMedia.title"
+  },
+  "soldOut" : false,
+  "supplementDescription" : "eye patches",
+  "tabs" : [ {
+    "description" : "product.RREP.tabs3709.description",
+    "id" : 3709,
+    "showPrintButton" : false,
+    "title" : "product.RREP.tabs3709.title"
+  }, {
+    "description" : "product.RREP.tabs3710.description",
+    "id" : 3710,
+    "showPrintButton" : false,
+    "title" : "product.RREP.tabs3710.title"
+  } ],
+  "teaserDots" : [ ],
+  "title" : "RINGANA reusable eye patches",
+  "unit" : "Stk.",
+  "unitContents" : "Stk.",
+  "unitContentsId" : 996,
+  "unitId" : 996,
+  "usp" : "product.RREP.usp",
+  "values" : [ ],
+  "variants" : [ ]
+}
