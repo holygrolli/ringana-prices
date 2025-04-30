@@ -36,8 +36,8 @@
   "contentsAmount" : "148,5",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -59,15 +59,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 83.4,
+        "brutto" : 66.7,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 58.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 46.72,
+        "bruttoWithoutDiscount" : 58.4,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-05-05T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -75,13 +75,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 35.4
+        "provisionPoints" : 25.49
       },
       "partner" : {
-        "brutto" : 58.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 46.72,
+        "bruttoWithoutDiscount" : 58.4,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-05-05T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -89,7 +89,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 35.4
+        "provisionPoints" : 25.49
       }
     },
     "purchasePossible" : true,
@@ -257,7 +257,7 @@
       "provisionPoints" : 94.8
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -276,7 +276,7 @@
     "text" : "product.RSP3.socialMedia.text",
     "title" : "product.RSP3.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "SPORT push",
   "tabs" : [ {
     "description" : "product.RSP3.tabs0.description",
@@ -343,16 +343,6 @@
     "name" : null,
     "size" : 270,
     "slug" : "ringana-sport-push-set",
-    "type" : 2,
-    "unit" : 1
-  }, {
-    "color" : null,
-    "id" : 19,
-    "language" : null,
-    "matchcode" : "T-RSP",
-    "name" : null,
-    "size" : 6,
-    "slug" : "",
     "type" : 2,
     "unit" : 1
   } ]
