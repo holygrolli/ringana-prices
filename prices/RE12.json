@@ -150,7 +150,7 @@
         "provisionPoints" : 28.08
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "ringana-sport-push",
     "title" : "SPORT push",
     "unitContents" : "g"

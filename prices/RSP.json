@@ -43,8 +43,8 @@
   "contentsAmount" : "49,5",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -267,7 +267,7 @@
       "provisionPoints" : 28.08
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -282,7 +282,7 @@
     "text" : "product.RSP.socialMedia.text",
     "title" : "product.RSP.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "SPORT push",
   "tabs" : [ {
     "description" : "product.RSP.tabs0.description",
