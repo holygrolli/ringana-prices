@@ -172,7 +172,7 @@
         "provisionPoints" : 12
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-repair-shampoo",
     "title" : "FRESH repair shampoo",
     "unitContents" : "ml"

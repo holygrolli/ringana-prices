@@ -62,8 +62,8 @@
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6320,
   "discountDate" : null,
@@ -280,7 +280,7 @@
       "provisionPoints" : 2
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -295,7 +295,7 @@
     "text" : "product.PBA.socialMedia.text",
     "title" : "product.PBA.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "sample",
   "tabs" : [ {
     "description" : "product.PBA.tabs0.description",

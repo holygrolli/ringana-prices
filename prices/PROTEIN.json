@@ -43,8 +43,8 @@
   "contentsAmount" : "616",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6388,
   "discountDate" : null,
@@ -135,15 +135,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1061.8,
+        "brutto" : 1327.2,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 52.56,
-        "bruttoWithoutDiscount" : 65.7,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-05-05T21:59:59Z",
+        "brutto" : 65.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -151,13 +151,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.08
+        "provisionPoints" : 39
       },
       "partner" : {
-        "brutto" : 52.56,
-        "bruttoWithoutDiscount" : 65.7,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-05-05T21:59:59Z",
+        "brutto" : 65.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -165,7 +165,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.08
+        "provisionPoints" : 39
       }
     },
     "purchasePossible" : false,
@@ -283,7 +283,7 @@
       "provisionPoints" : 33
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -298,7 +298,7 @@
     "text" : "product.PROTEIN.socialMedia.text",
     "title" : "product.PROTEIN.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "SPORT protein",
   "tabs" : [ {
     "description" : "product.PROTEIN.tabs0.description",

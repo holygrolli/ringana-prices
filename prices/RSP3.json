@@ -142,7 +142,7 @@
         "provisionPoints" : 33
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "sport-protein",
     "title" : "SPORT protein",
     "unitContents" : "g"
