@@ -22,8 +22,8 @@
   "contentsAmount" : "180",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -225,7 +225,7 @@
       "provisionPoints" : 63
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -252,7 +252,7 @@
     "text" : "product.BP-MEN-BSA.socialMedia.text",
     "title" : "product.BP-MEN-BSA.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "Skin care",
   "tabs" : [ {
     "description" : "product.BP-MEN-BSA.tabs0.description",
