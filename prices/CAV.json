@@ -203,7 +203,7 @@
         "provisionPoints" : 25.49
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "ringana-sport-boost",
     "title" : "SPORT boost",
     "unitContents" : "g"

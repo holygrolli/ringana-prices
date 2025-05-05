@@ -15,8 +15,8 @@
   "contentsAmount" : "35",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -174,7 +174,7 @@
     "caption" : "",
     "captionLink" : null,
     "id" : 48,
-    "mediaId" : 2324
+    "mediaId" : 7072
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -190,7 +190,7 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 21.5,
+      "brutto" : 22.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -201,10 +201,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 12.4
+      "provisionPoints" : 13.2
     },
     "partner" : {
-      "brutto" : 21.5,
+      "brutto" : 22.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -215,16 +215,16 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 12.4
+      "provisionPoints" : 13.2
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
     "amount" : 1,
     "freeOfCharge" : false,
-    "matchcode" : "TSR"
+    "matchcode" : "PRM"
   }, {
     "amount" : 1,
     "freeOfCharge" : false,
@@ -245,7 +245,7 @@
     "text" : "product.FSB-MEN.socialMedia.text",
     "title" : "product.FSB-MEN.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "SAMPLE BOX",
   "tabs" : [ {
     "description" : "product.FSB-MEN.tabs0.description",

@@ -19,8 +19,8 @@
   "contentsAmount" : "100",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -224,7 +224,7 @@
       "provisionPoints" : 3.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -239,7 +239,7 @@
     "text" : "product.BSR-LE-LS.socialMedia.text",
     "title" : "product.BSR-LE-LS.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "FRESH soap",
   "tabs" : [ {
     "description" : "product.BSR-LE-LS.tabs0.description",

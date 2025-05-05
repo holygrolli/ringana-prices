@@ -22,8 +22,8 @@
   "contentsAmount" : "180",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -181,7 +181,7 @@
     "caption" : "",
     "captionLink" : null,
     "id" : 6,
-    "mediaId" : 4994
+    "mediaId" : 7075
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -197,7 +197,7 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 121,
+      "brutto" : 135.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -208,10 +208,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 63
+      "provisionPoints" : 70.6
     },
     "partner" : {
-      "brutto" : 121,
+      "brutto" : 135.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -222,16 +222,16 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 63
+      "provisionPoints" : 70.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
     "amount" : 1,
     "freeOfCharge" : false,
-    "matchcode" : "BSR"
+    "matchcode" : "BRM"
   }, {
     "amount" : 1,
     "freeOfCharge" : false,
@@ -252,7 +252,7 @@
     "text" : "product.BP-MEN-BSA.socialMedia.text",
     "title" : "product.BP-MEN-BSA.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "Skin care",
   "tabs" : [ {
     "description" : "product.BP-MEN-BSA.tabs0.description",

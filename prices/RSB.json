@@ -36,8 +36,8 @@
   "contentsAmount" : "700",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6387,
   "discountDate" : null,
@@ -263,7 +263,7 @@
       "provisionPoints" : 25.49
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -278,7 +278,7 @@
     "text" : "product.RSB.socialMedia.text",
     "title" : "product.RSB.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "SPORT boost",
   "tabs" : [ {
     "description" : "product.RSB.tabs0.description",
