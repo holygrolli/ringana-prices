@@ -10,13 +10,27 @@
     "primary" : true,
     "slug" : "merchandise",
     "visible" : true
+  }, {
+    "id" : 87,
+    "infoColorNeeded" : false,
+    "name" : "category.category87.name",
+    "primary" : false,
+    "slug" : "sport-essentials",
+    "visible" : true
+  }, {
+    "id" : 14,
+    "infoColorNeeded" : false,
+    "name" : "category.category14.name",
+    "primary" : false,
+    "slug" : "sport",
+    "visible" : true
   } ],
   "contentBlock" : null,
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -38,15 +52,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 67.5,
+        "brutto" : 60.8,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 47.3,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 42.57,
+        "bruttoWithoutDiscount" : 47.3,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-05-08T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -54,13 +68,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 26.5
+        "provisionPoints" : 21.46
       },
       "partner" : {
-        "brutto" : 47.3,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 42.57,
+        "bruttoWithoutDiscount" : 47.3,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-05-08T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -68,10 +82,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 26.5
+        "provisionPoints" : 21.46
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "sport-endurance",
     "title" : "SPORT endurance",
     "unitContents" : "g"
@@ -88,15 +102,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 92.5,
+        "brutto" : 83.2,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 51.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 46.62,
+        "bruttoWithoutDiscount" : 51.8,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-05-08T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -104,13 +118,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29
+        "provisionPoints" : 23.49
       },
       "partner" : {
-        "brutto" : 51.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 46.62,
+        "bruttoWithoutDiscount" : 51.8,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-05-08T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -118,11 +132,11 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29
+        "provisionPoints" : 23.49
       }
     },
-    "purchasePossible" : false,
-    "slug" : "sport-protein-neu",
+    "purchasePossible" : true,
+    "slug" : "sport-protein",
     "title" : "SPORT protein",
     "unitContents" : "g"
   }, {
@@ -138,15 +152,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1021.6,
+        "brutto" : 919.4,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 51.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 46.71,
+        "bruttoWithoutDiscount" : 51.9,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-05-08T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -154,13 +168,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29.1
+        "provisionPoints" : 23.57
       },
       "partner" : {
-        "brutto" : 51.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 46.71,
+        "bruttoWithoutDiscount" : 51.9,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-05-08T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -168,11 +182,11 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29.1
+        "provisionPoints" : 23.57
       }
     },
-    "purchasePossible" : false,
-    "slug" : "sport-push-neu",
+    "purchasePossible" : true,
+    "slug" : "sport-push",
     "title" : "SPORT push",
     "unitContents" : "g"
   } ],
@@ -244,8 +258,8 @@
     "text" : "product.RSBO.socialMedia.text",
     "title" : "product.RSBO.socialMedia.title"
   },
-  "soldOut" : false,
-  "supplementDescription" : "sport",
+  "soldOut" : true,
+  "supplementDescription" : "bottle",
   "tabs" : [ {
     "description" : "product.RSBO.tabs4008.description",
     "id" : 4008,

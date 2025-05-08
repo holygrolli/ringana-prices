@@ -1,11 +1,8 @@
 {
-  "matchcode" : "CBI3",
-  "additionalUnitPrice" : {
-    "entity" : 180,
-    "type" : 1
-  },
+  "matchcode" : "FWCS",
+  "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ 149993, 148093, 150146 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
     "id" : 9,
     "infoColorNeeded" : false,
@@ -14,15 +11,22 @@
     "slug" : "offers",
     "visible" : true
   }, {
-    "id" : 99,
+    "id" : 2,
     "infoColorNeeded" : false,
-    "name" : "category.category99.name",
+    "name" : "category.category2.name",
     "primary" : false,
-    "slug" : "supplement-sets",
+    "slug" : "body",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "78,3",
+  "contentsAmount" : "700",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
@@ -31,82 +35,29 @@
   "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
-  "disruptor" : {
-    "mediaId" : 389,
-    "posterMediaId" : 392
-  },
+  "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "product.CBI3.firstHeadline",
-  "id" : 83,
+  "firstHeadline" : "",
+  "id" : 111,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : 26,
-      "type" : 2
-    },
-    "contentsAmount" : "520",
-    "currency" : "eur",
-    "description" : "pack cleansing",
-    "imageId" : 1146,
-    "matchcode" : "WPC",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 120.9,
-        "unit" : "g",
-        "unitId" : 812
-      },
-      "customer" : {
-        "brutto" : 62.91,
-        "bruttoWithoutDiscount" : 69.9,
-        "discountPercentage" : 10,
-        "discountUntil" : "2025-05-23T08:00:00Z",
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 31.91
-      },
-      "partner" : {
-        "brutto" : 62.91,
-        "bruttoWithoutDiscount" : 69.9,
-        "discountPercentage" : 10,
-        "discountUntil" : "2025-05-23T08:00:00Z",
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 31.91
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "pack-cleansing",
-    "title" : "FRESH pack cleansing",
-    "unitContents" : "g"
-  }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "360",
+    "contentsAmount" : "200",
     "currency" : "eur",
-    "description" : "RINGANAdea",
-    "imageId" : 240,
-    "matchcode" : "RD12",
+    "description" : "body milk",
+    "imageId" : 606,
+    "matchcode" : "BKM",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 173.3,
+        "brutto" : 170.5,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 62.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 34.11,
+        "bruttoWithoutDiscount" : 37.9,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-05-23T08:00:00Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -114,13 +65,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 34.3
+        "provisionPoints" : 17.09
       },
       "partner" : {
-        "brutto" : 62.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 34.11,
+        "bruttoWithoutDiscount" : 37.9,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-05-23T08:00:00Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -128,32 +79,76 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 34.3
+        "provisionPoints" : 17.09
       }
     },
     "purchasePossible" : true,
-    "slug" : "ringanadea",
-    "title" : "RINGANAdea",
+    "slug" : "fresh-body-milk",
+    "title" : "FRESH body milk",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : 60,
-      "type" : 1
-    },
-    "contentsAmount" : "50",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "BEYOND omega",
-    "imageId" : 3413,
-    "matchcode" : "OME-SG",
+    "description" : "hand balm",
+    "imageId" : 572,
+    "matchcode" : "BHB",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1772,
+        "brutto" : 196,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 24.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 13.7
+      },
+      "partner" : {
+        "brutto" : 24.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 13.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-hand-balm",
+    "title" : "FRESH hand balm",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "100",
+    "currency" : "eur",
+    "description" : "soapsoapsoap",
+    "imageId" : 546,
+    "matchcode" : "BSR",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 106,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 88.6,
+        "brutto" : 10.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -164,10 +159,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 49.6
+        "provisionPoints" : 5
       },
       "partner" : {
-        "brutto" : 88.6,
+        "brutto" : 10.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -178,53 +173,38 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 49.6
+        "provisionPoints" : 5
       }
     },
     "purchasePossible" : true,
-    "slug" : "beyond-omega",
-    "title" : "BEYOND omega",
+    "slug" : "fresh-soap",
+    "title" : "FRESH soap",
     "unitContents" : "g"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 205,
-    "mediaId" : 388
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 206,
-    "mediaId" : 390
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 207,
-    "mediaId" : 391
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 208,
-    "mediaId" : 2918
+    "id" : 302,
+    "mediaId" : 7105
   } ],
   "infoColor" : null,
-  "isFreshCosmeticsProduct" : false,
+  "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {
     "base" : {
-      "amount" : 1000,
-      "brutto" : 3293.7,
-      "unit" : "g",
-      "unitId" : 812
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
     },
     "customer" : {
-      "brutto" : 257.9,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 63.2,
+      "bruttoWithoutDiscount" : 79,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-05-08T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -232,13 +212,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 130.7
+      "provisionPoints" : 31.82
     },
     "partner" : {
-      "brutto" : 257.9,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 63.2,
+      "bruttoWithoutDiscount" : 79,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-05-08T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -246,96 +226,78 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 130.7
+      "provisionPoints" : 31.82
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
-    "amount" : 3,
+    "amount" : 1,
     "freeOfCharge" : false,
-    "matchcode" : "CBI"
+    "matchcode" : "STF"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "FHSV"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "BDB"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "BZO"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "FDO50"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : true,
+    "matchcode" : "RHT-L"
   } ],
-  "shortDescription" : "product.CBI3.shortDescription",
+  "shortDescription" : "product.FWCS.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "beyond-biotic-set",
+  "slug" : "fresh-wash-care-set",
   "socialMedia" : {
-    "id" : 83,
-    "imageId" : 388,
-    "text" : "product.CBI3.socialMedia.text",
-    "title" : "product.CBI3.socialMedia.title"
+    "id" : 111,
+    "imageId" : 7105,
+    "text" : "product.FWCS.socialMedia.text",
+    "title" : "product.FWCS.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "BEYOND biotic",
+  "supplementDescription" : "Wash care",
   "tabs" : [ {
-    "description" : "product.CBI3.tabs0.description",
-    "id" : 312,
+    "description" : "product.FWCS.tabs0.description",
+    "id" : 415,
     "showPrintButton" : false,
-    "title" : "product.CBI3.tabs0.title"
+    "title" : "product.FWCS.tabs0.title"
   }, {
-    "description" : "product.CBI3.tabs1.description",
-    "id" : 313,
+    "description" : "product.FWCS.tabs1.description",
+    "id" : 416,
     "showPrintButton" : true,
-    "title" : "product.CBI3.tabs1.title"
+    "title" : "product.FWCS.tabs1.title"
   }, {
-    "description" : "product.CBI3.tabs2.description",
-    "id" : 314,
+    "description" : "product.FWCS.tabs2.description",
+    "id" : 417,
     "showPrintButton" : false,
-    "title" : "product.CBI3.tabs2.title"
+    "title" : "product.FWCS.tabs2.title"
   }, {
-    "description" : "product.CBI3.tabs3.description",
-    "id" : 315,
+    "description" : "product.FWCS.tabs3.description",
+    "id" : 418,
     "showPrintButton" : false,
-    "title" : "product.CBI3.tabs3.title"
+    "title" : "product.FWCS.tabs3.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "BEYOND biotic, Set of 3",
+  "title" : "FRESH wash care set",
   "unit" : "Set",
-  "unitContents" : "g",
-  "unitContentsId" : 812,
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
   "unitId" : 43586,
-  "usp" : "product.CBI3.usp",
-  "values" : [ {
-    "iconMediaId" : 1084,
-    "name" : "value.value29.name"
-  }, {
-    "iconMediaId" : 1112,
-    "name" : "value.value57.name"
-  }, {
-    "iconMediaId" : 1070,
-    "name" : "value.value15.name"
-  }, {
-    "iconMediaId" : 1074,
-    "name" : "value.value19.name"
-  }, {
-    "iconMediaId" : 1083,
-    "name" : "value.value28.name"
-  }, {
-    "iconMediaId" : 1121,
-    "name" : "value.value66.name"
-  } ],
-  "variants" : [ {
-    "color" : null,
-    "id" : 138,
-    "language" : null,
-    "matchcode" : "CBI",
-    "name" : null,
-    "size" : 60,
-    "slug" : "beyond-biotic",
-    "type" : 2,
-    "unit" : 1
-  }, {
-    "color" : null,
-    "id" : 139,
-    "language" : null,
-    "matchcode" : "CBI3",
-    "name" : null,
-    "size" : 180,
-    "slug" : "beyond-biotic-set",
-    "type" : 2,
-    "unit" : 1
-  } ]
+  "usp" : "product.FWCS.usp",
+  "values" : [ ],
+  "variants" : [ ]
 }

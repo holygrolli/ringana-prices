@@ -1,105 +1,71 @@
 {
-  "matchcode" : "CCB",
+  "matchcode" : "SPR",
   "additionalUnitPrice" : {
-    "entity" : 90,
-    "type" : 1
+    "entity" : 14,
+    "type" : 2
   },
-  "awards" : [ ],
+  "awards" : [ {
+    "imageId" : 1048,
+    "link" : "https://www.koelnerliste.com/en/",
+    "name" : "Kölner Liste"
+  } ],
   "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 3,
+    "id" : 14,
     "infoColorNeeded" : false,
-    "name" : "category.category3.name",
+    "name" : "category.category14.name",
     "primary" : true,
-    "slug" : "caps",
+    "slug" : "sport",
     "visible" : true
   }, {
-    "id" : 18,
+    "id" : 87,
     "infoColorNeeded" : false,
-    "name" : "category.category18.name",
+    "name" : "category.category87.name",
     "primary" : false,
-    "slug" : "supplements",
+    "slug" : "sport-essentials",
     "visible" : true
   }, {
-    "id" : 74,
+    "id" : 73,
     "infoColorNeeded" : false,
-    "name" : "category.category74.name",
+    "name" : "category.category73.name",
     "primary" : false,
-    "slug" : "better-aging",
+    "slug" : "body-shape",
     "visible" : true
   }, {
-    "id" : 70,
+    "id" : 68,
     "infoColorNeeded" : false,
-    "name" : "category.category70.name",
+    "name" : "category.category68.name",
     "primary" : false,
-    "slug" : "mental-strength",
+    "slug" : "energy",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "50",
+  "contentsAmount" : "560",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : null,
+  "descriptionImageId" : 6388,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
-  "faqs" : [ ],
-  "firstHeadline" : "product.CCB.firstHeadline",
-  "id" : 89,
-  "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : 90,
-      "type" : 1
-    },
-    "contentsAmount" : "41,7",
-    "currency" : "eur",
-    "description" : "CAPS moodoo",
-    "imageId" : 1137,
-    "matchcode" : "CMO",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 1386,
-        "unit" : "g",
-        "unitId" : 812
-      },
-      "customer" : {
-        "brutto" : 57.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 33.1
-      },
-      "partner" : {
-        "brutto" : 57.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 33.1
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "caps-moodoo",
-    "title" : "CAPS moodoo",
-    "unitContents" : "g"
+  "faqs" : [ {
+    "answer" : "product.SPR.faqs0.answer",
+    "id" : 1473,
+    "question" : "product.SPR.faqs0.question"
   }, {
+    "answer" : "product.SPR.faqs1.answer",
+    "id" : 1474,
+    "question" : "product.SPR.faqs1.question"
+  }, {
+    "answer" : "product.SPR.faqs2.answer",
+    "id" : 1475,
+    "question" : "product.SPR.faqs2.question"
+  } ],
+  "firstHeadline" : "",
+  "id" : 3371,
+  "idealSupplements" : [ {
     "additionalUnitPrice" : null,
     "contentsAmount" : "360",
     "currency" : "eur",
@@ -148,26 +114,26 @@
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : {
-      "entity" : 60,
+      "entity" : 90,
       "type" : 1
     },
-    "contentsAmount" : "50",
+    "contentsAmount" : "50,8",
     "currency" : "eur",
-    "description" : "BEYOND omega",
-    "imageId" : 3413,
-    "matchcode" : "OME-SG",
+    "description" : "push",
+    "imageId" : 7007,
+    "matchcode" : "SPU",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1772,
+        "brutto" : 919.4,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 88.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 46.71,
+        "bruttoWithoutDiscount" : 51.9,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-05-08T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -175,13 +141,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 49.6
+        "provisionPoints" : 23.57
       },
       "partner" : {
-        "brutto" : 88.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 46.71,
+        "bruttoWithoutDiscount" : 51.9,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-05-08T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -189,48 +155,53 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 49.6
+        "provisionPoints" : 23.57
       }
     },
     "purchasePossible" : true,
-    "slug" : "beyond-omega",
-    "title" : "BEYOND omega",
+    "slug" : "sport-push",
+    "title" : "SPORT push",
     "unitContents" : "g"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 703,
-    "mediaId" : 1132
+    "id" : 4588,
+    "mediaId" : 7014
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 237,
-    "mediaId" : 1931
+    "id" : 4669,
+    "mediaId" : 7096
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 234,
-    "mediaId" : 1927
+    "id" : 4670,
+    "mediaId" : 7097
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4671,
+    "mediaId" : 7098
   } ],
-  "infoColor" : "#d48bc8",
+  "infoColor" : "#e8edef",
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "maxPerCart" : 100,
+  "maxPerCart" : 99999,
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 1104,
+      "brutto" : 83.2,
       "unit" : "g",
       "unitId" : 812
     },
     "customer" : {
-      "brutto" : 55.2,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 46.62,
+      "bruttoWithoutDiscount" : 51.8,
+      "discountPercentage" : 10,
+      "discountUntil" : "2025-05-08T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -238,13 +209,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 30.6
+      "provisionPoints" : 23.49
     },
     "partner" : {
-      "brutto" : 55.2,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 46.62,
+      "bruttoWithoutDiscount" : 51.8,
+      "discountPercentage" : 10,
+      "discountUntil" : "2025-05-08T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -252,46 +223,51 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 30.6
+      "provisionPoints" : 23.49
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
-  "shortDescription" : "product.CCB.shortDescription",
+  "shortDescription" : "product.SPR.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "caps-cerebro",
+  "slug" : "sport-protein",
   "socialMedia" : {
-    "id" : 90,
-    "imageId" : 1924,
-    "text" : "product.CCB.socialMedia.text",
-    "title" : "product.CCB.socialMedia.title"
+    "id" : 3370,
+    "imageId" : 7098,
+    "text" : "product.SPR.socialMedia.text",
+    "title" : "product.SPR.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "CAPS cerebro",
+  "supplementDescription" : "protein",
   "tabs" : [ {
-    "description" : "product.CCB.tabs0.description",
-    "id" : 340,
+    "description" : "product.SPR.tabs3977.description",
+    "id" : 3977,
     "showPrintButton" : false,
-    "title" : "product.CCB.tabs0.title"
+    "title" : "product.SPR.tabs3977.title"
   }, {
-    "description" : "product.CCB.tabs1.description",
-    "id" : 341,
+    "description" : "product.SPR.tabs3978.description",
+    "id" : 3978,
     "showPrintButton" : true,
-    "title" : "product.CCB.tabs1.title"
+    "title" : "product.SPR.tabs3978.title"
   }, {
-    "description" : "product.CCB.tabs2.description",
-    "id" : 343,
+    "description" : "product.SPR.tabs3979.description",
+    "id" : 3979,
     "showPrintButton" : false,
-    "title" : "product.CCB.tabs2.title"
+    "title" : "product.SPR.tabs3979.title"
   }, {
-    "description" : "product.CCB.tabs3.description",
-    "id" : 345,
+    "description" : "product.SPR.tabs3980.description",
+    "id" : 3980,
     "showPrintButton" : false,
-    "title" : "product.CCB.tabs3.title"
+    "title" : "product.SPR.tabs3980.title"
+  }, {
+    "description" : "product.SPR.tabs4069.description",
+    "id" : 4069,
+    "showPrintButton" : false,
+    "title" : "product.SPR.tabs4069.title"
   } ],
   "teaserDots" : [ {
     "backgroundColor" : "#000000",
@@ -299,54 +275,72 @@
     "fontSize" : 10,
     "id" : 3,
     "lineHeight" : 1.3,
-    "position" : "top-left",
+    "position" : "top-right",
     "text" : "New Formu-lation",
     "textColor" : "#ffffff"
   } ],
-  "title" : "CAPS cerebro",
+  "title" : "SPORT protein",
   "unit" : "Pck.",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43589,
-  "usp" : "product.CCB.usp",
+  "usp" : "product.SPR.usp",
   "values" : [ {
-    "iconMediaId" : 1075,
-    "name" : "value.value20.name"
+    "iconMediaId" : 7085,
+    "name" : "value.value199.name"
   }, {
-    "iconMediaId" : 1063,
-    "name" : "value.value8.name"
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
   }, {
-    "iconMediaId" : 1112,
-    "name" : "value.value57.name"
-  }, {
-    "iconMediaId" : 1061,
-    "name" : "value.value6.name"
+    "iconMediaId" : 1084,
+    "name" : "value.value29.name"
   }, {
     "iconMediaId" : 1080,
     "name" : "value.value25.name"
   }, {
-    "iconMediaId" : 1121,
-    "name" : "value.value66.name"
+    "iconMediaId" : 1077,
+    "name" : "value.value22.name"
+  }, {
+    "iconMediaId" : 1076,
+    "name" : "value.value21.name"
+  }, {
+    "iconMediaId" : 1072,
+    "name" : "value.value17.name"
+  }, {
+    "iconMediaId" : 1070,
+    "name" : "value.value15.name"
+  }, {
+    "iconMediaId" : 1064,
+    "name" : "value.value9.name"
+  }, {
+    "iconMediaId" : 1058,
+    "name" : "value.value3.name"
+  }, {
+    "iconMediaId" : 1112,
+    "name" : "value.value57.name"
+  }, {
+    "iconMediaId" : 1078,
+    "name" : "value.value23.name"
   } ],
   "variants" : [ {
     "color" : null,
-    "id" : 151,
+    "id" : 2183,
     "language" : null,
-    "matchcode" : "CCB",
+    "matchcode" : "SPR",
     "name" : null,
-    "size" : 90,
-    "slug" : "caps-cerebro",
+    "size" : 616,
+    "slug" : "sport-protein",
     "type" : 2,
-    "unit" : 1
+    "unit" : 2
   }, {
     "color" : null,
-    "id" : 153,
+    "id" : 2184,
     "language" : null,
-    "matchcode" : "CCB3",
+    "matchcode" : "SPR3",
     "name" : null,
-    "size" : 270,
-    "slug" : "caps-cerebro-set",
+    "size" : 1848,
+    "slug" : "sport-protein-set",
     "type" : 2,
-    "unit" : 1
+    "unit" : 2
   } ]
 }

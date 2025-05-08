@@ -1,0 +1,346 @@
+{
+  "matchcode" : "SEN",
+  "additionalUnitPrice" : {
+    "entity" : 14,
+    "type" : 2
+  },
+  "awards" : [ ],
+  "blogPostIds" : [ 44933 ],
+  "categories" : [ {
+    "id" : 14,
+    "infoColorNeeded" : false,
+    "name" : "category.category14.name",
+    "primary" : true,
+    "slug" : "sport",
+    "visible" : true
+  }, {
+    "id" : 87,
+    "infoColorNeeded" : false,
+    "name" : "category.category87.name",
+    "primary" : false,
+    "slug" : "sport-essentials",
+    "visible" : true
+  }, {
+    "id" : 68,
+    "infoColorNeeded" : false,
+    "name" : "category.category68.name",
+    "primary" : false,
+    "slug" : "energy",
+    "visible" : true
+  } ],
+  "contentBlock" : {
+    "buttonLink" : null,
+    "buttonText" : null,
+    "contentBlockItems" : [ {
+      "id" : 133,
+      "link" : null,
+      "text" : "product.SEN.contentBlockItem0.text"
+    }, {
+      "id" : 134,
+      "link" : null,
+      "text" : "product.SEN.contentBlockItem1.text"
+    }, {
+      "id" : 135,
+      "link" : null,
+      "text" : "product.SEN.contentBlockItem2.text"
+    } ],
+    "id" : 133,
+    "imageId" : 7106,
+    "imageLayoutLeft" : false,
+    "subtitle" : "product.SEN.contentBlock.subtitle",
+    "title" : "product.SEN.contentBlock.title"
+  },
+  "contentsAmount" : "700",
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : 7090,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ {
+    "answer" : "product.SEN.faqs0.answer",
+    "id" : 1407,
+    "question" : "product.SEN.faqs0.question"
+  }, {
+    "answer" : "product.SEN.faqs1.answer",
+    "id" : 1408,
+    "question" : "product.SEN.faqs1.question"
+  }, {
+    "answer" : "product.SEN.faqs2.answer",
+    "id" : 1409,
+    "question" : "product.SEN.faqs2.question"
+  }, {
+    "answer" : "product.SEN.faqs3.answer",
+    "id" : 1410,
+    "question" : "product.SEN.faqs3.question"
+  }, {
+    "answer" : "product.SEN.faqs4.answer",
+    "id" : 1539,
+    "question" : "product.SEN.faqs4.question"
+  } ],
+  "firstHeadline" : "product.SEN.firstHeadline",
+  "id" : 3336,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : 90,
+      "type" : 1
+    },
+    "contentsAmount" : "49,6",
+    "currency" : "eur",
+    "description" : "CAPS move",
+    "imageId" : 412,
+    "matchcode" : "CAV",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 727.4,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 36.08,
+        "bruttoWithoutDiscount" : 45.1,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-05-08T21:59:59Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 17.21
+      },
+      "partner" : {
+        "brutto" : 36.08,
+        "bruttoWithoutDiscount" : 45.1,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-05-08T21:59:59Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 17.21
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "caps-move",
+    "title" : "CAPS move",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 14,
+      "type" : 2
+    },
+    "contentsAmount" : "560",
+    "currency" : "eur",
+    "description" : "protein",
+    "imageId" : 7014,
+    "matchcode" : "SPR",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 83.2,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 46.62,
+        "bruttoWithoutDiscount" : 51.8,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-05-08T21:59:59Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 23.49
+      },
+      "partner" : {
+        "brutto" : 46.62,
+        "bruttoWithoutDiscount" : 51.8,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-05-08T21:59:59Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 23.49
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "sport-protein",
+    "title" : "SPORT protein",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4454,
+    "mediaId" : 6976
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4660,
+    "mediaId" : 7093
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4661,
+    "mediaId" : 7091
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4662,
+    "mediaId" : 7092
+  } ],
+  "infoColor" : "#e8edef",
+  "isFreshCosmeticsProduct" : false,
+  "isMerchandise" : false,
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 60.8,
+      "unit" : "g",
+      "unitId" : 812
+    },
+    "customer" : {
+      "brutto" : 42.57,
+      "bruttoWithoutDiscount" : 47.3,
+      "discountPercentage" : 10,
+      "discountUntil" : "2025-05-08T21:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 21.46
+    },
+    "partner" : {
+      "brutto" : 42.57,
+      "bruttoWithoutDiscount" : 47.3,
+      "discountPercentage" : 10,
+      "discountUntil" : "2025-05-08T21:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 21.46
+    }
+  },
+  "purchasePossible" : true,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.SEN.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "sport-endurance",
+  "socialMedia" : {
+    "id" : 3336,
+    "imageId" : 7092,
+    "text" : "product.SEN.socialMedia.text",
+    "title" : "product.SEN.socialMedia.title"
+  },
+  "soldOut" : false,
+  "supplementDescription" : "SPORT endurance",
+  "tabs" : [ {
+    "description" : "product.SEN.tabs3874.description",
+    "id" : 3874,
+    "showPrintButton" : false,
+    "title" : "product.SEN.tabs3874.title"
+  }, {
+    "description" : "product.SEN.tabs3875.description",
+    "id" : 3875,
+    "showPrintButton" : true,
+    "title" : "product.SEN.tabs3875.title"
+  }, {
+    "description" : "product.SEN.tabs3876.description",
+    "id" : 3876,
+    "showPrintButton" : false,
+    "title" : "product.SEN.tabs3876.title"
+  }, {
+    "description" : "product.SEN.tabs3877.description",
+    "id" : 3877,
+    "showPrintButton" : false,
+    "title" : "product.SEN.tabs3877.title"
+  }, {
+    "description" : "product.SEN.tabs4068.description",
+    "id" : 4068,
+    "showPrintButton" : false,
+    "title" : "product.SEN.tabs4068.title"
+  } ],
+  "teaserDots" : [ ],
+  "title" : "SPORT endurance",
+  "unit" : "Pck.",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 43589,
+  "usp" : "product.SEN.usp",
+  "values" : [ {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  }, {
+    "iconMediaId" : 1095,
+    "name" : "value.value40.name"
+  }, {
+    "iconMediaId" : 1080,
+    "name" : "value.value25.name"
+  }, {
+    "iconMediaId" : 1079,
+    "name" : "value.value24.name"
+  }, {
+    "iconMediaId" : 1077,
+    "name" : "value.value22.name"
+  }, {
+    "iconMediaId" : 1076,
+    "name" : "value.value21.name"
+  }, {
+    "iconMediaId" : 1072,
+    "name" : "value.value17.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 2179,
+    "language" : null,
+    "matchcode" : "SEN",
+    "name" : null,
+    "size" : 700,
+    "slug" : "sport-endurance",
+    "type" : 2,
+    "unit" : 2
+  }, {
+    "color" : null,
+    "id" : 2180,
+    "language" : null,
+    "matchcode" : "SEN3",
+    "name" : null,
+    "size" : 2100,
+    "slug" : "sport-endurance-set",
+    "type" : 2,
+    "unit" : 2
+  } ]
+}

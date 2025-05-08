@@ -1,5 +1,5 @@
 {
-  "matchcode" : "RSP",
+  "matchcode" : "SPU",
   "additionalUnitPrice" : {
     "entity" : 90,
     "type" : 1
@@ -9,7 +9,7 @@
     "link" : "https://www.koelnerliste.com/en/",
     "name" : "Kölner Liste"
   } ],
-  "blogPostIds" : [ 173675, 158403, 44933 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
     "id" : 14,
     "infoColorNeeded" : false,
@@ -25,138 +25,43 @@
     "slug" : "sport-essentials",
     "visible" : true
   }, {
-    "id" : 70,
-    "infoColorNeeded" : false,
-    "name" : "category.category70.name",
-    "primary" : false,
-    "slug" : "mental-strength",
-    "visible" : true
-  }, {
     "id" : 68,
     "infoColorNeeded" : false,
     "name" : "category.category68.name",
     "primary" : false,
     "slug" : "energy",
     "visible" : true
+  }, {
+    "id" : 70,
+    "infoColorNeeded" : false,
+    "name" : "category.category70.name",
+    "primary" : false,
+    "slug" : "mental-strength",
+    "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "49,5",
+  "contentsAmount" : "50,8",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : null,
+  "descriptionImageId" : 478,
   "discountDate" : null,
   "discountPercentage" : null,
-  "disruptor" : {
-    "mediaId" : 476,
-    "posterMediaId" : 477
-  },
-  "faqs" : [ ],
-  "firstHeadline" : "",
-  "id" : 100,
+  "disruptor" : null,
+  "faqs" : [ {
+    "answer" : "product.SPU.faqs0.answer",
+    "id" : 1541,
+    "question" : "product.SPU.faqs0.question"
+  }, {
+    "answer" : "product.SPU.faqs1.answer",
+    "id" : 1542,
+    "question" : "product.SPU.faqs1.question"
+  } ],
+  "firstHeadline" : "product.SPU.firstHeadline",
+  "id" : 3369,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : 14,
-      "type" : 2
-    },
-    "contentsAmount" : "700",
-    "currency" : "eur",
-    "description" : "SPORT boost",
-    "imageId" : 482,
-    "matchcode" : "RSB",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 83.4,
-        "unit" : "g",
-        "unitId" : 812
-      },
-      "customer" : {
-        "brutto" : 58.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 35.4
-      },
-      "partner" : {
-        "brutto" : 58.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 35.4
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "ringana-sport-boost",
-    "title" : "SPORT boost",
-    "unitContents" : "g"
-  }, {
-    "additionalUnitPrice" : {
-      "entity" : 14,
-      "type" : 2
-    },
-    "contentsAmount" : "616",
-    "currency" : "eur",
-    "description" : "SPORT protein",
-    "imageId" : 1858,
-    "matchcode" : "PROTEIN",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 94.8,
-        "unit" : "g",
-        "unitId" : 812
-      },
-      "customer" : {
-        "brutto" : 58.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 33
-      },
-      "partner" : {
-        "brutto" : 58.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 33
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "sport-protein",
-    "title" : "SPORT protein",
-    "unitContents" : "g"
-  }, {
     "additionalUnitPrice" : null,
     "contentsAmount" : "360",
     "currency" : "eur",
@@ -166,15 +71,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 138.3,
+        "brutto" : 124.5,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 49.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 44.82,
+        "bruttoWithoutDiscount" : 49.8,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-05-23T08:00:00Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -182,13 +87,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 27
+        "provisionPoints" : 21.87
       },
       "partner" : {
-        "brutto" : 49.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 44.82,
+        "bruttoWithoutDiscount" : 49.8,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-05-23T08:00:00Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -196,53 +101,153 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 27
+        "provisionPoints" : 21.87
       }
     },
     "purchasePossible" : true,
     "slug" : "ringanachi",
     "title" : "RINGANAchi",
     "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 14,
+      "type" : 2
+    },
+    "contentsAmount" : "560",
+    "currency" : "eur",
+    "description" : "protein",
+    "imageId" : 7014,
+    "matchcode" : "SPR",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 83.2,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 46.62,
+        "bruttoWithoutDiscount" : 51.8,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-05-08T21:59:59Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 23.49
+      },
+      "partner" : {
+        "brutto" : 46.62,
+        "bruttoWithoutDiscount" : 51.8,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-05-08T21:59:59Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 23.49
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "sport-protein",
+    "title" : "SPORT protein",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 14,
+      "type" : 2
+    },
+    "contentsAmount" : "700",
+    "currency" : "eur",
+    "description" : "SPORT endurance",
+    "imageId" : 6976,
+    "matchcode" : "SEN",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 60.8,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 42.57,
+        "bruttoWithoutDiscount" : 47.3,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-05-08T21:59:59Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 21.46
+      },
+      "partner" : {
+        "brutto" : 42.57,
+        "bruttoWithoutDiscount" : 47.3,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-05-08T21:59:59Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 21.46
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "sport-endurance",
+    "title" : "SPORT endurance",
+    "unitContents" : "g"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 260,
-    "mediaId" : 475
+    "id" : 4586,
+    "mediaId" : 7007
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 261,
-    "mediaId" : 478
+    "id" : 4675,
+    "mediaId" : 7088
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 262,
-    "mediaId" : 479
+    "id" : 4676,
+    "mediaId" : 7094
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 263,
-    "mediaId" : 5258
+    "id" : 4677,
+    "mediaId" : 7095
   } ],
   "infoColor" : "#e8edef",
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "maxPerCart" : 100,
+  "maxPerCart" : 99999,
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 1327.2,
+      "brutto" : 919.4,
       "unit" : "g",
       "unitId" : 812
     },
     "customer" : {
-      "brutto" : 65.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 46.71,
+      "bruttoWithoutDiscount" : 51.9,
+      "discountPercentage" : 10,
+      "discountUntil" : "2025-05-08T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -250,13 +255,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 39
+      "provisionPoints" : 23.57
     },
     "partner" : {
-      "brutto" : 65.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 46.71,
+      "bruttoWithoutDiscount" : 51.9,
+      "discountPercentage" : 10,
+      "discountUntil" : "2025-05-08T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -264,55 +269,75 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 39
+      "provisionPoints" : 23.57
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
-  "shortDescription" : "product.RSP.shortDescription",
+  "shortDescription" : "product.SPU.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "ringana-sport-push",
+  "slug" : "sport-push",
   "socialMedia" : {
-    "id" : 101,
-    "imageId" : 5258,
-    "text" : "product.RSP.socialMedia.text",
-    "title" : "product.RSP.socialMedia.title"
+    "id" : 3369,
+    "imageId" : 7095,
+    "text" : "product.SPU.socialMedia.text",
+    "title" : "product.SPU.socialMedia.title"
   },
-  "soldOut" : true,
-  "supplementDescription" : "SPORT push",
+  "soldOut" : false,
+  "supplementDescription" : "push",
   "tabs" : [ {
-    "description" : "product.RSP.tabs0.description",
-    "id" : 376,
+    "description" : "product.SPU.tabs3973.description",
+    "id" : 3973,
     "showPrintButton" : false,
-    "title" : "product.RSP.tabs0.title"
+    "title" : "product.SPU.tabs3973.title"
   }, {
-    "description" : "product.RSP.tabs1.description",
-    "id" : 377,
+    "description" : "product.SPU.tabs3974.description",
+    "id" : 3974,
     "showPrintButton" : true,
-    "title" : "product.RSP.tabs1.title"
+    "title" : "product.SPU.tabs3974.title"
   }, {
-    "description" : "product.RSP.tabs2.description",
-    "id" : 378,
+    "description" : "product.SPU.tabs3975.description",
+    "id" : 3975,
     "showPrintButton" : false,
-    "title" : "product.RSP.tabs2.title"
+    "title" : "product.SPU.tabs3975.title"
   }, {
-    "description" : "product.RSP.tabs3.description",
-    "id" : 379,
+    "description" : "product.SPU.tabs3976.description",
+    "id" : 3976,
     "showPrintButton" : false,
-    "title" : "product.RSP.tabs3.title"
+    "title" : "product.SPU.tabs3976.title"
+  }, {
+    "description" : "product.SPU.tabs4067.description",
+    "id" : 4067,
+    "showPrintButton" : false,
+    "title" : "product.SPU.tabs4067.title"
   } ],
-  "teaserDots" : [ ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 10,
+    "id" : 3,
+    "lineHeight" : 1.3,
+    "position" : "top-right",
+    "text" : "New Formu-lation",
+    "textColor" : "#ffffff"
+  } ],
   "title" : "SPORT push",
   "unit" : "Pck.",
   "unitContents" : "g",
   "unitContentsId" : 812,
   "unitId" : 43589,
-  "usp" : "product.RSP.usp",
+  "usp" : "product.SPU.usp",
   "values" : [ {
+    "iconMediaId" : 7086,
+    "name" : "value.value200.name"
+  }, {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  }, {
     "iconMediaId" : 1075,
     "name" : "value.value20.name"
   }, {
@@ -322,9 +347,6 @@
     "iconMediaId" : 1065,
     "name" : "value.value10.name"
   }, {
-    "iconMediaId" : 1061,
-    "name" : "value.value6.name"
-  }, {
     "iconMediaId" : 1080,
     "name" : "value.value25.name"
   }, {
@@ -333,22 +355,22 @@
   } ],
   "variants" : [ {
     "color" : null,
-    "id" : 170,
+    "id" : 2212,
     "language" : null,
-    "matchcode" : "RSP",
+    "matchcode" : "SPU",
     "name" : null,
     "size" : 90,
-    "slug" : "ringana-sport-push",
+    "slug" : "sport-push",
     "type" : 2,
     "unit" : 1
   }, {
     "color" : null,
-    "id" : 171,
+    "id" : 2213,
     "language" : null,
-    "matchcode" : "RSP3",
+    "matchcode" : "SPU3",
     "name" : null,
     "size" : 270,
-    "slug" : "ringana-sport-push-set",
+    "slug" : "sport-push-set",
     "type" : 2,
     "unit" : 1
   } ]
