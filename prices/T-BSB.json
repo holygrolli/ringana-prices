@@ -38,13 +38,6 @@
     "slug" : "suncare",
     "visible" : true
   }, {
-    "id" : 298,
-    "infoColorNeeded" : false,
-    "name" : "category.category298.name",
-    "primary" : false,
-    "slug" : "chasing-the-sun",
-    "visible" : false
-  }, {
     "id" : 17,
     "infoColorNeeded" : false,
     "name" : "category.category17.name",

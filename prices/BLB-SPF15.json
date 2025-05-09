@@ -38,13 +38,6 @@
     "slug" : "offers",
     "visible" : true
   }, {
-    "id" : 298,
-    "infoColorNeeded" : false,
-    "name" : "category.category298.name",
-    "primary" : false,
-    "slug" : "chasing-the-sun",
-    "visible" : false
-  }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",

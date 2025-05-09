@@ -38,13 +38,6 @@
     "slug" : "fresh",
     "visible" : true
   }, {
-    "id" : 298,
-    "infoColorNeeded" : false,
-    "name" : "category.category298.name",
-    "primary" : false,
-    "slug" : "chasing-the-sun",
-    "visible" : false
-  }, {
     "id" : 204,
     "infoColorNeeded" : false,
     "name" : "category.category204.name",

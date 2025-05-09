@@ -157,56 +157,6 @@
     "slug" : "beyond-omega",
     "title" : "BEYOND omega",
     "unitContents" : "g"
-  }, {
-    "additionalUnitPrice" : {
-      "entity" : 14,
-      "type" : 2
-    },
-    "contentsAmount" : "700",
-    "currency" : "eur",
-    "description" : "SPORT boost",
-    "imageId" : 482,
-    "matchcode" : "RSB",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 83.4,
-        "unit" : "g",
-        "unitId" : 812
-      },
-      "customer" : {
-        "brutto" : 58.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 35.4
-      },
-      "partner" : {
-        "brutto" : 58.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 35.4
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "ringana-sport-boost",
-    "title" : "SPORT boost",
-    "unitContents" : "g"
   } ],
   "imageGallery" : [ {
     "caption" : "",
@@ -238,15 +188,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 727.4,
+      "brutto" : 909.2,
       "unit" : "g",
       "unitId" : 812
     },
     "customer" : {
-      "brutto" : 36.08,
-      "bruttoWithoutDiscount" : 45.1,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-05-08T21:59:59Z",
+      "brutto" : 45.1,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -254,13 +204,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 17.21
+      "provisionPoints" : 23.9
     },
     "partner" : {
-      "brutto" : 36.08,
-      "bruttoWithoutDiscount" : 45.1,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-05-08T21:59:59Z",
+      "brutto" : 45.1,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -268,7 +218,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 17.21
+      "provisionPoints" : 23.9
     }
   },
   "purchasePossible" : true,
