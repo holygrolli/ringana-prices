@@ -157,7 +157,7 @@
         "provisionPoints" : 16.5
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-after-sun",
     "title" : "FRESH after sun & tan booster",
     "unitContents" : "ml"
