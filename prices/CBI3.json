@@ -5,7 +5,7 @@
     "type" : 1
   },
   "awards" : [ ],
-  "blogPostIds" : [ 149993, 148093, 150146 ],
+  "blogPostIds" : [ 149993, 150146 ],
   "categories" : [ {
     "id" : 9,
     "infoColorNeeded" : false,
@@ -251,7 +251,7 @@
   },
   "purchasePossible" : true,
   "searchable" : true,
-  "secondHeadline" : "",
+  "secondHeadline" : "product.CBI3.secondHeadline",
   "setContents" : [ {
     "amount" : 3,
     "freeOfCharge" : false,
