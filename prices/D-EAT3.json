@@ -25,8 +25,8 @@
   "contentsAmount" : "2100",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6314,
   "discountDate" : null,
@@ -233,7 +233,7 @@
       "provisionPoints" : 87.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -252,7 +252,7 @@
     "text" : "product.D-EAT3.socialMedia.text",
     "title" : "product.D-EAT3.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "COMPLETE d-eat",
   "tabs" : [ {
     "description" : "product.D-EAT3.tabs0.description",
