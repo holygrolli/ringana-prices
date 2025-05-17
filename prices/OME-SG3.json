@@ -132,7 +132,7 @@
         "provisionPoints" : 25.92
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "complete-d-eat",
     "title" : "COMPLETE d-eat",
     "unitContents" : "g"

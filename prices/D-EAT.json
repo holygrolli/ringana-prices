@@ -25,8 +25,8 @@
   "contentsAmount" : "700",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6314,
   "discountDate" : null,
@@ -230,7 +230,7 @@
       "provisionPoints" : 25.92
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -245,7 +245,7 @@
     "text" : "product.D-EAT.socialMedia.text",
     "title" : "product.D-EAT.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "MEAL REPLACEMENT",
   "tabs" : [ {
     "description" : "product.D-EAT.tabs0.description",
