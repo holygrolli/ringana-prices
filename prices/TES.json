@@ -100,8 +100,8 @@
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6644,
   "discountDate" : null,
@@ -313,7 +313,7 @@
       "provisionPoints" : 27.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -328,7 +328,7 @@
     "text" : "product.TES.socialMedia.text",
     "title" : "product.TES.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "brightening",
   "tabs" : [ {
     "description" : "product.TES.tabs3812.description",
