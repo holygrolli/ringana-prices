@@ -339,5 +339,25 @@
     "iconMediaId" : 1089,
     "name" : "value.value34.name"
   } ],
-  "variants" : [ ]
+  "variants" : [ {
+    "color" : null,
+    "id" : 1456,
+    "language" : null,
+    "matchcode" : "FLL",
+    "name" : null,
+    "size" : 125,
+    "slug" : "fresh-light-legs",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 1457,
+    "language" : null,
+    "matchcode" : "FLL50",
+    "name" : null,
+    "size" : 50,
+    "slug" : "fresh-light-legs-pocket",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }
