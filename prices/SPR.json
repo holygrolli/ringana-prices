@@ -295,9 +295,6 @@
     "iconMediaId" : 1084,
     "name" : "value.value29.name"
   }, {
-    "iconMediaId" : 1080,
-    "name" : "value.value25.name"
-  }, {
     "iconMediaId" : 1077,
     "name" : "value.value22.name"
   }, {
@@ -306,18 +303,6 @@
   }, {
     "iconMediaId" : 1072,
     "name" : "value.value17.name"
-  }, {
-    "iconMediaId" : 1070,
-    "name" : "value.value15.name"
-  }, {
-    "iconMediaId" : 1064,
-    "name" : "value.value9.name"
-  }, {
-    "iconMediaId" : 1058,
-    "name" : "value.value3.name"
-  }, {
-    "iconMediaId" : 1078,
-    "name" : "value.value23.name"
   } ],
   "variants" : [ {
     "color" : null,

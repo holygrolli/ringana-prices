@@ -228,8 +228,8 @@
   "unitId" : 43586,
   "usp" : "product.SPR3.usp",
   "values" : [ {
-    "iconMediaId" : 1078,
-    "name" : "value.value23.name"
+    "iconMediaId" : 1084,
+    "name" : "value.value29.name"
   }, {
     "iconMediaId" : 7085,
     "name" : "value.value199.name"
@@ -245,15 +245,6 @@
   }, {
     "iconMediaId" : 1072,
     "name" : "value.value17.name"
-  }, {
-    "iconMediaId" : 1070,
-    "name" : "value.value15.name"
-  }, {
-    "iconMediaId" : 1064,
-    "name" : "value.value9.name"
-  }, {
-    "iconMediaId" : 1058,
-    "name" : "value.value3.name"
   } ],
   "variants" : [ {
     "color" : null,
