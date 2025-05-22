@@ -1,30 +1,64 @@
 {
-  "matchcode" : "R-SB",
-  "additionalUnitPrice" : null,
+  "matchcode" : "D-EAT3",
+  "additionalUnitPrice" : {
+    "entity" : 42,
+    "type" : 2
+  },
   "awards" : [ ],
-  "blogPostIds" : [ 146360, 168257, 87603 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 16,
+    "id" : 9,
     "infoColorNeeded" : false,
-    "name" : "category.category16.name",
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  }, {
+    "id" : 4,
+    "infoColorNeeded" : false,
+    "name" : "category.category4.name",
     "primary" : false,
-    "slug" : "merchandise",
+    "slug" : "complete",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "1",
+  "contentsAmount" : "2100",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : null,
+  "descriptionImageId" : 6314,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
-  "faqs" : [ ],
-  "firstHeadline" : "",
-  "id" : 49,
+  "faqs" : [ {
+    "answer" : "product.D-EAT3.faqs0.answer",
+    "id" : 1605,
+    "question" : "product.D-EAT3.faqs0.question"
+  }, {
+    "answer" : "product.D-EAT3.faqs1.answer",
+    "id" : 1606,
+    "question" : "product.D-EAT3.faqs1.question"
+  }, {
+    "answer" : "product.D-EAT3.faqs2.answer",
+    "id" : 1607,
+    "question" : "product.D-EAT3.faqs2.question"
+  }, {
+    "answer" : "product.D-EAT3.faqs3.answer",
+    "id" : 1608,
+    "question" : "product.D-EAT3.faqs3.question"
+  }, {
+    "answer" : "product.D-EAT3.faqs4.answer",
+    "id" : 1609,
+    "question" : "product.D-EAT3.faqs4.question"
+  }, {
+    "answer" : "product.D-EAT3.faqs5.answer",
+    "id" : 1610,
+    "question" : "product.D-EAT3.faqs5.question"
+  } ],
+  "firstHeadline" : "product.D-EAT3.firstHeadline",
+  "id" : 52,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
     "contentsAmount" : "360",
@@ -74,23 +108,23 @@
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "360",
+    "contentsAmount" : "1",
     "currency" : "eur",
-    "description" : "RINGANAchi",
-    "imageId" : 252,
-    "matchcode" : "RE12",
+    "description" : "",
+    "imageId" : 220,
+    "matchcode" : "RSBUDDY",
     "priceInformation" : {
       "base" : {
-        "amount" : 1000,
-        "brutto" : 124.5,
-        "unit" : "ml",
-        "unitId" : 827
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
       },
       "customer" : {
-        "brutto" : 44.82,
-        "bruttoWithoutDiscount" : 49.8,
-        "discountPercentage" : 10,
-        "discountUntil" : "2025-05-23T08:00:00Z",
+        "brutto" : 18.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -98,13 +132,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 21.87
+        "provisionPoints" : 0
       },
       "partner" : {
-        "brutto" : 44.82,
-        "bruttoWithoutDiscount" : 49.8,
-        "discountPercentage" : 10,
-        "discountUntil" : "2025-05-23T08:00:00Z",
+        "brutto" : 18.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -112,29 +146,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 21.87
+        "provisionPoints" : 0
       }
     },
     "purchasePossible" : true,
-    "slug" : "ringanachi",
-    "title" : "RINGANAchi",
-    "unitContents" : "ml"
+    "slug" : "ringana-shaker-buddy",
+    "title" : "RINGANA shaker buddy",
+    "unitContents" : "Stk."
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "360",
+    "contentsAmount" : "1",
     "currency" : "eur",
-    "description" : "RINGANAisi",
-    "imageId" : 263,
-    "matchcode" : "RI12",
+    "description" : "SHAKER BALL",
+    "imageId" : 1729,
+    "matchcode" : "RSHBB",
     "priceInformation" : {
       "base" : {
-        "amount" : 1000,
-        "brutto" : 154.7,
-        "unit" : "ml",
-        "unitId" : 827
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
       },
       "customer" : {
-        "brutto" : 55.7,
+        "brutto" : 2.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -145,10 +179,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32
+        "provisionPoints" : 0
       },
       "partner" : {
-        "brutto" : 55.7,
+        "brutto" : 2.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -159,19 +193,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32
+        "provisionPoints" : 0
       }
     },
     "purchasePossible" : true,
-    "slug" : "ringanaisi",
-    "title" : "RINGANAisi",
-    "unitContents" : "ml"
+    "slug" : "shaker-ball",
+    "title" : "RINGANA Shaker Ball",
+    "unitContents" : "Stk."
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 99,
-    "mediaId" : 223
+    "id" : 101,
+    "mediaId" : 226
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 102,
+    "mediaId" : 7237
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 104,
+    "mediaId" : 7238
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -181,13 +225,13 @@
   "press" : null,
   "priceInformation" : {
     "base" : {
-      "amount" : null,
-      "brutto" : null,
-      "unit" : null,
-      "unitId" : null
+      "amount" : 1000,
+      "brutto" : 84.4,
+      "unit" : "g",
+      "unitId" : 812
     },
     "customer" : {
-      "brutto" : 31.6,
+      "brutto" : 177.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -198,10 +242,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 87.5
     },
     "partner" : {
-      "brutto" : 31.6,
+      "brutto" : 177.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -212,49 +256,96 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 87.5
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
-  "setContents" : [ ],
-  "shortDescription" : "product.R-SB.shortDescription",
+  "setContents" : [ {
+    "amount" : 3,
+    "freeOfCharge" : false,
+    "matchcode" : "D-EAT"
+  } ],
+  "shortDescription" : "product.D-EAT3.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "ringana-soulbottle",
+  "slug" : "complete-d-eat-set",
   "socialMedia" : {
-    "id" : 51,
-    "imageId" : 221,
-    "text" : "product.R-SB.socialMedia.text",
-    "title" : "product.R-SB.socialMedia.title"
+    "id" : 52,
+    "imageId" : 225,
+    "text" : "product.D-EAT3.socialMedia.text",
+    "title" : "product.D-EAT3.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "SOULBOTTLE",
+  "supplementDescription" : "COMPLETE d-eat",
   "tabs" : [ {
-    "description" : "product.R-SB.tabs0.description",
-    "id" : 185,
+    "description" : "product.D-EAT3.tabs0.description",
+    "id" : 192,
     "showPrintButton" : false,
-    "title" : "product.R-SB.tabs0.title"
+    "title" : "product.D-EAT3.tabs0.title"
   }, {
-    "description" : "product.R-SB.tabs1.description",
-    "id" : 187,
-    "showPrintButton" : false,
-    "title" : "product.R-SB.tabs1.title"
+    "description" : "product.D-EAT3.tabs1.description",
+    "id" : 193,
+    "showPrintButton" : true,
+    "title" : "product.D-EAT3.tabs1.title"
   }, {
-    "description" : "product.R-SB.tabs2.description",
-    "id" : 188,
+    "description" : "product.D-EAT3.tabs2.description",
+    "id" : 194,
     "showPrintButton" : false,
-    "title" : "product.R-SB.tabs2.title"
+    "title" : "product.D-EAT3.tabs2.title"
+  }, {
+    "description" : "product.D-EAT3.tabs3.description",
+    "id" : 195,
+    "showPrintButton" : false,
+    "title" : "product.D-EAT3.tabs3.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "RINGANA Soulbottle",
-  "unit" : "Stk.",
-  "unitContents" : "Stk.",
-  "unitContentsId" : 996,
-  "unitId" : 996,
-  "usp" : "product.R-SB.usp",
-  "values" : [ ],
-  "variants" : [ ]
+  "title" : "COMPLETE d-eat, Set of 3",
+  "unit" : "Set",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 43586,
+  "usp" : "product.D-EAT3.usp",
+  "values" : [ {
+    "iconMediaId" : 1086,
+    "name" : "value.value31.name"
+  }, {
+    "iconMediaId" : 1108,
+    "name" : "value.value53.name"
+  }, {
+    "iconMediaId" : 1080,
+    "name" : "value.value25.name"
+  }, {
+    "iconMediaId" : 1078,
+    "name" : "value.value23.name"
+  }, {
+    "iconMediaId" : 1112,
+    "name" : "value.value57.name"
+  }, {
+    "iconMediaId" : 1095,
+    "name" : "value.value40.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 76,
+    "language" : null,
+    "matchcode" : "D-EAT",
+    "name" : null,
+    "size" : 700,
+    "slug" : "complete-d-eat",
+    "type" : 2,
+    "unit" : 2
+  }, {
+    "color" : null,
+    "id" : 77,
+    "language" : null,
+    "matchcode" : "D-EAT3",
+    "name" : null,
+    "size" : 2100,
+    "slug" : "complete-d-eat-set",
+    "type" : 2,
+    "unit" : 2
+  } ]
 }
