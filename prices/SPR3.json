@@ -33,7 +33,7 @@
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "1848",
+  "contentsAmount" : "1680",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
@@ -136,7 +136,7 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 75.7,
+      "brutto" : 83.2,
       "unit" : "g",
       "unitId" : 812
     },
