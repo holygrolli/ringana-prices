@@ -10,6 +10,13 @@
     "primary" : true,
     "slug" : "samples",
     "visible" : true
+  }, {
+    "id" : 331,
+    "infoColorNeeded" : false,
+    "name" : "category.category331.name",
+    "primary" : false,
+    "slug" : "men",
+    "visible" : false
   } ],
   "contentBlock" : null,
   "contentsAmount" : "35",
