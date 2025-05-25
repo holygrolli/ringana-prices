@@ -15,8 +15,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -215,7 +215,7 @@
       "provisionPoints" : 46.08
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -250,7 +250,7 @@
     "text" : "product.FSCS.socialMedia.text",
     "title" : "product.FSCS.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "FRESH suncare set",
   "tabs" : [ {
     "description" : "product.FSCS.tabs0.description",
