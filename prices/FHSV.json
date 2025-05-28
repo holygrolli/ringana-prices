@@ -35,20 +35,6 @@
     "slug" : "hair",
     "visible" : true
   }, {
-    "id" : 17,
-    "infoColorNeeded" : false,
-    "name" : "category.category17.name",
-    "primary" : false,
-    "slug" : "fresh",
-    "visible" : true
-  }, {
-    "id" : 78,
-    "infoColorNeeded" : false,
-    "name" : "category.category78.name",
-    "primary" : false,
-    "slug" : "cleansing",
-    "visible" : true
-  }, {
     "id" : 94,
     "infoColorNeeded" : false,
     "name" : "category.category94.name",
@@ -68,6 +54,27 @@
     "name" : "category.category79.name",
     "primary" : false,
     "slug" : "microbiome-friendly",
+    "visible" : true
+  }, {
+    "id" : 364,
+    "infoColorNeeded" : false,
+    "name" : "category.category364.name",
+    "primary" : false,
+    "slug" : "certified-care",
+    "visible" : false
+  }, {
+    "id" : 78,
+    "infoColorNeeded" : false,
+    "name" : "category.category78.name",
+    "primary" : false,
+    "slug" : "cleansing",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
     "visible" : true
   } ],
   "contentBlock" : null,

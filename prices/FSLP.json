@@ -42,6 +42,13 @@
     "slug" : "fresh",
     "visible" : true
   }, {
+    "id" : 364,
+    "infoColorNeeded" : false,
+    "name" : "category.category364.name",
+    "primary" : false,
+    "slug" : "certified-care",
+    "visible" : false
+  }, {
     "id" : 94,
     "infoColorNeeded" : false,
     "name" : "category.category94.name",
