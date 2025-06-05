@@ -221,12 +221,12 @@
     "caption" : "product.PKM.imageGallery72.caption",
     "captionLink" : "corporate/products/care-facts",
     "id" : 72,
-    "mediaId" : 200
+    "mediaId" : 7501
   }, {
     "caption" : "product.PKM.imageGallery1319.caption",
     "captionLink" : "corporate/products/care-facts",
     "id" : 1319,
-    "mediaId" : 628
+    "mediaId" : 7478
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
