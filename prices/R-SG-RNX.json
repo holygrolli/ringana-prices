@@ -68,7 +68,7 @@
         "provisionPoints" : 15.55
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-after-sun",
     "title" : "FRESH after sun & tan booster",
     "unitContents" : "ml"
@@ -192,10 +192,10 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 99,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 79.2,
+      "bruttoWithoutDiscount" : 99,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-06-05T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -206,10 +206,10 @@
       "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 99,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 79.2,
+      "bruttoWithoutDiscount" : 99,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-06-05T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,

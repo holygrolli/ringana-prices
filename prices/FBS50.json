@@ -1,76 +1,18 @@
 {
-  "matchcode" : "SSF",
+  "matchcode" : "FBS50",
   "additionalUnitPrice" : null,
   "awards" : [ {
-    "imageId" : 2222,
-    "link" : null,
-    "name" : "UVB-protection"
-  }, {
-    "imageId" : 2223,
-    "link" : null,
-    "name" : "UVA-protection"
-  }, {
-    "imageId" : 1046,
-    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
-    "name" : "COSMOS Organic"
-  }, {
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
-  }, {
-    "imageId" : 1044,
-    "link" : "https://skin.li/92pfv74u",
-    "name" : "cosmeticsanalysis.com - FRESH sunscreen face"
   } ],
-  "blogPostIds" : [ 190187 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 7,
+    "id" : 2,
     "infoColorNeeded" : false,
-    "name" : "category.category7.name",
+    "name" : "category.category2.name",
     "primary" : true,
-    "slug" : "face",
-    "visible" : true
-  }, {
-    "id" : 17,
-    "infoColorNeeded" : false,
-    "name" : "category.category17.name",
-    "primary" : false,
-    "slug" : "fresh",
-    "visible" : true
-  }, {
-    "id" : 204,
-    "infoColorNeeded" : false,
-    "name" : "category.category204.name",
-    "primary" : false,
-    "slug" : "step-6-protecting",
-    "visible" : true
-  }, {
-    "id" : 92,
-    "infoColorNeeded" : false,
-    "name" : "category.category92.name",
-    "primary" : false,
-    "slug" : "facial-care",
-    "visible" : true
-  }, {
-    "id" : 91,
-    "infoColorNeeded" : false,
-    "name" : "category.category91.name",
-    "primary" : false,
-    "slug" : "suncare",
-    "visible" : true
-  }, {
-    "id" : 80,
-    "infoColorNeeded" : false,
-    "name" : "category.category80.name",
-    "primary" : false,
-    "slug" : "anti-pollution",
-    "visible" : true
-  }, {
-    "id" : 77,
-    "infoColorNeeded" : false,
-    "name" : "category.category77.name",
-    "primary" : false,
-    "slug" : "hydrating",
+    "slug" : "body",
     "visible" : true
   } ],
   "contentBlock" : null,
@@ -80,25 +22,25 @@
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : 6544,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ {
-    "answer" : "product.SSF.faqs0.answer",
-    "id" : 187,
-    "question" : "product.SSF.faqs0.question"
+    "answer" : "product.FBS50.faqs0.answer",
+    "id" : 219,
+    "question" : "product.FBS50.faqs0.question"
   }, {
-    "answer" : "product.SSF.faqs1.answer",
-    "id" : 1275,
-    "question" : "product.SSF.faqs1.question"
+    "answer" : "product.FBS50.faqs2.answer",
+    "id" : 221,
+    "question" : "product.FBS50.faqs2.question"
   }, {
-    "answer" : "product.SSF.faqs2.answer",
-    "id" : 1276,
-    "question" : "product.SSF.faqs2.question"
+    "answer" : "product.FBS50.faqs2.answer",
+    "id" : 1572,
+    "question" : "product.FBS50.faqs2.question"
   } ],
-  "firstHeadline" : "product.SSF.firstHeadline",
-  "id" : 132,
+  "firstHeadline" : "",
+  "id" : 681,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
     "contentsAmount" : "200",
@@ -150,21 +92,21 @@
     "additionalUnitPrice" : null,
     "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "after sun",
-    "imageId" : 7475,
-    "matchcode" : "SBA",
+    "description" : "light legs",
+    "imageId" : 587,
+    "matchcode" : "FLL",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 241.2,
+        "brutto" : 228.8,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 30.15,
-        "bruttoWithoutDiscount" : 33.5,
-        "discountPercentage" : 10,
-        "discountUntil" : "2025-06-05T21:59:59Z",
+        "brutto" : 28.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -172,13 +114,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 15.55
+        "provisionPoints" : 17
       },
       "partner" : {
-        "brutto" : 30.15,
-        "bruttoWithoutDiscount" : 33.5,
-        "discountPercentage" : 10,
-        "discountUntil" : "2025-06-05T21:59:59Z",
+        "brutto" : 28.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -186,32 +128,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 15.55
+        "provisionPoints" : 17
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-after-sun",
-    "title" : "FRESH after sun & tan booster",
+    "slug" : "fresh-light-legs",
+    "title" : "FRESH light legs",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : 90,
-      "type" : 1
-    },
-    "contentsAmount" : "42,8",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "50",
     "currency" : "eur",
-    "description" : "CAPS protect",
-    "imageId" : 1124,
-    "matchcode" : "CSV",
+    "description" : "sunscreen face",
+    "imageId" : 6545,
+    "matchcode" : "SSF",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1485.9,
-        "unit" : "g",
-        "unitId" : 812
+        "brutto" : 676,
+        "unit" : "ml",
+        "unitId" : 827
       },
       "customer" : {
-        "brutto" : 63.6,
+        "brutto" : 33.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -222,10 +161,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 36.8
+        "provisionPoints" : 19.5
       },
       "partner" : {
-        "brutto" : 63.6,
+        "brutto" : 33.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -236,39 +175,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 36.8
+        "provisionPoints" : 19.5
       }
     },
     "purchasePossible" : true,
-    "slug" : "caps-protect",
-    "title" : "CAPS protect",
-    "unitContents" : "g"
+    "slug" : "fresh-sunscreen-face",
+    "title" : "FRESH sunscreen face",
+    "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 395,
-    "mediaId" : 6545
-  }, {
-    "caption" : "product.SSF.imageGallery3.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 396,
-    "mediaId" : 6546
+    "id" : 1172,
+    "mediaId" : 1530
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 393,
-    "mediaId" : 6547
+    "id" : 5214,
+    "mediaId" : 7512
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 394,
-    "mediaId" : 6548
-  }, {
-    "caption" : "product.SSF.imageGallery4.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 397,
-    "mediaId" : 6549
+    "id" : 1173,
+    "mediaId" : 7484
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
@@ -279,15 +208,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 676,
+      "brutto" : 178.2,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 33.8,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 8.91,
+      "bruttoWithoutDiscount" : 9.9,
+      "discountPercentage" : 10,
+      "discountUntil" : "2025-06-05T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -295,13 +224,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 19.5
+      "provisionPoints" : 4.29
     },
     "partner" : {
-      "brutto" : 33.8,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 8.91,
+      "bruttoWithoutDiscount" : 9.9,
+      "discountPercentage" : 10,
+      "discountUntil" : "2025-06-05T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -309,77 +238,75 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 19.5
+      "provisionPoints" : 4.29
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
-  "shortDescription" : "product.SSF.shortDescription",
+  "shortDescription" : "product.FBS50.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "fresh-sunscreen-face",
+  "slug" : "fresh-breeze",
   "socialMedia" : {
-    "id" : 132,
-    "imageId" : 6545,
-    "text" : "product.SSF.socialMedia.text",
-    "title" : "product.SSF.socialMedia.title"
+    "id" : 681,
+    "imageId" : null,
+    "text" : "",
+    "title" : ""
   },
   "soldOut" : false,
-  "supplementDescription" : "sunscreen face",
+  "supplementDescription" : "FRESH breeze",
   "tabs" : [ {
-    "description" : "product.SSF.tabs0.description",
-    "id" : 507,
+    "description" : "product.FBS50.tabs0.description",
+    "id" : 1174,
     "showPrintButton" : false,
-    "title" : "product.SSF.tabs0.title"
+    "title" : "product.FBS50.tabs0.title"
   }, {
-    "description" : "product.SSF.tabs1.description",
-    "id" : 508,
-    "showPrintButton" : true,
-    "title" : "product.SSF.tabs1.title"
-  }, {
-    "description" : "product.SSF.tabs2.description",
-    "id" : 509,
+    "description" : "product.FBS50.tabs1.description",
+    "id" : 1175,
     "showPrintButton" : false,
-    "title" : "product.SSF.tabs2.title"
+    "title" : "product.FBS50.tabs1.title"
   }, {
-    "description" : "product.SSF.tabs3.description",
-    "id" : 510,
+    "description" : "product.FBS50.tabs2.description",
+    "id" : 1176,
     "showPrintButton" : false,
-    "title" : "product.SSF.tabs3.title"
+    "title" : "product.FBS50.tabs2.title"
   }, {
-    "description" : "product.SSF.tabs3907.description",
-    "id" : 3907,
+    "description" : "product.FBS50.tabs3.description",
+    "id" : 1177,
     "showPrintButton" : false,
-    "title" : "product.SSF.tabs3907.title"
+    "title" : "product.FBS50.tabs3.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "FRESH sunscreen face",
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 9,
+    "id" : 4,
+    "lineHeight" : 1.4,
+    "position" : "top-right",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH breeze",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "product.SSF.usp",
+  "usp" : "product.FBS50.usp",
   "values" : [ {
-    "iconMediaId" : 1104,
-    "name" : "value.value49.name"
-  }, {
-    "iconMediaId" : 1062,
-    "name" : "value.value7.name"
-  }, {
-    "iconMediaId" : 1090,
-    "name" : "value.value35.name"
-  }, {
-    "iconMediaId" : 1061,
-    "name" : "value.value6.name"
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
   }, {
     "iconMediaId" : 1089,
     "name" : "value.value34.name"
   }, {
-    "iconMediaId" : 1096,
-    "name" : "value.value41.name"
+    "iconMediaId" : 1067,
+    "name" : "value.value12.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
   } ],
   "variants" : [ ]
 }
