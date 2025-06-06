@@ -56,13 +56,6 @@
     "slug" : "microbiome-friendly",
     "visible" : true
   }, {
-    "id" : 364,
-    "infoColorNeeded" : false,
-    "name" : "category.category364.name",
-    "primary" : false,
-    "slug" : "certified-care",
-    "visible" : false
-  }, {
     "id" : 78,
     "infoColorNeeded" : false,
     "name" : "category.category78.name",
