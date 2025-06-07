@@ -217,7 +217,7 @@
         "provisionPoints" : 28.8
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-tinted-moisturiser-spf15",
     "title" : "FRESH tinted moisturiser SPF 15",
     "unitContents" : "ml"
