@@ -172,7 +172,7 @@
         "provisionPoints" : 23.8
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-illuminating-enzyme-mask",
     "title" : "FRESH illuminating enzyme mask",
     "unitContents" : "ml"
