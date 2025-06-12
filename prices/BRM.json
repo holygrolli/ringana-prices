@@ -14,7 +14,7 @@
     "link" : "https://skin.li/01085bbb",
     "name" : "cosmeticsanalysis.com - FRESH cleanser"
   } ],
-  "blogPostIds" : [ 178302, 81288, 195735 ],
+  "blogPostIds" : [ 81288, 195735 ],
   "categories" : [ {
     "id" : 7,
     "infoColorNeeded" : false,
@@ -321,7 +321,7 @@
   "slug" : "fresh-cleanser",
   "socialMedia" : {
     "id" : 156,
-    "imageId" : 749,
+    "imageId" : 750,
     "text" : "product.BRM.socialMedia.text",
     "title" : "product.BRM.socialMedia.title"
   },
