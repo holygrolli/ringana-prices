@@ -72,18 +72,22 @@
     "buttonLink" : null,
     "buttonText" : null,
     "contentBlockItems" : [ {
+      "description" : null,
       "id" : 34,
       "link" : null,
       "text" : "product.RAG.contentBlockItem0.text"
     }, {
+      "description" : null,
       "id" : 35,
       "link" : null,
       "text" : "product.RAG.contentBlockItem1.text"
     }, {
+      "description" : null,
       "id" : 36,
       "link" : null,
       "text" : "product.RAG.contentBlockItem2.text"
     }, {
+      "description" : null,
       "id" : 37,
       "link" : null,
       "text" : "product.RAG.contentBlockItem3.text"

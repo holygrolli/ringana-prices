@@ -65,14 +65,17 @@
     "buttonLink" : null,
     "buttonText" : null,
     "contentBlockItems" : [ {
+      "description" : null,
       "id" : 67,
       "link" : null,
       "text" : "product.RAE.contentBlockItem0.text"
     }, {
+      "description" : null,
       "id" : 68,
       "link" : null,
       "text" : "product.RAE.contentBlockItem1.text"
     }, {
+      "description" : null,
       "id" : 69,
       "link" : null,
       "text" : "product.RAE.contentBlockItem2.text"

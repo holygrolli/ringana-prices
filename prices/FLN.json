@@ -65,18 +65,22 @@
     "buttonLink" : null,
     "buttonText" : null,
     "contentBlockItems" : [ {
+      "description" : null,
       "id" : 38,
       "link" : null,
       "text" : "product.FLN.contentBlockItem0.text"
     }, {
+      "description" : null,
       "id" : 39,
       "link" : null,
       "text" : "product.FLN.contentBlockItem1.text"
     }, {
+      "description" : null,
       "id" : 40,
       "link" : null,
       "text" : "product.FLN.contentBlockItem2.text"
     }, {
+      "description" : null,
       "id" : 41,
       "link" : null,
       "text" : "product.FLN.contentBlockItem3.text"
