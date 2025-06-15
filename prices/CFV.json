@@ -135,7 +135,7 @@
         "provisionPoints" : 28.8
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-tinted-moisturiser",
     "title" : "FRESH tinted moisturiser",
     "unitContents" : "ml"
