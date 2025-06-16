@@ -32,14 +32,17 @@
     "buttonLink" : null,
     "buttonText" : null,
     "contentBlockItems" : [ {
+      "description" : null,
       "id" : 133,
       "link" : null,
       "text" : "product.SEN.contentBlockItem0.text"
     }, {
+      "description" : null,
       "id" : 134,
       "link" : null,
       "text" : "product.SEN.contentBlockItem1.text"
     }, {
+      "description" : null,
       "id" : 135,
       "link" : null,
       "text" : "product.SEN.contentBlockItem2.text"

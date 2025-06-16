@@ -101,7 +101,31 @@
     "slug" : "fresh",
     "visible" : true
   } ],
-  "contentBlock" : null,
+  "contentBlock" : {
+    "buttonLink" : "product.BTF-N2.contentBlock.buttonLink",
+    "buttonText" : "product.BTF-N2.contentBlock.buttonText",
+    "contentBlockItems" : [ {
+      "description" : "product.BTF-N2.contentBlockItem0.description",
+      "id" : 202,
+      "link" : null,
+      "text" : "product.BTF-N2.contentBlockItem0.text"
+    }, {
+      "description" : "product.BTF-N2.contentBlockItem1.description",
+      "id" : 203,
+      "link" : null,
+      "text" : "product.BTF-N2.contentBlockItem1.text"
+    }, {
+      "description" : "product.BTF-N2.contentBlockItem2.description",
+      "id" : 204,
+      "link" : null,
+      "text" : "product.BTF-N2.contentBlockItem2.text"
+    } ],
+    "id" : 200,
+    "imageId" : 7605,
+    "imageLayoutLeft" : false,
+    "subtitle" : null,
+    "title" : "product.BTF-N2.contentBlock.title"
+  },
   "contentsAmount" : "30",
   "countryIso" : "DE",
   "currency" : "eur",
@@ -125,13 +149,13 @@
     "id" : 1649,
     "question" : "product.BTF-N2.faqs2.question"
   }, {
-    "answer" : "product.BTF-N2.faqs3.answer",
-    "id" : 1650,
-    "question" : "product.BTF-N2.faqs3.question"
-  }, {
     "answer" : "product.BTF-N2.faqs4.answer",
     "id" : 1651,
     "question" : "product.BTF-N2.faqs4.question"
+  }, {
+    "answer" : "product.BTF-N2.faqs3.answer",
+    "id" : 1650,
+    "question" : "product.BTF-N2.faqs3.question"
   }, {
     "answer" : "product.BTF-N2.faqs5.answer",
     "id" : 1652,
@@ -296,6 +320,11 @@
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
     "id" : 4960,
     "mediaId" : 7439
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 5412,
+    "mediaId" : 7604
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,

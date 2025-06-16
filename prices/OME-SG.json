@@ -32,26 +32,32 @@
     "buttonLink" : "product.OME-SG.contentBlock.buttonLink",
     "buttonText" : "product.OME-SG.contentBlock.buttonText",
     "contentBlockItems" : [ {
+      "description" : null,
       "id" : 1,
       "link" : "",
       "text" : "product.OME-SG.contentBlockItem0.text"
     }, {
+      "description" : null,
       "id" : 2,
       "link" : "",
       "text" : "product.OME-SG.contentBlockItem1.text"
     }, {
+      "description" : null,
       "id" : 3,
       "link" : "",
       "text" : "product.OME-SG.contentBlockItem2.text"
     }, {
+      "description" : null,
       "id" : 4,
       "link" : "",
       "text" : "product.OME-SG.contentBlockItem3.text"
     }, {
+      "description" : null,
       "id" : 5,
       "link" : "",
       "text" : "product.OME-SG.contentBlockItem4.text"
     }, {
+      "description" : null,
       "id" : 6,
       "link" : "",
       "text" : "product.OME-SG.contentBlockItem5.text"

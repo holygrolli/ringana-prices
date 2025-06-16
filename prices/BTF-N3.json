@@ -101,7 +101,31 @@
     "slug" : "hydrating",
     "visible" : true
   } ],
-  "contentBlock" : null,
+  "contentBlock" : {
+    "buttonLink" : "product.BTF-N3.contentBlock.buttonLink",
+    "buttonText" : "product.BTF-N3.contentBlock.buttonText",
+    "contentBlockItems" : [ {
+      "description" : "product.BTF-N3.contentBlockItem0.description",
+      "id" : 205,
+      "link" : null,
+      "text" : "product.BTF-N3.contentBlockItem0.text"
+    }, {
+      "description" : "product.BTF-N3.contentBlockItem1.description",
+      "id" : 206,
+      "link" : null,
+      "text" : "product.BTF-N3.contentBlockItem1.text"
+    }, {
+      "description" : "product.BTF-N3.contentBlockItem2.description",
+      "id" : 207,
+      "link" : null,
+      "text" : "product.BTF-N3.contentBlockItem2.text"
+    } ],
+    "id" : 201,
+    "imageId" : 7605,
+    "imageLayoutLeft" : false,
+    "subtitle" : null,
+    "title" : "product.BTF-N3.contentBlock.title"
+  },
   "contentsAmount" : "30",
   "countryIso" : "DE",
   "currency" : "eur",
@@ -296,6 +320,11 @@
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
     "id" : 4965,
     "mediaId" : 7442
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 5413,
+    "mediaId" : 7604
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,

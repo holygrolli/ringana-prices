@@ -101,7 +101,31 @@
     "slug" : "combination-skin",
     "visible" : true
   } ],
-  "contentBlock" : null,
+  "contentBlock" : {
+    "buttonLink" : "product.BTF-N1.contentBlock.buttonLink",
+    "buttonText" : "product.BTF-N1.contentBlock.buttonText",
+    "contentBlockItems" : [ {
+      "description" : "product.BTF-N1.contentBlockItem0.description",
+      "id" : 199,
+      "link" : null,
+      "text" : "product.BTF-N1.contentBlockItem0.text"
+    }, {
+      "description" : "product.BTF-N1.contentBlockItem1.description",
+      "id" : 200,
+      "link" : null,
+      "text" : "product.BTF-N1.contentBlockItem1.text"
+    }, {
+      "description" : "product.BTF-N1.contentBlockItem2.description",
+      "id" : 201,
+      "link" : null,
+      "text" : "product.BTF-N1.contentBlockItem2.text"
+    } ],
+    "id" : 199,
+    "imageId" : 7605,
+    "imageLayoutLeft" : false,
+    "subtitle" : null,
+    "title" : "product.BTF-N1.contentBlock.title"
+  },
   "contentsAmount" : "30",
   "countryIso" : "DE",
   "currency" : "eur",
@@ -121,6 +145,10 @@
     "id" : 1642,
     "question" : "product.BTF-N1.faqs1.question"
   }, {
+    "answer" : "product.BTF-N1.faqs4.answer",
+    "id" : 1645,
+    "question" : "product.BTF-N1.faqs4.question"
+  }, {
     "answer" : "product.BTF-N1.faqs2.answer",
     "id" : 1643,
     "question" : "product.BTF-N1.faqs2.question"
@@ -128,10 +156,6 @@
     "answer" : "product.BTF-N1.faqs3.answer",
     "id" : 1644,
     "question" : "product.BTF-N1.faqs3.question"
-  }, {
-    "answer" : "product.BTF-N1.faqs4.answer",
-    "id" : 1645,
-    "question" : "product.BTF-N1.faqs4.question"
   }, {
     "answer" : "product.BTF-N1.faqs5.answer",
     "id" : 1646,
@@ -296,6 +320,11 @@
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
     "id" : 4955,
     "mediaId" : 7436
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 5411,
+    "mediaId" : 7606
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
