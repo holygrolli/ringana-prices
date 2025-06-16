@@ -1,20 +1,28 @@
 {
-  "matchcode" : "BGL",
+  "matchcode" : "BTF-N2",
   "additionalUnitPrice" : null,
   "awards" : [ {
-    "imageId" : 1046,
-    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
-    "name" : "COSMOS Organic"
+    "imageId" : 2,
+    "link" : "https://skin.li/qefxtz7a",
+    "name" : "cosmeticanalysis.com - FRESH tinted moisturiser SPF30"
+  }, {
+    "imageId" : 2222,
+    "link" : null,
+    "name" : "UVB-protection"
+  }, {
+    "imageId" : 2223,
+    "link" : null,
+    "name" : "UVA-protection"
+  }, {
+    "imageId" : 1045,
+    "link" : "https://www.cosmos-standard.org/",
+    "name" : "COSMOS Natural"
   }, {
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
-  }, {
-    "imageId" : 1044,
-    "link" : "https://skin.li/507de9c1",
-    "name" : "cosmeticsanalysis.com - FRESH tonic calm"
   } ],
-  "blogPostIds" : [ 195735 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
     "id" : 7,
     "infoColorNeeded" : false,
@@ -23,25 +31,18 @@
     "slug" : "face",
     "visible" : true
   }, {
-    "id" : 17,
-    "infoColorNeeded" : false,
-    "name" : "category.category17.name",
-    "primary" : false,
-    "slug" : "fresh",
-    "visible" : true
-  }, {
-    "id" : 201,
-    "infoColorNeeded" : false,
-    "name" : "category.category201.name",
-    "primary" : false,
-    "slug" : "step-3-toning",
-    "visible" : true
-  }, {
     "id" : 86,
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
     "slug" : "combination-skin",
+    "visible" : true
+  }, {
+    "id" : 203,
+    "infoColorNeeded" : false,
+    "name" : "category.category203.name",
+    "primary" : false,
+    "slug" : "step-5-moisturising",
     "visible" : true
   }, {
     "id" : 92,
@@ -58,11 +59,18 @@
     "slug" : "sensitive-reddened-skin",
     "visible" : true
   }, {
-    "id" : 82,
+    "id" : 84,
     "infoColorNeeded" : false,
-    "name" : "category.category82.name",
+    "name" : "category.category84.name",
     "primary" : false,
-    "slug" : "dry-skin",
+    "slug" : "impure-skin",
+    "visible" : true
+  }, {
+    "id" : 83,
+    "infoColorNeeded" : false,
+    "name" : "category.category83.name",
+    "primary" : false,
+    "slug" : "oily-skin",
     "visible" : true
   }, {
     "id" : 81,
@@ -72,43 +80,81 @@
     "slug" : "mature-skin",
     "visible" : true
   }, {
+    "id" : 80,
+    "infoColorNeeded" : false,
+    "name" : "category.category80.name",
+    "primary" : false,
+    "slug" : "anti-pollution",
+    "visible" : true
+  }, {
     "id" : 77,
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
     "slug" : "hydrating",
     "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "125",
+  "contentsAmount" : "30",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : 6379,
+  "descriptionImageId" : 7448,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
-  "faqs" : [ ],
-  "firstHeadline" : "",
-  "id" : 129,
+  "faqs" : [ {
+    "answer" : "product.BTF-N2.faqs0.answer",
+    "id" : 1647,
+    "question" : "product.BTF-N2.faqs0.question"
+  }, {
+    "answer" : "product.BTF-N2.faqs1.answer",
+    "id" : 1648,
+    "question" : "product.BTF-N2.faqs1.question"
+  }, {
+    "answer" : "product.BTF-N2.faqs2.answer",
+    "id" : 1649,
+    "question" : "product.BTF-N2.faqs2.question"
+  }, {
+    "answer" : "product.BTF-N2.faqs3.answer",
+    "id" : 1650,
+    "question" : "product.BTF-N2.faqs3.question"
+  }, {
+    "answer" : "product.BTF-N2.faqs4.answer",
+    "id" : 1651,
+    "question" : "product.BTF-N2.faqs4.question"
+  }, {
+    "answer" : "product.BTF-N2.faqs5.answer",
+    "id" : 1652,
+    "question" : "product.BTF-N2.faqs5.question"
+  } ],
+  "firstHeadline" : "product.BTF-N2.firstHeadline",
+  "id" : 3635,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "125",
+    "contentsAmount" : "50",
     "currency" : "eur",
-    "description" : "cleanser",
-    "imageId" : 750,
-    "matchcode" : "BRM",
+    "description" : "enzyme mask",
+    "imageId" : 672,
+    "matchcode" : "FEP",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 212,
+        "brutto" : 784,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 26.5,
+        "brutto" : 39.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -119,10 +165,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 14.4
+        "provisionPoints" : 23.8
       },
       "partner" : {
-        "brutto" : 26.5,
+        "brutto" : 39.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -133,29 +179,76 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 14.4
+        "provisionPoints" : 23.8
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-cleanser",
-    "title" : "FRESH cleanser",
+    "slug" : "fresh-illuminating-enzyme-mask",
+    "title" : "FRESH illuminating enzyme mask",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "5",
+    "currency" : "eur",
+    "description" : "lip balm",
+    "imageId" : 1159,
+    "matchcode" : "BLB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2420,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 12.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 7
+      },
+      "partner" : {
+        "brutto" : 12.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-lip-balm",
+    "title" : "FRESH lip balm",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
     "contentsAmount" : "15",
     "currency" : "eur",
-    "description" : "ADDS repair",
-    "imageId" : 745,
-    "matchcode" : "RAR",
+    "description" : "eye serum",
+    "imageId" : 707,
+    "matchcode" : "BAS",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 3246.6,
+        "brutto" : 3233.3,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 48.7,
+        "brutto" : 48.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -166,10 +259,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29.6
+        "provisionPoints" : 27.5
       },
       "partner" : {
-        "brutto" : 48.7,
+        "brutto" : 48.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -180,86 +273,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29.6
+        "provisionPoints" : 27.5
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-adds-repair",
-    "title" : "ADDS repair",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "30",
-    "currency" : "eur",
-    "description" : "hydro serum",
-    "imageId" : 1123,
-    "matchcode" : "BHS",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 1749,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 52.47,
-        "bruttoWithoutDiscount" : 58.3,
-        "discountPercentage" : 10,
-        "discountUntil" : "2025-06-20T08:00:00Z",
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 26.57
-      },
-      "partner" : {
-        "brutto" : 52.47,
-        "bruttoWithoutDiscount" : 58.3,
-        "discountPercentage" : 10,
-        "discountUntil" : "2025-06-20T08:00:00Z",
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 26.57
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-hydro-serum",
-    "title" : "FRESH hydro serum",
+    "slug" : "fresh-eye-serum",
+    "title" : "FRESH eye serum",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 378,
-    "mediaId" : 630
+    "id" : 4956,
+    "mediaId" : 7438
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 379,
-    "mediaId" : 631
+    "id" : 5150,
+    "mediaId" : 7440
   }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 380,
-    "mediaId" : 632
-  }, {
-    "caption" : "product.BGL.imageGallery3.caption",
+    "caption" : "product.BTF-N2.imageGallery4960.caption",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 381,
-    "mediaId" : 633
-  }, {
-    "caption" : "product.BGL.imageGallery4.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 382,
-    "mediaId" : 634
+    "id" : 4960,
+    "mediaId" : 7439
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
@@ -270,12 +306,12 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 209.6,
+      "brutto" : 1656.6,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 26.2,
+      "brutto" : 49.7,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -286,10 +322,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 15.2
+      "provisionPoints" : 28.8
     },
     "partner" : {
-      "brutto" : 26.2,
+      "brutto" : 49.7,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -300,88 +336,125 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 15.2
+      "provisionPoints" : 28.8
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
-  "secondHeadline" : "",
+  "secondHeadline" : "product.BTF-N2.secondHeadline",
   "setContents" : [ ],
-  "shortDescription" : "product.BGL.shortDescription",
+  "shortDescription" : "product.BTF-N2.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "fresh-tonic-calm",
+  "slug" : "fresh-tinted-moisturiser-n2",
   "socialMedia" : {
-    "id" : 129,
-    "imageId" : 630,
-    "text" : "product.BGL.socialMedia.text",
-    "title" : "product.BGL.socialMedia.title"
+    "id" : 3635,
+    "imageId" : 7438,
+    "text" : "product.BTF-N2.socialMedia.text",
+    "title" : "product.BTF-N2.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "tonic calm",
+  "supplementDescription" : "NUANCE2",
   "tabs" : [ {
-    "description" : "product.BGL.tabs0.description",
-    "id" : 495,
+    "description" : "product.BTF-N2.tabs4246.description",
+    "id" : 4246,
     "showPrintButton" : false,
-    "title" : "product.BGL.tabs0.title"
+    "title" : "product.BTF-N2.tabs4246.title"
   }, {
-    "description" : "product.BGL.tabs1.description",
-    "id" : 497,
+    "description" : "product.BTF-N2.tabs4247.description",
+    "id" : 4247,
     "showPrintButton" : true,
-    "title" : "product.BGL.tabs1.title"
+    "title" : "product.BTF-N2.tabs4247.title"
   }, {
-    "description" : "product.BGL.tabs2.description",
-    "id" : 499,
+    "description" : "product.BTF-N2.tabs4248.description",
+    "id" : 4248,
     "showPrintButton" : false,
-    "title" : "product.BGL.tabs2.title"
+    "title" : "product.BTF-N2.tabs4248.title"
   }, {
-    "description" : "product.BGL.tabs3.description",
-    "id" : 502,
+    "description" : "product.BTF-N2.tabs4249.description",
+    "id" : 4249,
     "showPrintButton" : false,
-    "title" : "product.BGL.tabs3.title"
+    "title" : "product.BTF-N2.tabs4249.title"
+  }, {
+    "description" : "product.BTF-N2.tabs4250.description",
+    "id" : 4250,
+    "showPrintButton" : false,
+    "title" : "product.BTF-N2.tabs4250.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "FRESH tonic calm",
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 11,
+    "id" : 7,
+    "lineHeight" : 1.2,
+    "position" : "top-right",
+    "text" : "BRAND NEW",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH tinted moisturiser SPF 30 – N2",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "product.BGL.usp",
+  "usp" : "product.BTF-N2.usp",
   "values" : [ {
+    "iconMediaId" : 1107,
+    "name" : "value.value52.name"
+  }, {
+    "iconMediaId" : 1104,
+    "name" : "value.value49.name"
+  }, {
     "iconMediaId" : 1089,
     "name" : "value.value34.name"
   }, {
-    "iconMediaId" : 1096,
-    "name" : "value.value41.name"
+    "iconMediaId" : 1085,
+    "name" : "value.value30.name"
   }, {
     "iconMediaId" : 1074,
     "name" : "value.value19.name"
   }, {
-    "iconMediaId" : 1097,
-    "name" : "value.value42.name"
-  }, {
-    "iconMediaId" : 1057,
-    "name" : "value.value2.name"
+    "iconMediaId" : 1060,
+    "name" : "value.value5.name"
   } ],
   "variants" : [ {
-    "color" : "#eddcbd",
-    "id" : 195,
+    "color" : "#c58c69",
+    "id" : 2363,
     "language" : null,
-    "matchcode" : "BGL",
-    "name" : "calm",
+    "matchcode" : "BTF-N2",
+    "name" : "N2",
     "size" : null,
-    "slug" : "fresh-tonic-calm",
+    "slug" : "fresh-tinted-moisturiser-n2",
     "type" : 1,
     "unit" : null
   }, {
-    "color" : "#d7a871",
-    "id" : 197,
+    "color" : "#cea887",
+    "id" : 2364,
     "language" : null,
-    "matchcode" : "BGS",
-    "name" : "pure",
+    "matchcode" : "BTF-N1",
+    "name" : "N1",
     "size" : null,
-    "slug" : "fresh-tonic-pure",
+    "slug" : "fresh-tinted-moisturiser-n1",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#986a4d",
+    "id" : 2365,
+    "language" : null,
+    "matchcode" : "BTF-N4",
+    "name" : "N4",
+    "size" : null,
+    "slug" : "fresh-tinted-moisturiser-n4",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#ab6e4a",
+    "id" : 2366,
+    "language" : null,
+    "matchcode" : "BTF-N3",
+    "name" : "N3",
+    "size" : null,
+    "slug" : "fresh-tinted-moisturiser-n3",
     "type" : 1,
     "unit" : null
   } ]

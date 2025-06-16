@@ -1,33 +1,14 @@
 {
-  "matchcode" : "BCE",
+  "matchcode" : "PTF-N2",
   "additionalUnitPrice" : null,
-  "awards" : [ {
-    "imageId" : 1043,
-    "link" : "https://www.beatthemicrobead.org/zero-products/",
-    "name" : "Beat the Microbead"
-  }, {
-    "imageId" : 1044,
-    "link" : "https://skin.li/nbge4tsq",
-    "name" : "cosmeticsanalysis.com - FRESH cream light"
-  }, {
-    "imageId" : 1045,
-    "link" : "https://www.cosmos-standard.org/",
-    "name" : "COSMOS Natural"
-  } ],
-  "blogPostIds" : [ 178282 ],
+  "awards" : [ ],
+  "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 7,
+    "id" : 13,
     "infoColorNeeded" : false,
-    "name" : "category.category7.name",
+    "name" : "category.category13.name",
     "primary" : true,
-    "slug" : "face",
-    "visible" : true
-  }, {
-    "id" : 203,
-    "infoColorNeeded" : false,
-    "name" : "category.category203.name",
-    "primary" : false,
-    "slug" : "step-5-moisturising",
+    "slug" : "samples",
     "visible" : true
   }, {
     "id" : 92,
@@ -35,6 +16,13 @@
     "name" : "category.category92.name",
     "primary" : false,
     "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 85,
+    "infoColorNeeded" : false,
+    "name" : "category.category85.name",
+    "primary" : false,
+    "slug" : "sensitive-reddened-skin",
     "visible" : true
   }, {
     "id" : 84,
@@ -51,6 +39,20 @@
     "slug" : "oily-skin",
     "visible" : true
   }, {
+    "id" : 81,
+    "infoColorNeeded" : false,
+    "name" : "category.category81.name",
+    "primary" : false,
+    "slug" : "mature-skin",
+    "visible" : true
+  }, {
+    "id" : 80,
+    "infoColorNeeded" : false,
+    "name" : "category.category80.name",
+    "primary" : false,
+    "slug" : "anti-pollution",
+    "visible" : true
+  }, {
     "id" : 77,
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
@@ -58,73 +60,74 @@
     "slug" : "hydrating",
     "visible" : true
   }, {
-    "id" : 76,
+    "id" : 203,
     "infoColorNeeded" : false,
-    "name" : "category.category76.name",
+    "name" : "category.category203.name",
     "primary" : false,
-    "slug" : "toning",
+    "slug" : "step-5-moisturising",
     "visible" : true
   }, {
-    "id" : 17,
+    "id" : 86,
     "infoColorNeeded" : false,
-    "name" : "category.category17.name",
+    "name" : "category.category86.name",
     "primary" : false,
-    "slug" : "fresh",
+    "slug" : "combination-skin",
     "visible" : true
-  }, {
-    "id" : 265,
-    "infoColorNeeded" : false,
-    "name" : "category.category265.name",
-    "primary" : false,
-    "slug" : "skincare-basics",
-    "visible" : false
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "50",
+  "contentsAmount" : "5",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : 6332,
+  "descriptionImageId" : 7448,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ {
-    "answer" : "product.BCE.faqs0.answer",
-    "id" : 1144,
-    "question" : "product.BCE.faqs0.question"
+    "answer" : "product.PTF-N2.faqs0.answer",
+    "id" : 1671,
+    "question" : "product.PTF-N2.faqs0.question"
   }, {
-    "answer" : "product.BCE.faqs1.answer",
-    "id" : 1145,
-    "question" : "product.BCE.faqs1.question"
+    "answer" : "product.PTF-N2.faqs1.answer",
+    "id" : 1672,
+    "question" : "product.PTF-N2.faqs1.question"
   }, {
-    "answer" : "product.BCE.faqs2.answer",
-    "id" : 1146,
-    "question" : "product.BCE.faqs2.question"
+    "answer" : "product.PTF-N2.faqs2.answer",
+    "id" : 1673,
+    "question" : "product.PTF-N2.faqs2.question"
   }, {
-    "answer" : "product.BCE.faqs3.answer",
-    "id" : 1147,
-    "question" : "product.BCE.faqs3.question"
+    "answer" : "product.PTF-N2.faqs3.answer",
+    "id" : 1674,
+    "question" : "product.PTF-N2.faqs3.question"
+  }, {
+    "answer" : "product.PTF-N2.faqs4.answer",
+    "id" : 1675,
+    "question" : "product.PTF-N2.faqs4.question"
+  }, {
+    "answer" : "product.PTF-N2.faqs5.answer",
+    "id" : 1676,
+    "question" : "product.PTF-N2.faqs5.question"
   } ],
-  "firstHeadline" : "product.BCE.firstHeadline",
-  "id" : 2941,
+  "firstHeadline" : "product.PTF-N2.firstHeadline",
+  "id" : 3639,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "125",
+    "contentsAmount" : "50",
     "currency" : "eur",
-    "description" : "tonic pure",
-    "imageId" : 636,
-    "matchcode" : "BGS",
+    "description" : "enzyme mask",
+    "imageId" : 672,
+    "matchcode" : "FEP",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 209.6,
+        "brutto" : 784,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 26.2,
+        "brutto" : 39.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -135,10 +138,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 15.2
+        "provisionPoints" : 23.8
       },
       "partner" : {
-        "brutto" : 26.2,
+        "brutto" : 39.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -149,12 +152,59 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 15.2
+        "provisionPoints" : 23.8
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-tonic-pure",
-    "title" : "FRESH tonic pure",
+    "slug" : "fresh-illuminating-enzyme-mask",
+    "title" : "FRESH illuminating enzyme mask",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "5",
+    "currency" : "eur",
+    "description" : "lip balm",
+    "imageId" : 1159,
+    "matchcode" : "BLB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2420,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 12.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 7
+      },
+      "partner" : {
+        "brutto" : 12.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-lip-balm",
+    "title" : "FRESH lip balm",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
@@ -203,82 +253,25 @@
     "slug" : "fresh-eye-serum",
     "title" : "FRESH eye serum",
     "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "30",
-    "currency" : "eur",
-    "description" : "hydro serum",
-    "imageId" : 1123,
-    "matchcode" : "BHS",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 1749,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 52.47,
-        "bruttoWithoutDiscount" : 58.3,
-        "discountPercentage" : 10,
-        "discountUntil" : "2025-06-20T08:00:00Z",
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 26.57
-      },
-      "partner" : {
-        "brutto" : 52.47,
-        "bruttoWithoutDiscount" : 58.3,
-        "discountPercentage" : 10,
-        "discountUntil" : "2025-06-20T08:00:00Z",
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 26.57
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-hydro-serum",
-    "title" : "FRESH hydro serum",
-    "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 3899,
-    "mediaId" : 5128
+    "id" : 4976,
+    "mediaId" : 7371
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 3900,
-    "mediaId" : 5191
+    "id" : 5279,
+    "mediaId" : 7440
   }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 3901,
-    "mediaId" : 5130
-  }, {
-    "caption" : "",
+    "caption" : "product.PTF-N2.imageGallery4980.caption",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 3902,
-    "mediaId" : 5427
-  }, {
-    "caption" : "",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 3903,
-    "mediaId" : 5425
+    "id" : 4980,
+    "mediaId" : 7439
   } ],
   "infoColor" : null,
-  "isFreshCosmeticsProduct" : true,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
   "nemBackgroundColor" : null,
@@ -286,12 +279,12 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 998,
+      "brutto" : 1980,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 49.9,
+      "brutto" : 9.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -302,10 +295,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 28.1
+      "provisionPoints" : 4.8
     },
     "partner" : {
-      "brutto" : 49.9,
+      "brutto" : 9.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -316,115 +309,125 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 28.1
+      "provisionPoints" : 4.8
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
-  "secondHeadline" : "",
+  "secondHeadline" : "product.PTF-N2.secondHeadline",
   "setContents" : [ ],
-  "shortDescription" : "product.BCE.shortDescription",
+  "shortDescription" : "product.PTF-N2.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "fresh-cream-light",
+  "slug" : "fresh-tinted-moisturiser-n2-sample",
   "socialMedia" : {
-    "id" : 2941,
-    "imageId" : 5128,
-    "text" : "product.BCE.socialMedia.text",
-    "title" : "product.BCE.socialMedia.title"
+    "id" : 3639,
+    "imageId" : 7371,
+    "text" : "product.PTF-N2.socialMedia.text",
+    "title" : "product.PTF-N2.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "cream light",
+  "supplementDescription" : "NUANCE2",
   "tabs" : [ {
-    "description" : "product.BCE.tabs3416.description",
-    "id" : 3416,
+    "description" : "product.PTF-N2.tabs4266.description",
+    "id" : 4266,
     "showPrintButton" : false,
-    "title" : "product.BCE.tabs3416.title"
+    "title" : "product.PTF-N2.tabs4266.title"
   }, {
-    "description" : "product.BCE.tabs3417.description",
-    "id" : 3417,
+    "description" : "product.PTF-N2.tabs4267.description",
+    "id" : 4267,
     "showPrintButton" : true,
-    "title" : "product.BCE.tabs3417.title"
+    "title" : "product.PTF-N2.tabs4267.title"
   }, {
-    "description" : "product.BCE.tabs3418.description",
-    "id" : 3418,
+    "description" : "product.PTF-N2.tabs4268.description",
+    "id" : 4268,
     "showPrintButton" : false,
-    "title" : "product.BCE.tabs3418.title"
+    "title" : "product.PTF-N2.tabs4268.title"
   }, {
-    "description" : "product.BCE.tabs3419.description",
-    "id" : 3419,
+    "description" : "product.PTF-N2.tabs4269.description",
+    "id" : 4269,
     "showPrintButton" : false,
-    "title" : "product.BCE.tabs3419.title"
+    "title" : "product.PTF-N2.tabs4269.title"
   }, {
-    "description" : "product.BCE.tabs3511.description",
-    "id" : 3511,
+    "description" : "product.PTF-N2.tabs4270.description",
+    "id" : 4270,
     "showPrintButton" : false,
-    "title" : "product.BCE.tabs3511.title"
+    "title" : "product.PTF-N2.tabs4270.title"
   } ],
   "teaserDots" : [ {
     "backgroundColor" : "#000000",
     "borderColor" : "#000000",
-    "fontSize" : 10,
-    "id" : 3,
-    "lineHeight" : 1.3,
-    "position" : "top-left",
-    "text" : "New Formu-lation",
+    "fontSize" : 11,
+    "id" : 7,
+    "lineHeight" : 1.2,
+    "position" : "top-right",
+    "text" : "BRAND NEW",
     "textColor" : "#ffffff"
   } ],
-  "title" : "FRESH cream light",
-  "unit" : "Stk.",
+  "title" : "FRESH tinted moisturiser SPF 30 – N2 sample",
+  "unit" : "Reisegröße",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : 996,
-  "usp" : "product.BCE.usp",
+  "unitId" : 43592,
+  "usp" : "product.PTF-N2.usp",
   "values" : [ {
-    "iconMediaId" : 1090,
-    "name" : "value.value35.name"
+    "iconMediaId" : 1107,
+    "name" : "value.value52.name"
+  }, {
+    "iconMediaId" : 1104,
+    "name" : "value.value49.name"
   }, {
     "iconMediaId" : 1089,
     "name" : "value.value34.name"
   }, {
-    "iconMediaId" : 1094,
-    "name" : "value.value39.name"
+    "iconMediaId" : 1085,
+    "name" : "value.value30.name"
   }, {
-    "iconMediaId" : 1096,
-    "name" : "value.value41.name"
-  }, {
-    "iconMediaId" : 1097,
-    "name" : "value.value42.name"
+    "iconMediaId" : 1074,
+    "name" : "value.value19.name"
   }, {
     "iconMediaId" : 1060,
     "name" : "value.value5.name"
   } ],
   "variants" : [ {
-    "color" : "#e6e6e1",
-    "id" : 1986,
+    "color" : "#c58c69",
+    "id" : 2351,
     "language" : null,
-    "matchcode" : "BCE",
-    "name" : "light",
+    "matchcode" : "PTF-N2",
+    "name" : "N2",
     "size" : null,
-    "slug" : "fresh-cream-light",
+    "slug" : "fresh-tinted-moisturiser-n2-sample",
     "type" : 1,
     "unit" : null
   }, {
-    "color" : "#e8e0ce",
-    "id" : 1987,
+    "color" : "#cea887",
+    "id" : 2352,
     "language" : null,
-    "matchcode" : "BCL",
-    "name" : "medium",
+    "matchcode" : "PTF-N1",
+    "name" : "N1",
     "size" : null,
-    "slug" : "fresh-cream-medium",
+    "slug" : "fresh-tinted-moisturiser-n1-sample",
     "type" : 1,
     "unit" : null
   }, {
-    "color" : "#dac8b1",
-    "id" : 1988,
+    "color" : "#ab6e4a",
+    "id" : 2353,
     "language" : null,
-    "matchcode" : "BCM",
-    "name" : "rich",
+    "matchcode" : "PTF-N3",
+    "name" : "N3",
     "size" : null,
-    "slug" : "fresh-cream-rich",
+    "slug" : "fresh-tinted-moisturiser-n3-sample",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#986a4d",
+    "id" : 2354,
+    "language" : null,
+    "matchcode" : "PTF-N4",
+    "name" : "N4",
+    "size" : null,
+    "slug" : "fresh-tinted-moisturiser-n4-sample",
     "type" : 1,
     "unit" : null
   } ]
