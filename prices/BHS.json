@@ -14,7 +14,7 @@
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
   } ],
-  "blogPostIds" : [ 195758, 57234, 178302 ],
+  "blogPostIds" : [ 195758, 57234 ],
   "categories" : [ {
     "id" : 7,
     "infoColorNeeded" : false,
@@ -42,6 +42,13 @@
     "name" : "category.category85.name",
     "primary" : false,
     "slug" : "sensitive-reddened-skin",
+    "visible" : true
+  }, {
+    "id" : 202,
+    "infoColorNeeded" : false,
+    "name" : "category.category202.name",
+    "primary" : false,
+    "slug" : "step-4-hydrating",
     "visible" : true
   }, {
     "id" : 82,
@@ -77,13 +84,6 @@
     "name" : "category.category17.name",
     "primary" : false,
     "slug" : "fresh",
-    "visible" : true
-  }, {
-    "id" : 202,
-    "infoColorNeeded" : false,
-    "name" : "category.category202.name",
-    "primary" : false,
-    "slug" : "step-4-hydrating",
     "visible" : true
   } ],
   "contentBlock" : null,

@@ -23,6 +23,13 @@
     "slug" : "samples",
     "visible" : true
   }, {
+    "id" : 75,
+    "infoColorNeeded" : false,
+    "name" : "category.category75.name",
+    "primary" : false,
+    "slug" : "lifting",
+    "visible" : true
+  }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
@@ -70,13 +77,6 @@
     "name" : "category.category76.name",
     "primary" : false,
     "slug" : "toning",
-    "visible" : true
-  }, {
-    "id" : 75,
-    "infoColorNeeded" : false,
-    "name" : "category.category75.name",
-    "primary" : false,
-    "slug" : "lifting",
     "visible" : true
   } ],
   "contentBlock" : null,
@@ -234,7 +234,7 @@
   "slug" : "fresh-illuminating-enzyme-mask-sample",
   "socialMedia" : {
     "id" : 38,
-    "imageId" : 186,
+    "imageId" : 2497,
     "text" : "product.PEP.socialMedia.text",
     "title" : "product.PEP.socialMedia.title"
   },

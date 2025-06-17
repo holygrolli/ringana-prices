@@ -74,7 +74,31 @@
     "slug" : "anti-pollution",
     "visible" : true
   } ],
-  "contentBlock" : null,
+  "contentBlock" : {
+    "buttonLink" : "product.PTF-N1.contentBlock.buttonLink",
+    "buttonText" : "product.PTF-N1.contentBlock.buttonText",
+    "contentBlockItems" : [ {
+      "description" : "product.PTF-N1.contentBlockItem0.description",
+      "id" : 232,
+      "link" : null,
+      "text" : "product.PTF-N1.contentBlockItem0.text"
+    }, {
+      "description" : "product.PTF-N1.contentBlockItem1.description",
+      "id" : 233,
+      "link" : null,
+      "text" : "product.PTF-N1.contentBlockItem1.text"
+    }, {
+      "description" : "product.PTF-N1.contentBlockItem2.description",
+      "id" : 234,
+      "link" : null,
+      "text" : "product.PTF-N1.contentBlockItem2.text"
+    } ],
+    "id" : 232,
+    "imageId" : 7605,
+    "imageLayoutLeft" : false,
+    "subtitle" : null,
+    "title" : "product.PTF-N1.contentBlock.title"
+  },
   "contentsAmount" : "5",
   "countryIso" : "DE",
   "currency" : "eur",
@@ -269,6 +293,11 @@
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
     "id" : 4975,
     "mediaId" : 7436
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 5444,
+    "mediaId" : 7606
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,

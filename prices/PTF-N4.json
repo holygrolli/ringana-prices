@@ -11,20 +11,6 @@
     "slug" : "samples",
     "visible" : true
   }, {
-    "id" : 203,
-    "infoColorNeeded" : false,
-    "name" : "category.category203.name",
-    "primary" : false,
-    "slug" : "step-5-moisturising",
-    "visible" : true
-  }, {
-    "id" : 92,
-    "infoColorNeeded" : false,
-    "name" : "category.category92.name",
-    "primary" : false,
-    "slug" : "facial-care",
-    "visible" : true
-  }, {
     "id" : 86,
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
@@ -53,6 +39,20 @@
     "slug" : "oily-skin",
     "visible" : true
   }, {
+    "id" : 203,
+    "infoColorNeeded" : false,
+    "name" : "category.category203.name",
+    "primary" : false,
+    "slug" : "step-5-moisturising",
+    "visible" : true
+  }, {
+    "id" : 92,
+    "infoColorNeeded" : false,
+    "name" : "category.category92.name",
+    "primary" : false,
+    "slug" : "facial-care",
+    "visible" : true
+  }, {
     "id" : 81,
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
@@ -74,7 +74,31 @@
     "slug" : "hydrating",
     "visible" : true
   } ],
-  "contentBlock" : null,
+  "contentBlock" : {
+    "buttonLink" : "product.PTF-N4.contentBlock.buttonLink",
+    "buttonText" : "product.PTF-N4.contentBlock.buttonText",
+    "contentBlockItems" : [ {
+      "description" : "product.PTF-N4.contentBlockItem0.description",
+      "id" : 241,
+      "link" : null,
+      "text" : "product.PTF-N4.contentBlockItem0.text"
+    }, {
+      "description" : "product.PTF-N4.contentBlockItem1.description",
+      "id" : 242,
+      "link" : null,
+      "text" : "product.PTF-N4.contentBlockItem1.text"
+    }, {
+      "description" : "product.PTF-N4.contentBlockItem2.description",
+      "id" : 243,
+      "link" : null,
+      "text" : "product.PTF-N4.contentBlockItem2.text"
+    } ],
+    "id" : 235,
+    "imageId" : 7605,
+    "imageLayoutLeft" : false,
+    "subtitle" : null,
+    "title" : "product.PTF-N4.contentBlock.title"
+  },
   "contentsAmount" : "5",
   "countryIso" : "DE",
   "currency" : "eur",
@@ -269,6 +293,11 @@
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
     "id" : 4990,
     "mediaId" : 7445
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 5447,
+    "mediaId" : 7606
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,

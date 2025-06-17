@@ -100,6 +100,13 @@
     "primary" : false,
     "slug" : "fresh",
     "visible" : true
+  }, {
+    "id" : 91,
+    "infoColorNeeded" : false,
+    "name" : "category.category91.name",
+    "primary" : false,
+    "slug" : "suncare",
+    "visible" : true
   } ],
   "contentBlock" : {
     "buttonLink" : "product.BTF-N2.contentBlock.buttonLink",

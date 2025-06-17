@@ -31,11 +31,11 @@
     "slug" : "face",
     "visible" : true
   }, {
-    "id" : 17,
+    "id" : 91,
     "infoColorNeeded" : false,
-    "name" : "category.category17.name",
+    "name" : "category.category91.name",
     "primary" : false,
-    "slug" : "fresh",
+    "slug" : "suncare",
     "visible" : true
   }, {
     "id" : 203,
@@ -99,6 +99,13 @@
     "name" : "category.category77.name",
     "primary" : false,
     "slug" : "hydrating",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
     "visible" : true
   } ],
   "contentBlock" : {

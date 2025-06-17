@@ -74,7 +74,31 @@
     "slug" : "combination-skin",
     "visible" : true
   } ],
-  "contentBlock" : null,
+  "contentBlock" : {
+    "buttonLink" : "product.PTF-N2.contentBlock.buttonLink",
+    "buttonText" : "product.PTF-N2.contentBlock.buttonText",
+    "contentBlockItems" : [ {
+      "description" : "product.PTF-N2.contentBlockItem0.description",
+      "id" : 235,
+      "link" : null,
+      "text" : "product.PTF-N2.contentBlockItem0.text"
+    }, {
+      "description" : "product.PTF-N2.contentBlockItem1.description",
+      "id" : 236,
+      "link" : null,
+      "text" : "product.PTF-N2.contentBlockItem1.text"
+    }, {
+      "description" : "product.PTF-N2.contentBlockItem2.description",
+      "id" : 237,
+      "link" : null,
+      "text" : "product.PTF-N2.contentBlockItem2.text"
+    } ],
+    "id" : 233,
+    "imageId" : 7605,
+    "imageLayoutLeft" : false,
+    "subtitle" : null,
+    "title" : "product.PTF-N2.contentBlock.title"
+  },
   "contentsAmount" : "5",
   "countryIso" : "DE",
   "currency" : "eur",
@@ -269,6 +293,11 @@
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
     "id" : 4980,
     "mediaId" : 7439
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 5445,
+    "mediaId" : 7606
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,

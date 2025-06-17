@@ -31,6 +31,13 @@
     "slug" : "face",
     "visible" : true
   }, {
+    "id" : 203,
+    "infoColorNeeded" : false,
+    "name" : "category.category203.name",
+    "primary" : false,
+    "slug" : "step-5-moisturising",
+    "visible" : true
+  }, {
     "id" : 84,
     "infoColorNeeded" : false,
     "name" : "category.category84.name",
@@ -73,20 +80,6 @@
     "slug" : "fresh",
     "visible" : true
   }, {
-    "id" : 203,
-    "infoColorNeeded" : false,
-    "name" : "category.category203.name",
-    "primary" : false,
-    "slug" : "step-5-moisturising",
-    "visible" : true
-  }, {
-    "id" : 85,
-    "infoColorNeeded" : false,
-    "name" : "category.category85.name",
-    "primary" : false,
-    "slug" : "sensitive-reddened-skin",
-    "visible" : true
-  }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
@@ -99,6 +92,20 @@
     "name" : "category.category86.name",
     "primary" : false,
     "slug" : "combination-skin",
+    "visible" : true
+  }, {
+    "id" : 85,
+    "infoColorNeeded" : false,
+    "name" : "category.category85.name",
+    "primary" : false,
+    "slug" : "sensitive-reddened-skin",
+    "visible" : true
+  }, {
+    "id" : 91,
+    "infoColorNeeded" : false,
+    "name" : "category.category91.name",
+    "primary" : false,
+    "slug" : "suncare",
     "visible" : true
   } ],
   "contentBlock" : {
