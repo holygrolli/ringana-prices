@@ -174,53 +174,6 @@
     "slug" : "fresh-sunscreen-spf-25",
     "title" : "FRESH sunscreen",
     "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "30",
-    "currency" : "eur",
-    "description" : "",
-    "imageId" : 783,
-    "matchcode" : "BTF15",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 1623.3,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 48.7,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 28.8
-      },
-      "partner" : {
-        "brutto" : 48.7,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 28.8
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "fresh-tinted-moisturiser-spf15",
-    "title" : "FRESH tinted moisturiser SPF 15",
-    "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
     "caption" : "",
