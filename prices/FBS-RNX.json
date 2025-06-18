@@ -1,0 +1,153 @@
+{
+  "matchcode" : "FBS-RNX",
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  } ],
+  "contentBlock" : null,
+  "contentsAmount" : null,
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 1096,
+  "idealSupplements" : [ ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 1723,
+    "mediaId" : 7468
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
+  "isMerchandise" : false,
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
+    "customer" : {
+      "brutto" : 127.12,
+      "bruttoWithoutDiscount" : 158.9,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-07-04T21:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 53.71
+    },
+    "partner" : {
+      "brutto" : 127.12,
+      "bruttoWithoutDiscount" : 158.9,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-07-04T21:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 53.71
+    }
+  },
+  "purchasePossible" : true,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "SSF"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "BSB"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "SBA-S"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "BLB-SPF15"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "RSUTO"
+  } ],
+  "shortDescription" : "product.FBS-RNX.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "fresh-beach-set-rnx",
+  "socialMedia" : {
+    "id" : 1096,
+    "imageId" : null,
+    "text" : "",
+    "title" : ""
+  },
+  "soldOut" : false,
+  "supplementDescription" : "beach set",
+  "tabs" : [ {
+    "description" : "product.FBS-RNX.tabs0.description",
+    "id" : 1650,
+    "showPrintButton" : false,
+    "title" : "product.FBS-RNX.tabs0.title"
+  }, {
+    "description" : "product.FBS-RNX.tabs1.description",
+    "id" : 1651,
+    "showPrintButton" : false,
+    "title" : "product.FBS-RNX.tabs1.title"
+  }, {
+    "description" : "product.FBS-RNX.tabs2.description",
+    "id" : 1652,
+    "showPrintButton" : false,
+    "title" : "product.FBS-RNX.tabs2.title"
+  }, {
+    "description" : "product.FBS-RNX.tabs3.description",
+    "id" : 1653,
+    "showPrintButton" : false,
+    "title" : "product.FBS-RNX.tabs3.title"
+  } ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 9,
+    "id" : 4,
+    "lineHeight" : 1.4,
+    "position" : "top-right",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH beach set",
+  "unit" : "Set",
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
+  "unitId" : 43586,
+  "usp" : "product.FBS-RNX.usp",
+  "values" : [ ],
+  "variants" : [ ]
+}

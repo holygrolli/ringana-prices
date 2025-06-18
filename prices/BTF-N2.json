@@ -52,6 +52,27 @@
     "slug" : "facial-care",
     "visible" : true
   }, {
+    "id" : 80,
+    "infoColorNeeded" : false,
+    "name" : "category.category80.name",
+    "primary" : false,
+    "slug" : "anti-pollution",
+    "visible" : true
+  }, {
+    "id" : 77,
+    "infoColorNeeded" : false,
+    "name" : "category.category77.name",
+    "primary" : false,
+    "slug" : "hydrating",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
+    "visible" : true
+  }, {
     "id" : 91,
     "infoColorNeeded" : false,
     "name" : "category.category91.name",
@@ -85,27 +106,6 @@
     "name" : "category.category81.name",
     "primary" : false,
     "slug" : "mature-skin",
-    "visible" : true
-  }, {
-    "id" : 80,
-    "infoColorNeeded" : false,
-    "name" : "category.category80.name",
-    "primary" : false,
-    "slug" : "anti-pollution",
-    "visible" : true
-  }, {
-    "id" : 77,
-    "infoColorNeeded" : false,
-    "name" : "category.category77.name",
-    "primary" : false,
-    "slug" : "hydrating",
-    "visible" : true
-  }, {
-    "id" : 17,
-    "infoColorNeeded" : false,
-    "name" : "category.category17.name",
-    "primary" : false,
-    "slug" : "fresh",
     "visible" : true
   }, {
     "id" : 397,
@@ -143,8 +143,8 @@
   "contentsAmount" : "30",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 7448,
   "discountDate" : null,
@@ -349,15 +349,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 1656.6,
+      "brutto" : 1491,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 49.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 44.73,
+      "bruttoWithoutDiscount" : 49.7,
+      "discountPercentage" : 10,
+      "discountUntil" : "2025-06-18T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -365,13 +365,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 28.8
+      "provisionPoints" : 23.33
     },
     "partner" : {
-      "brutto" : 49.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 44.73,
+      "bruttoWithoutDiscount" : 49.7,
+      "discountPercentage" : 10,
+      "discountUntil" : "2025-06-18T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -379,10 +379,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 28.8
+      "provisionPoints" : 23.33
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "product.BTF-N2.secondHeadline",
   "setContents" : [ ],
