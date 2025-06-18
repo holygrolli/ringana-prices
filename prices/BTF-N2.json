@@ -52,6 +52,13 @@
     "slug" : "facial-care",
     "visible" : true
   }, {
+    "id" : 91,
+    "infoColorNeeded" : false,
+    "name" : "category.category91.name",
+    "primary" : false,
+    "slug" : "suncare",
+    "visible" : true
+  }, {
     "id" : 85,
     "infoColorNeeded" : false,
     "name" : "category.category85.name",
@@ -101,12 +108,12 @@
     "slug" : "fresh",
     "visible" : true
   }, {
-    "id" : 91,
+    "id" : 397,
     "infoColorNeeded" : false,
-    "name" : "category.category91.name",
+    "name" : "category.category397.name",
     "primary" : false,
-    "slug" : "suncare",
-    "visible" : true
+    "slug" : "tinted-skincare",
+    "visible" : false
   } ],
   "contentBlock" : {
     "buttonLink" : "product.BTF-N2.contentBlock.buttonLink",

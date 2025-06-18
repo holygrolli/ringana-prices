@@ -38,6 +38,13 @@
     "slug" : "suncare",
     "visible" : true
   }, {
+    "id" : 397,
+    "infoColorNeeded" : false,
+    "name" : "category.category397.name",
+    "primary" : false,
+    "slug" : "tinted-skincare",
+    "visible" : false
+  }, {
     "id" : 203,
     "infoColorNeeded" : false,
     "name" : "category.category203.name",

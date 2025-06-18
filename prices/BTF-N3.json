@@ -31,6 +31,13 @@
     "slug" : "face",
     "visible" : true
   }, {
+    "id" : 397,
+    "infoColorNeeded" : false,
+    "name" : "category.category397.name",
+    "primary" : false,
+    "slug" : "tinted-skincare",
+    "visible" : false
+  }, {
     "id" : 91,
     "infoColorNeeded" : false,
     "name" : "category.category91.name",

@@ -107,6 +107,13 @@
     "primary" : false,
     "slug" : "suncare",
     "visible" : true
+  }, {
+    "id" : 397,
+    "infoColorNeeded" : false,
+    "name" : "category.category397.name",
+    "primary" : false,
+    "slug" : "tinted-skincare",
+    "visible" : false
   } ],
   "contentBlock" : {
     "buttonLink" : "product.BTF-N1.contentBlock.buttonLink",
