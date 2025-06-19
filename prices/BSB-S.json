@@ -33,8 +33,8 @@
   "contentsAmount" : "200",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6578,
   "discountDate" : null,
@@ -258,7 +258,7 @@
       "provisionPoints" : 28.2
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -273,7 +273,7 @@
     "text" : "product.BSB-S.socialMedia.text",
     "title" : "product.BSB-S.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "sunscreen shine",
   "tabs" : [ {
     "description" : "product.BSB-S.tabs3779.description",
