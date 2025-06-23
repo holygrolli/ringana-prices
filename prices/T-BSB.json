@@ -49,8 +49,8 @@
   "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6350,
   "discountDate" : null,
@@ -280,7 +280,7 @@
       "provisionPoints" : 9.1
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -295,7 +295,7 @@
     "text" : "product.T-BSB.socialMedia.text",
     "title" : "product.T-BSB.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "sunscreen",
   "tabs" : [ {
     "description" : "product.T-BSB.tabs3676.description",
