@@ -363,6 +363,9 @@
   }, {
     "iconMediaId" : 1057,
     "name" : "value.value2.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
   } ],
   "variants" : [ {
     "color" : "#eddcbd",

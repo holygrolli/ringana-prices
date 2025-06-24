@@ -370,6 +370,9 @@
   }, {
     "iconMediaId" : 1088,
     "name" : "value.value33.name"
+  }, {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
   } ],
   "variants" : [ {
     "color" : "#e0e8e0",

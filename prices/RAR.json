@@ -40,6 +40,13 @@
     "slug" : "sensitive-reddened-skin",
     "visible" : true
   }, {
+    "id" : 84,
+    "infoColorNeeded" : false,
+    "name" : "category.category84.name",
+    "primary" : false,
+    "slug" : "impure-skin",
+    "visible" : true
+  }, {
     "id" : 83,
     "infoColorNeeded" : false,
     "name" : "category.category83.name",
@@ -52,13 +59,6 @@
     "name" : "category.category92.name",
     "primary" : false,
     "slug" : "facial-care",
-    "visible" : true
-  }, {
-    "id" : 84,
-    "infoColorNeeded" : false,
-    "name" : "category.category84.name",
-    "primary" : false,
-    "slug" : "impure-skin",
     "visible" : true
   }, {
     "id" : 76,
