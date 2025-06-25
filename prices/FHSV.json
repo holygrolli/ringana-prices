@@ -56,18 +56,18 @@
     "slug" : "microbiome-friendly",
     "visible" : true
   }, {
-    "id" : 78,
-    "infoColorNeeded" : false,
-    "name" : "category.category78.name",
-    "primary" : false,
-    "slug" : "cleansing",
-    "visible" : true
-  }, {
     "id" : 17,
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
     "slug" : "fresh",
+    "visible" : true
+  }, {
+    "id" : 78,
+    "infoColorNeeded" : false,
+    "name" : "category.category78.name",
+    "primary" : false,
+    "slug" : "cleansing",
     "visible" : true
   } ],
   "contentBlock" : null,
@@ -314,8 +314,8 @@
   "socialMedia" : {
     "id" : 2512,
     "imageId" : 4366,
-    "text" : "",
-    "title" : ""
+    "text" : "product.FHSV.socialMedia.text",
+    "title" : "product.FHSV.socialMedia.title"
   },
   "soldOut" : false,
   "supplementDescription" : "volume",

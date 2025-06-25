@@ -144,7 +144,7 @@
         "provisionPoints" : 15.2
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-tonic-calm",
     "title" : "FRESH tonic calm",
     "unitContents" : "ml"
