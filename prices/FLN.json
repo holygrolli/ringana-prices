@@ -407,9 +407,6 @@
     "iconMediaId" : 1097,
     "name" : "value.value42.name"
   }, {
-    "iconMediaId" : 1096,
-    "name" : "value.value41.name"
-  }, {
     "iconMediaId" : 1089,
     "name" : "value.value34.name"
   }, {
@@ -418,6 +415,9 @@
   }, {
     "iconMediaId" : 1074,
     "name" : "value.value19.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
   } ],
   "variants" : [ ]
 }

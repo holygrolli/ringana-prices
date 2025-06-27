@@ -106,15 +106,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 123.7,
+        "brutto" : 154.7,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 44.56,
-        "bruttoWithoutDiscount" : 55.7,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-06-26T21:59:59Z",
+        "brutto" : 55.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -122,13 +122,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 23.04
+        "provisionPoints" : 32
       },
       "partner" : {
-        "brutto" : 44.56,
-        "bruttoWithoutDiscount" : 55.7,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-06-26T21:59:59Z",
+        "brutto" : 55.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -136,10 +136,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 23.04
+        "provisionPoints" : 32
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "ringanaisi",
     "title" : "RINGANAisi",
     "unitContents" : "ml"
