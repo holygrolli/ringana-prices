@@ -33,8 +33,8 @@
   "contentsAmount" : "720",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6313,
   "discountDate" : null,
@@ -204,7 +204,7 @@
       "provisionPoints" : 46.2
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -223,7 +223,7 @@
     "text" : "product.RE24.socialMedia.text",
     "title" : "product.RE24.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "RINGANAchi",
   "tabs" : [ {
     "description" : "product.RE24.tabs0.description",
