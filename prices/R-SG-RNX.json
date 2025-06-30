@@ -15,8 +15,8 @@
   "contentsAmount" : "1",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -220,7 +220,7 @@
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -235,7 +235,7 @@
     "text" : "product.R-SG-RNX.socialMedia.text",
     "title" : "product.R-SG-RNX.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "",
   "tabs" : [ {
     "description" : "product.R-SG-RNX.tabs0.description",

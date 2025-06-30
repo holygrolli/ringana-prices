@@ -115,7 +115,7 @@
         "provisionPoints" : 0
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "sunglasses",
     "title" : "RINGANA sunglasses",
     "unitContents" : "Stk."
