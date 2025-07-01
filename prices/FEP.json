@@ -132,7 +132,7 @@
     "id" : 133,
     "question" : "product.FEP.faqs5.question"
   } ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.FEP.firstHeadline",
   "id" : 136,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,

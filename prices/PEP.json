@@ -115,7 +115,7 @@
     "id" : 285,
     "question" : "product.PEP.faqs5.question"
   } ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.PEP.firstHeadline",
   "id" : 38,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
