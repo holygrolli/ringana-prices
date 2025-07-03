@@ -102,8 +102,8 @@
   "contentsAmount" : "5",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 7448,
   "discountDate" : null,
@@ -341,7 +341,7 @@
       "provisionPoints" : 4.8
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "product.PTF-N2.secondHeadline",
   "setContents" : [ ],
@@ -356,7 +356,7 @@
     "text" : "product.PTF-N2.socialMedia.text",
     "title" : "product.PTF-N2.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "NUANCE2",
   "tabs" : [ {
     "description" : "product.PTF-N2.tabs4266.description",
