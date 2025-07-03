@@ -1,0 +1,114 @@
+{
+  "matchcode" : "RSPASET",
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  } ],
+  "contentBlock" : null,
+  "contentsAmount" : null,
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "",
+  "id" : 4029,
+  "idealSupplements" : [ ],
+  "imageGallery" : [ {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 5642,
+    "mediaId" : 7931
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 5643,
+    "mediaId" : 7932
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
+  "isMerchandise" : false,
+  "maxPerCart" : 100,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
+    "customer" : {
+      "brutto" : 16.88,
+      "bruttoWithoutDiscount" : 21.1,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-07-03T21:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 0
+    },
+    "partner" : {
+      "brutto" : 16.88,
+      "bruttoWithoutDiscount" : 21.1,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-07-03T21:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 0
+    }
+  },
+  "purchasePossible" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.RSPASET.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "home-spa-set",
+  "socialMedia" : null,
+  "soldOut" : false,
+  "supplementDescription" : null,
+  "tabs" : [ {
+    "description" : "product.RSPASET.tabs1751347127554.description",
+    "id" : 4699,
+    "showPrintButton" : false,
+    "title" : "product.RSPASET.tabs1751347127554.title"
+  }, {
+    "description" : "product.RSPASET.tabs1751347127555.description",
+    "id" : 4700,
+    "showPrintButton" : false,
+    "title" : "product.RSPASET.tabs1751347127555.title"
+  } ],
+  "teaserDots" : [ ],
+  "title" : "RINGANA home spa set",
+  "unit" : null,
+  "unitContents" : null,
+  "unitContentsId" : null,
+  "unitId" : null,
+  "usp" : "product.RSPASET.usp",
+  "values" : [ ],
+  "variants" : [ ]
+}

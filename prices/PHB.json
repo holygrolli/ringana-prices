@@ -298,10 +298,10 @@
   } ],
   "teaserDots" : [ ],
   "title" : "FRESH hand balm sample",
-  "unit" : null,
+  "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : null,
+  "unitId" : 996,
   "usp" : "product.PHB.usp",
   "values" : [ {
     "iconMediaId" : 1097,
