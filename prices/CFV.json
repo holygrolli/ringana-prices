@@ -135,7 +135,7 @@
         "provisionPoints" : 32
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "ringanaisi",
     "title" : "RINGANAisi",
     "unitContents" : "ml"

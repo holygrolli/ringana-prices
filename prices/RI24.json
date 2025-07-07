@@ -29,8 +29,8 @@
   "contentsAmount" : "720",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6316,
   "discountDate" : null,
@@ -245,7 +245,7 @@
       "provisionPoints" : 54.7
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -264,7 +264,7 @@
     "text" : "product.RI24.socialMedia.text",
     "title" : "product.RI24.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "RINGANAisi",
   "tabs" : [ {
     "description" : "product.RI24.tabs0.description",

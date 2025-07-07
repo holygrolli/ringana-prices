@@ -29,8 +29,8 @@
   "contentsAmount" : "360",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6316,
   "discountDate" : null,
@@ -245,7 +245,7 @@
       "provisionPoints" : 32
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -260,7 +260,7 @@
     "text" : "product.RI12.socialMedia.text",
     "title" : "product.RI12.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "RINGANAisi",
   "tabs" : [ {
     "description" : "product.RI12.tabs0.description",
