@@ -1,53 +1,30 @@
 {
-  "matchcode" : "FBS50",
+  "matchcode" : "RKIM",
   "additionalUnitPrice" : null,
-  "awards" : [ {
-    "imageId" : 1043,
-    "link" : "https://www.beatthemicrobead.org/zero-products/",
-    "name" : "Beat the Microbead"
-  } ],
+  "awards" : [ ],
   "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 2,
+    "id" : 16,
     "infoColorNeeded" : false,
-    "name" : "category.category2.name",
+    "name" : "category.category16.name",
     "primary" : true,
-    "slug" : "body",
-    "visible" : true
-  }, {
-    "id" : 7,
-    "infoColorNeeded" : false,
-    "name" : "category.category7.name",
-    "primary" : false,
-    "slug" : "face",
+    "slug" : "merchandise",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "50",
+  "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
-  "faqs" : [ {
-    "answer" : "product.FBS50.faqs0.answer",
-    "id" : 219,
-    "question" : "product.FBS50.faqs0.question"
-  }, {
-    "answer" : "product.FBS50.faqs2.answer",
-    "id" : 221,
-    "question" : "product.FBS50.faqs2.question"
-  }, {
-    "answer" : "product.FBS50.faqs2.answer",
-    "id" : 1572,
-    "question" : "product.FBS50.faqs2.question"
-  } ],
+  "faqs" : [ ],
   "firstHeadline" : "",
-  "id" : 681,
+  "id" : 3931,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
     "contentsAmount" : "200",
@@ -97,20 +74,20 @@
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "125",
+    "contentsAmount" : "1",
     "currency" : "eur",
-    "description" : "light legs",
-    "imageId" : 587,
-    "matchcode" : "FLL",
+    "description" : "",
+    "imageId" : 197,
+    "matchcode" : "R-SG-RNX",
     "priceInformation" : {
       "base" : {
-        "amount" : 1000,
-        "brutto" : 228.8,
-        "unit" : "ml",
-        "unitId" : 827
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
       },
       "customer" : {
-        "brutto" : 28.6,
+        "brutto" : 99,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -121,10 +98,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 17
+        "provisionPoints" : 0
       },
       "partner" : {
-        "brutto" : 28.6,
+        "brutto" : 99,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -135,29 +112,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 17
+        "provisionPoints" : 0
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-light-legs",
-    "title" : "FRESH light legs",
-    "unitContents" : "ml"
+    "slug" : "sunglasses",
+    "title" : "RINGANA sunglasses",
+    "unitContents" : "Stk."
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "50",
+    "contentsAmount" : "1",
     "currency" : "eur",
-    "description" : "sunscreen face",
-    "imageId" : 6545,
-    "matchcode" : "SSF",
+    "description" : "bucket hat",
+    "imageId" : 2123,
+    "matchcode" : "RBH",
     "priceInformation" : {
       "base" : {
-        "amount" : 1000,
-        "brutto" : 676,
-        "unit" : "ml",
-        "unitId" : 827
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
       },
       "customer" : {
-        "brutto" : 33.8,
+        "brutto" : 24.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -168,10 +145,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 19.5
+        "provisionPoints" : 0
       },
       "partner" : {
-        "brutto" : 33.8,
+        "brutto" : 24.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -182,45 +159,40 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 19.5
+        "provisionPoints" : 0
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-sunscreen-face",
-    "title" : "FRESH sunscreen face",
-    "unitContents" : "ml"
+    "slug" : "ringana-bucket-hat",
+    "title" : "RINGANA bucket hat",
+    "unitContents" : "Stk."
   } ],
   "imageGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 1172,
-    "mediaId" : 1530
+    "id" : 5478,
+    "mediaId" : 7736
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 5214,
-    "mediaId" : 7512
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 1173,
-    "mediaId" : 7484
+    "id" : 5479,
+    "mediaId" : 7737
   } ],
   "infoColor" : null,
-  "isFreshCosmeticsProduct" : true,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {
     "base" : {
-      "amount" : 1000,
-      "brutto" : 198,
-      "unit" : "ml",
-      "unitId" : 827
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
     },
     "customer" : {
-      "brutto" : 9.9,
+      "brutto" : 89,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -231,10 +203,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 5.3
+      "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 9.9,
+      "brutto" : 89,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -245,46 +217,36 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 5.3
+      "provisionPoints" : 0
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
-  "shortDescription" : "product.FBS50.shortDescription",
+  "shortDescription" : "product.RKIM.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "fresh-breeze",
+  "slug" : "ringana-kimono",
   "socialMedia" : {
-    "id" : 681,
+    "id" : 3931,
     "imageId" : null,
     "text" : "",
     "title" : ""
   },
   "soldOut" : false,
-  "supplementDescription" : "FRESH breeze",
+  "supplementDescription" : "kimono",
   "tabs" : [ {
-    "description" : "product.FBS50.tabs0.description",
-    "id" : 1174,
+    "description" : "product.RKIM.tabs4600.description",
+    "id" : 4600,
     "showPrintButton" : false,
-    "title" : "product.FBS50.tabs0.title"
+    "title" : "product.RKIM.tabs4600.title"
   }, {
-    "description" : "product.FBS50.tabs1.description",
-    "id" : 1175,
+    "description" : "product.RKIM.tabs4601.description",
+    "id" : 4601,
     "showPrintButton" : false,
-    "title" : "product.FBS50.tabs1.title"
-  }, {
-    "description" : "product.FBS50.tabs2.description",
-    "id" : 1176,
-    "showPrintButton" : false,
-    "title" : "product.FBS50.tabs2.title"
-  }, {
-    "description" : "product.FBS50.tabs3.description",
-    "id" : 1177,
-    "showPrintButton" : false,
-    "title" : "product.FBS50.tabs3.title"
+    "title" : "product.RKIM.tabs4601.title"
   } ],
   "teaserDots" : [ {
     "backgroundColor" : "#000000",
@@ -292,28 +254,16 @@
     "fontSize" : 9,
     "id" : 4,
     "lineHeight" : 1.4,
-    "position" : "top-right",
+    "position" : "top-left",
     "text" : "LIMITED EDITION",
     "textColor" : "#ffffff"
   } ],
-  "title" : "FRESH breeze",
+  "title" : "RINGANA kimono",
   "unit" : "Stk.",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
+  "unitContents" : "Stk.",
+  "unitContentsId" : 996,
   "unitId" : 996,
-  "usp" : "product.FBS50.usp",
-  "values" : [ {
-    "iconMediaId" : 1097,
-    "name" : "value.value42.name"
-  }, {
-    "iconMediaId" : 1089,
-    "name" : "value.value34.name"
-  }, {
-    "iconMediaId" : 1067,
-    "name" : "value.value12.name"
-  }, {
-    "iconMediaId" : 1061,
-    "name" : "value.value6.name"
-  } ],
+  "usp" : "product.RKIM.usp",
+  "values" : [ ],
   "variants" : [ ]
 }

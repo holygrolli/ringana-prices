@@ -166,20 +166,20 @@
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "200",
+    "contentsAmount" : "30",
     "currency" : "eur",
-    "description" : "repair",
-    "imageId" : 4339,
-    "matchcode" : "FHSR",
+    "description" : "perfection",
+    "imageId" : 4267,
+    "matchcode" : "FLN",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 103,
+        "brutto" : 2983.3,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 20.6,
+        "brutto" : 89.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -190,10 +190,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 12
+        "provisionPoints" : 52.5
       },
       "partner" : {
-        "brutto" : 20.6,
+        "brutto" : 89.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -204,12 +204,12 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 12
+        "provisionPoints" : 52.5
       }
     },
-    "purchasePossible" : true,
-    "slug" : "fresh-repair-shampoo",
-    "title" : "FRESH repair shampoo",
+    "purchasePossible" : false,
+    "slug" : "fresh-skin-perfection",
+    "title" : "FRESH skin perfection",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
