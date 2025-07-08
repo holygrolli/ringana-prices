@@ -191,17 +191,17 @@
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 1172,
     "mediaId" : 1530
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 5214,
-    "mediaId" : 7512
+    "mediaId" : 8030
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 1173,
     "mediaId" : 7484
