@@ -233,7 +233,7 @@
     "contentsAmount" : "37,1",
     "currency" : "eur",
     "description" : "beauty & hair",
-    "imageId" : 1161,
+    "imageId" : 8033,
     "matchcode" : "CBH",
     "priceInformation" : {
       "base" : {
@@ -277,22 +277,22 @@
     "unitContents" : "g"
   } ],
   "imageGallery" : [ {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 3497,
-    "mediaId" : 4267
+    "mediaId" : 8036
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 3498,
     "mediaId" : 4335
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 3499,
     "mediaId" : 4269
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 3500,
     "mediaId" : 4268

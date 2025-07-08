@@ -276,22 +276,22 @@
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 423,
-    "mediaId" : 687
+    "mediaId" : 8035
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 426,
     "mediaId" : 5490
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 425,
     "mediaId" : 690
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
     "id" : 427,
     "mediaId" : 692

@@ -169,7 +169,7 @@
     "contentsAmount" : "30",
     "currency" : "eur",
     "description" : "perfection",
-    "imageId" : 4267,
+    "imageId" : 8036,
     "matchcode" : "FLN",
     "priceInformation" : {
       "base" : {
@@ -213,22 +213,22 @@
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 257,
-    "mediaId" : 1161
+    "mediaId" : 8033
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 252,
     "mediaId" : 456
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 253,
     "mediaId" : 457
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 255,
     "mediaId" : 1162

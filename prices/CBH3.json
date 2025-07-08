@@ -178,22 +178,22 @@
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 176,
-    "mediaId" : 1163
+    "mediaId" : 8034
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 178,
     "mediaId" : 349
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 177,
     "mediaId" : 347
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 181,
     "mediaId" : 1162
