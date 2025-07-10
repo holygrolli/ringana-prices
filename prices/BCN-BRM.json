@@ -1,124 +1,46 @@
 {
-  "matchcode" : "MANA-SK",
+  "matchcode" : "BCN-BRM",
   "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ 189850, 186646, 189265 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 20,
+    "id" : 9,
     "infoColorNeeded" : false,
-    "name" : "category.category20.name",
+    "name" : "category.category9.name",
     "primary" : true,
-    "slug" : "manadental",
-    "visible" : true
-  }, {
-    "id" : 89,
-    "infoColorNeeded" : false,
-    "name" : "category.category89.name",
-    "primary" : false,
-    "slug" : "oral-hygiene",
+    "slug" : "offers",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "200",
+  "contentsAmount" : "155",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
-  "faqs" : [ {
-    "answer" : "product.MANA-SK.faqs1.answer",
-    "id" : 90,
-    "question" : "product.MANA-SK.faqs1.question"
-  }, {
-    "answer" : "product.MANA-SK.faqs2.answer",
-    "id" : 91,
-    "question" : "product.MANA-SK.faqs2.question"
-  }, {
-    "answer" : "product.MANA-SK.faqs3.answer",
-    "id" : 92,
-    "question" : "product.MANA-SK.faqs3.question"
-  }, {
-    "answer" : "product.MANA-SK.faqs4.answer",
-    "id" : 93,
-    "question" : "product.MANA-SK.faqs4.question"
-  }, {
-    "answer" : "product.MANA-SK.faqs5.answer",
-    "id" : 94,
-    "question" : "product.MANA-SK.faqs5.question"
-  }, {
-    "answer" : "product.MANA-SK.faqs6.answer",
-    "id" : 95,
-    "question" : "product.MANA-SK.faqs6.question"
-  } ],
-  "firstHeadline" : "",
-  "id" : 256,
+  "faqs" : [ ],
+  "firstHeadline" : "product.BCN-BRM.firstHeadline",
+  "id" : 1323,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "1",
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "",
-    "imageId" : 1260,
-    "matchcode" : "MANA-TC",
-    "priceInformation" : {
-      "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
-      },
-      "customer" : {
-        "brutto" : 39,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 0
-      },
-      "partner" : {
-        "brutto" : 39,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 0
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "manadental-travel-case",
-    "title" : "manadental travel case",
-    "unitContents" : "Stk."
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "600",
-    "currency" : "eur",
-    "description" : "mana liquid",
-    "imageId" : 943,
-    "matchcode" : "FTLL3",
+    "description" : "overnight",
+    "imageId" : 592,
+    "matchcode" : "BBN",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 132.8,
+        "brutto" : 598.4,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 79.7,
+        "brutto" : 74.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -129,10 +51,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 38.9
+        "provisionPoints" : 44.6
       },
       "partner" : {
-        "brutto" : 79.7,
+        "brutto" : 74.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -143,29 +65,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 38.9
+        "provisionPoints" : 44.6
       }
     },
     "purchasePossible" : true,
-    "slug" : "manadental-liquid-set-of-3",
-    "title" : "manadental liquid, Set of 3",
+    "slug" : "fresh-overnight-body-treatment",
+    "title" : "FRESH overnight body treatment",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
     "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "tooth balm",
-    "imageId" : 4635,
-    "matchcode" : "FTB",
+    "description" : "Cleansing water",
+    "imageId" : 765,
+    "matchcode" : "FCW",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 122.4,
+        "brutto" : 212,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 15.3,
+        "brutto" : 26.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -176,10 +98,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 8.9
+        "provisionPoints" : 14.4
       },
       "partner" : {
-        "brutto" : 15.3,
+        "brutto" : 26.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -190,29 +112,66 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 8.9
+        "provisionPoints" : 14.4
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-tooth-balm",
-    "title" : "FRESH tooth balm",
+    "slug" : "fresh-cleansing-water",
+    "title" : "FRESH cleansing water",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "360",
+    "currency" : "eur",
+    "description" : "RINGANAisi",
+    "imageId" : 263,
+    "matchcode" : "RI12",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 154.7,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 55.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32
+      },
+      "partner" : {
+        "brutto" : 55.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 32
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringanaisi",
+    "title" : "RINGANAisi",
     "unitContents" : "ml"
   } ],
   "imageGallery" : [ {
-    "caption" : "product.MANA-SK.imageGallery646.caption",
-    "captionLink" : "blog/ringana-x-manadental/",
-    "id" : 646,
-    "mediaId" : 3684
-  }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 647,
-    "mediaId" : 938
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 648,
-    "mediaId" : 1256
+    "id" : 2045,
+    "mediaId" : 2551
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -228,7 +187,7 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 279,
+      "brutto" : 79.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -239,10 +198,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 94
+      "provisionPoints" : 42
     },
     "partner" : {
-      "brutto" : 279,
+      "brutto" : 79.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -253,80 +212,80 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 94
+      "provisionPoints" : 42
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
     "amount" : 1,
     "freeOfCharge" : false,
-    "matchcode" : "FTLL-SK"
+    "matchcode" : "BCN"
   }, {
     "amount" : 1,
     "freeOfCharge" : false,
-    "matchcode" : "MANA-D"
+    "matchcode" : "BRM"
   } ],
-  "shortDescription" : "product.MANA-SK.shortDescription",
-  "showOnSpecialOffer" : 2,
+  "shortDescription" : "product.BCN-BRM.shortDescription",
+  "showOnSpecialOffer" : 3,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "manadental-starter-kit",
+  "slug" : "fresh-night-care-duo",
   "socialMedia" : {
-    "id" : 255,
-    "imageId" : 934,
-    "text" : "product.MANA-SK.socialMedia.text",
-    "title" : "product.MANA-SK.socialMedia.title"
+    "id" : 1323,
+    "imageId" : 2551,
+    "text" : "product.BCN-BRM.socialMedia.text",
+    "title" : "product.BCN-BRM.socialMedia.title"
   },
-  "soldOut" : true,
-  "supplementDescription" : "manadental",
+  "soldOut" : false,
+  "supplementDescription" : "night care",
   "tabs" : [ {
-    "description" : "product.MANA-SK.tabs0.description",
-    "id" : 826,
+    "description" : "product.BCN-BRM.tabs1894.description",
+    "id" : 1894,
     "showPrintButton" : false,
-    "title" : "product.MANA-SK.tabs0.title"
+    "title" : "product.BCN-BRM.tabs1894.title"
   }, {
-    "description" : "product.MANA-SK.tabs1.description",
-    "id" : 827,
+    "description" : "product.BCN-BRM.tabs1895.description",
+    "id" : 1895,
     "showPrintButton" : false,
-    "title" : "product.MANA-SK.tabs1.title"
+    "title" : "product.BCN-BRM.tabs1895.title"
   }, {
-    "description" : "product.MANA-SK.tabs2.description",
-    "id" : 828,
+    "description" : "product.BCN-BRM.tabs1896.description",
+    "id" : 1896,
     "showPrintButton" : false,
-    "title" : "product.MANA-SK.tabs2.title"
+    "title" : "product.BCN-BRM.tabs1896.title"
   }, {
-    "description" : "product.MANA-SK.tabs3.description",
-    "id" : 829,
+    "description" : "product.BCN-BRM.tabs1897.description",
+    "id" : 1897,
     "showPrintButton" : false,
-    "title" : "product.MANA-SK.tabs3.title"
+    "title" : "product.BCN-BRM.tabs1897.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "manadental starter kit",
-  "unit" : "Stk.",
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 10,
+    "id" : 529,
+    "lineHeight" : 1.1,
+    "position" : "top-left",
+    "text" : "FRESH cleanser for free",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH night care duo",
+  "unit" : "Set",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : 996,
-  "usp" : "product.MANA-SK.usp",
+  "unitId" : 43586,
+  "usp" : "product.BCN-BRM.usp",
   "values" : [ {
-    "iconMediaId" : 1097,
-    "name" : "value.value42.name"
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
   }, {
-    "iconMediaId" : 1088,
-    "name" : "value.value33.name"
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
   }, {
-    "iconMediaId" : 1117,
-    "name" : "value.value62.name"
-  }, {
-    "iconMediaId" : 1118,
-    "name" : "value.value63.name"
-  }, {
-    "iconMediaId" : 1119,
-    "name" : "value.value64.name"
-  }, {
-    "iconMediaId" : 1120,
-    "name" : "value.value65.name"
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
   } ],
   "variants" : [ ]
 }
