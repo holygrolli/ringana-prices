@@ -15,8 +15,8 @@
   "contentsAmount" : "1",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -240,7 +240,7 @@
     "text" : "",
     "title" : ""
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "straw bag",
   "tabs" : [ ],
   "teaserDots" : [ {
