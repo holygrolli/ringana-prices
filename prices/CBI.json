@@ -229,22 +229,22 @@
     "unitContents" : "g"
   } ],
   "imageGallery" : [ {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 244,
     "mediaId" : 449
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 246,
-    "mediaId" : 452
+    "mediaId" : 8128
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 249,
     "mediaId" : 453
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 251,
     "mediaId" : 2918

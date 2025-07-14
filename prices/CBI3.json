@@ -187,22 +187,22 @@
     "unitContents" : "g"
   } ],
   "imageGallery" : [ {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 205,
     "mediaId" : 388
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 206,
-    "mediaId" : 390
+    "mediaId" : 8128
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 207,
     "mediaId" : 391
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
     "id" : 208,
     "mediaId" : 2918
