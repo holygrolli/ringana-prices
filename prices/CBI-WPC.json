@@ -1,0 +1,244 @@
+{
+  "matchcode" : "CBI-WPC",
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 9,
+    "infoColorNeeded" : false,
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  } ],
+  "contentBlock" : null,
+  "contentsAmount" : null,
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "product.CBI-WPC.firstHeadline",
+  "id" : 3072,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : {
+      "entity" : 26,
+      "type" : 2
+    },
+    "contentsAmount" : "260",
+    "currency" : "eur",
+    "description" : "pack balancing",
+    "imageId" : 1145,
+    "matchcode" : "WPB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 190,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 49.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28
+      },
+      "partner" : {
+        "brutto" : 49.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "pack-balancing",
+    "title" : "FRESH pack balancing",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 26,
+      "type" : 2
+    },
+    "contentsAmount" : "260",
+    "currency" : "eur",
+    "description" : "pack antiox",
+    "imageId" : 1143,
+    "matchcode" : "WPA",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 269.6,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 70.11,
+        "bruttoWithoutDiscount" : 77.9,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-07-18T08:00:00Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 31.83
+      },
+      "partner" : {
+        "brutto" : 70.11,
+        "bruttoWithoutDiscount" : 77.9,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-07-18T08:00:00Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 31.83
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "pack-antiox",
+    "title" : "FRESH pack antiox",
+    "unitContents" : "g"
+  } ],
+  "imageGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4025,
+    "mediaId" : 5788
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
+  "isMerchandise" : false,
+  "maxPerCart" : 99999999,
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
+    "customer" : {
+      "brutto" : 148.86,
+      "bruttoWithoutDiscount" : 165.4,
+      "discountPercentage" : 10,
+      "discountUntil" : "2025-07-22T21:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 75.49
+    },
+    "partner" : {
+      "brutto" : 148.86,
+      "bruttoWithoutDiscount" : 165.4,
+      "discountPercentage" : 10,
+      "discountUntil" : "2025-07-22T21:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 75.49
+    }
+  },
+  "purchasePossible" : false,
+  "searchable" : true,
+  "secondHeadline" : "product.CBI-WPC.secondHeadline",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "CBI"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "WPC"
+  } ],
+  "shortDescription" : "product.CBI-WPC.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "happy-gut-duo",
+  "socialMedia" : {
+    "id" : 3072,
+    "imageId" : null,
+    "text" : "",
+    "title" : ""
+  },
+  "soldOut" : false,
+  "supplementDescription" : "",
+  "tabs" : [ {
+    "description" : "product.CBI-WPC.tabs3610.description",
+    "id" : 3610,
+    "showPrintButton" : false,
+    "title" : "product.CBI-WPC.tabs3610.title"
+  }, {
+    "description" : "product.CBI-WPC.tabs3611.description",
+    "id" : 3611,
+    "showPrintButton" : false,
+    "title" : "product.CBI-WPC.tabs3611.title"
+  }, {
+    "description" : "product.CBI-WPC.tabs3612.description",
+    "id" : 3612,
+    "showPrintButton" : false,
+    "title" : "product.CBI-WPC.tabs3612.title"
+  }, {
+    "description" : "product.CBI-WPC.tabs3613.description",
+    "id" : 3613,
+    "showPrintButton" : false,
+    "title" : "product.CBI-WPC.tabs3613.title"
+  } ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#000",
+    "borderColor" : "#000000",
+    "fontSize" : 9,
+    "id" : 232,
+    "lineHeight" : 1.2,
+    "position" : "top-right",
+    "text" : "LIVE SPECIAL",
+    "textColor" : "#fff"
+  } ],
+  "title" : "RINGANA happy gut duo",
+  "unit" : "Set",
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
+  "unitId" : 43586,
+  "usp" : "product.CBI-WPC.usp",
+  "values" : [ {
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
+  } ],
+  "variants" : [ ]
+}
