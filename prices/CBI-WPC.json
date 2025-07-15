@@ -15,8 +15,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -174,7 +174,7 @@
       "provisionPoints" : 75.49
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "product.CBI-WPC.secondHeadline",
   "setContents" : [ {
@@ -220,16 +220,7 @@
     "showPrintButton" : false,
     "title" : "product.CBI-WPC.tabs3613.title"
   } ],
-  "teaserDots" : [ {
-    "backgroundColor" : "#000",
-    "borderColor" : "#000000",
-    "fontSize" : 9,
-    "id" : 232,
-    "lineHeight" : 1.2,
-    "position" : "top-right",
-    "text" : "LIVE SPECIAL",
-    "textColor" : "#fff"
-  } ],
+  "teaserDots" : [ ],
   "title" : "RINGANA happy gut duo",
   "unit" : "Set",
   "unitContents" : "Set",

@@ -4,7 +4,11 @@
     "entity" : 42,
     "type" : 2
   },
-  "awards" : [ ],
+  "awards" : [ {
+    "imageId" : 1048,
+    "link" : "https://www.koelnerliste.com/en/",
+    "name" : "Kölner Liste"
+  } ],
   "blogPostIds" : [ 44933 ],
   "categories" : [ {
     "id" : 14,
