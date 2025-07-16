@@ -15,8 +15,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -51,10 +51,10 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 77.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 62.16,
+      "bruttoWithoutDiscount" : 77.7,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-07-31T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -62,13 +62,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 39.9
+      "provisionPoints" : 28.73
     },
     "partner" : {
-      "brutto" : 77.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 62.16,
+      "bruttoWithoutDiscount" : 77.7,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-07-31T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -76,10 +76,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 39.9
+      "provisionPoints" : 28.73
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -110,7 +110,7 @@
     "text" : "",
     "title" : "product.FSGS.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "summer glow",
   "tabs" : [ {
     "description" : "product.FSGS.tabs4208.description",
