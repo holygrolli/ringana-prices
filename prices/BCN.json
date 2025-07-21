@@ -68,7 +68,36 @@
     "slug" : "better-aging",
     "visible" : true
   } ],
-  "contentBlock" : null,
+  "contentBlock" : {
+    "buttonLink" : null,
+    "buttonText" : null,
+    "contentBlockItems" : [ {
+      "description" : null,
+      "id" : 298,
+      "link" : null,
+      "text" : "product.BCN.contentBlockItem1753081107606.text"
+    }, {
+      "description" : null,
+      "id" : 299,
+      "link" : null,
+      "text" : "product.BCN.contentBlockItem1753081107607.text"
+    }, {
+      "description" : null,
+      "id" : 300,
+      "link" : null,
+      "text" : "product.BCN.contentBlockItem1753081107608.text"
+    }, {
+      "description" : null,
+      "id" : 301,
+      "link" : null,
+      "text" : "product.BCN.contentBlockItem1753081107609.text"
+    } ],
+    "id" : 298,
+    "imageId" : 8227,
+    "imageLayoutLeft" : false,
+    "subtitle" : "product.BCN.contentBlock.subtitle",
+    "title" : "product.BCN.contentBlock.title"
+  },
   "contentsAmount" : "30",
   "countryIso" : "DE",
   "currency" : "eur",
