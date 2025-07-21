@@ -86,7 +86,36 @@
     "slug" : "fresh",
     "visible" : true
   } ],
-  "contentBlock" : null,
+  "contentBlock" : {
+    "buttonLink" : null,
+    "buttonText" : null,
+    "contentBlockItems" : [ {
+      "description" : null,
+      "id" : 302,
+      "link" : null,
+      "text" : "product.BHS.contentBlockItem1753100911805.text"
+    }, {
+      "description" : null,
+      "id" : 303,
+      "link" : null,
+      "text" : "product.BHS.contentBlockItem1753100911806.text"
+    }, {
+      "description" : null,
+      "id" : 304,
+      "link" : null,
+      "text" : "product.BHS.contentBlockItem1753100911807.text"
+    }, {
+      "description" : null,
+      "id" : 305,
+      "link" : null,
+      "text" : "product.BHS.contentBlockItem1753100911808.text"
+    } ],
+    "id" : 299,
+    "imageId" : 8228,
+    "imageLayoutLeft" : false,
+    "subtitle" : "product.BHS.contentBlock.subtitle",
+    "title" : "product.BHS.contentBlock.title"
+  },
   "contentsAmount" : "30",
   "countryIso" : "DE",
   "currency" : "eur",
