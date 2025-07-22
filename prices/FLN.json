@@ -60,6 +60,13 @@
     "primary" : false,
     "slug" : "lifting",
     "visible" : true
+  }, {
+    "id" : 430,
+    "infoColorNeeded" : false,
+    "name" : "category.category430.name",
+    "primary" : false,
+    "slug" : "timeless-beauty",
+    "visible" : true
   } ],
   "contentBlock" : {
     "buttonLink" : null,
