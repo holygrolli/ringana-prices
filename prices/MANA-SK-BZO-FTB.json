@@ -17,6 +17,13 @@
     "primary" : false,
     "slug" : "manadental",
     "visible" : true
+  }, {
+    "id" : 89,
+    "infoColorNeeded" : false,
+    "name" : "category.category89.name",
+    "primary" : false,
+    "slug" : "oral-hygiene",
+    "visible" : true
   } ],
   "contentBlock" : null,
   "contentsAmount" : null,

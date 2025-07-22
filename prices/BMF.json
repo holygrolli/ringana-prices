@@ -86,7 +86,41 @@
     "slug" : "step-5-moisturising",
     "visible" : true
   } ],
-  "contentBlock" : null,
+  "contentBlock" : {
+    "buttonLink" : null,
+    "buttonText" : null,
+    "contentBlockItems" : [ {
+      "description" : null,
+      "id" : 334,
+      "link" : null,
+      "text" : "product.BMF.contentBlockItem1753172407306.text"
+    }, {
+      "description" : null,
+      "id" : 335,
+      "link" : null,
+      "text" : "product.BMF.contentBlockItem1753172407307.text"
+    }, {
+      "description" : null,
+      "id" : 336,
+      "link" : null,
+      "text" : "product.BMF.contentBlockItem1753172407308.text"
+    }, {
+      "description" : null,
+      "id" : 337,
+      "link" : null,
+      "text" : "product.BMF.contentBlockItem1753172407309.text"
+    }, {
+      "description" : null,
+      "id" : 338,
+      "link" : null,
+      "text" : "product.BMF.contentBlockItem1753172407310.text"
+    } ],
+    "id" : 332,
+    "imageId" : 8261,
+    "imageLayoutLeft" : false,
+    "subtitle" : "product.BMF.contentBlock.subtitle",
+    "title" : "product.BMF.contentBlock.title"
+  },
   "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",

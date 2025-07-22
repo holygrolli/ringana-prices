@@ -75,7 +75,31 @@
     "slug" : "lifting",
     "visible" : true
   } ],
-  "contentBlock" : null,
+  "contentBlock" : {
+    "buttonLink" : null,
+    "buttonText" : null,
+    "contentBlockItems" : [ {
+      "description" : null,
+      "id" : 331,
+      "link" : null,
+      "text" : "product.BAS.contentBlockItem1753169963233.text"
+    }, {
+      "description" : null,
+      "id" : 332,
+      "link" : null,
+      "text" : "product.BAS.contentBlockItem1753169963234.text"
+    }, {
+      "description" : null,
+      "id" : 333,
+      "link" : null,
+      "text" : "product.BAS.contentBlockItem1753169963235.text"
+    } ],
+    "id" : 331,
+    "imageId" : 8260,
+    "imageLayoutLeft" : false,
+    "subtitle" : "product.BAS.contentBlock.subtitle",
+    "title" : "product.BAS.contentBlock.title"
+  },
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
