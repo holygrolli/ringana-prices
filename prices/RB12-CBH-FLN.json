@@ -1,18 +1,25 @@
 {
-  "matchcode" : "RREP",
+  "matchcode" : "RB12-CBH-FLN",
   "additionalUnitPrice" : null,
   "awards" : [ ],
   "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 16,
+    "id" : 9,
     "infoColorNeeded" : false,
-    "name" : "category.category16.name",
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  }, {
+    "id" : 430,
+    "infoColorNeeded" : false,
+    "name" : "category.category430.name",
     "primary" : false,
-    "slug" : "merchandise",
+    "slug" : "timeless-beauty",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : null,
+  "contentsAmount" : "1",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : "Ausverkauft",
@@ -23,29 +30,24 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
-  "id" : 3171,
+  "firstHeadline" : "product.RB12-CBH-FLN.firstHeadline",
+  "id" : 4227,
   "idealSupplements" : [ ],
   "imageGallery" : [ {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
-    "id" : 4260,
-    "mediaId" : 6915
+    "id" : 5776,
+    "mediaId" : 8297
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
-    "id" : 4488,
-    "mediaId" : 6916
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4489,
-    "mediaId" : 6917
+    "id" : 5777,
+    "mediaId" : 8296
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "maxPerCart" : 100,
+  "maxPerCart" : 99999999,
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {
@@ -56,7 +58,7 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 12.2,
+      "brutto" : 186,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -67,10 +69,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 96.1
     },
     "partner" : {
-      "brutto" : 12.2,
+      "brutto" : 186,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -81,44 +83,56 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 96.1
     }
   },
   "purchasePossible" : false,
   "searchable" : true,
-  "secondHeadline" : "",
-  "setContents" : [ ],
-  "shortDescription" : "product.RREP.shortDescription",
+  "secondHeadline" : "product.RB12-CBH-FLN.secondHeadline",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "RB12"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "CBH"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "FLN"
+  } ],
+  "shortDescription" : "product.RB12-CBH-FLN.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "ringana-reusable-eye-patches",
-  "socialMedia" : {
-    "id" : 3171,
-    "imageId" : 6917,
-    "text" : "",
-    "title" : "product.RREP.socialMedia.title"
-  },
+  "slug" : "timeless-beauty-set",
+  "socialMedia" : null,
   "soldOut" : true,
-  "supplementDescription" : "eye patches",
+  "supplementDescription" : "timeless beauty ",
   "tabs" : [ {
-    "description" : "product.RREP.tabs3709.description",
-    "id" : 3709,
+    "description" : "product.RB12-CBH-FLN.tabs1753258997805.description",
+    "id" : 4864,
     "showPrintButton" : false,
-    "title" : "product.RREP.tabs3709.title"
+    "title" : "product.RB12-CBH-FLN.tabs1753258997805.title"
   }, {
-    "description" : "product.RREP.tabs3710.description",
-    "id" : 3710,
+    "description" : "product.RB12-CBH-FLN.tabs1753258997806.description",
+    "id" : 4865,
     "showPrintButton" : false,
-    "title" : "product.RREP.tabs3710.title"
+    "title" : "product.RB12-CBH-FLN.tabs1753258997806.title"
+  }, {
+    "description" : "product.RB12-CBH-FLN.tabs1753258997807.description",
+    "id" : 4866,
+    "showPrintButton" : false,
+    "title" : "product.RB12-CBH-FLN.tabs1753258997807.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "RINGANA reusable eye patches",
-  "unit" : "Stk.",
-  "unitContents" : "Stk.",
-  "unitContentsId" : 996,
-  "unitId" : 996,
-  "usp" : "product.RREP.usp",
+  "title" : "RINGANA timeless beauty set",
+  "unit" : "Set",
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
+  "unitId" : 43586,
+  "usp" : "product.RB12-CBH-FLN.usp",
   "values" : [ ],
   "variants" : [ ]
 }

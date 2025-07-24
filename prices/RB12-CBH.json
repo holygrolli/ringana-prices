@@ -1,18 +1,25 @@
 {
-  "matchcode" : "RREP",
+  "matchcode" : "RB12-CBH",
   "additionalUnitPrice" : null,
   "awards" : [ ],
   "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 16,
+    "id" : 9,
     "infoColorNeeded" : false,
-    "name" : "category.category16.name",
+    "name" : "category.category9.name",
+    "primary" : true,
+    "slug" : "offers",
+    "visible" : true
+  }, {
+    "id" : 430,
+    "infoColorNeeded" : false,
+    "name" : "category.category430.name",
     "primary" : false,
-    "slug" : "merchandise",
+    "slug" : "timeless-beauty",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : null,
+  "contentsAmount" : "1",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : "Ausverkauft",
@@ -23,29 +30,24 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
-  "id" : 3171,
+  "firstHeadline" : "product.RB12-CBH.firstHeadline",
+  "id" : 4228,
   "idealSupplements" : [ ],
   "imageGallery" : [ {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
-    "id" : 4260,
-    "mediaId" : 6915
+    "id" : 5778,
+    "mediaId" : 8298
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
-    "id" : 4488,
-    "mediaId" : 6916
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4489,
-    "mediaId" : 6917
+    "id" : 5779,
+    "mediaId" : 8299
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "maxPerCart" : 100,
+  "maxPerCart" : 99999999,
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {
@@ -56,7 +58,7 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 12.2,
+      "brutto" : 114.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -67,10 +69,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 57.6
     },
     "partner" : {
-      "brutto" : 12.2,
+      "brutto" : 114.4,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -81,44 +83,52 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 57.6
     }
   },
   "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
-  "setContents" : [ ],
-  "shortDescription" : "product.RREP.shortDescription",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "RB12"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "CBH"
+  } ],
+  "shortDescription" : "product.RB12-CBH.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "ringana-reusable-eye-patches",
-  "socialMedia" : {
-    "id" : 3171,
-    "imageId" : 6917,
-    "text" : "",
-    "title" : "product.RREP.socialMedia.title"
-  },
+  "slug" : "inner-beauty-set",
+  "socialMedia" : null,
   "soldOut" : true,
-  "supplementDescription" : "eye patches",
+  "supplementDescription" : "inner beauty",
   "tabs" : [ {
-    "description" : "product.RREP.tabs3709.description",
-    "id" : 3709,
+    "description" : "product.RB12-CBH.tabs1753264341190.description",
+    "id" : 4867,
     "showPrintButton" : false,
-    "title" : "product.RREP.tabs3709.title"
+    "title" : "product.RB12-CBH.tabs1753264341190.title"
   }, {
-    "description" : "product.RREP.tabs3710.description",
-    "id" : 3710,
+    "description" : "product.RB12-CBH.tabs1753264341191.description",
+    "id" : 4868,
     "showPrintButton" : false,
-    "title" : "product.RREP.tabs3710.title"
+    "title" : "product.RB12-CBH.tabs1753264341191.title"
+  }, {
+    "description" : "product.RB12-CBH.tabs1753264341192.description",
+    "id" : 4869,
+    "showPrintButton" : false,
+    "title" : "product.RB12-CBH.tabs1753264341192.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "RINGANA reusable eye patches",
-  "unit" : "Stk.",
-  "unitContents" : "Stk.",
-  "unitContentsId" : 996,
-  "unitId" : 996,
-  "usp" : "product.RREP.usp",
+  "title" : "RINGANA inner beauty set",
+  "unit" : "Set",
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
+  "unitId" : 43586,
+  "usp" : "product.RB12-CBH.usp",
   "values" : [ ],
   "variants" : [ ]
 }
