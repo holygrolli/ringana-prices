@@ -51,6 +51,13 @@
     "slug" : "toning",
     "visible" : true
   }, {
+    "id" : 463,
+    "infoColorNeeded" : false,
+    "name" : "category.category463.name",
+    "primary" : false,
+    "slug" : "pregnancy-breastfeeding",
+    "visible" : true
+  }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",

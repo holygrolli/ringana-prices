@@ -30,6 +30,13 @@
     "slug" : "fresh",
     "visible" : true
   }, {
+    "id" : 463,
+    "infoColorNeeded" : false,
+    "name" : "category.category463.name",
+    "primary" : false,
+    "slug" : "pregnancy-breastfeeding",
+    "visible" : true
+  }, {
     "id" : 201,
     "infoColorNeeded" : false,
     "name" : "category.category201.name",
@@ -37,18 +44,18 @@
     "slug" : "step-3-toning",
     "visible" : true
   }, {
-    "id" : 86,
-    "infoColorNeeded" : false,
-    "name" : "category.category86.name",
-    "primary" : false,
-    "slug" : "combination-skin",
-    "visible" : true
-  }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
     "slug" : "facial-care",
+    "visible" : true
+  }, {
+    "id" : 86,
+    "infoColorNeeded" : false,
+    "name" : "category.category86.name",
+    "primary" : false,
+    "slug" : "combination-skin",
     "visible" : true
   }, {
     "id" : 85,

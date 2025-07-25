@@ -74,6 +74,13 @@
     "primary" : false,
     "slug" : "lifting",
     "visible" : true
+  }, {
+    "id" : 463,
+    "infoColorNeeded" : false,
+    "name" : "category.category463.name",
+    "primary" : false,
+    "slug" : "pregnancy-breastfeeding",
+    "visible" : true
   } ],
   "contentBlock" : {
     "buttonLink" : null,

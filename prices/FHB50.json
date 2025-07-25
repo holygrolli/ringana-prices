@@ -23,6 +23,13 @@
     "slug" : "body",
     "visible" : true
   }, {
+    "id" : 463,
+    "infoColorNeeded" : false,
+    "name" : "category.category463.name",
+    "primary" : false,
+    "slug" : "pregnancy-breastfeeding",
+    "visible" : true
+  }, {
     "id" : 17,
     "infoColorNeeded" : false,
     "name" : "category.category17.name",

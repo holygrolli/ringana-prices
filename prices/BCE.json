@@ -23,6 +23,13 @@
     "slug" : "face",
     "visible" : true
   }, {
+    "id" : 265,
+    "infoColorNeeded" : false,
+    "name" : "category.category265.name",
+    "primary" : false,
+    "slug" : "skincare-basics",
+    "visible" : false
+  }, {
     "id" : 203,
     "infoColorNeeded" : false,
     "name" : "category.category203.name",
@@ -72,12 +79,12 @@
     "slug" : "fresh",
     "visible" : true
   }, {
-    "id" : 265,
+    "id" : 463,
     "infoColorNeeded" : false,
-    "name" : "category.category265.name",
+    "name" : "category.category463.name",
     "primary" : false,
-    "slug" : "skincare-basics",
-    "visible" : false
+    "slug" : "pregnancy-breastfeeding",
+    "visible" : true
   } ],
   "contentBlock" : null,
   "contentsAmount" : "50",

@@ -23,6 +23,20 @@
     "slug" : "hair",
     "visible" : true
   }, {
+    "id" : 94,
+    "infoColorNeeded" : false,
+    "name" : "category.category94.name",
+    "primary" : false,
+    "slug" : "washing-care",
+    "visible" : true
+  }, {
+    "id" : 90,
+    "infoColorNeeded" : false,
+    "name" : "category.category90.name",
+    "primary" : false,
+    "slug" : "hair-care",
+    "visible" : true
+  }, {
     "id" : 79,
     "infoColorNeeded" : false,
     "name" : "category.category79.name",
@@ -44,18 +58,11 @@
     "slug" : "fresh",
     "visible" : true
   }, {
-    "id" : 94,
+    "id" : 463,
     "infoColorNeeded" : false,
-    "name" : "category.category94.name",
+    "name" : "category.category463.name",
     "primary" : false,
-    "slug" : "washing-care",
-    "visible" : true
-  }, {
-    "id" : 90,
-    "infoColorNeeded" : false,
-    "name" : "category.category90.name",
-    "primary" : false,
-    "slug" : "hair-care",
+    "slug" : "pregnancy-breastfeeding",
     "visible" : true
   } ],
   "contentBlock" : null,

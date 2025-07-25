@@ -30,6 +30,13 @@
     "slug" : "fresh",
     "visible" : true
   }, {
+    "id" : 463,
+    "infoColorNeeded" : false,
+    "name" : "category.category463.name",
+    "primary" : false,
+    "slug" : "pregnancy-breastfeeding",
+    "visible" : true
+  }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
@@ -66,6 +73,53 @@
   "firstHeadline" : "",
   "id" : 134,
   "idealSupplements" : [ {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "30",
+    "currency" : "eur",
+    "description" : "NUANCE1",
+    "imageId" : 642,
+    "matchcode" : "BTF",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1623.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 48.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.8
+      },
+      "partner" : {
+        "brutto" : 48.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.8
+      }
+    },
+    "purchasePossible" : false,
+    "slug" : "fresh-tinted-moisturiser",
+    "title" : "FRESH tinted moisturiser",
+    "unitContents" : "ml"
+  }, {
     "additionalUnitPrice" : null,
     "contentsAmount" : "125",
     "currency" : "eur",

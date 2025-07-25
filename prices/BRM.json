@@ -23,18 +23,18 @@
     "slug" : "face",
     "visible" : true
   }, {
-    "id" : 78,
-    "infoColorNeeded" : false,
-    "name" : "category.category78.name",
-    "primary" : false,
-    "slug" : "cleansing",
-    "visible" : true
-  }, {
     "id" : 199,
     "infoColorNeeded" : false,
     "name" : "category.category199.name",
     "primary" : false,
     "slug" : "step-1-cleansing",
+    "visible" : true
+  }, {
+    "id" : 78,
+    "infoColorNeeded" : false,
+    "name" : "category.category78.name",
+    "primary" : false,
+    "slug" : "cleansing",
     "visible" : true
   }, {
     "id" : 92,
@@ -51,18 +51,18 @@
     "slug" : "mature-skin",
     "visible" : true
   }, {
-    "id" : 82,
-    "infoColorNeeded" : false,
-    "name" : "category.category82.name",
-    "primary" : false,
-    "slug" : "dry-skin",
-    "visible" : true
-  }, {
     "id" : 86,
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
     "slug" : "combination-skin",
+    "visible" : true
+  }, {
+    "id" : 82,
+    "infoColorNeeded" : false,
+    "name" : "category.category82.name",
+    "primary" : false,
+    "slug" : "dry-skin",
     "visible" : true
   }, {
     "id" : 76,
@@ -84,6 +84,13 @@
     "name" : "category.category85.name",
     "primary" : false,
     "slug" : "sensitive-reddened-skin",
+    "visible" : true
+  }, {
+    "id" : 463,
+    "infoColorNeeded" : false,
+    "name" : "category.category463.name",
+    "primary" : false,
+    "slug" : "pregnancy-breastfeeding",
     "visible" : true
   } ],
   "contentBlock" : null,

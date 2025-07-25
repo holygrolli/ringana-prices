@@ -38,18 +38,18 @@
     "slug" : "fresh",
     "visible" : true
   }, {
-    "id" : 2,
-    "infoColorNeeded" : false,
-    "name" : "category.category2.name",
-    "primary" : false,
-    "slug" : "body",
-    "visible" : true
-  }, {
     "id" : 200,
     "infoColorNeeded" : false,
     "name" : "category.category200.name",
     "primary" : false,
     "slug" : "step-2-exfoliating",
+    "visible" : true
+  }, {
+    "id" : 2,
+    "infoColorNeeded" : false,
+    "name" : "category.category2.name",
+    "primary" : false,
+    "slug" : "body",
     "visible" : true
   }, {
     "id" : 93,
@@ -106,6 +106,13 @@
     "name" : "category.category76.name",
     "primary" : false,
     "slug" : "toning",
+    "visible" : true
+  }, {
+    "id" : 463,
+    "infoColorNeeded" : false,
+    "name" : "category.category463.name",
+    "primary" : false,
+    "slug" : "pregnancy-breastfeeding",
     "visible" : true
   } ],
   "contentBlock" : null,
