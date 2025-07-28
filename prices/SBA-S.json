@@ -36,8 +36,8 @@
   "contentsAmount" : "125",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 7485,
   "discountDate" : null,
@@ -255,7 +255,7 @@
       "provisionPoints" : 19.2
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -270,7 +270,7 @@
     "text" : "product.SBA-S.socialMedia.text",
     "title" : "product.SBA-S.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "after sun shine",
   "tabs" : [ {
     "description" : "product.SBA-S.tabs0.description",
