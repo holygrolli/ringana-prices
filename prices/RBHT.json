@@ -174,26 +174,29 @@
     "title" : "FRESH baby bum foam",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 94,
-    "mediaId" : 237
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4125,
-    "mediaId" : 5919
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 95,
-    "mediaId" : 238
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 123456789,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 94,
+    "mediaId" : 237,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4125,
+    "mediaId" : 5919,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 95,
+    "mediaId" : 238,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

@@ -177,16 +177,17 @@
     "title" : "CAPS beauty & hair",
     "unitContents" : "g"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 16,
-    "mediaId" : 5555
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 16,
+    "mediaId" : 5555,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

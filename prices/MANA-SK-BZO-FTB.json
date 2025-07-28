@@ -205,26 +205,29 @@
     "title" : "FRESH tooth balm",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : "blog/ringana-x-manadental/",
-    "id" : 2980,
-    "mediaId" : 4927
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 2981,
-    "mediaId" : 938
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 2982,
-    "mediaId" : 1256
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : "blog/ringana-x-manadental/",
+    "id" : 2980,
+    "mediaId" : 4927,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 2981,
+    "mediaId" : 938,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 2982,
+    "mediaId" : 1256,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {
@@ -238,7 +241,7 @@
       "brutto" : 251.1,
       "bruttoWithoutDiscount" : 279,
       "discountPercentage" : 10,
-      "discountUntil" : "2025-09-30T21:59:59Z",
+      "discountUntil" : "2025-07-30T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -252,7 +255,7 @@
       "brutto" : 251.1,
       "bruttoWithoutDiscount" : 279,
       "discountPercentage" : 10,
-      "discountUntil" : "2025-09-30T21:59:59Z",
+      "discountUntil" : "2025-07-30T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,

@@ -123,16 +123,17 @@
     "title" : "RINGANA Shaker Ball",
     "unitContents" : "Stk."
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 87,
-    "mediaId" : 6748
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 87,
+    "mediaId" : 6748,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

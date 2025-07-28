@@ -182,21 +182,23 @@
     "title" : "FRESH sunscreen",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 992,
-    "mediaId" : 1368
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 1024,
-    "mediaId" : 1398
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 992,
+    "mediaId" : 1368,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 1024,
+    "mediaId" : 1398,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

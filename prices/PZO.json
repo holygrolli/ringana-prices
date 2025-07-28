@@ -186,31 +186,35 @@
     "title" : "FRESH tooth balm",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 51,
-    "mediaId" : 2489
-  }, {
-    "caption" : "product.PZO.imageGallery2.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 52,
-    "mediaId" : 169
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 50,
-    "mediaId" : 1178
-  }, {
-    "caption" : "product.PZO.imageGallery3.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 53,
-    "mediaId" : 1177
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 51,
+    "mediaId" : 2489,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.PZO.imageGallery2.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 52,
+    "mediaId" : 169,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 50,
+    "mediaId" : 1178,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.PZO.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 53,
+    "mediaId" : 1177,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

@@ -207,31 +207,35 @@
     "title" : "FRESH body milk",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 374,
-    "mediaId" : 1168
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 375,
-    "mediaId" : 614
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 376,
-    "mediaId" : 1169
-  }, {
-    "caption" : "product.BDO.imageGallery3.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 377,
-    "mediaId" : 616
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 374,
+    "mediaId" : 1168,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 375,
+    "mediaId" : 614,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 376,
+    "mediaId" : 1169,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.BDO.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 377,
+    "mediaId" : 616,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

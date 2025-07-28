@@ -249,36 +249,41 @@
     "title" : "FRESH scrub face & body",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 476,
-    "mediaId" : 750
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 477,
-    "mediaId" : 5521
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 478,
-    "mediaId" : 753
-  }, {
-    "caption" : "product.BRM.imageGallery3.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 479,
-    "mediaId" : 754
-  }, {
-    "caption" : "product.BRM.imageGallery4.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 480,
-    "mediaId" : 755
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 476,
+    "mediaId" : 750,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 477,
+    "mediaId" : 5521,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 478,
+    "mediaId" : 753,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.BRM.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 479,
+    "mediaId" : 754,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.BRM.imageGallery4.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 480,
+    "mediaId" : 755,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

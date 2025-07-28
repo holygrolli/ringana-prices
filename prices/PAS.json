@@ -123,26 +123,29 @@
     "title" : "FRESH cleanser",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 770,
-    "mediaId" : 6281
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 811,
-    "mediaId" : 1219
-  }, {
-    "caption" : "product.PAS.imageGallery812.caption",
-    "captionLink" : "corporate/products/care-facts/",
-    "id" : 812,
-    "mediaId" : 1220
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 99999,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 770,
+    "mediaId" : 6281,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 811,
+    "mediaId" : 1219,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.PAS.imageGallery812.caption",
+    "captionLink" : "corporate/products/care-facts/",
+    "id" : 812,
+    "mediaId" : 1220,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

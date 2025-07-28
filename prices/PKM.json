@@ -207,31 +207,35 @@
     "title" : "FRESH overnight body treatment",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 71,
-    "mediaId" : 2493
-  }, {
-    "caption" : "product.PKM.imageGallery2.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 73,
-    "mediaId" : 1179
-  }, {
-    "caption" : "product.PKM.imageGallery72.caption",
-    "captionLink" : "corporate/products/care-facts",
-    "id" : 72,
-    "mediaId" : 7501
-  }, {
-    "caption" : "product.PKM.imageGallery1319.caption",
-    "captionLink" : "corporate/products/care-facts",
-    "id" : 1319,
-    "mediaId" : 7478
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 71,
+    "mediaId" : 2493,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.PKM.imageGallery2.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 73,
+    "mediaId" : 1179,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.PKM.imageGallery72.caption",
+    "captionLink" : "corporate/products/care-facts",
+    "id" : 72,
+    "mediaId" : 7501,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.PKM.imageGallery1319.caption",
+    "captionLink" : "corporate/products/care-facts",
+    "id" : 1319,
+    "mediaId" : 7478,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

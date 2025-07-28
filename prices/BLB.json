@@ -214,31 +214,35 @@
     "title" : "FRESH illuminating enzyme mask",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 403,
-    "mediaId" : 1159
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 404,
-    "mediaId" : 7013
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 405,
-    "mediaId" : 1160
-  }, {
-    "caption" : "product.BLB.imageGallery3.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 406,
-    "mediaId" : 663
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 403,
+    "mediaId" : 1159,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 404,
+    "mediaId" : 7013,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 405,
+    "mediaId" : 1160,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.BLB.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 406,
+    "mediaId" : 663,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

@@ -209,31 +209,35 @@
     "title" : "SPORT endurance",
     "unitContents" : "g"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4586,
-    "mediaId" : 7007
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4675,
-    "mediaId" : 7768
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4676,
-    "mediaId" : 7094
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4677,
-    "mediaId" : 7095
-  } ],
   "infoColor" : "#e8edef",
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 99999,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4586,
+    "mediaId" : 7007,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4675,
+    "mediaId" : 7768,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4676,
+    "mediaId" : 7094,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4677,
+    "mediaId" : 7095,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

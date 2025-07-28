@@ -26,21 +26,23 @@
   "firstHeadline" : "",
   "id" : 3932,
   "idealSupplements" : [ ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 5480,
-    "mediaId" : 7734
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 5481,
-    "mediaId" : 7735
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 5480,
+    "mediaId" : 7734,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 5481,
+    "mediaId" : 7735,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

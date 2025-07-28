@@ -165,26 +165,29 @@
     "title" : "FRESH hydro serum",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 67,
-    "mediaId" : 2497
-  }, {
-    "caption" : "product.PEP.imageGallery2.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 69,
-    "mediaId" : 190
-  }, {
-    "caption" : "product.PEP.imageGallery3.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 70,
-    "mediaId" : 191
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 67,
+    "mediaId" : 2497,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.PEP.imageGallery2.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 69,
+    "mediaId" : 190,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.PEP.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 70,
+    "mediaId" : 191,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

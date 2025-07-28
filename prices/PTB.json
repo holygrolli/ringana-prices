@@ -186,31 +186,35 @@
     "title" : "FRESH lip balm",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 776,
-    "mediaId" : 6284
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 794,
-    "mediaId" : 1190
-  }, {
-    "caption" : "product.PTB.imageGallery795.caption",
-    "captionLink" : "corporate/products/care-facts",
-    "id" : 795,
-    "mediaId" : 1176
-  }, {
-    "caption" : "product.PTB.imageGallery796.caption",
-    "captionLink" : "corporate/products/care-facts",
-    "id" : 796,
-    "mediaId" : 1177
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 99999,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 776,
+    "mediaId" : 6284,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 794,
+    "mediaId" : 1190,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.PTB.imageGallery795.caption",
+    "captionLink" : "corporate/products/care-facts",
+    "id" : 795,
+    "mediaId" : 1176,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.PTB.imageGallery796.caption",
+    "captionLink" : "corporate/products/care-facts",
+    "id" : 796,
+    "mediaId" : 1177,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

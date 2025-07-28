@@ -177,31 +177,35 @@
     "title" : "FRESH repair shampoo",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 176,
-    "mediaId" : 8034
-  }, {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 178,
-    "mediaId" : 349
-  }, {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 177,
-    "mediaId" : 347
-  }, {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 181,
-    "mediaId" : 1162
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 176,
+    "mediaId" : 8034,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 178,
+    "mediaId" : 349,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 177,
+    "mediaId" : 347,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 181,
+    "mediaId" : 1162,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

@@ -200,21 +200,23 @@
     "title" : "FRESH scrub face & body",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 1718,
-    "mediaId" : 7483
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 1722,
-    "mediaId" : 7482
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 1718,
+    "mediaId" : 7483,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 1722,
+    "mediaId" : 7482,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

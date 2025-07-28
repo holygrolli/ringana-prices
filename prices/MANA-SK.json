@@ -198,26 +198,29 @@
     "title" : "FRESH tooth balm",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "product.MANA-SK.imageGallery646.caption",
-    "captionLink" : "blog/ringana-x-manadental/",
-    "id" : 646,
-    "mediaId" : 3684
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 647,
-    "mediaId" : 938
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 648,
-    "mediaId" : 1256
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "product.MANA-SK.imageGallery646.caption",
+    "captionLink" : "blog/ringana-x-manadental/",
+    "id" : 646,
+    "mediaId" : 3684,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 647,
+    "mediaId" : 938,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 648,
+    "mediaId" : 1256,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

@@ -190,36 +190,41 @@
     "title" : "CAPS fem",
     "unitContents" : "g"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 701,
-    "mediaId" : 1130
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 228,
-    "mediaId" : 426
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 230,
-    "mediaId" : 427
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 233,
-    "mediaId" : 428
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 236,
-    "mediaId" : 5224
-  } ],
   "infoColor" : "#9bcbeb",
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 701,
+    "mediaId" : 1130,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 228,
+    "mediaId" : 426,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 230,
+    "mediaId" : 427,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 233,
+    "mediaId" : 428,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 236,
+    "mediaId" : 5224,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

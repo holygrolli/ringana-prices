@@ -214,26 +214,29 @@
     "title" : "FRESH deodorant pocket",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 340,
-    "mediaId" : 1164
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 341,
-    "mediaId" : 584
-  }, {
-    "caption" : "product.FHB50.imageGallery2.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 343,
-    "mediaId" : 585
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 340,
+    "mediaId" : 1164,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 341,
+    "mediaId" : 584,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.FHB50.imageGallery2.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 343,
+    "mediaId" : 585,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

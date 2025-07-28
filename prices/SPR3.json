@@ -106,31 +106,35 @@
     "title" : "RINGANAchi",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4628,
-    "mediaId" : 7082
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4672,
-    "mediaId" : 7096
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4673,
-    "mediaId" : 7097
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4674,
-    "mediaId" : 7098
-  } ],
   "infoColor" : "#e8edef",
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4628,
+    "mediaId" : 7082,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4672,
+    "mediaId" : 7096,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4673,
+    "mediaId" : 7097,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4674,
+    "mediaId" : 7098,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

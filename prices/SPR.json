@@ -163,31 +163,35 @@
     "title" : "SPORT push",
     "unitContents" : "g"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4588,
-    "mediaId" : 7014
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4669,
-    "mediaId" : 7096
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4670,
-    "mediaId" : 7097
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4671,
-    "mediaId" : 7098
-  } ],
   "infoColor" : "#e8edef",
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 99999,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4588,
+    "mediaId" : 7014,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4669,
+    "mediaId" : 7096,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4670,
+    "mediaId" : 7097,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4671,
+    "mediaId" : 7098,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

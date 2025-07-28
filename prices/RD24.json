@@ -187,36 +187,41 @@
     "title" : "CAPS hydro",
     "unitContents" : "g"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 37,
-    "mediaId" : 146
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 39,
-    "mediaId" : 148
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 38,
-    "mediaId" : 147
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 41,
-    "mediaId" : 150
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 42,
-    "mediaId" : 151
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 37,
+    "mediaId" : 146,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 39,
+    "mediaId" : 148,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 38,
+    "mediaId" : 147,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 41,
+    "mediaId" : 150,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 42,
+    "mediaId" : 151,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

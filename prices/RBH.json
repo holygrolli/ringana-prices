@@ -167,31 +167,35 @@
     "title" : "FRESH sunscreen face",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 1865,
-    "mediaId" : 2123
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 1866,
-    "mediaId" : 2124
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4388,
-    "mediaId" : 6709
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4389,
-    "mediaId" : 6710
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 1865,
+    "mediaId" : 2123,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 1866,
+    "mediaId" : 2124,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4388,
+    "mediaId" : 6709,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4389,
+    "mediaId" : 6710,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

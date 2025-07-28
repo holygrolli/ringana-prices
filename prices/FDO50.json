@@ -207,26 +207,29 @@
     "title" : "FRESH hand balm pocket",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 355,
-    "mediaId" : 1170
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 356,
-    "mediaId" : 619
-  }, {
-    "caption" : "product.FDO50.imageGallery3.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 361,
-    "mediaId" : 622
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 355,
+    "mediaId" : 1170,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 356,
+    "mediaId" : 619,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.FDO50.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 361,
+    "mediaId" : 622,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

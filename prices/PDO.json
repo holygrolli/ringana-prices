@@ -193,26 +193,29 @@
     "title" : "FRESH body milk",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 76,
-    "mediaId" : 2492
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 77,
-    "mediaId" : 194
-  }, {
-    "caption" : "product.PDO.imageGallery2.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 78,
-    "mediaId" : 195
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 76,
+    "mediaId" : 2492,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 77,
+    "mediaId" : 194,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.PDO.imageGallery2.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 78,
+    "mediaId" : 195,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

@@ -200,36 +200,41 @@
     "title" : "manadental starter kit",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 517,
-    "mediaId" : 4635
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 518,
-    "mediaId" : 801
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 519,
-    "mediaId" : 802
-  }, {
-    "caption" : "product.FTB.imageGallery3.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 520,
-    "mediaId" : 1176
-  }, {
-    "caption" : "product.FTB.imageGallery4.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 521,
-    "mediaId" : 1177
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 517,
+    "mediaId" : 4635,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 518,
+    "mediaId" : 801,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 519,
+    "mediaId" : 802,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.FTB.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 520,
+    "mediaId" : 1176,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.FTB.imageGallery4.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 521,
+    "mediaId" : 1177,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

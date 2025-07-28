@@ -258,36 +258,41 @@
     "title" : "FRESH hydro serum",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 3899,
-    "mediaId" : 5128
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 3900,
-    "mediaId" : 5191
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 3901,
-    "mediaId" : 5130
-  }, {
-    "caption" : "",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 3902,
-    "mediaId" : 5427
-  }, {
-    "caption" : "",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 3903,
-    "mediaId" : 5425
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3899,
+    "mediaId" : 5128,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3900,
+    "mediaId" : 5191,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3901,
+    "mediaId" : 5130,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 3902,
+    "mediaId" : 5427,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 3903,
+    "mediaId" : 5425,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

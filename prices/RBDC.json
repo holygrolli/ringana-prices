@@ -203,31 +203,35 @@
     "title" : "FRESH baby oil",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 287,
-    "mediaId" : 514
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 282,
-    "mediaId" : 6682
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 284,
-    "mediaId" : 512
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 290,
-    "mediaId" : 515
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 287,
+    "mediaId" : 514,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 282,
+    "mediaId" : 6682,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 284,
+    "mediaId" : 512,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 290,
+    "mediaId" : 515,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

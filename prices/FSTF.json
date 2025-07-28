@@ -207,36 +207,41 @@
     "title" : "FRESH baby tooth gel",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 285,
-    "mediaId" : 2848
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 291,
-    "mediaId" : 6680
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 288,
-    "mediaId" : 518
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 292,
-    "mediaId" : 520
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 293,
-    "mediaId" : 521
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 285,
+    "mediaId" : 2848,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 291,
+    "mediaId" : 6680,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 288,
+    "mediaId" : 518,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 292,
+    "mediaId" : 520,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 293,
+    "mediaId" : 521,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

@@ -214,31 +214,35 @@
     "title" : "FRESH light legs",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 334,
-    "mediaId" : 1165
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 335,
-    "mediaId" : 5525
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 336,
-    "mediaId" : 5257
-  }, {
-    "caption" : "product.BFB.imageGallery3.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 337,
-    "mediaId" : 581
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 334,
+    "mediaId" : 1165,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 335,
+    "mediaId" : 5525,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 336,
+    "mediaId" : 5257,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.BFB.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 337,
+    "mediaId" : 581,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

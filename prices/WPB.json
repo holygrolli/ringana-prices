@@ -146,31 +146,35 @@
     "title" : "FRESH packs ABC",
     "unitContents" : "g"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 156,
-    "mediaId" : 1145
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 157,
-    "mediaId" : 317
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 158,
-    "mediaId" : 318
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 159,
-    "mediaId" : 320
-  } ],
   "infoColor" : "#d4eb8e",
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 156,
+    "mediaId" : 1145,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 157,
+    "mediaId" : 317,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 158,
+    "mediaId" : 318,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 159,
+    "mediaId" : 320,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

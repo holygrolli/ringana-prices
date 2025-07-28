@@ -251,36 +251,41 @@
     "title" : "CAPS protect",
     "unitContents" : "g"
   } ],
-  "imageGallery" : [ {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 395,
-    "mediaId" : 8037
-  }, {
-    "caption" : "product.SSF.imageGallery3.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 396,
-    "mediaId" : 6546
-  }, {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 393,
-    "mediaId" : 6547
-  }, {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 394,
-    "mediaId" : 6548
-  }, {
-    "caption" : "product.SSF.imageGallery4.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 397,
-    "mediaId" : 6549
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 395,
+    "mediaId" : 8037,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.SSF.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 396,
+    "mediaId" : 6546,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 393,
+    "mediaId" : 6547,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 394,
+    "mediaId" : 6548,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.SSF.imageGallery4.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 397,
+    "mediaId" : 6549,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

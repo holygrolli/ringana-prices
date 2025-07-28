@@ -174,31 +174,35 @@
     "title" : "FRESH tooth oil",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 642,
-    "mediaId" : 943
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 644,
-    "mediaId" : 944
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 645,
-    "mediaId" : 945
-  }, {
-    "caption" : "",
-    "captionLink" : "corporate/products/care-facts",
-    "id" : 832,
-    "mediaId" : 1212
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 642,
+    "mediaId" : 943,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 644,
+    "mediaId" : 944,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 645,
+    "mediaId" : 945,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : "corporate/products/care-facts",
+    "id" : 832,
+    "mediaId" : 1212,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

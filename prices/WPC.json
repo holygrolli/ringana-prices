@@ -146,26 +146,29 @@
     "title" : "BEYOND biotic",
     "unitContents" : "g"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 153,
-    "mediaId" : 1146
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 154,
-    "mediaId" : 323
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 155,
-    "mediaId" : 325
-  } ],
   "infoColor" : "#f6eb61",
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 153,
+    "mediaId" : 1146,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 154,
+    "mediaId" : 323,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 155,
+    "mediaId" : 325,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

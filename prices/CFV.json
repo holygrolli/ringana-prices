@@ -94,6 +94,53 @@
     "unitContents" : "g"
   }, {
     "additionalUnitPrice" : null,
+    "contentsAmount" : "30",
+    "currency" : "eur",
+    "description" : "NUANCE1",
+    "imageId" : 642,
+    "matchcode" : "BTF",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1623.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 48.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.8
+      },
+      "partner" : {
+        "brutto" : 48.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 28.8
+      }
+    },
+    "purchasePossible" : false,
+    "slug" : "fresh-tinted-moisturiser",
+    "title" : "FRESH tinted moisturiser",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
     "contentsAmount" : "360",
     "currency" : "eur",
     "description" : "RINGANAisi",
@@ -140,26 +187,29 @@
     "title" : "RINGANAisi",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 240,
-    "mediaId" : 1156
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 242,
-    "mediaId" : 435
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 243,
-    "mediaId" : 1157
-  } ],
   "infoColor" : "#e9a2b2",
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 240,
+    "mediaId" : 1156,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 242,
+    "mediaId" : 435,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 243,
+    "mediaId" : 1157,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

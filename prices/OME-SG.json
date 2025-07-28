@@ -240,26 +240,29 @@
     "title" : "BEYOND spermidine",
     "unitContents" : "g"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 3101,
-    "mediaId" : 3413
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 3102,
-    "mediaId" : 3412
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 3103,
-    "mediaId" : 3805
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3101,
+    "mediaId" : 3413,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3102,
+    "mediaId" : 3412,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3103,
+    "mediaId" : 3805,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

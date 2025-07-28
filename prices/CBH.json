@@ -219,31 +219,35 @@
     "title" : "FRESH skin perfection",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 257,
-    "mediaId" : 8033
-  }, {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 252,
-    "mediaId" : 456
-  }, {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 253,
-    "mediaId" : 457
-  }, {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 255,
-    "mediaId" : 1162
-  } ],
   "infoColor" : "#c5b4e3",
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 257,
+    "mediaId" : 8033,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 252,
+    "mediaId" : 456,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 253,
+    "mediaId" : 457,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 255,
+    "mediaId" : 1162,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

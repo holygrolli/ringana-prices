@@ -248,41 +248,47 @@
     "title" : "FRESH skin perfection",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 3914,
-    "mediaId" : 773
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 3915,
-    "mediaId" : 5125
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 3917,
-    "mediaId" : 5127
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 3916,
-    "mediaId" : 5983
-  }, {
-    "caption" : "",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 3918,
-    "mediaId" : 5428
-  }, {
-    "caption" : "",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 3919,
-    "mediaId" : 5429
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3914,
+    "mediaId" : 773,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3915,
+    "mediaId" : 5125,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3917,
+    "mediaId" : 5127,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3916,
+    "mediaId" : 5983,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 3918,
+    "mediaId" : 5428,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 3919,
+    "mediaId" : 5429,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

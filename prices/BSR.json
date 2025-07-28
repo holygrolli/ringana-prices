@@ -226,31 +226,35 @@
     "title" : "FRESH soap liquid",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 320,
-    "mediaId" : 546
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 321,
-    "mediaId" : 5260
-  }, {
-    "caption" : "product.BSR.imageGallery2.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 322,
-    "mediaId" : 548
-  }, {
-    "caption" : "product.BSR.imageGallery3.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 323,
-    "mediaId" : 549
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 320,
+    "mediaId" : 546,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 321,
+    "mediaId" : 5260,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.BSR.imageGallery2.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 322,
+    "mediaId" : 548,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.BSR.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 323,
+    "mediaId" : 549,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

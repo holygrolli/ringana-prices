@@ -211,31 +211,35 @@
     "title" : "FRESH baby bum cream",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 283,
-    "mediaId" : 507
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 286,
-    "mediaId" : 6677
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 281,
-    "mediaId" : 506
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 289,
-    "mediaId" : 510
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 123456789,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 283,
+    "mediaId" : 507,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 286,
+    "mediaId" : 6677,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 281,
+    "mediaId" : 506,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 289,
+    "mediaId" : 510,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

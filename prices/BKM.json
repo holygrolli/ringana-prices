@@ -221,41 +221,47 @@
     "title" : "FRESH foot balm",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 369,
-    "mediaId" : 606
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 370,
-    "mediaId" : 1179
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 371,
-    "mediaId" : 609
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 760,
-    "mediaId" : 1174
-  }, {
-    "caption" : "product.BKM.imageGallery3.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 372,
-    "mediaId" : 7501
-  }, {
-    "caption" : "product.BKM.imageGallery4.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 373,
-    "mediaId" : 7478
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 369,
+    "mediaId" : 606,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 370,
+    "mediaId" : 1179,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 371,
+    "mediaId" : 609,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 760,
+    "mediaId" : 1174,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.BKM.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 372,
+    "mediaId" : 7501,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.BKM.imageGallery4.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 373,
+    "mediaId" : 7478,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

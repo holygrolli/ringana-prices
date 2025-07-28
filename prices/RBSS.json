@@ -222,26 +222,29 @@
     "title" : "RINGANA baby hooded towel",
     "unitContents" : null
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 1385,
-    "mediaId" : 2849
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 1687,
-    "mediaId" : 2157
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 1894,
-    "mediaId" : 2155
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 1385,
+    "mediaId" : 2849,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 1687,
+    "mediaId" : 2157,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 1894,
+    "mediaId" : 2155,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

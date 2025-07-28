@@ -33,21 +33,23 @@
   "firstHeadline" : "product.RB12-CBH-FLN.firstHeadline",
   "id" : 4227,
   "idealSupplements" : [ ],
-  "imageGallery" : [ {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 5776,
-    "mediaId" : 8297
-  }, {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 5777,
-    "mediaId" : 8296
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 99999999,
+  "mediaGallery" : [ {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 5776,
+    "mediaId" : 8297,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 5777,
+    "mediaId" : 8296,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

@@ -203,36 +203,41 @@
     "title" : "FRESH after sun & tan booster",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 216,
-    "mediaId" : 1124
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 213,
-    "mediaId" : 399
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 215,
-    "mediaId" : 3937
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 217,
-    "mediaId" : 403
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 218,
-    "mediaId" : 404
-  } ],
   "infoColor" : "#fbd872",
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 216,
+    "mediaId" : 1124,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 213,
+    "mediaId" : 399,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 215,
+    "mediaId" : 3937,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 217,
+    "mediaId" : 403,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 218,
+    "mediaId" : 404,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

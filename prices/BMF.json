@@ -276,36 +276,41 @@
     "title" : "FRESH hydro serum",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 414,
-    "mediaId" : 668
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 411,
-    "mediaId" : 5359
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 413,
-    "mediaId" : 667
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 409,
-    "mediaId" : 665
-  }, {
-    "caption" : "product.BMF.imageGallery4.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 416,
-    "mediaId" : 669
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 414,
+    "mediaId" : 668,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 411,
+    "mediaId" : 5359,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 413,
+    "mediaId" : 667,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 409,
+    "mediaId" : 665,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.BMF.imageGallery4.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 416,
+    "mediaId" : 669,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

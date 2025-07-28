@@ -224,31 +224,35 @@
     "title" : "FRESH repair shampoo",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 303,
-    "mediaId" : 4466
-  }, {
-    "caption" : "product.FHT.imageGallery4.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 307,
-    "mediaId" : 4168
-  }, {
-    "caption" : "",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 306,
-    "mediaId" : 1263
-  }, {
-    "caption" : "product.FHT.imageGallery304.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 304,
-    "mediaId" : 4234
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 303,
+    "mediaId" : 4466,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.FHT.imageGallery4.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 307,
+    "mediaId" : 4168,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 306,
+    "mediaId" : 1263,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.FHT.imageGallery304.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 304,
+    "mediaId" : 4234,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

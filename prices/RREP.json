@@ -15,8 +15,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -26,26 +26,29 @@
   "firstHeadline" : "",
   "id" : 3171,
   "idealSupplements" : [ ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4260,
-    "mediaId" : 6915
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4488,
-    "mediaId" : 6916
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4489,
-    "mediaId" : 6917
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4260,
+    "mediaId" : 6915,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4488,
+    "mediaId" : 6916,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4489,
+    "mediaId" : 6917,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {
@@ -84,7 +87,7 @@
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -99,7 +102,7 @@
     "text" : "",
     "title" : "product.RREP.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "eye patches",
   "tabs" : [ {
     "description" : "product.RREP.tabs3709.description",

@@ -167,26 +167,29 @@
     "title" : "FRESH tooth balm",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 851,
-    "mediaId" : 1260
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 852,
-    "mediaId" : 1261
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 853,
-    "mediaId" : 1262
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 851,
+    "mediaId" : 1260,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 852,
+    "mediaId" : 1261,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 853,
+    "mediaId" : 1262,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

@@ -174,26 +174,29 @@
     "title" : "FRESH baby cream",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 1583,
-    "mediaId" : 2092
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 1860,
-    "mediaId" : 2093
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 1861,
-    "mediaId" : 2094
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 123456789,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 1583,
+    "mediaId" : 2092,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 1860,
+    "mediaId" : 2093,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 1861,
+    "mediaId" : 2094,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

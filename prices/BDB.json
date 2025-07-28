@@ -233,31 +233,35 @@
     "title" : "FRESH volume shampoo",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 365,
-    "mediaId" : 600
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 366,
-    "mediaId" : 6711
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 367,
-    "mediaId" : 2919
-  }, {
-    "caption" : "product.BDB.imageGallery3.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 368,
-    "mediaId" : 605
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 365,
+    "mediaId" : 600,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 366,
+    "mediaId" : 6711,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 367,
+    "mediaId" : 2919,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.BDB.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 368,
+    "mediaId" : 605,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

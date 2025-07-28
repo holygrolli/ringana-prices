@@ -207,36 +207,41 @@
     "title" : "FRESH baby tooth gel",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 298,
-    "mediaId" : 502
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 297,
-    "mediaId" : 6681
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 299,
-    "mediaId" : 503
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 300,
-    "mediaId" : 504
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 301,
-    "mediaId" : 505
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 298,
+    "mediaId" : 502,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 297,
+    "mediaId" : 6681,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 299,
+    "mediaId" : 503,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 300,
+    "mediaId" : 504,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 301,
+    "mediaId" : 505,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

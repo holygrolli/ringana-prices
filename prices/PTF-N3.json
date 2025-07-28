@@ -278,31 +278,35 @@
     "title" : "FRESH eye serum",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4981,
-    "mediaId" : 7372
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 5280,
-    "mediaId" : 7443
-  }, {
-    "caption" : "product.PTF-N3.imageGallery4985.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 4985,
-    "mediaId" : 7442
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 5446,
-    "mediaId" : 7606
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4981,
+    "mediaId" : 7372,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 5280,
+    "mediaId" : 7443,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.PTF-N3.imageGallery4985.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 4985,
+    "mediaId" : 7442,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 5446,
+    "mediaId" : 7606,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

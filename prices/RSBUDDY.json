@@ -176,26 +176,29 @@
     "title" : "FRESH pack balancing",
     "unitContents" : "g"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 92,
-    "mediaId" : 220
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 3235,
-    "mediaId" : 4138
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4553,
-    "mediaId" : 6974
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 92,
+    "mediaId" : 220,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 3235,
+    "mediaId" : 4138,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4553,
+    "mediaId" : 6974,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

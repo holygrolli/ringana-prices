@@ -200,26 +200,29 @@
     "title" : "FRESH pack cleansing",
     "unitContents" : "g"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 232,
-    "mediaId" : 422
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 235,
-    "mediaId" : 1932
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 229,
-    "mediaId" : 4895
-  } ],
   "infoColor" : "#d4c304",
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 232,
+    "mediaId" : 422,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 235,
+    "mediaId" : 1932,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 229,
+    "mediaId" : 4895,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

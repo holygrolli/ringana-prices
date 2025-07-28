@@ -262,41 +262,47 @@
     "title" : "FRESH cleanser",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 429,
-    "mediaId" : 707
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 430,
-    "mediaId" : 710
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 432,
-    "mediaId" : 712
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 434,
-    "mediaId" : 713
-  }, {
-    "caption" : "product.BAS.imageGallery431.caption",
-    "captionLink" : "blog/eye-care-yes-please/",
-    "id" : 431,
-    "mediaId" : 711
-  }, {
-    "caption" : "product.BAS.imageGallery5.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 436,
-    "mediaId" : 714
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 429,
+    "mediaId" : 707,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 430,
+    "mediaId" : 710,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 432,
+    "mediaId" : 712,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 434,
+    "mediaId" : 713,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.BAS.imageGallery431.caption",
+    "captionLink" : "blog/eye-care-yes-please/",
+    "id" : 431,
+    "mediaId" : 711,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.BAS.imageGallery5.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 436,
+    "mediaId" : 714,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

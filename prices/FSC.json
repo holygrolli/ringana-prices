@@ -282,41 +282,47 @@
     "title" : "FRESH hydro serum",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 423,
-    "mediaId" : 8035
-  }, {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 426,
-    "mediaId" : 5490
-  }, {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 425,
-    "mediaId" : 690
-  }, {
-    "caption" : null,
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 427,
-    "mediaId" : 692
-  }, {
-    "caption" : "product.FSC.imageGallery424.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 424,
-    "mediaId" : 689
-  }, {
-    "caption" : "product.FSC.imageGallery5.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 428,
-    "mediaId" : 693
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 423,
+    "mediaId" : 8035,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 426,
+    "mediaId" : 5490,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 425,
+    "mediaId" : 690,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 427,
+    "mediaId" : 692,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.FSC.imageGallery424.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 424,
+    "mediaId" : 689,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.FSC.imageGallery5.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 428,
+    "mediaId" : 693,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

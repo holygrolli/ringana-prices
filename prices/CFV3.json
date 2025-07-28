@@ -180,26 +180,29 @@
     "title" : "RINGANAisi",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 184,
-    "mediaId" : 1158
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 187,
-    "mediaId" : 366
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 185,
-    "mediaId" : 1157
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 184,
+    "mediaId" : 1158,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 187,
+    "mediaId" : 366,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 185,
+    "mediaId" : 1157,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

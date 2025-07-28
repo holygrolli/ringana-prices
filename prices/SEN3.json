@@ -167,31 +167,35 @@
     "title" : "SPORT protein",
     "unitContents" : "g"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4623,
-    "mediaId" : 7080
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4663,
-    "mediaId" : 7093
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4664,
-    "mediaId" : 7091
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 4665,
-    "mediaId" : 7092
-  } ],
   "infoColor" : "#e8edef",
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4623,
+    "mediaId" : 7080,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4663,
+    "mediaId" : 7093,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4664,
+    "mediaId" : 7091,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 4665,
+    "mediaId" : 7092,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

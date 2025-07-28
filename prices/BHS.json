@@ -278,36 +278,41 @@
     "title" : "FRESH cleanser",
     "unitContents" : "ml"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 2904,
-    "mediaId" : 1123
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 2905,
-    "mediaId" : 3817
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 2906,
-    "mediaId" : 3607
-  }, {
-    "caption" : "",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 2907,
-    "mediaId" : 5431
-  }, {
-    "caption" : "",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
-    "id" : 2908,
-    "mediaId" : 5423
-  } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 2904,
+    "mediaId" : 1123,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 2905,
+    "mediaId" : 3817,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 2906,
+    "mediaId" : 3607,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 2907,
+    "mediaId" : 5431,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
+    "id" : 2908,
+    "mediaId" : 5423,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {

@@ -146,31 +146,35 @@
     "title" : "BEYOND omega",
     "unitContents" : "g"
   } ],
-  "imageGallery" : [ {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 149,
-    "mediaId" : 1143
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 150,
-    "mediaId" : 310
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 151,
-    "mediaId" : 311
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 152,
-    "mediaId" : 312
-  } ],
   "infoColor" : "#ffa06a",
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 149,
+    "mediaId" : 1143,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 150,
+    "mediaId" : 310,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 151,
+    "mediaId" : 311,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 152,
+    "mediaId" : 312,
+    "mediaType" : "image"
+  } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {
