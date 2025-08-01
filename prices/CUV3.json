@@ -7,11 +7,11 @@
   "awards" : [ ],
   "blogPostIds" : [ 175774, 137378, 176347 ],
   "categories" : [ {
-    "id" : 9,
+    "id" : 496,
     "infoColorNeeded" : false,
-    "name" : "category.category9.name",
+    "name" : "category.category496.name",
     "primary" : true,
-    "slug" : "offers",
+    "slug" : "sets",
     "visible" : true
   }, {
     "id" : 99,

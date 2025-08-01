@@ -25,6 +25,13 @@
     "slug" : "sport-essentials",
     "visible" : true
   }, {
+    "id" : 496,
+    "infoColorNeeded" : false,
+    "name" : "category.category496.name",
+    "primary" : false,
+    "slug" : "sets",
+    "visible" : true
+  }, {
     "id" : 99,
     "infoColorNeeded" : false,
     "name" : "category.category99.name",

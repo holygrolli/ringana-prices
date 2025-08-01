@@ -4,11 +4,11 @@
   "awards" : [ ],
   "blogPostIds" : [ 44933, 181125, 191456 ],
   "categories" : [ {
-    "id" : 9,
+    "id" : 496,
     "infoColorNeeded" : false,
-    "name" : "category.category9.name",
+    "name" : "category.category496.name",
     "primary" : true,
-    "slug" : "offers",
+    "slug" : "sets",
     "visible" : true
   }, {
     "id" : 98,
@@ -96,15 +96,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 90.9,
+        "brutto" : 101,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 18.18,
-        "bruttoWithoutDiscount" : 20.2,
-        "discountPercentage" : 10,
-        "discountUntil" : "2025-07-31T21:59:59Z",
+        "brutto" : 20.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -112,13 +112,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 9.31
+        "provisionPoints" : 11.5
       },
       "partner" : {
-        "brutto" : 18.18,
-        "bruttoWithoutDiscount" : 20.2,
-        "discountPercentage" : 10,
-        "discountUntil" : "2025-07-31T21:59:59Z",
+        "brutto" : 20.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -126,7 +126,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 9.31
+        "provisionPoints" : 11.5
       }
     },
     "purchasePossible" : true,

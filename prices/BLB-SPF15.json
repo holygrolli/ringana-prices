@@ -24,18 +24,18 @@
   } ],
   "blogPostIds" : [ 190187 ],
   "categories" : [ {
+    "id" : 497,
+    "infoColorNeeded" : false,
+    "name" : "category.category497.name",
+    "primary" : true,
+    "slug" : "specials",
+    "visible" : true
+  }, {
     "id" : 7,
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
-    "primary" : true,
-    "slug" : "face",
-    "visible" : true
-  }, {
-    "id" : 9,
-    "infoColorNeeded" : false,
-    "name" : "category.category9.name",
     "primary" : false,
-    "slug" : "offers",
+    "slug" : "face",
     "visible" : true
   }, {
     "id" : 463,
@@ -281,7 +281,7 @@
     "fontSize" : 9,
     "id" : 4,
     "lineHeight" : 1.4,
-    "position" : "top-left",
+    "position" : "top-right",
     "text" : "LIMITED EDITION",
     "textColor" : "#ffffff"
   } ],

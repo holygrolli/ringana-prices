@@ -4,18 +4,11 @@
   "awards" : [ ],
   "blogPostIds" : [ 142151, 190187, 142093 ],
   "categories" : [ {
-    "id" : 9,
+    "id" : 497,
     "infoColorNeeded" : false,
-    "name" : "category.category9.name",
+    "name" : "category.category497.name",
     "primary" : true,
-    "slug" : "offers",
-    "visible" : true
-  }, {
-    "id" : 17,
-    "infoColorNeeded" : false,
-    "name" : "category.category17.name",
-    "primary" : false,
-    "slug" : "fresh",
+    "slug" : "specials",
     "visible" : true
   }, {
     "id" : 463,
@@ -23,6 +16,13 @@
     "name" : "category.category463.name",
     "primary" : false,
     "slug" : "pregnancy-breastfeeding",
+    "visible" : true
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "slug" : "fresh",
     "visible" : true
   }, {
     "id" : 2,
@@ -293,7 +293,16 @@
     "showPrintButton" : false,
     "title" : "product.SBA-S.tabs3.title"
   } ],
-  "teaserDots" : [ ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 9,
+    "id" : 4,
+    "lineHeight" : 1.4,
+    "position" : "top-right",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  } ],
   "title" : "FRESH after sun shine & tan booster",
   "unit" : null,
   "unitContents" : "ml",

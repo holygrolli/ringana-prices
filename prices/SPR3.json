@@ -11,6 +11,13 @@
   } ],
   "blogPostIds" : [ ],
   "categories" : [ {
+    "id" : 496,
+    "infoColorNeeded" : false,
+    "name" : "category.category496.name",
+    "primary" : true,
+    "slug" : "sets",
+    "visible" : true
+  }, {
     "id" : 99,
     "infoColorNeeded" : false,
     "name" : "category.category99.name",

@@ -1,42 +1,26 @@
 {
-  "matchcode" : "CCB",
-  "additionalUnitPrice" : {
-    "entity" : 90,
-    "type" : 1
-  },
-  "awards" : [ ],
+  "matchcode" : "BSR-LE-CP",
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "imageId" : 1049,
+    "link" : "https://www.lacon-institut.com/en/philosophy/",
+    "name" : "Lacon"
+  }, {
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  } ],
   "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 3,
+    "id" : 497,
     "infoColorNeeded" : false,
-    "name" : "category.category3.name",
+    "name" : "category.category497.name",
     "primary" : true,
-    "slug" : "caps",
-    "visible" : true
-  }, {
-    "id" : 18,
-    "infoColorNeeded" : false,
-    "name" : "category.category18.name",
-    "primary" : false,
-    "slug" : "supplements",
-    "visible" : true
-  }, {
-    "id" : 74,
-    "infoColorNeeded" : false,
-    "name" : "category.category74.name",
-    "primary" : false,
-    "slug" : "better-aging",
-    "visible" : true
-  }, {
-    "id" : 70,
-    "infoColorNeeded" : false,
-    "name" : "category.category70.name",
-    "primary" : false,
-    "slug" : "mental-strength",
+    "slug" : "specials",
     "visible" : true
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "50",
+  "contentsAmount" : "100",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
@@ -46,75 +30,29 @@
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
-  "faqs" : [ ],
-  "firstHeadline" : "product.CCB.firstHeadline",
-  "id" : 89,
+  "faqs" : [ {
+    "answer" : "product.BSR-LE-CP.faqs0.answer",
+    "id" : 846,
+    "question" : "product.BSR-LE-CP.faqs0.question"
+  } ],
+  "firstHeadline" : "product.BSR-LE-CP.firstHeadline",
+  "id" : 2116,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : 90,
-      "type" : 1
-    },
-    "contentsAmount" : "41,7",
-    "currency" : "eur",
-    "description" : "CAPS moodoo",
-    "imageId" : 1137,
-    "matchcode" : "CMO",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 1386,
-        "unit" : "g",
-        "unitId" : 812
-      },
-      "customer" : {
-        "brutto" : 57.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 33.1
-      },
-      "partner" : {
-        "brutto" : 57.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 33.1
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "caps-moodoo",
-    "title" : "CAPS moodoo",
-    "unitContents" : "g"
-  }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "360",
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "RINGANAchi",
-    "imageId" : 252,
-    "matchcode" : "RE12",
+    "description" : "hand balm",
+    "imageId" : 572,
+    "matchcode" : "BHB",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 138.3,
+        "brutto" : 196,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 49.8,
+        "brutto" : 24.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -125,10 +63,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 27
+        "provisionPoints" : 13.7
       },
       "partner" : {
-        "brutto" : 49.8,
+        "brutto" : 24.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -139,32 +77,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 27
+        "provisionPoints" : 13.7
       }
     },
     "purchasePossible" : true,
-    "slug" : "ringanachi",
-    "title" : "RINGANAchi",
+    "slug" : "fresh-hand-balm",
+    "title" : "FRESH hand balm",
     "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : 60,
-      "type" : 1
-    },
-    "contentsAmount" : "50",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "200",
     "currency" : "eur",
-    "description" : "BEYOND omega",
-    "imageId" : 3413,
-    "matchcode" : "OME-SG",
+    "description" : "scrub",
+    "imageId" : 8035,
+    "matchcode" : "FSC",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1772,
-        "unit" : "g",
-        "unitId" : 812
+        "brutto" : 238,
+        "unit" : "ml",
+        "unitId" : 827
       },
       "customer" : {
-        "brutto" : 88.6,
+        "brutto" : 47.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -175,10 +110,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 49.6
+        "provisionPoints" : 29
       },
       "partner" : {
-        "brutto" : 88.6,
+        "brutto" : 47.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -189,35 +124,70 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 49.6
+        "provisionPoints" : 29
       }
     },
     "purchasePossible" : true,
-    "slug" : "beyond-omega",
-    "title" : "BEYOND omega",
-    "unitContents" : "g"
+    "slug" : "fresh-scrub",
+    "title" : "FRESH scrub face & body",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "200",
+    "currency" : "eur",
+    "description" : "body milk",
+    "imageId" : 606,
+    "matchcode" : "BKM",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 189.5,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 37.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 21.1
+      },
+      "partner" : {
+        "brutto" : 37.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 21.1
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-body-milk",
+    "title" : "FRESH body milk",
+    "unitContents" : "ml"
   } ],
-  "infoColor" : "#d48bc8",
+  "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "maxPerCart" : 100,
+  "maxPerCart" : 99999,
   "mediaGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 703,
-    "mediaId" : 1132,
-    "mediaType" : "image"
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 237,
-    "mediaId" : 1931,
-    "mediaType" : "image"
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 234,
-    "mediaId" : 1927,
+    "id" : 2871,
+    "mediaId" : 3677,
     "mediaType" : "image"
   } ],
   "nemBackgroundColor" : null,
@@ -225,15 +195,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 1104,
+      "brutto" : 87.2,
       "unit" : "g",
       "unitId" : 812
     },
     "customer" : {
-      "brutto" : 55.2,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 8.72,
+      "bruttoWithoutDiscount" : 10.9,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-08-01T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -241,13 +211,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 30.6
+      "provisionPoints" : 3.6
     },
     "partner" : {
-      "brutto" : 55.2,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 8.72,
+      "bruttoWithoutDiscount" : 10.9,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-08-01T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -255,101 +225,72 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 30.6
+      "provisionPoints" : 3.6
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
-  "shortDescription" : "product.CCB.shortDescription",
+  "shortDescription" : "product.BSR-LE-CP.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "caps-cerebro",
+  "slug" : "fresh-soap-chai-scrub",
   "socialMedia" : {
-    "id" : 90,
-    "imageId" : 1924,
-    "text" : "product.CCB.socialMedia.text",
-    "title" : "product.CCB.socialMedia.title"
+    "id" : 2116,
+    "imageId" : 3677,
+    "text" : "product.BSR-LE-CP.socialMedia.text",
+    "title" : "product.BSR-LE-CP.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "CAPS cerebro",
+  "supplementDescription" : "chai & scrub",
   "tabs" : [ {
-    "description" : "product.CCB.tabs0.description",
-    "id" : 340,
+    "description" : "product.BSR-LE-CP.tabs2554.description",
+    "id" : 2554,
     "showPrintButton" : false,
-    "title" : "product.CCB.tabs0.title"
+    "title" : "product.BSR-LE-CP.tabs2554.title"
   }, {
-    "description" : "product.CCB.tabs1.description",
-    "id" : 341,
-    "showPrintButton" : true,
-    "title" : "product.CCB.tabs1.title"
-  }, {
-    "description" : "product.CCB.tabs2.description",
-    "id" : 343,
+    "description" : "product.BSR-LE-CP.tabs2555.description",
+    "id" : 2555,
     "showPrintButton" : false,
-    "title" : "product.CCB.tabs2.title"
+    "title" : "product.BSR-LE-CP.tabs2555.title"
   }, {
-    "description" : "product.CCB.tabs3.description",
-    "id" : 345,
+    "description" : "product.BSR-LE-CP.tabs2556.description",
+    "id" : 2556,
     "showPrintButton" : false,
-    "title" : "product.CCB.tabs3.title"
+    "title" : "product.BSR-LE-CP.tabs2556.title"
+  }, {
+    "description" : "product.BSR-LE-CP.tabs2557.description",
+    "id" : 2557,
+    "showPrintButton" : false,
+    "title" : "product.BSR-LE-CP.tabs2557.title"
   } ],
   "teaserDots" : [ {
     "backgroundColor" : "#000000",
     "borderColor" : "#000000",
-    "fontSize" : 10,
-    "id" : 3,
-    "lineHeight" : 1.3,
-    "position" : "top-left",
-    "text" : "New Formu-lation",
+    "fontSize" : 9,
+    "id" : 4,
+    "lineHeight" : 1.4,
+    "position" : "top-right",
+    "text" : "LIMITED EDITION",
     "textColor" : "#ffffff"
   } ],
-  "title" : "CAPS cerebro",
-  "unit" : "Pck.",
+  "title" : "FRESH soap chai & scrub",
+  "unit" : "Stk.",
   "unitContents" : "g",
   "unitContentsId" : 812,
-  "unitId" : 43589,
-  "usp" : "product.CCB.usp",
+  "unitId" : 996,
+  "usp" : "product.BSR-LE-CP.usp",
   "values" : [ {
-    "iconMediaId" : 1075,
-    "name" : "value.value20.name"
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
   }, {
-    "iconMediaId" : 1063,
-    "name" : "value.value8.name"
+    "iconMediaId" : 1069,
+    "name" : "value.value14.name"
   }, {
-    "iconMediaId" : 1112,
-    "name" : "value.value57.name"
-  }, {
-    "iconMediaId" : 1061,
-    "name" : "value.value6.name"
-  }, {
-    "iconMediaId" : 1080,
-    "name" : "value.value25.name"
-  }, {
-    "iconMediaId" : 1121,
-    "name" : "value.value66.name"
+    "iconMediaId" : 1057,
+    "name" : "value.value2.name"
   } ],
-  "variants" : [ {
-    "color" : null,
-    "id" : 151,
-    "language" : null,
-    "matchcode" : "CCB",
-    "name" : null,
-    "size" : 90,
-    "slug" : "caps-cerebro",
-    "type" : 2,
-    "unit" : 1
-  }, {
-    "color" : null,
-    "id" : 153,
-    "language" : null,
-    "matchcode" : "CCB3",
-    "name" : null,
-    "size" : 270,
-    "slug" : "caps-cerebro-set",
-    "type" : 2,
-    "unit" : 1
-  } ]
+  "variants" : [ ]
 }
