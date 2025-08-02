@@ -4,11 +4,11 @@
   "awards" : [ ],
   "blogPostIds" : [ 178302, 178339, 125090 ],
   "categories" : [ {
-    "id" : 496,
+    "id" : 9,
     "infoColorNeeded" : false,
-    "name" : "category.category496.name",
+    "name" : "category.category9.name",
     "primary" : true,
-    "slug" : "sets",
+    "slug" : "offers",
     "visible" : true
   }, {
     "id" : 98,
