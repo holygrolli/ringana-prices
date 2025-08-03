@@ -36,8 +36,8 @@
   "contentsAmount" : "360",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6315,
   "discountDate" : null,
@@ -267,7 +267,7 @@
       "provisionPoints" : 24.7
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -282,7 +282,7 @@
     "text" : "product.RD12.socialMedia.text",
     "title" : "product.RD12.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "RINGANAdea",
   "tabs" : [ {
     "description" : "product.RD12.tabs0.description",
