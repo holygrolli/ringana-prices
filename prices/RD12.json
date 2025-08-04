@@ -36,8 +36,8 @@
   "contentsAmount" : "360",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6315,
   "discountDate" : null,
@@ -234,15 +234,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 138.6,
+      "brutto" : 173.3,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 49.92,
-      "bruttoWithoutDiscount" : 62.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-08-03T21:59:59Z",
+      "brutto" : 62.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -250,13 +250,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 24.7
+      "provisionPoints" : 34.3
     },
     "partner" : {
-      "brutto" : 49.92,
-      "bruttoWithoutDiscount" : 62.4,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-08-03T21:59:59Z",
+      "brutto" : 62.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -264,10 +264,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 24.7
+      "provisionPoints" : 34.3
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -282,7 +282,7 @@
     "text" : "product.RD12.socialMedia.text",
     "title" : "product.RD12.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "RINGANAdea",
   "tabs" : [ {
     "description" : "product.RD12.tabs0.description",
