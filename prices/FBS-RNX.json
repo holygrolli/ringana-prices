@@ -15,8 +15,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -50,7 +50,7 @@
       "brutto" : 127.12,
       "bruttoWithoutDiscount" : 158.9,
       "discountPercentage" : 20,
-      "discountUntil" : "2025-08-05T21:59:59Z",
+      "discountUntil" : "2025-08-06T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -64,7 +64,7 @@
       "brutto" : 127.12,
       "bruttoWithoutDiscount" : 158.9,
       "discountPercentage" : 20,
-      "discountUntil" : "2025-08-05T21:59:59Z",
+      "discountUntil" : "2025-08-06T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -75,7 +75,7 @@
       "provisionPoints" : 53.71
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -110,7 +110,7 @@
     "text" : "",
     "title" : ""
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "beach set",
   "tabs" : [ {
     "description" : "product.FBS-RNX.tabs0.description",
