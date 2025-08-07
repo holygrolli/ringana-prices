@@ -22,8 +22,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -207,10 +207,10 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 31.84,
-      "bruttoWithoutDiscount" : 39.8,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-08-06T21:59:59Z",
+      "brutto" : 39.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -221,10 +221,10 @@
       "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 31.84,
-      "bruttoWithoutDiscount" : 39.8,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-08-06T21:59:59Z",
+      "brutto" : 39.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -235,7 +235,7 @@
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -250,7 +250,7 @@
     "text" : "product.RBHT.socialMedia.text",
     "title" : "product.RBHT.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "",
   "tabs" : [ {
     "description" : "product.RBHT.tabs0.description",

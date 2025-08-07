@@ -87,10 +87,10 @@
         "unitId" : null
       },
       "customer" : {
-        "brutto" : 31.84,
-        "bruttoWithoutDiscount" : 39.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-08-06T21:59:59Z",
+        "brutto" : 39.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -101,10 +101,10 @@
         "provisionPoints" : 0
       },
       "partner" : {
-        "brutto" : 31.84,
-        "bruttoWithoutDiscount" : 39.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-08-06T21:59:59Z",
+        "brutto" : 39.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -115,7 +115,7 @@
         "provisionPoints" : 0
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "ringana-baby-hooded-towel",
     "title" : "RINGANA baby hooded towel",
     "unitContents" : null
@@ -137,7 +137,7 @@
         "brutto" : 7.28,
         "bruttoWithoutDiscount" : 9.1,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-08-06T21:59:59Z",
+        "discountUntil" : "2025-08-07T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -151,7 +151,7 @@
         "brutto" : 7.28,
         "bruttoWithoutDiscount" : 9.1,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-08-06T21:59:59Z",
+        "discountUntil" : "2025-08-07T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
