@@ -68,7 +68,7 @@
         "provisionPoints" : 0
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "ringana-baby-muslin-bib",
     "title" : "RINGANA baby muslin bib",
     "unitContents" : null
