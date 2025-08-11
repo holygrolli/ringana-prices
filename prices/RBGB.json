@@ -27,100 +27,6 @@
   "id" : 333,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : null,
-    "currency" : "eur",
-    "description" : "",
-    "imageId" : 793,
-    "matchcode" : "RBMB",
-    "priceInformation" : {
-      "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
-      },
-      "customer" : {
-        "brutto" : 8.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 0
-      },
-      "partner" : {
-        "brutto" : 8.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 0
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "ringana-baby-muslin-bib",
-    "title" : "RINGANA baby muslin bib",
-    "unitContents" : null
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : null,
-    "currency" : "eur",
-    "description" : "",
-    "imageId" : 237,
-    "matchcode" : "RBHT",
-    "priceInformation" : {
-      "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
-      },
-      "customer" : {
-        "brutto" : 39.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 0
-      },
-      "partner" : {
-        "brutto" : 39.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 0
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "ringana-baby-hooded-towel",
-    "title" : "RINGANA baby hooded towel",
-    "unitContents" : null
-  }, {
-    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
     "currency" : "eur",
     "description" : "FRESH BABY",
@@ -137,7 +43,7 @@
         "brutto" : 7.28,
         "bruttoWithoutDiscount" : 9.1,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-08-10T21:59:59Z",
+        "discountUntil" : "2025-08-11T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -151,7 +57,7 @@
         "brutto" : 7.28,
         "bruttoWithoutDiscount" : 9.1,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-08-10T21:59:59Z",
+        "discountUntil" : "2025-08-11T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,

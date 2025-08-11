@@ -39,8 +39,8 @@
   "contentsAmount" : "3120",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -199,7 +199,7 @@
       "provisionPoints" : 246.3
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -230,7 +230,7 @@
     "text" : "product.WP3.socialMedia.text",
     "title" : "product.WP3.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "FRESH PACKS",
   "tabs" : [ {
     "description" : "product.WP3.tabs0.description",

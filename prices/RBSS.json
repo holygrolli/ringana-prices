@@ -174,53 +174,6 @@
     "slug" : "fresh-baby-cream",
     "title" : "FRESH baby cream",
     "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : null,
-    "currency" : "eur",
-    "description" : "",
-    "imageId" : 237,
-    "matchcode" : "RBHT",
-    "priceInformation" : {
-      "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
-      },
-      "customer" : {
-        "brutto" : 39.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 0
-      },
-      "partner" : {
-        "brutto" : 39.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 0
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "ringana-baby-hooded-towel",
-    "title" : "RINGANA baby hooded towel",
-    "unitContents" : null
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
@@ -258,7 +211,7 @@
       "brutto" : 15.68,
       "bruttoWithoutDiscount" : 19.6,
       "discountPercentage" : 20,
-      "discountUntil" : "2025-08-10T21:59:59Z",
+      "discountUntil" : "2025-08-11T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -272,7 +225,7 @@
       "brutto" : 15.68,
       "bruttoWithoutDiscount" : 19.6,
       "discountPercentage" : 20,
-      "discountUntil" : "2025-08-10T21:59:59Z",
+      "discountUntil" : "2025-08-11T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,

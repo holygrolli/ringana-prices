@@ -91,7 +91,7 @@
         "provisionPoints" : 86.4
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "packs-abc",
     "title" : "FRESH packs ABC",
     "unitContents" : "g"
