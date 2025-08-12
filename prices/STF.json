@@ -177,7 +177,7 @@
         "brutto" : 16.32,
         "bruttoWithoutDiscount" : 20.4,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-08-11T21:59:59Z",
+        "discountUntil" : "2025-08-12T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -191,7 +191,7 @@
         "brutto" : 16.32,
         "bruttoWithoutDiscount" : 20.4,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-08-11T21:59:59Z",
+        "discountUntil" : "2025-08-12T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -249,7 +249,7 @@
       "brutto" : 8.72,
       "bruttoWithoutDiscount" : 10.9,
       "discountPercentage" : 20,
-      "discountUntil" : "2025-08-11T21:59:59Z",
+      "discountUntil" : "2025-08-12T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -263,7 +263,7 @@
       "brutto" : 8.72,
       "bruttoWithoutDiscount" : 10.9,
       "discountPercentage" : 20,
-      "discountUntil" : "2025-08-11T21:59:59Z",
+      "discountUntil" : "2025-08-12T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
