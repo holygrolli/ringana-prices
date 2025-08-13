@@ -86,7 +86,41 @@
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   } ],
-  "contentBlock" : null,
+  "contentBlock" : {
+    "buttonLink" : null,
+    "buttonText" : null,
+    "contentBlockItems" : [ {
+      "description" : null,
+      "id" : 463,
+      "link" : null,
+      "text" : "product.BCL.contentBlockItem1755085681101.text"
+    }, {
+      "description" : null,
+      "id" : 464,
+      "link" : null,
+      "text" : "product.BCL.contentBlockItem1755085681102.text"
+    }, {
+      "description" : null,
+      "id" : 465,
+      "link" : null,
+      "text" : "product.BCL.contentBlockItem1755085681103.text"
+    }, {
+      "description" : null,
+      "id" : 466,
+      "link" : null,
+      "text" : "product.BCL.contentBlockItem1755085681104.text"
+    }, {
+      "description" : null,
+      "id" : 467,
+      "link" : null,
+      "text" : "product.BCL.contentBlockItem1755085681106.text"
+    } ],
+    "id" : 463,
+    "imageId" : 8690,
+    "imageLayoutLeft" : true,
+    "subtitle" : "product.BCL.contentBlock.subtitle",
+    "title" : "product.BCL.contentBlock.title"
+  },
   "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",
