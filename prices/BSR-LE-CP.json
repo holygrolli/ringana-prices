@@ -23,8 +23,8 @@
   "contentsAmount" : "100",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -228,7 +228,7 @@
       "provisionPoints" : 3.6
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -243,7 +243,7 @@
     "text" : "product.BSR-LE-CP.socialMedia.text",
     "title" : "product.BSR-LE-CP.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "chai & scrub",
   "tabs" : [ {
     "description" : "product.BSR-LE-CP.tabs2554.description",
