@@ -26,8 +26,8 @@
   "contentsAmount" : "200",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -228,15 +228,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 118,
+      "brutto" : 147.5,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 23.6,
-      "bruttoWithoutDiscount" : 29.5,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-08-17T21:59:59Z",
+      "brutto" : 29.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -244,13 +244,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 11.52
+      "provisionPoints" : 16
     },
     "partner" : {
-      "brutto" : 23.6,
-      "bruttoWithoutDiscount" : 29.5,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-08-17T21:59:59Z",
+      "brutto" : 29.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -258,10 +258,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 11.52
+      "provisionPoints" : 16
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -276,7 +276,7 @@
     "text" : "product.FTLL.socialMedia.text",
     "title" : "product.FTLL.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "mana liquid",
   "tabs" : [ {
     "description" : "product.FTLL.tabs0.description",
