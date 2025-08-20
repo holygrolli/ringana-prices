@@ -56,7 +56,7 @@
         "brutto" : 62.32,
         "bruttoWithoutDiscount" : 77.9,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-08-19T21:59:59Z",
+        "discountUntil" : "2025-08-20T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -70,7 +70,7 @@
         "brutto" : 62.32,
         "bruttoWithoutDiscount" : 77.9,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-08-19T21:59:59Z",
+        "discountUntil" : "2025-08-20T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -98,15 +98,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 2927.2,
+        "brutto" : 3659,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 76.4,
-        "bruttoWithoutDiscount" : 95.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-08-19T21:59:59Z",
+        "brutto" : 95.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -114,13 +114,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 38.74
+        "provisionPoints" : 53.8
       },
       "partner" : {
-        "brutto" : 76.4,
-        "bruttoWithoutDiscount" : 95.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-08-19T21:59:59Z",
+        "brutto" : 95.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -128,7 +128,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 38.74
+        "provisionPoints" : 53.8
       }
     },
     "purchasePossible" : true,
