@@ -67,8 +67,8 @@
   "contentsAmount" : "37,1",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -286,7 +286,7 @@
       "provisionPoints" : 32.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -301,7 +301,7 @@
     "text" : "product.CBH.socialMedia.text",
     "title" : "product.CBH.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "beauty & hair",
   "tabs" : [ {
     "description" : "product.CBH.tabs0.description",

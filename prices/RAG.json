@@ -164,7 +164,7 @@
         "provisionPoints" : 32.6
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "caps-beautyhair",
     "title" : "CAPS beauty & hair",
     "unitContents" : "g"
