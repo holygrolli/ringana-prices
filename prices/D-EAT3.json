@@ -149,7 +149,7 @@
         "provisionPoints" : 0
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "ringana-shaker-buddy",
     "title" : "RINGANA shaker buddy",
     "unitContents" : "Stk."

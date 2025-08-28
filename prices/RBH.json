@@ -15,8 +15,8 @@
   "contentsAmount" : "1",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -209,7 +209,7 @@
       "brutto" : 19.6,
       "bruttoWithoutDiscount" : 24.5,
       "discountPercentage" : 20,
-      "discountUntil" : "2025-08-27T21:59:59Z",
+      "discountUntil" : "2025-08-28T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -223,7 +223,7 @@
       "brutto" : 19.6,
       "bruttoWithoutDiscount" : 24.5,
       "discountPercentage" : 20,
-      "discountUntil" : "2025-08-27T21:59:59Z",
+      "discountUntil" : "2025-08-28T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -234,7 +234,7 @@
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -249,7 +249,7 @@
     "text" : "",
     "title" : ""
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "bucket hat",
   "tabs" : [ ],
   "teaserDots" : [ ],
