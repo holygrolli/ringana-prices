@@ -11,6 +11,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category3.name",
     "primary" : true,
+    "productCount" : 13,
     "slug" : "caps",
     "visible" : true
   }, {
@@ -18,6 +19,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category18.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "supplements",
     "visible" : true
   }, {
@@ -25,6 +27,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category91.name",
     "primary" : false,
+    "productCount" : 10,
     "slug" : "suncare",
     "visible" : true
   }, {
@@ -32,6 +35,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category80.name",
     "primary" : false,
+    "productCount" : 11,
     "slug" : "anti-pollution",
     "visible" : true
   } ],
@@ -79,7 +83,7 @@
         "brutto" : 39.04,
         "bruttoWithoutDiscount" : 48.8,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -93,7 +97,7 @@
         "brutto" : 39.04,
         "bruttoWithoutDiscount" : 48.8,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -173,7 +177,7 @@
         "brutto" : 26.8,
         "bruttoWithoutDiscount" : 33.5,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -187,7 +191,7 @@
         "brutto" : 26.8,
         "bruttoWithoutDiscount" : 33.5,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -294,21 +298,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS protect",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.CSV.tabs0.description",
     "id" : 324,
     "showPrintButton" : false,
     "title" : "product.CSV.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CSV.tabs1.description",
     "id" : 325,
     "showPrintButton" : true,
     "title" : "product.CSV.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CSV.tabs2.description",
     "id" : 326,
     "showPrintButton" : false,
     "title" : "product.CSV.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CSV.tabs3.description",
     "id" : 327,
     "showPrintButton" : false,

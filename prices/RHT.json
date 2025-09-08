@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category16.name",
     "primary" : true,
+    "productCount" : 15,
     "slug" : "merchandise",
     "visible" : true
   } ],
@@ -99,11 +100,13 @@
   "soldOut" : false,
   "supplementDescription" : "towel",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RHT.tabs3643.description",
     "id" : 3643,
     "showPrintButton" : false,
     "title" : "product.RHT.tabs3643.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RHT.tabs3644.description",
     "id" : 3644,
     "showPrintButton" : false,

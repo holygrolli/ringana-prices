@@ -20,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true
   }, {
@@ -27,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category84.name",
     "primary" : false,
+    "productCount" : 18,
     "slug" : "impure-skin",
     "visible" : true
   }, {
@@ -34,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category83.name",
     "primary" : false,
+    "productCount" : 20,
     "slug" : "oily-skin",
     "visible" : true
   }, {
@@ -41,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category201.name",
     "primary" : false,
+    "productCount" : 2,
     "slug" : "step-3-toning",
     "visible" : true
   }, {
@@ -48,6 +52,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category76.name",
     "primary" : false,
+    "productCount" : 13,
     "slug" : "toning",
     "visible" : true
   }, {
@@ -55,6 +60,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   }, {
@@ -62,6 +68,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true
   }, {
@@ -69,6 +76,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
+    "productCount" : 25,
     "slug" : "combination-skin",
     "visible" : true
   }, {
@@ -76,6 +84,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   } ],
@@ -326,21 +335,25 @@
   "soldOut" : false,
   "supplementDescription" : "tonic pure",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.BGS.tabs0.description",
     "id" : 496,
     "showPrintButton" : false,
     "title" : "product.BGS.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BGS.tabs1.description",
     "id" : 498,
     "showPrintButton" : true,
     "title" : "product.BGS.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BGS.tabs2.description",
     "id" : 501,
     "showPrintButton" : false,
     "title" : "product.BGS.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BGS.tabs3.description",
     "id" : 503,
     "showPrintButton" : false,

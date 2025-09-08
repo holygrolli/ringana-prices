@@ -11,6 +11,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category496.name",
     "primary" : true,
+    "productCount" : 37,
     "slug" : "sets",
     "visible" : true
   }, {
@@ -18,6 +19,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category99.name",
     "primary" : false,
+    "productCount" : 24,
     "slug" : "supplement-sets",
     "visible" : true
   } ],
@@ -269,21 +271,25 @@
   "soldOut" : false,
   "supplementDescription" : "spermidine",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.CSP3.tabs0.description",
     "id" : 302,
     "showPrintButton" : false,
     "title" : "product.CSP3.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CSP3.tabs1.description",
     "id" : 305,
     "showPrintButton" : true,
     "title" : "product.CSP3.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CSP3.tabs2.description",
     "id" : 306,
     "showPrintButton" : false,
     "title" : "product.CSP3.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CSP3.tabs3.description",
     "id" : 307,
     "showPrintButton" : false,

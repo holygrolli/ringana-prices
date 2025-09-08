@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category16.name",
     "primary" : true,
+    "productCount" : 15,
     "slug" : "merchandise",
     "visible" : true
   } ],
@@ -111,11 +112,13 @@
   "soldOut" : false,
   "supplementDescription" : "",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RSLJ-ES.tabs0.description",
     "id" : 1234,
     "showPrintButton" : false,
     "title" : "product.RSLJ-ES.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RSLJ-ES.tabs1.description",
     "id" : 1235,
     "showPrintButton" : false,

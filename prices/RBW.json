@@ -20,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category15.name",
     "primary" : true,
+    "productCount" : 9,
     "slug" : "fresh-baby",
     "visible" : true
   } ],
@@ -298,21 +299,25 @@
   "soldOut" : false,
   "supplementDescription" : "FRESH BABY",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RBW.tabs0.description",
     "id" : 411,
     "showPrintButton" : false,
     "title" : "product.RBW.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RBW.tabs1.description",
     "id" : 412,
     "showPrintButton" : true,
     "title" : "product.RBW.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RBW.tabs2.description",
     "id" : 413,
     "showPrintButton" : false,
     "title" : "product.RBW.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RBW.tabs3.description",
     "id" : 414,
     "showPrintButton" : false,

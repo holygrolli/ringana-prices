@@ -28,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category2.name",
     "primary" : true,
+    "productCount" : 16,
     "slug" : "body",
     "visible" : true
   }, {
@@ -35,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   }, {
@@ -42,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category91.name",
     "primary" : false,
+    "productCount" : 10,
     "slug" : "suncare",
     "visible" : true
   } ],
@@ -132,7 +135,7 @@
         "brutto" : 26.8,
         "bruttoWithoutDiscount" : 33.5,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -146,7 +149,7 @@
         "brutto" : 26.8,
         "bruttoWithoutDiscount" : 33.5,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -260,7 +263,7 @@
       "brutto" : 39.04,
       "bruttoWithoutDiscount" : 48.8,
       "discountPercentage" : 20,
-      "discountUntil" : "2025-09-09T21:59:59Z",
+      "discountUntil" : "2025-09-30T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -274,7 +277,7 @@
       "brutto" : 39.04,
       "bruttoWithoutDiscount" : 48.8,
       "discountPercentage" : 20,
-      "discountUntil" : "2025-09-09T21:59:59Z",
+      "discountUntil" : "2025-09-30T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -303,21 +306,25 @@
   "soldOut" : false,
   "supplementDescription" : "sunscreen",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.BSB.tabs1810.description",
     "id" : 1810,
     "showPrintButton" : false,
     "title" : "product.BSB.tabs1810.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BSB.tabs1811.description",
     "id" : 1811,
     "showPrintButton" : false,
     "title" : "product.BSB.tabs1811.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BSB.tabs1812.description",
     "id" : 1812,
     "showPrintButton" : false,
     "title" : "product.BSB.tabs1812.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BSB.tabs1813.description",
     "id" : 1813,
     "showPrintButton" : false,

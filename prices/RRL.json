@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category12.name",
     "primary" : false,
+    "productCount" : 1,
     "slug" : "products",
     "visible" : true
   } ],

@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category16.name",
     "primary" : false,
+    "productCount" : 15,
     "slug" : "merchandise",
     "visible" : true
   } ],
@@ -105,11 +106,13 @@
   "soldOut" : false,
   "supplementDescription" : "eye patches",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RREP.tabs3709.description",
     "id" : 3709,
     "showPrintButton" : false,
     "title" : "product.RREP.tabs3709.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RREP.tabs3710.description",
     "id" : 3710,
     "showPrintButton" : false,

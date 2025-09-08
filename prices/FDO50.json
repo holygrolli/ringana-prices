@@ -20,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category2.name",
     "primary" : true,
+    "productCount" : 16,
     "slug" : "body",
     "visible" : true
   }, {
@@ -27,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   }, {
@@ -34,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   }, {
@@ -41,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category93.name",
     "primary" : false,
+    "productCount" : 14,
     "slug" : "body-care",
     "visible" : true
   }, {
@@ -48,6 +52,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category87.name",
     "primary" : false,
+    "productCount" : 14,
     "slug" : "sport-essentials",
     "visible" : true
   } ],
@@ -286,21 +291,25 @@
   "soldOut" : false,
   "supplementDescription" : "pocket",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.FDO50.tabs0.description",
     "id" : 479,
     "showPrintButton" : false,
     "title" : "product.FDO50.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FDO50.tabs1.description",
     "id" : 480,
     "showPrintButton" : true,
     "title" : "product.FDO50.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FDO50.tabs2.description",
     "id" : 481,
     "showPrintButton" : false,
     "title" : "product.FDO50.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FDO50.tabs3.description",
     "id" : 482,
     "showPrintButton" : false,

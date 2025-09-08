@@ -28,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category497.name",
     "primary" : true,
+    "productCount" : 4,
     "slug" : "specials",
     "visible" : true
   }, {
@@ -35,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : false,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true
   }, {
@@ -42,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   }, {
@@ -49,6 +52,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true
   }, {
@@ -56,6 +60,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category91.name",
     "primary" : false,
+    "productCount" : 10,
     "slug" : "suncare",
     "visible" : true
   }, {
@@ -63,6 +68,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "dry-skin",
     "visible" : true
   }, {
@@ -70,6 +76,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
+    "productCount" : 31,
     "slug" : "hydrating",
     "visible" : true
   } ],
@@ -77,8 +84,8 @@
   "contentsAmount" : "5",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -152,7 +159,7 @@
         "brutto" : 39.04,
         "bruttoWithoutDiscount" : 48.8,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -166,7 +173,7 @@
         "brutto" : 39.04,
         "bruttoWithoutDiscount" : 48.8,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -237,7 +244,7 @@
       "provisionPoints" : 7.7
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -252,24 +259,28 @@
     "text" : "product.BLB-SPF15.socialMedia.text",
     "title" : "product.BLB-SPF15.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "lip balm spf",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.BLB-SPF15.tabs0.description",
     "id" : 906,
     "showPrintButton" : false,
     "title" : "product.BLB-SPF15.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BLB-SPF15.tabs1.description",
     "id" : 907,
     "showPrintButton" : false,
     "title" : "product.BLB-SPF15.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BLB-SPF15.tabs2.description",
     "id" : 908,
     "showPrintButton" : false,
     "title" : "product.BLB-SPF15.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BLB-SPF15.tabs3.description",
     "id" : 909,
     "showPrintButton" : false,

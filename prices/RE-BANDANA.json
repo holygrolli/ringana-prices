@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category16.name",
     "primary" : true,
+    "productCount" : 15,
     "slug" : "merchandise",
     "visible" : true
   } ],
@@ -105,11 +106,13 @@
   "soldOut" : false,
   "supplementDescription" : "bandana",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RE-BANDANA.tabs2654.description",
     "id" : 2654,
     "showPrintButton" : false,
     "title" : "product.RE-BANDANA.tabs2654.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RE-BANDANA.tabs2655.description",
     "id" : 2655,
     "showPrintButton" : false,

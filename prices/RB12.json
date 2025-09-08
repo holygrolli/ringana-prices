@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category5.name",
     "primary" : true,
+    "productCount" : 7,
     "slug" : "drinks",
     "visible" : true
   }, {
@@ -15,6 +16,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category430.name",
     "primary" : false,
+    "productCount" : 3,
     "slug" : "timeless-beauty",
     "visible" : true
   }, {
@@ -22,6 +24,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category75.name",
     "primary" : false,
+    "productCount" : 12,
     "slug" : "lifting",
     "visible" : true
   }, {
@@ -29,6 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category74.name",
     "primary" : false,
+    "productCount" : 9,
     "slug" : "better-aging",
     "visible" : true
   }, {
@@ -36,6 +40,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category18.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "supplements",
     "visible" : true
   } ],
@@ -322,26 +327,31 @@
   "soldOut" : false,
   "supplementDescription" : "RINGANAbty",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RB12.tabs1752570990901.description",
     "id" : 4765,
     "showPrintButton" : false,
     "title" : "product.RB12.tabs1752570990901.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RB12.tabs1752570990902.description",
     "id" : 4766,
     "showPrintButton" : false,
     "title" : "product.RB12.tabs1752570990902.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RB12.tabs1752570990903.description",
     "id" : 4767,
     "showPrintButton" : false,
     "title" : "product.RB12.tabs1752570990903.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RB12.tabs1752570990904.description",
     "id" : 4768,
     "showPrintButton" : false,
     "title" : "product.RB12.tabs1752570990904.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RB12.tabs1753336933021.description",
     "id" : 4897,
     "showPrintButton" : false,

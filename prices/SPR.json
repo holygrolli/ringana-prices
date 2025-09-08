@@ -15,6 +15,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category14.name",
     "primary" : true,
+    "productCount" : 7,
     "slug" : "sport",
     "visible" : true
   }, {
@@ -22,6 +23,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category87.name",
     "primary" : false,
+    "productCount" : 14,
     "slug" : "sport-essentials",
     "visible" : true
   }, {
@@ -29,6 +31,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category73.name",
     "primary" : false,
+    "productCount" : 7,
     "slug" : "body-shape",
     "visible" : true
   }, {
@@ -36,6 +39,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category68.name",
     "primary" : false,
+    "productCount" : 4,
     "slug" : "energy",
     "visible" : true
   } ],
@@ -248,26 +252,31 @@
   "soldOut" : false,
   "supplementDescription" : "protein",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.SPR.tabs3977.description",
     "id" : 3977,
     "showPrintButton" : false,
     "title" : "product.SPR.tabs3977.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SPR.tabs3978.description",
     "id" : 3978,
     "showPrintButton" : true,
     "title" : "product.SPR.tabs3978.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SPR.tabs3979.description",
     "id" : 3979,
     "showPrintButton" : false,
     "title" : "product.SPR.tabs3979.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SPR.tabs3980.description",
     "id" : 3980,
     "showPrintButton" : false,
     "title" : "product.SPR.tabs3980.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SPR.tabs4069.description",
     "id" : 4069,
     "showPrintButton" : false,

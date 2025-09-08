@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category16.name",
     "primary" : true,
+    "productCount" : 15,
     "slug" : "merchandise",
     "visible" : true
   } ],
@@ -43,7 +44,7 @@
         "brutto" : 26.8,
         "bruttoWithoutDiscount" : 33.5,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -57,7 +58,7 @@
         "brutto" : 26.8,
         "bruttoWithoutDiscount" : 33.5,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -90,7 +91,7 @@
         "brutto" : 39.04,
         "bruttoWithoutDiscount" : 48.8,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -104,7 +105,7 @@
         "brutto" : 39.04,
         "bruttoWithoutDiscount" : 48.8,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -240,11 +241,13 @@
   "soldOut" : false,
   "supplementDescription" : "",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.R-SG-RNX.tabs0.description",
     "id" : 153,
     "showPrintButton" : false,
     "title" : "product.R-SG-RNX.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.R-SG-RNX.tabs1.description",
     "id" : 154,
     "showPrintButton" : true,

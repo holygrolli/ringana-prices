@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category16.name",
     "primary" : false,
+    "productCount" : 15,
     "slug" : "merchandise",
     "visible" : true
   } ],
@@ -234,16 +235,19 @@
   "soldOut" : false,
   "supplementDescription" : "SOULBOTTLE",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.R-SB.tabs0.description",
     "id" : 185,
     "showPrintButton" : false,
     "title" : "product.R-SB.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.R-SB.tabs1.description",
     "id" : 187,
     "showPrintButton" : false,
     "title" : "product.R-SB.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.R-SB.tabs2.description",
     "id" : 188,
     "showPrintButton" : false,

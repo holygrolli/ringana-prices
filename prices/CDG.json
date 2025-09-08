@@ -11,6 +11,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category3.name",
     "primary" : true,
+    "productCount" : 13,
     "slug" : "caps",
     "visible" : true
   }, {
@@ -18,6 +19,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category18.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "supplements",
     "visible" : true
   }, {
@@ -25,6 +27,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category71.name",
     "primary" : false,
+    "productCount" : 5,
     "slug" : "gut-feeling",
     "visible" : true
   }, {
@@ -32,6 +35,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category73.name",
     "primary" : false,
+    "productCount" : 7,
     "slug" : "body-shape",
     "visible" : true
   } ],
@@ -279,21 +283,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS d-gest",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.CDG.tabs0.description",
     "id" : 336,
     "showPrintButton" : false,
     "title" : "product.CDG.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CDG.tabs1.description",
     "id" : 337,
     "showPrintButton" : true,
     "title" : "product.CDG.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CDG.tabs2.description",
     "id" : 338,
     "showPrintButton" : false,
     "title" : "product.CDG.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CDG.tabs3.description",
     "id" : 339,
     "showPrintButton" : false,

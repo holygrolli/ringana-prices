@@ -15,6 +15,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category3.name",
     "primary" : true,
+    "productCount" : 13,
     "slug" : "caps",
     "visible" : true
   }, {
@@ -22,6 +23,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category18.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "supplements",
     "visible" : true
   }, {
@@ -29,6 +31,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category87.name",
     "primary" : false,
+    "productCount" : 14,
     "slug" : "sport-essentials",
     "visible" : true
   }, {
@@ -36,6 +39,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category74.name",
     "primary" : false,
+    "productCount" : 9,
     "slug" : "better-aging",
     "visible" : true
   } ],
@@ -243,21 +247,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS move",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.CAV.tabs0.description",
     "id" : 328,
     "showPrintButton" : false,
     "title" : "product.CAV.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CAV.tabs1.description",
     "id" : 329,
     "showPrintButton" : true,
     "title" : "product.CAV.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CAV.tabs2.description",
     "id" : 330,
     "showPrintButton" : false,
     "title" : "product.CAV.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CAV.tabs3.description",
     "id" : 331,
     "showPrintButton" : false,

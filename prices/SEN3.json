@@ -15,6 +15,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category14.name",
     "primary" : true,
+    "productCount" : 7,
     "slug" : "sport",
     "visible" : true
   }, {
@@ -22,6 +23,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category99.name",
     "primary" : false,
+    "productCount" : 24,
     "slug" : "supplement-sets",
     "visible" : true
   }, {
@@ -29,6 +31,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category87.name",
     "primary" : false,
+    "productCount" : 14,
     "slug" : "sport-essentials",
     "visible" : true
   }, {
@@ -36,6 +39,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category496.name",
     "primary" : false,
+    "productCount" : 37,
     "slug" : "sets",
     "visible" : true
   } ],
@@ -263,21 +267,25 @@
   "soldOut" : false,
   "supplementDescription" : "endurance",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.SEN3.tabs4010.description",
     "id" : 4010,
     "showPrintButton" : false,
     "title" : "product.SEN3.tabs4010.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SEN3.tabs4011.description",
     "id" : 4011,
     "showPrintButton" : true,
     "title" : "product.SEN3.tabs4011.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SEN3.tabs4012.description",
     "id" : 4012,
     "showPrintButton" : false,
     "title" : "product.SEN3.tabs4012.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SEN3.tabs4013.description",
     "id" : 4013,
     "showPrintButton" : false,

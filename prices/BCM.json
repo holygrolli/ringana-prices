@@ -20,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true
   }, {
@@ -27,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   }, {
@@ -34,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category265.name",
     "primary" : false,
+    "productCount" : 3,
     "slug" : "skincare-basics",
     "visible" : false
   }, {
@@ -41,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category203.name",
     "primary" : false,
+    "productCount" : 12,
     "slug" : "step-5-moisturising",
     "visible" : true
   }, {
@@ -48,6 +52,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true
   }, {
@@ -55,6 +60,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category85.name",
     "primary" : false,
+    "productCount" : 20,
     "slug" : "sensitive-reddened-skin",
     "visible" : true
   }, {
@@ -62,6 +68,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "dry-skin",
     "visible" : true
   }, {
@@ -69,6 +76,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
     "primary" : false,
+    "productCount" : 26,
     "slug" : "mature-skin",
     "visible" : true
   }, {
@@ -76,6 +84,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
+    "productCount" : 31,
     "slug" : "hydrating",
     "visible" : true
   }, {
@@ -83,6 +92,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   } ],
@@ -375,26 +385,31 @@
   "soldOut" : false,
   "supplementDescription" : "cream rich",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.BCM.tabs3424.description",
     "id" : 3424,
     "showPrintButton" : false,
     "title" : "product.BCM.tabs3424.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BCM.tabs3425.description",
     "id" : 3425,
     "showPrintButton" : true,
     "title" : "product.BCM.tabs3425.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BCM.tabs3426.description",
     "id" : 3426,
     "showPrintButton" : false,
     "title" : "product.BCM.tabs3426.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BCM.tabs3427.description",
     "id" : 3427,
     "showPrintButton" : false,
     "title" : "product.BCM.tabs3427.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BCM.tabs3480.description",
     "id" : 3480,
     "showPrintButton" : false,

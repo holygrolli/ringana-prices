@@ -20,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true
   }, {
@@ -27,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   }, {
@@ -34,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   }, {
@@ -41,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category89.name",
     "primary" : false,
+    "productCount" : 8,
     "slug" : "oral-hygiene",
     "visible" : true
   } ],
@@ -291,26 +295,31 @@
   "soldOut" : false,
   "supplementDescription" : "tooth balm",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.FTB.tabs0.description",
     "id" : 639,
     "showPrintButton" : false,
     "title" : "product.FTB.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FTB.tabs1.description",
     "id" : 640,
     "showPrintButton" : true,
     "title" : "product.FTB.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FTB.tabs2.description",
     "id" : 641,
     "showPrintButton" : false,
     "title" : "product.FTB.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FTB.tabs3.description",
     "id" : 642,
     "showPrintButton" : false,
     "title" : "product.FTB.tabs3.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FTB.tabs2061.description",
     "id" : 2061,
     "showPrintButton" : false,

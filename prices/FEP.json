@@ -20,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true
   }, {
@@ -27,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category200.name",
     "primary" : false,
+    "productCount" : 2,
     "slug" : "step-2-exfoliating",
     "visible" : true
   }, {
@@ -34,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   }, {
@@ -41,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   }, {
@@ -48,6 +52,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true
   }, {
@@ -55,6 +60,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
+    "productCount" : 25,
     "slug" : "combination-skin",
     "visible" : true
   }, {
@@ -62,6 +68,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category84.name",
     "primary" : false,
+    "productCount" : 18,
     "slug" : "impure-skin",
     "visible" : true
   }, {
@@ -69,6 +76,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category83.name",
     "primary" : false,
+    "productCount" : 20,
     "slug" : "oily-skin",
     "visible" : true
   }, {
@@ -76,6 +84,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
     "primary" : false,
+    "productCount" : 26,
     "slug" : "mature-skin",
     "visible" : true
   }, {
@@ -83,6 +92,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category78.name",
     "primary" : false,
+    "productCount" : 12,
     "slug" : "cleansing",
     "visible" : true
   }, {
@@ -90,6 +100,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category76.name",
     "primary" : false,
+    "productCount" : 13,
     "slug" : "toning",
     "visible" : true
   }, {
@@ -97,6 +108,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category75.name",
     "primary" : false,
+    "productCount" : 12,
     "slug" : "lifting",
     "visible" : true
   } ],
@@ -380,26 +392,31 @@
   "soldOut" : false,
   "supplementDescription" : "enzyme mask",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.FEP.tabs0.description",
     "id" : 523,
     "showPrintButton" : false,
     "title" : "product.FEP.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FEP.tabs1.description",
     "id" : 524,
     "showPrintButton" : true,
     "title" : "product.FEP.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FEP.tabs2.description",
     "id" : 525,
     "showPrintButton" : false,
     "title" : "product.FEP.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FEP.tabs3.description",
     "id" : 526,
     "showPrintButton" : false,
     "title" : "product.FEP.tabs3.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FEP.tabs2059.description",
     "id" : 2059,
     "showPrintButton" : false,

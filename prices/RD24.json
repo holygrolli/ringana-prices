@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category496.name",
     "primary" : true,
+    "productCount" : 37,
     "slug" : "sets",
     "visible" : true
   }, {
@@ -15,6 +16,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category5.name",
     "primary" : false,
+    "productCount" : 7,
     "slug" : "drinks",
     "visible" : true
   }, {
@@ -22,6 +24,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category99.name",
     "primary" : false,
+    "productCount" : 24,
     "slug" : "supplement-sets",
     "visible" : true
   } ],
@@ -282,21 +285,25 @@
   "soldOut" : false,
   "supplementDescription" : "RINGANAdea",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RD24.tabs0.description",
     "id" : 89,
     "showPrintButton" : false,
     "title" : "product.RD24.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RD24.tabs1.description",
     "id" : 90,
     "showPrintButton" : true,
     "title" : "product.RD24.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RD24.tabs2.description",
     "id" : 91,
     "showPrintButton" : false,
     "title" : "product.RD24.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RD24.tabs3.description",
     "id" : 92,
     "showPrintButton" : false,

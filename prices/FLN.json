@@ -16,6 +16,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : true,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   }, {
@@ -23,6 +24,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : false,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true
   }, {
@@ -30,6 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true
   }, {
@@ -37,6 +40,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "dry-skin",
     "visible" : true
   }, {
@@ -44,6 +48,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
     "primary" : false,
+    "productCount" : 26,
     "slug" : "mature-skin",
     "visible" : true
   }, {
@@ -51,6 +56,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
+    "productCount" : 31,
     "slug" : "hydrating",
     "visible" : true
   }, {
@@ -58,6 +64,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category75.name",
     "primary" : false,
+    "productCount" : 12,
     "slug" : "lifting",
     "visible" : true
   }, {
@@ -65,6 +72,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category430.name",
     "primary" : false,
+    "productCount" : 3,
     "slug" : "timeless-beauty",
     "visible" : true
   } ],
@@ -374,26 +382,31 @@
   "soldOut" : false,
   "supplementDescription" : "perfection",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.FLN.tabs3115.description",
     "id" : 3115,
     "showPrintButton" : false,
     "title" : "product.FLN.tabs3115.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FLN.tabs3116.description",
     "id" : 3116,
     "showPrintButton" : false,
     "title" : "product.FLN.tabs3116.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FLN.tabs3117.description",
     "id" : 3117,
     "showPrintButton" : false,
     "title" : "product.FLN.tabs3117.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FLN.tabs3118.description",
     "id" : 3118,
     "showPrintButton" : false,
     "title" : "product.FLN.tabs3118.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FLN.tabs3248.description",
     "id" : 3248,
     "showPrintButton" : false,

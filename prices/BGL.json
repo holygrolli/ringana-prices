@@ -20,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true
   }, {
@@ -27,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   }, {
@@ -34,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   }, {
@@ -41,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category201.name",
     "primary" : false,
+    "productCount" : 2,
     "slug" : "step-3-toning",
     "visible" : true
   }, {
@@ -48,6 +52,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true
   }, {
@@ -55,6 +60,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
+    "productCount" : 25,
     "slug" : "combination-skin",
     "visible" : true
   }, {
@@ -62,6 +68,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category85.name",
     "primary" : false,
+    "productCount" : 20,
     "slug" : "sensitive-reddened-skin",
     "visible" : true
   }, {
@@ -69,6 +76,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "dry-skin",
     "visible" : true
   }, {
@@ -76,6 +84,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
     "primary" : false,
+    "productCount" : 26,
     "slug" : "mature-skin",
     "visible" : true
   }, {
@@ -83,6 +92,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
+    "productCount" : 31,
     "slug" : "hydrating",
     "visible" : true
   } ],
@@ -333,21 +343,25 @@
   "soldOut" : false,
   "supplementDescription" : "tonic calm",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.BGL.tabs0.description",
     "id" : 495,
     "showPrintButton" : false,
     "title" : "product.BGL.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BGL.tabs1.description",
     "id" : 497,
     "showPrintButton" : true,
     "title" : "product.BGL.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BGL.tabs2.description",
     "id" : 499,
     "showPrintButton" : false,
     "title" : "product.BGL.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BGL.tabs3.description",
     "id" : 502,
     "showPrintButton" : false,

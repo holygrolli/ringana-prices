@@ -15,6 +15,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category14.name",
     "primary" : true,
+    "productCount" : 7,
     "slug" : "sport",
     "visible" : true
   }, {
@@ -22,6 +23,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category87.name",
     "primary" : false,
+    "productCount" : 14,
     "slug" : "sport-essentials",
     "visible" : true
   }, {
@@ -29,6 +31,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category68.name",
     "primary" : false,
+    "productCount" : 4,
     "slug" : "energy",
     "visible" : true
   }, {
@@ -36,6 +39,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category70.name",
     "primary" : false,
+    "productCount" : 3,
     "slug" : "mental-strength",
     "visible" : true
   } ],
@@ -294,26 +298,31 @@
   "soldOut" : false,
   "supplementDescription" : "push",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.SPU.tabs3973.description",
     "id" : 3973,
     "showPrintButton" : false,
     "title" : "product.SPU.tabs3973.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SPU.tabs3974.description",
     "id" : 3974,
     "showPrintButton" : true,
     "title" : "product.SPU.tabs3974.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SPU.tabs3975.description",
     "id" : 3975,
     "showPrintButton" : false,
     "title" : "product.SPU.tabs3975.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SPU.tabs3976.description",
     "id" : 3976,
     "showPrintButton" : false,
     "title" : "product.SPU.tabs3976.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SPU.tabs4067.description",
     "id" : 4067,
     "showPrintButton" : false,

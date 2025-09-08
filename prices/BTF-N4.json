@@ -28,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true
   }, {
@@ -35,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category91.name",
     "primary" : false,
+    "productCount" : 10,
     "slug" : "suncare",
     "visible" : true
   }, {
@@ -42,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category397.name",
     "primary" : false,
+    "productCount" : 4,
     "slug" : "tinted-skincare",
     "visible" : false
   }, {
@@ -49,6 +52,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category203.name",
     "primary" : false,
+    "productCount" : 12,
     "slug" : "step-5-moisturising",
     "visible" : true
   }, {
@@ -56,6 +60,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true
   }, {
@@ -63,6 +68,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
+    "productCount" : 25,
     "slug" : "combination-skin",
     "visible" : true
   }, {
@@ -70,6 +76,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category85.name",
     "primary" : false,
+    "productCount" : 20,
     "slug" : "sensitive-reddened-skin",
     "visible" : true
   }, {
@@ -77,6 +84,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category84.name",
     "primary" : false,
+    "productCount" : 18,
     "slug" : "impure-skin",
     "visible" : true
   }, {
@@ -84,6 +92,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category83.name",
     "primary" : false,
+    "productCount" : 20,
     "slug" : "oily-skin",
     "visible" : true
   }, {
@@ -91,6 +100,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
     "primary" : false,
+    "productCount" : 26,
     "slug" : "mature-skin",
     "visible" : true
   }, {
@@ -98,6 +108,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category80.name",
     "primary" : false,
+    "productCount" : 11,
     "slug" : "anti-pollution",
     "visible" : true
   }, {
@@ -105,6 +116,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
+    "productCount" : 31,
     "slug" : "hydrating",
     "visible" : true
   }, {
@@ -112,6 +124,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   } ],
@@ -404,26 +417,31 @@
   "soldOut" : false,
   "supplementDescription" : "NUANCE4",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.BTF-N4.tabs4256.description",
     "id" : 4256,
     "showPrintButton" : false,
     "title" : "product.BTF-N4.tabs4256.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BTF-N4.tabs4257.description",
     "id" : 4257,
     "showPrintButton" : true,
     "title" : "product.BTF-N4.tabs4257.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BTF-N4.tabs4258.description",
     "id" : 4258,
     "showPrintButton" : false,
     "title" : "product.BTF-N4.tabs4258.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BTF-N4.tabs4259.description",
     "id" : 4259,
     "showPrintButton" : false,
     "title" : "product.BTF-N4.tabs4259.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BTF-N4.tabs4260.description",
     "id" : 4260,
     "showPrintButton" : false,

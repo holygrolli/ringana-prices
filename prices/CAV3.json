@@ -15,6 +15,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category496.name",
     "primary" : true,
+    "productCount" : 37,
     "slug" : "sets",
     "visible" : true
   }, {
@@ -22,6 +23,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category99.name",
     "primary" : false,
+    "productCount" : 24,
     "slug" : "supplement-sets",
     "visible" : true
   } ],
@@ -229,21 +231,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS move",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.CAV3.tabs0.description",
     "id" : 257,
     "showPrintButton" : false,
     "title" : "product.CAV3.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CAV3.tabs1.description",
     "id" : 258,
     "showPrintButton" : true,
     "title" : "product.CAV3.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CAV3.tabs2.description",
     "id" : 260,
     "showPrintButton" : false,
     "title" : "product.CAV3.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CAV3.tabs3.description",
     "id" : 262,
     "showPrintButton" : false,

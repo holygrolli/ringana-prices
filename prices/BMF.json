@@ -20,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true
   }, {
@@ -27,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   }, {
@@ -34,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
+    "productCount" : 25,
     "slug" : "combination-skin",
     "visible" : true
   }, {
@@ -41,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category85.name",
     "primary" : false,
+    "productCount" : 20,
     "slug" : "sensitive-reddened-skin",
     "visible" : true
   }, {
@@ -48,6 +52,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category84.name",
     "primary" : false,
+    "productCount" : 18,
     "slug" : "impure-skin",
     "visible" : true
   }, {
@@ -55,6 +60,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category83.name",
     "primary" : false,
+    "productCount" : 20,
     "slug" : "oily-skin",
     "visible" : true
   }, {
@@ -62,6 +68,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
+    "productCount" : 31,
     "slug" : "hydrating",
     "visible" : true
   }, {
@@ -69,6 +76,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category76.name",
     "primary" : false,
+    "productCount" : 13,
     "slug" : "toning",
     "visible" : true
   }, {
@@ -76,6 +84,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category331.name",
     "primary" : false,
+    "productCount" : 5,
     "slug" : "men",
     "visible" : false
   }, {
@@ -83,6 +92,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category203.name",
     "primary" : false,
+    "productCount" : 12,
     "slug" : "step-5-moisturising",
     "visible" : true
   } ],
@@ -367,26 +377,31 @@
   "soldOut" : false,
   "supplementDescription" : "for men",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.BMF.tabs0.description",
     "id" : 519,
     "showPrintButton" : false,
     "title" : "product.BMF.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BMF.tabs1.description",
     "id" : 520,
     "showPrintButton" : true,
     "title" : "product.BMF.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BMF.tabs2.description",
     "id" : 521,
     "showPrintButton" : false,
     "title" : "product.BMF.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BMF.tabs3.description",
     "id" : 522,
     "showPrintButton" : false,
     "title" : "product.BMF.tabs3.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BMF.tabs2060.description",
     "id" : 2060,
     "showPrintButton" : false,

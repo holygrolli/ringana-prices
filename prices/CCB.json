@@ -11,6 +11,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category3.name",
     "primary" : true,
+    "productCount" : 13,
     "slug" : "caps",
     "visible" : true
   }, {
@@ -18,6 +19,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category18.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "supplements",
     "visible" : true
   }, {
@@ -25,6 +27,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category74.name",
     "primary" : false,
+    "productCount" : 9,
     "slug" : "better-aging",
     "visible" : true
   }, {
@@ -32,6 +35,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category70.name",
     "primary" : false,
+    "productCount" : 3,
     "slug" : "mental-strength",
     "visible" : true
   } ],
@@ -276,21 +280,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS cerebro",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.CCB.tabs0.description",
     "id" : 340,
     "showPrintButton" : false,
     "title" : "product.CCB.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CCB.tabs1.description",
     "id" : 341,
     "showPrintButton" : true,
     "title" : "product.CCB.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CCB.tabs2.description",
     "id" : 343,
     "showPrintButton" : false,
     "title" : "product.CCB.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CCB.tabs3.description",
     "id" : 345,
     "showPrintButton" : false,

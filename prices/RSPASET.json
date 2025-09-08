@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category497.name",
     "primary" : true,
+    "productCount" : 4,
     "slug" : "specials",
     "visible" : true
   } ],
@@ -94,11 +95,13 @@
   "soldOut" : false,
   "supplementDescription" : null,
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RSPASET.tabs1751347127554.description",
     "id" : 4699,
     "showPrintButton" : false,
     "title" : "product.RSPASET.tabs1751347127554.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RSPASET.tabs1751347127555.description",
     "id" : 4700,
     "showPrintButton" : false,

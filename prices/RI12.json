@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category5.name",
     "primary" : true,
+    "productCount" : 7,
     "slug" : "drinks",
     "visible" : true
   }, {
@@ -15,6 +16,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category18.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "supplements",
     "visible" : true
   }, {
@@ -22,6 +24,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category72.name",
     "primary" : false,
+    "productCount" : 2,
     "slug" : "relaxation",
     "visible" : true
   } ],
@@ -266,21 +269,25 @@
   "soldOut" : false,
   "supplementDescription" : "RINGANAisi",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RI12.tabs0.description",
     "id" : 208,
     "showPrintButton" : false,
     "title" : "product.RI12.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RI12.tabs1.description",
     "id" : 209,
     "showPrintButton" : true,
     "title" : "product.RI12.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RI12.tabs2.description",
     "id" : 210,
     "showPrintButton" : false,
     "title" : "product.RI12.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RI12.tabs3.description",
     "id" : 211,
     "showPrintButton" : false,

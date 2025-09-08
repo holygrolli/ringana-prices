@@ -12,6 +12,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category5.name",
     "primary" : true,
+    "productCount" : 7,
     "slug" : "drinks",
     "visible" : true
   }, {
@@ -19,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category18.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "supplements",
     "visible" : true
   }, {
@@ -26,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category70.name",
     "primary" : false,
+    "productCount" : 3,
     "slug" : "mental-strength",
     "visible" : true
   }, {
@@ -33,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category68.name",
     "primary" : false,
+    "productCount" : 4,
     "slug" : "energy",
     "visible" : true
   }, {
@@ -40,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category67.name",
     "primary" : false,
+    "productCount" : 5,
     "slug" : "immune-system",
     "visible" : true
   } ],
@@ -240,21 +245,25 @@
   "soldOut" : false,
   "supplementDescription" : "RINGANAchi",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RE12.tabs0.description",
     "id" : 199,
     "showPrintButton" : false,
     "title" : "product.RE12.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RE12.tabs1.description",
     "id" : 200,
     "showPrintButton" : true,
     "title" : "product.RE12.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RE12.tabs2.description",
     "id" : 202,
     "showPrintButton" : false,
     "title" : "product.RE12.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RE12.tabs3.description",
     "id" : 203,
     "showPrintButton" : false,

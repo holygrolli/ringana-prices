@@ -20,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true
   }, {
@@ -27,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   }, {
@@ -34,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   }, {
@@ -41,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true
   }, {
@@ -48,6 +52,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "dry-skin",
     "visible" : true
   }, {
@@ -55,6 +60,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
+    "productCount" : 31,
     "slug" : "hydrating",
     "visible" : true
   } ],
@@ -252,21 +258,25 @@
   "soldOut" : false,
   "supplementDescription" : "lip balm",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.BLB.tabs0.description",
     "id" : 515,
     "showPrintButton" : false,
     "title" : "product.BLB.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BLB.tabs1.description",
     "id" : 516,
     "showPrintButton" : true,
     "title" : "product.BLB.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BLB.tabs2.description",
     "id" : 517,
     "showPrintButton" : false,
     "title" : "product.BLB.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BLB.tabs3.description",
     "id" : 518,
     "showPrintButton" : false,

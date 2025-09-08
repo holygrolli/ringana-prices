@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category16.name",
     "primary" : true,
+    "productCount" : 15,
     "slug" : "merchandise",
     "visible" : true
   } ],
@@ -249,11 +250,13 @@
   "soldOut" : true,
   "supplementDescription" : "",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RSBUDDY.tabs0.description",
     "id" : 180,
     "showPrintButton" : false,
     "title" : "product.RSBUDDY.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RSBUDDY.tabs1.description",
     "id" : 667,
     "showPrintButton" : false,

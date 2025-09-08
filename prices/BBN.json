@@ -16,6 +16,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category2.name",
     "primary" : true,
+    "productCount" : 16,
     "slug" : "body",
     "visible" : true
   }, {
@@ -23,6 +24,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   }, {
@@ -30,6 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category93.name",
     "primary" : false,
+    "productCount" : 14,
     "slug" : "body-care",
     "visible" : true
   }, {
@@ -37,6 +40,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category88.name",
     "primary" : false,
+    "productCount" : 3,
     "slug" : "night-care",
     "visible" : true
   }, {
@@ -44,6 +48,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "dry-skin",
     "visible" : true
   }, {
@@ -51,6 +56,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
     "primary" : false,
+    "productCount" : 26,
     "slug" : "mature-skin",
     "visible" : true
   }, {
@@ -58,6 +64,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category75.name",
     "primary" : false,
+    "productCount" : 12,
     "slug" : "lifting",
     "visible" : true
   }, {
@@ -65,6 +72,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category74.name",
     "primary" : false,
+    "productCount" : 9,
     "slug" : "better-aging",
     "visible" : true
   }, {
@@ -72,6 +80,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category73.name",
     "primary" : false,
+    "productCount" : 7,
     "slug" : "body-shape",
     "visible" : true
   } ],
@@ -351,26 +360,31 @@
   "soldOut" : false,
   "supplementDescription" : "overnight",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.BBN.tabs0.description",
     "id" : 471,
     "showPrintButton" : false,
     "title" : "product.BBN.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BBN.tabs1.description",
     "id" : 472,
     "showPrintButton" : true,
     "title" : "product.BBN.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BBN.tabs2.description",
     "id" : 473,
     "showPrintButton" : false,
     "title" : "product.BBN.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BBN.tabs3.description",
     "id" : 474,
     "showPrintButton" : false,
     "title" : "product.BBN.tabs3.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BBN.tabs2026.description",
     "id" : 2026,
     "showPrintButton" : false,

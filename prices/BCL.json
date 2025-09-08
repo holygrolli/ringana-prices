@@ -20,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true
   }, {
@@ -27,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category265.name",
     "primary" : false,
+    "productCount" : 3,
     "slug" : "skincare-basics",
     "visible" : false
   }, {
@@ -34,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category203.name",
     "primary" : false,
+    "productCount" : 12,
     "slug" : "step-5-moisturising",
     "visible" : true
   }, {
@@ -41,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true
   }, {
@@ -48,6 +52,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
+    "productCount" : 25,
     "slug" : "combination-skin",
     "visible" : true
   }, {
@@ -55,6 +60,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category85.name",
     "primary" : false,
+    "productCount" : 20,
     "slug" : "sensitive-reddened-skin",
     "visible" : true
   }, {
@@ -62,6 +68,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "dry-skin",
     "visible" : true
   }, {
@@ -69,6 +76,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
+    "productCount" : 31,
     "slug" : "hydrating",
     "visible" : true
   }, {
@@ -76,6 +84,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   }, {
@@ -83,6 +92,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   } ],
@@ -375,26 +385,31 @@
   "soldOut" : false,
   "supplementDescription" : "cream medium",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.BCL.tabs3420.description",
     "id" : 3420,
     "showPrintButton" : false,
     "title" : "product.BCL.tabs3420.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BCL.tabs3421.description",
     "id" : 3421,
     "showPrintButton" : true,
     "title" : "product.BCL.tabs3421.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BCL.tabs3422.description",
     "id" : 3422,
     "showPrintButton" : false,
     "title" : "product.BCL.tabs3422.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BCL.tabs3423.description",
     "id" : 3423,
     "showPrintButton" : false,
     "title" : "product.BCL.tabs3423.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BCL.tabs3479.description",
     "id" : 3479,
     "showPrintButton" : false,

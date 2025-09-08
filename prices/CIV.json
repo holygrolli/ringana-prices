@@ -11,6 +11,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category3.name",
     "primary" : true,
+    "productCount" : 13,
     "slug" : "caps",
     "visible" : true
   }, {
@@ -18,6 +19,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category18.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "supplements",
     "visible" : true
   }, {
@@ -25,6 +27,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category67.name",
     "primary" : false,
+    "productCount" : 5,
     "slug" : "immune-system",
     "visible" : true
   } ],
@@ -272,21 +275,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS immu",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.CIV.tabs0.description",
     "id" : 348,
     "showPrintButton" : false,
     "title" : "product.CIV.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CIV.tabs1.description",
     "id" : 349,
     "showPrintButton" : true,
     "title" : "product.CIV.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CIV.tabs2.description",
     "id" : 350,
     "showPrintButton" : false,
     "title" : "product.CIV.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CIV.tabs3.description",
     "id" : 351,
     "showPrintButton" : false,

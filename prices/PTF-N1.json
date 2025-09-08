@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category13.name",
     "primary" : true,
+    "productCount" : 19,
     "slug" : "samples",
     "visible" : true
   }, {
@@ -15,6 +16,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
+    "productCount" : 31,
     "slug" : "hydrating",
     "visible" : true
   }, {
@@ -22,6 +24,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category203.name",
     "primary" : false,
+    "productCount" : 12,
     "slug" : "step-5-moisturising",
     "visible" : true
   }, {
@@ -29,6 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true
   }, {
@@ -36,6 +40,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
+    "productCount" : 25,
     "slug" : "combination-skin",
     "visible" : true
   }, {
@@ -43,6 +48,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category85.name",
     "primary" : false,
+    "productCount" : 20,
     "slug" : "sensitive-reddened-skin",
     "visible" : true
   }, {
@@ -50,6 +56,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category84.name",
     "primary" : false,
+    "productCount" : 18,
     "slug" : "impure-skin",
     "visible" : true
   }, {
@@ -57,6 +64,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category83.name",
     "primary" : false,
+    "productCount" : 20,
     "slug" : "oily-skin",
     "visible" : true
   }, {
@@ -64,6 +72,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
     "primary" : false,
+    "productCount" : 26,
     "slug" : "mature-skin",
     "visible" : true
   }, {
@@ -71,6 +80,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category80.name",
     "primary" : false,
+    "productCount" : 11,
     "slug" : "anti-pollution",
     "visible" : true
   } ],
@@ -363,26 +373,31 @@
   "soldOut" : false,
   "supplementDescription" : "NUANCE1",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.PTF-N1.tabs4261.description",
     "id" : 4261,
     "showPrintButton" : false,
     "title" : "product.PTF-N1.tabs4261.title"
   }, {
+    "anchorName" : null,
     "description" : "product.PTF-N1.tabs4262.description",
     "id" : 4262,
     "showPrintButton" : true,
     "title" : "product.PTF-N1.tabs4262.title"
   }, {
+    "anchorName" : null,
     "description" : "product.PTF-N1.tabs4263.description",
     "id" : 4263,
     "showPrintButton" : false,
     "title" : "product.PTF-N1.tabs4263.title"
   }, {
+    "anchorName" : null,
     "description" : "product.PTF-N1.tabs4264.description",
     "id" : 4264,
     "showPrintButton" : false,
     "title" : "product.PTF-N1.tabs4264.title"
   }, {
+    "anchorName" : null,
     "description" : "product.PTF-N1.tabs4265.description",
     "id" : 4265,
     "showPrintButton" : false,

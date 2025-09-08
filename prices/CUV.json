@@ -11,6 +11,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category3.name",
     "primary" : true,
+    "productCount" : 13,
     "slug" : "caps",
     "visible" : true
   }, {
@@ -18,6 +19,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category18.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "supplements",
     "visible" : true
   }, {
@@ -25,6 +27,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category67.name",
     "primary" : false,
+    "productCount" : 5,
     "slug" : "immune-system",
     "visible" : true
   } ],
@@ -110,7 +113,7 @@
         "brutto" : 39.04,
         "bruttoWithoutDiscount" : 48.8,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -124,7 +127,7 @@
         "brutto" : 39.04,
         "bruttoWithoutDiscount" : 48.8,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -281,21 +284,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS hydro",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.CUV.tabs0.description",
     "id" : 342,
     "showPrintButton" : false,
     "title" : "product.CUV.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CUV.tabs1.description",
     "id" : 344,
     "showPrintButton" : true,
     "title" : "product.CUV.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CUV.tabs2.description",
     "id" : 346,
     "showPrintButton" : false,
     "title" : "product.CUV.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CUV.tabs3.description",
     "id" : 347,
     "showPrintButton" : false,

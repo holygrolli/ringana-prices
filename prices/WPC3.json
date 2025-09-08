@@ -11,6 +11,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category496.name",
     "primary" : true,
+    "productCount" : 37,
     "slug" : "sets",
     "visible" : true
   }, {
@@ -18,6 +19,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category99.name",
     "primary" : false,
+    "productCount" : 24,
     "slug" : "supplement-sets",
     "visible" : true
   } ],
@@ -222,21 +224,25 @@
   "soldOut" : false,
   "supplementDescription" : "pack cleansing",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.WPC3.tabs0.description",
     "id" : 232,
     "showPrintButton" : false,
     "title" : "product.WPC3.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.WPC3.tabs1.description",
     "id" : 233,
     "showPrintButton" : true,
     "title" : "product.WPC3.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.WPC3.tabs2.description",
     "id" : 234,
     "showPrintButton" : false,
     "title" : "product.WPC3.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.WPC3.tabs3.description",
     "id" : 235,
     "showPrintButton" : false,

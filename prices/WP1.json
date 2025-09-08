@@ -11,6 +11,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category496.name",
     "primary" : true,
+    "productCount" : 37,
     "slug" : "sets",
     "visible" : true
   }, {
@@ -18,6 +19,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category18.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "supplements",
     "visible" : true
   }, {
@@ -25,6 +27,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category10.name",
     "primary" : false,
+    "productCount" : 5,
     "slug" : "packs",
     "visible" : true
   }, {
@@ -32,6 +35,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category99.name",
     "primary" : false,
+    "productCount" : 24,
     "slug" : "supplement-sets",
     "visible" : true
   } ],
@@ -229,21 +233,25 @@
   "soldOut" : false,
   "supplementDescription" : "FRESH PACKS",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.WP1.tabs0.description",
     "id" : 228,
     "showPrintButton" : false,
     "title" : "product.WP1.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.WP1.tabs1.description",
     "id" : 229,
     "showPrintButton" : true,
     "title" : "product.WP1.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.WP1.tabs2.description",
     "id" : 230,
     "showPrintButton" : false,
     "title" : "product.WP1.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.WP1.tabs3.description",
     "id" : 231,
     "showPrintButton" : false,

@@ -11,6 +11,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category496.name",
     "primary" : true,
+    "productCount" : 37,
     "slug" : "sets",
     "visible" : true
   }, {
@@ -18,6 +19,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category4.name",
     "primary" : false,
+    "productCount" : 2,
     "slug" : "complete",
     "visible" : true
   } ],
@@ -284,21 +286,25 @@
   "soldOut" : false,
   "supplementDescription" : "COMPLETE d-eat",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.D-EAT3.tabs0.description",
     "id" : 192,
     "showPrintButton" : false,
     "title" : "product.D-EAT3.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.D-EAT3.tabs1.description",
     "id" : 193,
     "showPrintButton" : true,
     "title" : "product.D-EAT3.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.D-EAT3.tabs2.description",
     "id" : 194,
     "showPrintButton" : false,
     "title" : "product.D-EAT3.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.D-EAT3.tabs3.description",
     "id" : 195,
     "showPrintButton" : false,

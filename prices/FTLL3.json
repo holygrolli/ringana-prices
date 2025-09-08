@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category20.name",
     "primary" : true,
+    "productCount" : 4,
     "slug" : "manadental",
     "visible" : true
   }, {
@@ -15,6 +16,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category89.name",
     "primary" : false,
+    "productCount" : 8,
     "slug" : "oral-hygiene",
     "visible" : true
   } ],
@@ -263,21 +265,25 @@
   "soldOut" : false,
   "supplementDescription" : "mana liquid",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.FTLL3.tabs0.description",
     "id" : 821,
     "showPrintButton" : false,
     "title" : "product.FTLL3.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FTLL3.tabs1.description",
     "id" : 822,
     "showPrintButton" : false,
     "title" : "product.FTLL3.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FTLL3.tabs2.description",
     "id" : 823,
     "showPrintButton" : false,
     "title" : "product.FTLL3.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FTLL3.tabs3.description",
     "id" : 824,
     "showPrintButton" : false,

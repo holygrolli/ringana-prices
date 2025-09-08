@@ -11,6 +11,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category3.name",
     "primary" : true,
+    "productCount" : 13,
     "slug" : "caps",
     "visible" : true
   }, {
@@ -18,6 +19,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category18.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "supplements",
     "visible" : true
   }, {
@@ -25,6 +27,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category74.name",
     "primary" : false,
+    "productCount" : 9,
     "slug" : "better-aging",
     "visible" : true
   }, {
@@ -32,6 +35,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category84.name",
     "primary" : false,
+    "productCount" : 18,
     "slug" : "impure-skin",
     "visible" : true
   }, {
@@ -39,6 +43,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category76.name",
     "primary" : false,
+    "productCount" : 13,
     "slug" : "toning",
     "visible" : true
   }, {
@@ -46,6 +51,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category73.name",
     "primary" : false,
+    "productCount" : 7,
     "slug" : "body-shape",
     "visible" : true
   }, {
@@ -53,6 +59,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category71.name",
     "primary" : false,
+    "productCount" : 5,
     "slug" : "gut-feeling",
     "visible" : true
   }, {
@@ -60,6 +67,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category67.name",
     "primary" : false,
+    "productCount" : 5,
     "slug" : "immune-system",
     "visible" : true
   } ],
@@ -313,21 +321,25 @@
   "soldOut" : false,
   "supplementDescription" : "BEYOND biotic",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.CBI.tabs0.description",
     "id" : 357,
     "showPrintButton" : false,
     "title" : "product.CBI.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CBI.tabs1.description",
     "id" : 360,
     "showPrintButton" : true,
     "title" : "product.CBI.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CBI.tabs2.description",
     "id" : 362,
     "showPrintButton" : false,
     "title" : "product.CBI.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CBI.tabs3.description",
     "id" : 364,
     "showPrintButton" : false,

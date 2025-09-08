@@ -11,6 +11,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category496.name",
     "primary" : true,
+    "productCount" : 37,
     "slug" : "sets",
     "visible" : true
   }, {
@@ -18,6 +19,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category99.name",
     "primary" : false,
+    "productCount" : 24,
     "slug" : "supplement-sets",
     "visible" : true
   } ],
@@ -269,21 +271,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS immu",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.CIV3.tabs0.description",
     "id" : 256,
     "showPrintButton" : false,
     "title" : "product.CIV3.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CIV3.tabs1.description",
     "id" : 259,
     "showPrintButton" : true,
     "title" : "product.CIV3.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CIV3.tabs2.description",
     "id" : 261,
     "showPrintButton" : false,
     "title" : "product.CIV3.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CIV3.tabs3.description",
     "id" : 263,
     "showPrintButton" : false,

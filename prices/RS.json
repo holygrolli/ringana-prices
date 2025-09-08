@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category16.name",
     "primary" : true,
+    "productCount" : 15,
     "slug" : "merchandise",
     "visible" : true
   } ],
@@ -190,11 +191,13 @@
   "soldOut" : false,
   "supplementDescription" : "SHAKE! SHAKE!",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RS.tabs0.description",
     "id" : 171,
     "showPrintButton" : false,
     "title" : "product.RS.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RS.tabs1.description",
     "id" : 172,
     "showPrintButton" : true,

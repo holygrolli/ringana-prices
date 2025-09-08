@@ -12,6 +12,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category496.name",
     "primary" : true,
+    "productCount" : 37,
     "slug" : "sets",
     "visible" : true
   }, {
@@ -19,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category5.name",
     "primary" : false,
+    "productCount" : 7,
     "slug" : "drinks",
     "visible" : true
   }, {
@@ -26,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category99.name",
     "primary" : false,
+    "productCount" : 24,
     "slug" : "supplement-sets",
     "visible" : true
   } ],
@@ -230,21 +233,25 @@
   "soldOut" : false,
   "supplementDescription" : "RINGANAchi",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RE24.tabs0.description",
     "id" : 73,
     "showPrintButton" : false,
     "title" : "product.RE24.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RE24.tabs1.description",
     "id" : 74,
     "showPrintButton" : true,
     "title" : "product.RE24.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RE24.tabs2.description",
     "id" : 75,
     "showPrintButton" : false,
     "title" : "product.RE24.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RE24.tabs3.description",
     "id" : 77,
     "showPrintButton" : false,

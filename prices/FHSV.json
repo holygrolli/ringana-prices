@@ -32,6 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category8.name",
     "primary" : true,
+    "productCount" : 3,
     "slug" : "hair",
     "visible" : true
   }, {
@@ -39,6 +40,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   }, {
@@ -46,6 +48,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category94.name",
     "primary" : false,
+    "productCount" : 7,
     "slug" : "washing-care",
     "visible" : true
   }, {
@@ -53,6 +56,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category90.name",
     "primary" : false,
+    "productCount" : 4,
     "slug" : "hair-care",
     "visible" : true
   }, {
@@ -60,6 +64,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category79.name",
     "primary" : false,
+    "productCount" : 6,
     "slug" : "microbiome-friendly",
     "visible" : true
   }, {
@@ -67,6 +72,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category78.name",
     "primary" : false,
+    "productCount" : 12,
     "slug" : "cleansing",
     "visible" : true
   }, {
@@ -74,6 +80,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   } ],
@@ -333,26 +340,31 @@
   "soldOut" : false,
   "supplementDescription" : "volume",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.FHSV.tabs2921.description",
     "id" : 2921,
     "showPrintButton" : false,
     "title" : "product.FHSV.tabs2921.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FHSV.tabs2922.description",
     "id" : 2922,
     "showPrintButton" : false,
     "title" : "product.FHSV.tabs2922.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FHSV.tabs2923.description",
     "id" : 2923,
     "showPrintButton" : false,
     "title" : "product.FHSV.tabs2923.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FHSV.tabs2924.description",
     "id" : 2924,
     "showPrintButton" : false,
     "title" : "product.FHSV.tabs2924.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FHSV.tabs3148.description",
     "id" : 3148,
     "showPrintButton" : false,

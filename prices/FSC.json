@@ -28,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true
   }, {
@@ -35,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   }, {
@@ -42,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category200.name",
     "primary" : false,
+    "productCount" : 2,
     "slug" : "step-2-exfoliating",
     "visible" : true
   }, {
@@ -49,6 +52,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category2.name",
     "primary" : false,
+    "productCount" : 16,
     "slug" : "body",
     "visible" : true
   }, {
@@ -56,6 +60,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category93.name",
     "primary" : false,
+    "productCount" : 14,
     "slug" : "body-care",
     "visible" : true
   }, {
@@ -63,6 +68,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true
   }, {
@@ -70,6 +76,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
+    "productCount" : 25,
     "slug" : "combination-skin",
     "visible" : true
   }, {
@@ -77,6 +84,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category84.name",
     "primary" : false,
+    "productCount" : 18,
     "slug" : "impure-skin",
     "visible" : true
   }, {
@@ -84,6 +92,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category83.name",
     "primary" : false,
+    "productCount" : 20,
     "slug" : "oily-skin",
     "visible" : true
   }, {
@@ -91,6 +100,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
     "primary" : false,
+    "productCount" : 26,
     "slug" : "mature-skin",
     "visible" : true
   }, {
@@ -98,6 +108,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category78.name",
     "primary" : false,
+    "productCount" : 12,
     "slug" : "cleansing",
     "visible" : true
   }, {
@@ -105,6 +116,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category76.name",
     "primary" : false,
+    "productCount" : 13,
     "slug" : "toning",
     "visible" : true
   }, {
@@ -112,6 +124,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   } ],
@@ -379,26 +392,31 @@
   "soldOut" : false,
   "supplementDescription" : "scrub",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.FSC.tabs0.description",
     "id" : 531,
     "showPrintButton" : false,
     "title" : "product.FSC.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FSC.tabs1.description",
     "id" : 532,
     "showPrintButton" : true,
     "title" : "product.FSC.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FSC.tabs2.description",
     "id" : 533,
     "showPrintButton" : false,
     "title" : "product.FSC.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FSC.tabs3.description",
     "id" : 534,
     "showPrintButton" : false,
     "title" : "product.FSC.tabs3.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FSC.tabs2072.description",
     "id" : 2072,
     "showPrintButton" : false,

@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category13.name",
     "primary" : true,
+    "productCount" : 19,
     "slug" : "samples",
     "visible" : true
   } ],
@@ -250,21 +251,25 @@
   "soldOut" : false,
   "supplementDescription" : "SAMPLE BOX",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.FSBB.tabs0.description",
     "id" : 133,
     "showPrintButton" : false,
     "title" : "product.FSBB.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FSBB.tabs1.description",
     "id" : 134,
     "showPrintButton" : true,
     "title" : "product.FSBB.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FSBB.tabs2.description",
     "id" : 135,
     "showPrintButton" : false,
     "title" : "product.FSBB.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FSBB.tabs3.description",
     "id" : 136,
     "showPrintButton" : false,

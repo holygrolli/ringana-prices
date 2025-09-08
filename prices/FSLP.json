@@ -32,6 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category2.name",
     "primary" : true,
+    "productCount" : 16,
     "slug" : "body",
     "visible" : true
   }, {
@@ -39,6 +40,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   }, {
@@ -46,6 +48,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   }, {
@@ -53,6 +56,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category94.name",
     "primary" : false,
+    "productCount" : 7,
     "slug" : "washing-care",
     "visible" : true
   }, {
@@ -60,6 +64,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category79.name",
     "primary" : false,
+    "productCount" : 6,
     "slug" : "microbiome-friendly",
     "visible" : true
   }, {
@@ -67,6 +72,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category78.name",
     "primary" : false,
+    "productCount" : 12,
     "slug" : "cleansing",
     "visible" : true
   } ],
@@ -311,21 +317,25 @@
   "soldOut" : false,
   "supplementDescription" : "soap liquid",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.FSLP.tabs0.description",
     "id" : 439,
     "showPrintButton" : false,
     "title" : "product.FSLP.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FSLP.tabs1.description",
     "id" : 440,
     "showPrintButton" : true,
     "title" : "product.FSLP.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FSLP.tabs2.description",
     "id" : 441,
     "showPrintButton" : false,
     "title" : "product.FSLP.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FSLP.tabs3.description",
     "id" : 442,
     "showPrintButton" : false,

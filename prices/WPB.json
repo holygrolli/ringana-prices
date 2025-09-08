@@ -11,6 +11,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category10.name",
     "primary" : true,
+    "productCount" : 5,
     "slug" : "packs",
     "visible" : true
   }, {
@@ -18,6 +19,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category71.name",
     "primary" : false,
+    "productCount" : 5,
     "slug" : "gut-feeling",
     "visible" : true
   }, {
@@ -25,6 +27,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category18.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "supplements",
     "visible" : true
   } ],
@@ -231,21 +234,25 @@
   "soldOut" : false,
   "supplementDescription" : "pack balancing",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.WPB.tabs0.description",
     "id" : 252,
     "showPrintButton" : false,
     "title" : "product.WPB.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.WPB.tabs1.description",
     "id" : 253,
     "showPrintButton" : true,
     "title" : "product.WPB.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.WPB.tabs2.description",
     "id" : 254,
     "showPrintButton" : false,
     "title" : "product.WPB.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.WPB.tabs3.description",
     "id" : 255,
     "showPrintButton" : false,

@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category5.name",
     "primary" : true,
+    "productCount" : 7,
     "slug" : "drinks",
     "visible" : true
   }, {
@@ -15,6 +16,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category18.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "supplements",
     "visible" : true
   }, {
@@ -22,6 +24,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category73.name",
     "primary" : false,
+    "productCount" : 7,
     "slug" : "body-shape",
     "visible" : true
   }, {
@@ -29,6 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category71.name",
     "primary" : false,
+    "productCount" : 5,
     "slug" : "gut-feeling",
     "visible" : true
   } ],
@@ -285,21 +289,25 @@
   "soldOut" : false,
   "supplementDescription" : "RINGANAdea",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RD12.tabs0.description",
     "id" : 204,
     "showPrintButton" : false,
     "title" : "product.RD12.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RD12.tabs1.description",
     "id" : 205,
     "showPrintButton" : true,
     "title" : "product.RD12.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RD12.tabs2.description",
     "id" : 206,
     "showPrintButton" : false,
     "title" : "product.RD12.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RD12.tabs3.description",
     "id" : 207,
     "showPrintButton" : false,

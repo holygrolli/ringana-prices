@@ -20,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category13.name",
     "primary" : true,
+    "productCount" : 19,
     "slug" : "samples",
     "visible" : true
   }, {
@@ -27,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true
   }, {
@@ -34,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
+    "productCount" : 25,
     "slug" : "combination-skin",
     "visible" : true
   }, {
@@ -41,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category85.name",
     "primary" : false,
+    "productCount" : 20,
     "slug" : "sensitive-reddened-skin",
     "visible" : true
   }, {
@@ -48,6 +52,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category84.name",
     "primary" : false,
+    "productCount" : 18,
     "slug" : "impure-skin",
     "visible" : true
   }, {
@@ -55,6 +60,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category83.name",
     "primary" : false,
+    "productCount" : 20,
     "slug" : "oily-skin",
     "visible" : true
   }, {
@@ -62,6 +68,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
     "primary" : false,
+    "productCount" : 26,
     "slug" : "mature-skin",
     "visible" : true
   }, {
@@ -69,6 +76,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category78.name",
     "primary" : false,
+    "productCount" : 12,
     "slug" : "cleansing",
     "visible" : true
   }, {
@@ -76,6 +84,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
+    "productCount" : 31,
     "slug" : "hydrating",
     "visible" : true
   }, {
@@ -83,6 +92,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category76.name",
     "primary" : false,
+    "productCount" : 13,
     "slug" : "toning",
     "visible" : true
   }, {
@@ -90,6 +100,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   } ],
@@ -305,21 +316,25 @@
   "soldOut" : false,
   "supplementDescription" : "Cleansing water",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.PCW.tabs0.description",
     "id" : 167,
     "showPrintButton" : false,
     "title" : "product.PCW.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.PCW.tabs1.description",
     "id" : 168,
     "showPrintButton" : true,
     "title" : "product.PCW.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.PCW.tabs2.description",
     "id" : 169,
     "showPrintButton" : false,
     "title" : "product.PCW.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.PCW.tabs3.description",
     "id" : 170,
     "showPrintButton" : false,

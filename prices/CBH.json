@@ -11,6 +11,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category3.name",
     "primary" : true,
+    "productCount" : 13,
     "slug" : "caps",
     "visible" : true
   }, {
@@ -18,6 +19,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category18.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "supplements",
     "visible" : true
   }, {
@@ -25,6 +27,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true
   }, {
@@ -32,6 +35,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category90.name",
     "primary" : false,
+    "productCount" : 4,
     "slug" : "hair-care",
     "visible" : true
   }, {
@@ -39,6 +43,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category76.name",
     "primary" : false,
+    "productCount" : 13,
     "slug" : "toning",
     "visible" : true
   }, {
@@ -46,6 +51,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category75.name",
     "primary" : false,
+    "productCount" : 12,
     "slug" : "lifting",
     "visible" : true
   }, {
@@ -53,6 +59,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category73.name",
     "primary" : false,
+    "productCount" : 7,
     "slug" : "body-shape",
     "visible" : true
   }, {
@@ -60,6 +67,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category430.name",
     "primary" : false,
+    "productCount" : 3,
     "slug" : "timeless-beauty",
     "visible" : true
   } ],
@@ -304,21 +312,25 @@
   "soldOut" : false,
   "supplementDescription" : "beauty & hair",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.CBH.tabs0.description",
     "id" : 368,
     "showPrintButton" : false,
     "title" : "product.CBH.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CBH.tabs1.description",
     "id" : 369,
     "showPrintButton" : true,
     "title" : "product.CBH.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CBH.tabs2.description",
     "id" : 370,
     "showPrintButton" : false,
     "title" : "product.CBH.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CBH.tabs3.description",
     "id" : 371,
     "showPrintButton" : false,

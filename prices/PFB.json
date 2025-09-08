@@ -20,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category13.name",
     "primary" : true,
+    "productCount" : 19,
     "slug" : "samples",
     "visible" : true
   }, {
@@ -27,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category93.name",
     "primary" : false,
+    "productCount" : 14,
     "slug" : "body-care",
     "visible" : true
   }, {
@@ -34,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "dry-skin",
     "visible" : true
   }, {
@@ -41,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
+    "productCount" : 31,
     "slug" : "hydrating",
     "visible" : true
   } ],
@@ -279,21 +283,25 @@
   "soldOut" : false,
   "supplementDescription" : "sample",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.PFB.tabs0.description",
     "id" : 163,
     "showPrintButton" : false,
     "title" : "product.PFB.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.PFB.tabs1.description",
     "id" : 164,
     "showPrintButton" : true,
     "title" : "product.PFB.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.PFB.tabs2.description",
     "id" : 165,
     "showPrintButton" : false,
     "title" : "product.PFB.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.PFB.tabs3.description",
     "id" : 166,
     "showPrintButton" : false,

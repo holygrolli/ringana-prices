@@ -12,6 +12,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category2.name",
     "primary" : true,
+    "productCount" : 16,
     "slug" : "body",
     "visible" : true
   }, {
@@ -19,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   }, {
@@ -26,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : false,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true
   } ],
@@ -73,7 +76,7 @@
         "brutto" : 39.04,
         "bruttoWithoutDiscount" : 48.8,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -87,7 +90,7 @@
         "brutto" : 39.04,
         "bruttoWithoutDiscount" : 48.8,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -276,21 +279,25 @@
   "soldOut" : false,
   "supplementDescription" : "FRESH breeze",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.FBS50.tabs0.description",
     "id" : 1174,
     "showPrintButton" : false,
     "title" : "product.FBS50.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FBS50.tabs1.description",
     "id" : 1175,
     "showPrintButton" : false,
     "title" : "product.FBS50.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FBS50.tabs2.description",
     "id" : 1176,
     "showPrintButton" : false,
     "title" : "product.FBS50.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FBS50.tabs3.description",
     "id" : 1177,
     "showPrintButton" : false,

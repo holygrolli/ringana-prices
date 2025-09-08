@@ -16,6 +16,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true
   }, {
@@ -23,6 +24,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   }, {
@@ -30,6 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true
   }, {
@@ -37,6 +40,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
+    "productCount" : 25,
     "slug" : "combination-skin",
     "visible" : true
   }, {
@@ -44,6 +48,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category83.name",
     "primary" : false,
+    "productCount" : 20,
     "slug" : "oily-skin",
     "visible" : true
   }, {
@@ -51,6 +56,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "dry-skin",
     "visible" : true
   }, {
@@ -58,6 +64,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
     "primary" : false,
+    "productCount" : 26,
     "slug" : "mature-skin",
     "visible" : true
   }, {
@@ -65,6 +72,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category80.name",
     "primary" : false,
+    "productCount" : 11,
     "slug" : "anti-pollution",
     "visible" : true
   }, {
@@ -72,6 +80,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   } ],
@@ -354,26 +363,31 @@
   "soldOut" : false,
   "supplementDescription" : "ADDS glow",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RAG.tabs2521.description",
     "id" : 2521,
     "showPrintButton" : false,
     "title" : "product.RAG.tabs2521.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RAG.tabs2522.description",
     "id" : 2522,
     "showPrintButton" : true,
     "title" : "product.RAG.tabs2522.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RAG.tabs2523.description",
     "id" : 2523,
     "showPrintButton" : false,
     "title" : "product.RAG.tabs2523.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RAG.tabs2524.description",
     "id" : 2524,
     "showPrintButton" : false,
     "title" : "product.RAG.tabs2524.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RAG.tabs2525.description",
     "id" : 2525,
     "showPrintButton" : false,

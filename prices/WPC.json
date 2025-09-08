@@ -11,6 +11,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category10.name",
     "primary" : true,
+    "productCount" : 5,
     "slug" : "packs",
     "visible" : true
   }, {
@@ -18,6 +19,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category18.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "supplements",
     "visible" : true
   }, {
@@ -25,6 +27,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category71.name",
     "primary" : false,
+    "productCount" : 5,
     "slug" : "gut-feeling",
     "visible" : true
   } ],
@@ -225,21 +228,25 @@
   "soldOut" : false,
   "supplementDescription" : "pack cleansing",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.WPC.tabs0.description",
     "id" : 248,
     "showPrintButton" : false,
     "title" : "product.WPC.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.WPC.tabs1.description",
     "id" : 249,
     "showPrintButton" : true,
     "title" : "product.WPC.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.WPC.tabs2.description",
     "id" : 250,
     "showPrintButton" : false,
     "title" : "product.WPC.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.WPC.tabs3.description",
     "id" : 251,
     "showPrintButton" : false,

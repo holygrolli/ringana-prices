@@ -11,6 +11,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category10.name",
     "primary" : true,
+    "productCount" : 5,
     "slug" : "packs",
     "visible" : true
   }, {
@@ -18,6 +19,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category18.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "supplements",
     "visible" : true
   }, {
@@ -25,6 +27,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category67.name",
     "primary" : false,
+    "productCount" : 5,
     "slug" : "immune-system",
     "visible" : true
   } ],
@@ -231,21 +234,25 @@
   "soldOut" : false,
   "supplementDescription" : "pack antiox",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.WPA.tabs0.description",
     "id" : 244,
     "showPrintButton" : false,
     "title" : "product.WPA.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.WPA.tabs1.description",
     "id" : 245,
     "showPrintButton" : true,
     "title" : "product.WPA.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.WPA.tabs2.description",
     "id" : 246,
     "showPrintButton" : false,
     "title" : "product.WPA.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.WPA.tabs3.description",
     "id" : 247,
     "showPrintButton" : false,

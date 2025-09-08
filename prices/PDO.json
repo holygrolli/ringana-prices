@@ -20,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category13.name",
     "primary" : true,
+    "productCount" : 19,
     "slug" : "samples",
     "visible" : true
   }, {
@@ -27,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category93.name",
     "primary" : false,
+    "productCount" : 14,
     "slug" : "body-care",
     "visible" : true
   }, {
@@ -34,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category87.name",
     "primary" : false,
+    "productCount" : 14,
     "slug" : "sport-essentials",
     "visible" : true
   } ],
@@ -272,21 +275,25 @@
   "soldOut" : false,
   "supplementDescription" : "sample",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.PDO.tabs0.description",
     "id" : 159,
     "showPrintButton" : false,
     "title" : "product.PDO.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.PDO.tabs1.description",
     "id" : 160,
     "showPrintButton" : true,
     "title" : "product.PDO.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.PDO.tabs2.description",
     "id" : 161,
     "showPrintButton" : false,
     "title" : "product.PDO.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.PDO.tabs3.description",
     "id" : 162,
     "showPrintButton" : false,

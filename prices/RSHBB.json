@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category16.name",
     "primary" : false,
+    "productCount" : 15,
     "slug" : "merchandise",
     "visible" : true
   } ],
@@ -240,16 +241,19 @@
   "soldOut" : false,
   "supplementDescription" : "SHAKER BALL",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RSHBB.tabs0.description",
     "id" : 175,
     "showPrintButton" : false,
     "title" : "product.RSHBB.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RSHBB.tabs1.description",
     "id" : 176,
     "showPrintButton" : true,
     "title" : "product.RSHBB.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RSHBB.tabs2.description",
     "id" : 177,
     "showPrintButton" : false,

@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category15.name",
     "primary" : true,
+    "productCount" : 9,
     "slug" : "fresh-baby",
     "visible" : true
   }, {
@@ -15,6 +16,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category16.name",
     "primary" : false,
+    "productCount" : 15,
     "slug" : "merchandise",
     "visible" : true
   } ],
@@ -253,11 +255,13 @@
   "soldOut" : false,
   "supplementDescription" : "baby poncho",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RBBP.tabs0.description",
     "id" : 1465,
     "showPrintButton" : false,
     "title" : "product.RBBP.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RBBP.tabs1.description",
     "id" : 1466,
     "showPrintButton" : false,

@@ -15,6 +15,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category14.name",
     "primary" : true,
+    "productCount" : 7,
     "slug" : "sport",
     "visible" : true
   }, {
@@ -22,6 +23,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category87.name",
     "primary" : false,
+    "productCount" : 14,
     "slug" : "sport-essentials",
     "visible" : true
   }, {
@@ -29,6 +31,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category496.name",
     "primary" : false,
+    "productCount" : 37,
     "slug" : "sets",
     "visible" : true
   }, {
@@ -36,6 +39,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category99.name",
     "primary" : false,
+    "productCount" : 24,
     "slug" : "supplement-sets",
     "visible" : true
   } ],
@@ -298,21 +302,25 @@
   "soldOut" : false,
   "supplementDescription" : "push",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.SPU3.tabs4018.description",
     "id" : 4018,
     "showPrintButton" : false,
     "title" : "product.SPU3.tabs4018.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SPU3.tabs4019.description",
     "id" : 4019,
     "showPrintButton" : true,
     "title" : "product.SPU3.tabs4019.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SPU3.tabs4020.description",
     "id" : 4020,
     "showPrintButton" : false,
     "title" : "product.SPU3.tabs4020.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SPU3.tabs4021.description",
     "id" : 4021,
     "showPrintButton" : false,

@@ -11,6 +11,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category18.name",
     "primary" : true,
+    "productCount" : 22,
     "slug" : "supplements",
     "visible" : true
   }, {
@@ -18,6 +19,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category3.name",
     "primary" : false,
+    "productCount" : 13,
     "slug" : "caps",
     "visible" : true
   }, {
@@ -25,6 +27,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category69.name",
     "primary" : false,
+    "productCount" : 3,
     "slug" : "mood",
     "visible" : true
   }, {
@@ -32,6 +35,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category331.name",
     "primary" : false,
+    "productCount" : 5,
     "slug" : "men",
     "visible" : false
   } ],
@@ -273,21 +277,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS mascu",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.CMV.tabs0.description",
     "id" : 332,
     "showPrintButton" : false,
     "title" : "product.CMV.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CMV.tabs1.description",
     "id" : 333,
     "showPrintButton" : true,
     "title" : "product.CMV.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CMV.tabs2.description",
     "id" : 334,
     "showPrintButton" : false,
     "title" : "product.CMV.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CMV.tabs3.description",
     "id" : 335,
     "showPrintButton" : false,

@@ -15,6 +15,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category496.name",
     "primary" : true,
+    "productCount" : 37,
     "slug" : "sets",
     "visible" : true
   }, {
@@ -22,6 +23,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category99.name",
     "primary" : false,
+    "productCount" : 24,
     "slug" : "supplement-sets",
     "visible" : true
   }, {
@@ -29,6 +31,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category87.name",
     "primary" : false,
+    "productCount" : 14,
     "slug" : "sport-essentials",
     "visible" : true
   }, {
@@ -36,6 +39,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category14.name",
     "primary" : false,
+    "productCount" : 7,
     "slug" : "sport",
     "visible" : true
   } ],
@@ -202,21 +206,25 @@
   "soldOut" : false,
   "supplementDescription" : "protein",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.SPR3.tabs4022.description",
     "id" : 4022,
     "showPrintButton" : false,
     "title" : "product.SPR3.tabs4022.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SPR3.tabs4023.description",
     "id" : 4023,
     "showPrintButton" : true,
     "title" : "product.SPR3.tabs4023.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SPR3.tabs4024.description",
     "id" : 4024,
     "showPrintButton" : false,
     "title" : "product.SPR3.tabs4024.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SPR3.tabs4025.description",
     "id" : 4025,
     "showPrintButton" : false,

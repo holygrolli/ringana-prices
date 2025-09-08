@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category497.name",
     "primary" : true,
+    "productCount" : 4,
     "slug" : "specials",
     "visible" : true
   } ],
@@ -115,21 +116,25 @@
   "soldOut" : false,
   "supplementDescription" : "summer glow",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.FSGS.tabs4208.description",
     "id" : 4208,
     "showPrintButton" : false,
     "title" : "product.FSGS.tabs4208.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FSGS.tabs4209.description",
     "id" : 4209,
     "showPrintButton" : false,
     "title" : "product.FSGS.tabs4209.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FSGS.tabs4210.description",
     "id" : 4210,
     "showPrintButton" : false,
     "title" : "product.FSGS.tabs4210.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FSGS.tabs4211.description",
     "id" : 4211,
     "showPrintButton" : false,

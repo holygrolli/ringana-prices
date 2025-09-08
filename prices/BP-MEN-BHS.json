@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category496.name",
     "primary" : true,
+    "productCount" : 37,
     "slug" : "sets",
     "visible" : true
   }, {
@@ -15,6 +16,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category98.name",
     "primary" : false,
+    "productCount" : 12,
     "slug" : "skincare-sets",
     "visible" : true
   }, {
@@ -22,6 +24,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category331.name",
     "primary" : false,
+    "productCount" : 5,
     "slug" : "men",
     "visible" : false
   } ],
@@ -263,21 +266,25 @@
   "soldOut" : false,
   "supplementDescription" : "Skin care",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.BP-MEN-BHS.tabs0.description",
     "id" : 21,
     "showPrintButton" : false,
     "title" : "product.BP-MEN-BHS.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BP-MEN-BHS.tabs1.description",
     "id" : 22,
     "showPrintButton" : true,
     "title" : "product.BP-MEN-BHS.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BP-MEN-BHS.tabs2.description",
     "id" : 23,
     "showPrintButton" : false,
     "title" : "product.BP-MEN-BHS.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BP-MEN-BHS.tabs3.description",
     "id" : 24,
     "showPrintButton" : false,

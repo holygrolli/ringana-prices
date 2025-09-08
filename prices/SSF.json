@@ -28,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true
   }, {
@@ -35,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   }, {
@@ -42,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   }, {
@@ -49,6 +52,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category204.name",
     "primary" : false,
+    "productCount" : 1,
     "slug" : "step-6-protecting",
     "visible" : true
   }, {
@@ -56,6 +60,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true
   }, {
@@ -63,6 +68,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category91.name",
     "primary" : false,
+    "productCount" : 10,
     "slug" : "suncare",
     "visible" : true
   }, {
@@ -70,6 +76,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category80.name",
     "primary" : false,
+    "productCount" : 11,
     "slug" : "anti-pollution",
     "visible" : true
   }, {
@@ -77,6 +84,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
+    "productCount" : 31,
     "slug" : "hydrating",
     "visible" : true
   } ],
@@ -124,7 +132,7 @@
         "brutto" : 39.04,
         "bruttoWithoutDiscount" : 48.8,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -138,7 +146,7 @@
         "brutto" : 39.04,
         "bruttoWithoutDiscount" : 48.8,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -171,7 +179,7 @@
         "brutto" : 26.8,
         "bruttoWithoutDiscount" : 33.5,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -185,7 +193,7 @@
         "brutto" : 26.8,
         "bruttoWithoutDiscount" : 33.5,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-09-09T21:59:59Z",
+        "discountUntil" : "2025-09-30T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -342,26 +350,31 @@
   "soldOut" : false,
   "supplementDescription" : "sunscreen face",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.SSF.tabs0.description",
     "id" : 507,
     "showPrintButton" : false,
     "title" : "product.SSF.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SSF.tabs1.description",
     "id" : 508,
     "showPrintButton" : true,
     "title" : "product.SSF.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SSF.tabs2.description",
     "id" : 509,
     "showPrintButton" : false,
     "title" : "product.SSF.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SSF.tabs3.description",
     "id" : 510,
     "showPrintButton" : false,
     "title" : "product.SSF.tabs3.title"
   }, {
+    "anchorName" : null,
     "description" : "product.SSF.tabs3907.description",
     "id" : 3907,
     "showPrintButton" : false,

@@ -20,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category2.name",
     "primary" : true,
+    "productCount" : 16,
     "slug" : "body",
     "visible" : true
   }, {
@@ -27,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   }, {
@@ -34,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   }, {
@@ -41,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category93.name",
     "primary" : false,
+    "productCount" : 14,
     "slug" : "body-care",
     "visible" : true
   }, {
@@ -48,6 +52,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category87.name",
     "primary" : false,
+    "productCount" : 14,
     "slug" : "sport-essentials",
     "visible" : true
   } ],
@@ -292,21 +297,25 @@
   "soldOut" : false,
   "supplementDescription" : "DEODORANT",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.BDO.tabs0.description",
     "id" : 491,
     "showPrintButton" : false,
     "title" : "product.BDO.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BDO.tabs1.description",
     "id" : 492,
     "showPrintButton" : true,
     "title" : "product.BDO.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BDO.tabs2.description",
     "id" : 493,
     "showPrintButton" : false,
     "title" : "product.BDO.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BDO.tabs3.description",
     "id" : 494,
     "showPrintButton" : false,

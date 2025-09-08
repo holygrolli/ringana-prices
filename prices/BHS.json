@@ -20,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true
   }, {
@@ -27,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true
   }, {
@@ -34,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
+    "productCount" : 25,
     "slug" : "combination-skin",
     "visible" : true
   }, {
@@ -41,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category85.name",
     "primary" : false,
+    "productCount" : 20,
     "slug" : "sensitive-reddened-skin",
     "visible" : true
   }, {
@@ -48,6 +52,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category202.name",
     "primary" : false,
+    "productCount" : 3,
     "slug" : "step-4-hydrating",
     "visible" : true
   }, {
@@ -55,6 +60,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "dry-skin",
     "visible" : true
   }, {
@@ -62,6 +68,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
     "primary" : false,
+    "productCount" : 26,
     "slug" : "mature-skin",
     "visible" : true
   }, {
@@ -69,6 +76,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
+    "productCount" : 31,
     "slug" : "hydrating",
     "visible" : true
   }, {
@@ -76,6 +84,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category76.name",
     "primary" : false,
+    "productCount" : 13,
     "slug" : "toning",
     "visible" : true
   }, {
@@ -83,6 +92,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   }, {
@@ -90,6 +100,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   } ],
@@ -369,26 +380,31 @@
   "soldOut" : false,
   "supplementDescription" : "hydro serum",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.BHS.tabs2587.description",
     "id" : 2587,
     "showPrintButton" : false,
     "title" : "product.BHS.tabs2587.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BHS.tabs2588.description",
     "id" : 2588,
     "showPrintButton" : false,
     "title" : "product.BHS.tabs2588.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BHS.tabs2589.description",
     "id" : 2589,
     "showPrintButton" : false,
     "title" : "product.BHS.tabs2589.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BHS.tabs2590.description",
     "id" : 2590,
     "showPrintButton" : false,
     "title" : "product.BHS.tabs2590.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BHS.tabs2591.description",
     "id" : 2591,
     "showPrintButton" : false,

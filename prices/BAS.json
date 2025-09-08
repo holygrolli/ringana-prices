@@ -16,6 +16,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true
   }, {
@@ -23,6 +24,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category202.name",
     "primary" : false,
+    "productCount" : 3,
     "slug" : "step-4-hydrating",
     "visible" : true
   }, {
@@ -30,6 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   }, {
@@ -37,6 +40,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true
   }, {
@@ -44,6 +48,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
+    "productCount" : 25,
     "slug" : "combination-skin",
     "visible" : true
   }, {
@@ -51,6 +56,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "dry-skin",
     "visible" : true
   }, {
@@ -58,6 +64,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
     "primary" : false,
+    "productCount" : 26,
     "slug" : "mature-skin",
     "visible" : true
   }, {
@@ -65,6 +72,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
+    "productCount" : 31,
     "slug" : "hydrating",
     "visible" : true
   }, {
@@ -72,6 +80,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category75.name",
     "primary" : false,
+    "productCount" : 12,
     "slug" : "lifting",
     "visible" : true
   }, {
@@ -79,6 +88,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   } ],
@@ -359,26 +369,31 @@
   "soldOut" : false,
   "supplementDescription" : "eye serum",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.BAS.tabs0.description",
     "id" : 535,
     "showPrintButton" : false,
     "title" : "product.BAS.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BAS.tabs1.description",
     "id" : 536,
     "showPrintButton" : true,
     "title" : "product.BAS.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BAS.tabs2.description",
     "id" : 537,
     "showPrintButton" : false,
     "title" : "product.BAS.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BAS.tabs3.description",
     "id" : 538,
     "showPrintButton" : false,
     "title" : "product.BAS.tabs3.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BAS.tabs1961.description",
     "id" : 1961,
     "showPrintButton" : false,

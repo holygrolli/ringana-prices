@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category16.name",
     "primary" : true,
+    "productCount" : 15,
     "slug" : "merchandise",
     "visible" : true
   } ],
@@ -99,11 +100,13 @@
   "soldOut" : false,
   "supplementDescription" : "scarf",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RSW.tabs4602.description",
     "id" : 4602,
     "showPrintButton" : false,
     "title" : "product.RSW.tabs4602.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RSW.tabs4603.description",
     "id" : 4603,
     "showPrintButton" : false,

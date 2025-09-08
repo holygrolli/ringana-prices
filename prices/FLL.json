@@ -20,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category2.name",
     "primary" : true,
+    "productCount" : 16,
     "slug" : "body",
     "visible" : true
   }, {
@@ -27,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
+    "productCount" : 44,
     "slug" : "fresh",
     "visible" : true
   }, {
@@ -34,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
+    "productCount" : 34,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true
   }, {
@@ -41,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category93.name",
     "primary" : false,
+    "productCount" : 14,
     "slug" : "body-care",
     "visible" : true
   } ],
@@ -305,26 +309,31 @@
   "soldOut" : false,
   "supplementDescription" : "light legs",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.FLL.tabs0.description",
     "id" : 467,
     "showPrintButton" : false,
     "title" : "product.FLL.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FLL.tabs1.description",
     "id" : 468,
     "showPrintButton" : true,
     "title" : "product.FLL.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FLL.tabs2.description",
     "id" : 469,
     "showPrintButton" : false,
     "title" : "product.FLL.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FLL.tabs3.description",
     "id" : 470,
     "showPrintButton" : false,
     "title" : "product.FLL.tabs3.title"
   }, {
+    "anchorName" : null,
     "description" : "product.FLL.tabs2071.description",
     "id" : 2071,
     "showPrintButton" : false,

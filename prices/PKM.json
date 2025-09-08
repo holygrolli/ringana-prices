@@ -20,6 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category13.name",
     "primary" : true,
+    "productCount" : 19,
     "slug" : "samples",
     "visible" : true
   }, {
@@ -27,6 +28,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category93.name",
     "primary" : false,
+    "productCount" : 14,
     "slug" : "body-care",
     "visible" : true
   }, {
@@ -34,6 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category85.name",
     "primary" : false,
+    "productCount" : 20,
     "slug" : "sensitive-reddened-skin",
     "visible" : true
   }, {
@@ -41,6 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
+    "productCount" : 22,
     "slug" : "dry-skin",
     "visible" : true
   }, {
@@ -48,6 +52,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
+    "productCount" : 31,
     "slug" : "hydrating",
     "visible" : true
   } ],
@@ -292,21 +297,25 @@
   "soldOut" : false,
   "supplementDescription" : "sample",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.PKM.tabs0.description",
     "id" : 155,
     "showPrintButton" : false,
     "title" : "product.PKM.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.PKM.tabs1.description",
     "id" : 156,
     "showPrintButton" : true,
     "title" : "product.PKM.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.PKM.tabs2.description",
     "id" : 157,
     "showPrintButton" : false,
     "title" : "product.PKM.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.PKM.tabs3.description",
     "id" : 158,
     "showPrintButton" : false,

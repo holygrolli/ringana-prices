@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category496.name",
     "primary" : true,
+    "productCount" : 37,
     "slug" : "sets",
     "visible" : true
   }, {
@@ -15,6 +16,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category98.name",
     "primary" : false,
+    "productCount" : 12,
     "slug" : "skincare-sets",
     "visible" : true
   } ],
@@ -260,21 +262,25 @@
   "soldOut" : false,
   "supplementDescription" : "Skin care",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.BP2.tabs0.description",
     "id" : 61,
     "showPrintButton" : false,
     "title" : "product.BP2.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BP2.tabs1.description",
     "id" : 62,
     "showPrintButton" : true,
     "title" : "product.BP2.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BP2.tabs2.description",
     "id" : 63,
     "showPrintButton" : false,
     "title" : "product.BP2.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.BP2.tabs3.description",
     "id" : 64,
     "showPrintButton" : false,

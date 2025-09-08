@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category16.name",
     "primary" : true,
+    "productCount" : 15,
     "slug" : "merchandise",
     "visible" : true
   } ],
@@ -105,11 +106,13 @@
   "soldOut" : false,
   "supplementDescription" : "drink holder",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RDRINKH.tabs2092.description",
     "id" : 2092,
     "showPrintButton" : false,
     "title" : "product.RDRINKH.tabs2092.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RDRINKH.tabs2093.description",
     "id" : 2093,
     "showPrintButton" : false,

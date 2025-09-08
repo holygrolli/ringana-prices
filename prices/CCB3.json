@@ -11,6 +11,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category496.name",
     "primary" : true,
+    "productCount" : 37,
     "slug" : "sets",
     "visible" : true
   }, {
@@ -18,6 +19,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category99.name",
     "primary" : false,
+    "productCount" : 24,
     "slug" : "supplement-sets",
     "visible" : true
   } ],
@@ -219,7 +221,7 @@
       "brutto" : 134.1,
       "bruttoWithoutDiscount" : 149,
       "discountPercentage" : 10,
-      "discountUntil" : "2025-09-08T21:59:59Z",
+      "discountUntil" : "2025-09-09T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -233,7 +235,7 @@
       "brutto" : 134.1,
       "bruttoWithoutDiscount" : 149,
       "discountPercentage" : 10,
-      "discountUntil" : "2025-09-08T21:59:59Z",
+      "discountUntil" : "2025-09-09T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -266,21 +268,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS cerebro",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.CCB3.tabs0.description",
     "id" : 284,
     "showPrintButton" : false,
     "title" : "product.CCB3.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CCB3.tabs1.description",
     "id" : 285,
     "showPrintButton" : true,
     "title" : "product.CCB3.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CCB3.tabs2.description",
     "id" : 286,
     "showPrintButton" : false,
     "title" : "product.CCB3.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.CCB3.tabs3.description",
     "id" : 287,
     "showPrintButton" : false,

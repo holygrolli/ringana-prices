@@ -8,6 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category15.name",
     "primary" : true,
+    "productCount" : 9,
     "slug" : "fresh-baby",
     "visible" : true
   } ],
@@ -182,21 +183,25 @@
   "soldOut" : false,
   "supplementDescription" : "Baby box",
   "tabs" : [ {
+    "anchorName" : null,
     "description" : "product.RBGB.tabs0.description",
     "id" : 735,
     "showPrintButton" : false,
     "title" : "product.RBGB.tabs0.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RBGB.tabs1.description",
     "id" : 736,
     "showPrintButton" : true,
     "title" : "product.RBGB.tabs1.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RBGB.tabs2.description",
     "id" : 737,
     "showPrintButton" : false,
     "title" : "product.RBGB.tabs2.title"
   }, {
+    "anchorName" : null,
     "description" : "product.RBGB.tabs3.description",
     "id" : 738,
     "showPrintButton" : false,
