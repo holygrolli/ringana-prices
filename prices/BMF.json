@@ -2,14 +2,17 @@
   "matchcode" : "BMF",
   "additionalUnitPrice" : null,
   "awards" : [ {
+    "id" : 3,
     "imageId" : 1045,
     "link" : "https://www.cosmos-standard.org/",
     "name" : "COSMOS Natural"
   }, {
+    "id" : 1,
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
   }, {
+    "id" : 81,
     "imageId" : 1044,
     "link" : "https://skin.li/250b7b05",
     "name" : "cosmeticsanalysis.com - FRESH moisturiser for men "

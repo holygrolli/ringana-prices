@@ -2,14 +2,17 @@
   "matchcode" : "STF",
   "additionalUnitPrice" : null,
   "awards" : [ {
+    "id" : 4,
     "imageId" : 1046,
     "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
     "name" : "COSMOS Organic"
   }, {
+    "id" : 1,
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
   }, {
+    "id" : 83,
     "imageId" : 1044,
     "link" : "https://skin.li/bijry2lf",
     "name" : "cosmeticsanalysis.com - FRESH stay fresh"

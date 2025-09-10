@@ -5,6 +5,7 @@
     "type" : 1
   },
   "awards" : [ {
+    "id" : 6,
     "imageId" : 1048,
     "link" : "https://www.koelnerliste.com/en/",
     "name" : "Kölner Liste"

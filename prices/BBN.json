@@ -2,10 +2,12 @@
   "matchcode" : "BBN",
   "additionalUnitPrice" : null,
   "awards" : [ {
+    "id" : 1,
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
   }, {
+    "id" : 68,
     "imageId" : 1044,
     "link" : "https://skin.li/waypq5do",
     "name" : "cosmeticsanalysis.com - FRESH overnight body treatment "

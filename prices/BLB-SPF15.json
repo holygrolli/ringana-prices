@@ -2,22 +2,27 @@
   "matchcode" : "BLB-SPF15",
   "additionalUnitPrice" : null,
   "awards" : [ {
+    "id" : 13,
     "imageId" : 2222,
-    "link" : null,
+    "link" : "",
     "name" : "UVB-protection"
   }, {
+    "id" : 12,
     "imageId" : 2223,
-    "link" : null,
+    "link" : "",
     "name" : "UVA-protection"
   }, {
+    "id" : 10,
     "imageId" : 1052,
     "link" : "https://www.positivereefinitiative.com/en/",
     "name" : "Positive Reef"
   }, {
+    "id" : 1,
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
   }, {
+    "id" : 199,
     "imageId" : 1044,
     "link" : "https://skin.li/n0bqksr1",
     "name" : "cosmeticsanalysis.com - FRESH lip balm nude SPF 15"

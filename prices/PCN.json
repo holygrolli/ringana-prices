@@ -2,10 +2,12 @@
   "matchcode" : "PCN",
   "additionalUnitPrice" : null,
   "awards" : [ {
+    "id" : 1,
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
   }, {
+    "id" : 72,
     "imageId" : 1044,
     "link" : "https://skin.li/e8dd078b",
     "name" : "cosmeticsanalysis.com - FRESH overnight face treatment"

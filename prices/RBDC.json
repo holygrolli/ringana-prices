@@ -2,14 +2,17 @@
   "matchcode" : "RBDC",
   "additionalUnitPrice" : null,
   "awards" : [ {
+    "id" : 4,
     "imageId" : 1046,
     "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
     "name" : "COSMOS Organic"
   }, {
+    "id" : 1,
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
   }, {
+    "id" : 120,
     "imageId" : 1044,
     "link" : "https://skin.li/ki4zam79",
     "name" : "cosmeticsanalysis.com - FRESH baby bum cream"

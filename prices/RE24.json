@@ -2,8 +2,9 @@
   "matchcode" : "RE24",
   "additionalUnitPrice" : null,
   "awards" : [ {
+    "id" : 8,
     "imageId" : 1050,
-    "link" : null,
+    "link" : "",
     "name" : "patentiert"
   } ],
   "blogPostIds" : [ 146383, 117245, 113041 ],

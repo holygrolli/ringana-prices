@@ -2,8 +2,9 @@
   "matchcode" : "RE12",
   "additionalUnitPrice" : null,
   "awards" : [ {
+    "id" : 8,
     "imageId" : 1050,
-    "link" : null,
+    "link" : "",
     "name" : "patentiert"
   } ],
   "blogPostIds" : [ ],

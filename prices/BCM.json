@@ -2,14 +2,17 @@
   "matchcode" : "BCM",
   "additionalUnitPrice" : null,
   "awards" : [ {
+    "id" : 3,
     "imageId" : 1045,
     "link" : "https://www.cosmos-standard.org/",
     "name" : "COSMOS Natural"
   }, {
+    "id" : 1,
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
   }, {
+    "id" : 71,
     "imageId" : 1044,
     "link" : "https://skin.li/a5339113",
     "name" : "cosmeticsanalysis.com - FRESH cream rich"
@@ -328,6 +331,12 @@
     "id" : 3913,
     "mediaId" : 5425,
     "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 6085,
+    "mediaId" : 9191,
+    "mediaType" : "video"
   } ],
   "nemBackgroundColor" : null,
   "press" : null,

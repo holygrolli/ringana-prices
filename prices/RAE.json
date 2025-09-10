@@ -2,10 +2,12 @@
   "matchcode" : "RAE",
   "additionalUnitPrice" : null,
   "awards" : [ {
+    "id" : 1,
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
   }, {
+    "id" : 116,
     "imageId" : 1044,
     "link" : "https://skin.li/a5a73e10",
     "name" : "cosmeticsanalysis.com - FRESH ADDS effect"
@@ -296,6 +298,12 @@
     "id" : 3919,
     "mediaId" : 5429,
     "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 6082,
+    "mediaId" : 9190,
+    "mediaType" : "video"
   } ],
   "nemBackgroundColor" : null,
   "press" : null,

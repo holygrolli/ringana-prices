@@ -2,10 +2,12 @@
   "matchcode" : "PAS",
   "additionalUnitPrice" : null,
   "awards" : [ {
+    "id" : 1,
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
   }, {
+    "id" : 67,
     "imageId" : 1044,
     "link" : "https://skin.li/5ca01b05",
     "name" : "cosmeticsanalysis.com - FRESH eye serum"

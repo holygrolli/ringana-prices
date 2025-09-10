@@ -2,22 +2,27 @@
   "matchcode" : "RBSS",
   "additionalUnitPrice" : null,
   "awards" : [ {
+    "id" : 13,
     "imageId" : 2222,
-    "link" : null,
+    "link" : "",
     "name" : "UVB-protection"
   }, {
+    "id" : 12,
     "imageId" : 2223,
-    "link" : null,
+    "link" : "",
     "name" : "UVA-protection"
   }, {
+    "id" : 3,
     "imageId" : 1045,
     "link" : "https://www.cosmos-standard.org/",
     "name" : "COSMOS Natural"
   }, {
+    "id" : 1,
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
   }, {
+    "id" : 134,
     "imageId" : 2,
     "link" : "https://skin.li/9m5gebar",
     "name" : "cosmeticsanalysis.com - FRESH baby sunscreen SPF 50"

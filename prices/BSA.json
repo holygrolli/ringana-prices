@@ -2,14 +2,17 @@
   "matchcode" : "BSA",
   "additionalUnitPrice" : null,
   "awards" : [ {
+    "id" : 4,
     "imageId" : 1046,
     "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
     "name" : "COSMOS Organic"
   }, {
+    "id" : 1,
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
   }, {
+    "id" : 100,
     "imageId" : 1044,
     "link" : "https://skin.li/7424280e",
     "name" : "cosmeticsanalysis.com - FRESH anti wrinkle serum "
@@ -296,6 +299,12 @@
     "id" : 3898,
     "mediaId" : 5423,
     "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 6081,
+    "mediaId" : 9190,
+    "mediaType" : "video"
   } ],
   "nemBackgroundColor" : null,
   "press" : null,

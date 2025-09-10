@@ -2,10 +2,12 @@
   "matchcode" : "FLN",
   "additionalUnitPrice" : null,
   "awards" : [ {
+    "id" : 265,
     "imageId" : 1044,
     "link" : "https://skin.li/6zcmikf7",
     "name" : "cosmeticsanalysis.com - FRESH skin perfection"
   }, {
+    "id" : 1,
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
@@ -325,6 +327,12 @@
     "id" : 3501,
     "mediaId" : 4336,
     "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 6074,
+    "mediaId" : 9186,
+    "mediaType" : "video"
   } ],
   "nemBackgroundColor" : null,
   "press" : null,

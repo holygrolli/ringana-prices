@@ -2,26 +2,32 @@
   "matchcode" : "BSR",
   "additionalUnitPrice" : null,
   "awards" : [ {
+    "id" : 7,
     "imageId" : 1049,
     "link" : "https://www.lacon-institut.com/en/philosophy/",
     "name" : "Lacon"
   }, {
+    "id" : 11,
     "imageId" : 1053,
     "link" : "https://www.umweltzeichen.at/de/produkte/haushalt-reinigung?cert_number=UW+1162",
     "name" : "Umweltzeichen"
   }, {
+    "id" : 1,
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
   }, {
+    "id" : 5,
     "imageId" : 1047,
     "link" : "https://www.umweltzeichen.at/de/ecolabel/living-and-cosmetics?cert_number=AT/030/004",
     "name" : "EU Ecolabel"
   }, {
+    "id" : 34,
     "imageId" : 1826,
-    "link" : null,
+    "link" : "",
     "name" : "Reusable Materials"
   }, {
+    "id" : 102,
     "imageId" : 1044,
     "link" : "https://skin.li/80e6acfc",
     "name" : "cosmeticsanalysis.com - FRESH soap"

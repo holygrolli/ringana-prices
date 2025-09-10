@@ -2,14 +2,17 @@
   "matchcode" : "PEP",
   "additionalUnitPrice" : null,
   "awards" : [ {
+    "id" : 3,
     "imageId" : 1045,
     "link" : "https://www.cosmos-standard.org/",
     "name" : "COSMOS Natural"
   }, {
+    "id" : 1,
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
   }, {
+    "id" : 108,
     "imageId" : 1044,
     "link" : "https://skin.li/3rc7t4we",
     "name" : "cosmeticsanalysis.com - FRESH illuminating enzyme mask"
