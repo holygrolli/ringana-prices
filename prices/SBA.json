@@ -343,31 +343,31 @@
   "soldOut" : false,
   "supplementDescription" : "after sun",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.SBA.tabs0.description",
     "id" : 475,
     "showPrintButton" : false,
     "title" : "product.SBA.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.SBA.tabs1.description",
     "id" : 476,
     "showPrintButton" : true,
     "title" : "product.SBA.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.SBA.tabs2.description",
     "id" : 477,
     "showPrintButton" : false,
     "title" : "product.SBA.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.SBA.tabs3.description",
     "id" : 478,
     "showPrintButton" : false,
     "title" : "product.SBA.tabs3.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.SBA.tabs2073.description",
     "id" : 2073,
     "showPrintButton" : false,
