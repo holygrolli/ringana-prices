@@ -280,25 +280,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS cerebro",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CCB.tabs0.description",
     "id" : 340,
     "showPrintButton" : false,
     "title" : "product.CCB.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CCB.tabs1.description",
     "id" : 341,
     "showPrintButton" : true,
     "title" : "product.CCB.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CCB.tabs2.description",
     "id" : 343,
     "showPrintButton" : false,
     "title" : "product.CCB.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CCB.tabs3.description",
     "id" : 345,
     "showPrintButton" : false,

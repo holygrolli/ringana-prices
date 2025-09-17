@@ -173,25 +173,13 @@
     "id" : 1641,
     "question" : "product.BTF-N1.faqs0.question"
   }, {
-    "answer" : "product.BTF-N1.faqs1.answer",
-    "id" : 1642,
-    "question" : "product.BTF-N1.faqs1.question"
-  }, {
     "answer" : "product.BTF-N1.faqs4.answer",
     "id" : 1645,
     "question" : "product.BTF-N1.faqs4.question"
   }, {
-    "answer" : "product.BTF-N1.faqs2.answer",
-    "id" : 1643,
-    "question" : "product.BTF-N1.faqs2.question"
-  }, {
-    "answer" : "product.BTF-N1.faqs3.answer",
-    "id" : 1644,
-    "question" : "product.BTF-N1.faqs3.question"
-  }, {
-    "answer" : "product.BTF-N1.faqs5.answer",
-    "id" : 1646,
-    "question" : "product.BTF-N1.faqs5.question"
+    "answer" : "product.BTF-N1.faqs1758100735690.answer",
+    "id" : 2067,
+    "question" : "product.BTF-N1.faqs1758100735690.question"
   } ],
   "firstHeadline" : "product.BTF-N1.firstHeadline",
   "id" : 3634,
@@ -428,31 +416,31 @@
   "soldOut" : false,
   "supplementDescription" : "NUANCE1",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BTF-N1.tabs4241.description",
     "id" : 4241,
     "showPrintButton" : false,
     "title" : "product.BTF-N1.tabs4241.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BTF-N1.tabs4242.description",
     "id" : 4242,
     "showPrintButton" : true,
     "title" : "product.BTF-N1.tabs4242.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BTF-N1.tabs4243.description",
     "id" : 4243,
     "showPrintButton" : false,
     "title" : "product.BTF-N1.tabs4243.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BTF-N1.tabs4244.description",
     "id" : 4244,
     "showPrintButton" : false,
     "title" : "product.BTF-N1.tabs4244.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BTF-N1.tabs4245.description",
     "id" : 4245,
     "showPrintButton" : false,
