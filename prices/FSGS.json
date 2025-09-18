@@ -8,7 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category497.name",
     "primary" : true,
-    "productCount" : 4,
+    "productCount" : 6,
     "slug" : "specials",
     "visible" : true
   } ],
@@ -54,10 +54,10 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 77.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 54.39,
+      "bruttoWithoutDiscount" : 77.7,
+      "discountPercentage" : 30,
+      "discountUntil" : "2025-10-31T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -65,13 +65,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 39.9
+      "provisionPoints" : 25.14
     },
     "partner" : {
-      "brutto" : 77.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 54.39,
+      "bruttoWithoutDiscount" : 77.7,
+      "discountPercentage" : 30,
+      "discountUntil" : "2025-10-31T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -79,7 +79,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 39.9
+      "provisionPoints" : 25.14
     }
   },
   "purchasePossible" : true,
