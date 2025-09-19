@@ -8,7 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category497.name",
     "primary" : true,
-    "productCount" : 6,
+    "productCount" : 5,
     "slug" : "specials",
     "visible" : true
   } ],
@@ -16,8 +16,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -86,15 +86,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 151.6,
+        "brutto" : 189.5,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 30.32,
-        "bruttoWithoutDiscount" : 37.9,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-09-18T21:59:00Z",
+        "brutto" : 37.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -102,13 +102,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 15.19
+        "provisionPoints" : 21.1
       },
       "partner" : {
-        "brutto" : 30.32,
-        "bruttoWithoutDiscount" : 37.9,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-09-18T21:59:00Z",
+        "brutto" : 37.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -116,7 +116,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 15.19
+        "provisionPoints" : 21.1
       }
     },
     "purchasePossible" : true,
@@ -195,10 +195,10 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 90.8,
-      "bruttoWithoutDiscount" : 113.5,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-09-18T21:59:59Z",
+      "brutto" : 113.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -206,13 +206,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 46.87
+      "provisionPoints" : 65.1
     },
     "partner" : {
-      "brutto" : 90.8,
-      "bruttoWithoutDiscount" : 113.5,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-09-18T21:59:59Z",
+      "brutto" : 113.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -220,10 +220,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 46.87
+      "provisionPoints" : 65.1
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -246,7 +246,7 @@
     "text" : "product.CMO-RI12.socialMedia.text",
     "title" : "product.CMO-RI12.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "feel good",
   "tabs" : [ {
     "anchorName" : null,
