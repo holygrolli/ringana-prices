@@ -13,7 +13,8 @@
     "primary" : true,
     "productCount" : 13,
     "slug" : "caps",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 18,
     "infoColorNeeded" : false,
@@ -21,7 +22,8 @@
     "primary" : false,
     "productCount" : 22,
     "slug" : "supplements",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 74,
     "infoColorNeeded" : false,
@@ -29,7 +31,8 @@
     "primary" : false,
     "productCount" : 9,
     "slug" : "better-aging",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 84,
     "infoColorNeeded" : false,
@@ -37,7 +40,8 @@
     "primary" : false,
     "productCount" : 18,
     "slug" : "impure-skin",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 76,
     "infoColorNeeded" : false,
@@ -45,7 +49,8 @@
     "primary" : false,
     "productCount" : 13,
     "slug" : "toning",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 73,
     "infoColorNeeded" : false,
@@ -53,7 +58,8 @@
     "primary" : false,
     "productCount" : 7,
     "slug" : "body-shape",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 71,
     "infoColorNeeded" : false,
@@ -61,7 +67,8 @@
     "primary" : false,
     "productCount" : 5,
     "slug" : "gut-feeling",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 67,
     "infoColorNeeded" : false,
@@ -69,7 +76,8 @@
     "primary" : false,
     "productCount" : 5,
     "slug" : "immune-system",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "26,1",

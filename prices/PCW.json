@@ -25,15 +25,17 @@
     "primary" : true,
     "productCount" : 19,
     "slug" : "samples",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
-    "productCount" : 33,
+    "productCount" : 32,
     "slug" : "facial-care",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 86,
     "infoColorNeeded" : false,
@@ -41,7 +43,8 @@
     "primary" : false,
     "productCount" : 25,
     "slug" : "combination-skin",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 85,
     "infoColorNeeded" : false,
@@ -49,7 +52,8 @@
     "primary" : false,
     "productCount" : 20,
     "slug" : "sensitive-reddened-skin",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 84,
     "infoColorNeeded" : false,
@@ -57,7 +61,8 @@
     "primary" : false,
     "productCount" : 18,
     "slug" : "impure-skin",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 83,
     "infoColorNeeded" : false,
@@ -65,7 +70,8 @@
     "primary" : false,
     "productCount" : 20,
     "slug" : "oily-skin",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 81,
     "infoColorNeeded" : false,
@@ -73,7 +79,8 @@
     "primary" : false,
     "productCount" : 26,
     "slug" : "mature-skin",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 78,
     "infoColorNeeded" : false,
@@ -81,15 +88,17 @@
     "primary" : false,
     "productCount" : 12,
     "slug" : "cleansing",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 77,
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
-    "productCount" : 31,
+    "productCount" : 30,
     "slug" : "hydrating",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 76,
     "infoColorNeeded" : false,
@@ -97,7 +106,8 @@
     "primary" : false,
     "productCount" : 13,
     "slug" : "toning",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 17,
     "infoColorNeeded" : false,
@@ -105,7 +115,8 @@
     "primary" : false,
     "productCount" : 44,
     "slug" : "fresh",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "15",

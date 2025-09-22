@@ -23,17 +23,19 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
-    "productCount" : 28,
+    "productCount" : 27,
     "slug" : "face",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 463,
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 34,
+    "productCount" : 33,
     "slug" : "pregnancy-breastfeeding",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 17,
     "infoColorNeeded" : false,
@@ -41,7 +43,8 @@
     "primary" : false,
     "productCount" : 44,
     "slug" : "fresh",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 89,
     "infoColorNeeded" : false,
@@ -49,7 +52,8 @@
     "primary" : false,
     "productCount" : 8,
     "slug" : "oral-hygiene",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "125",

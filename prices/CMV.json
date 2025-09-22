@@ -13,7 +13,8 @@
     "primary" : true,
     "productCount" : 22,
     "slug" : "supplements",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 3,
     "infoColorNeeded" : false,
@@ -21,7 +22,8 @@
     "primary" : false,
     "productCount" : 13,
     "slug" : "caps",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 69,
     "infoColorNeeded" : false,
@@ -29,7 +31,8 @@
     "primary" : false,
     "productCount" : 3,
     "slug" : "mood",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 331,
     "infoColorNeeded" : false,
@@ -37,7 +40,8 @@
     "primary" : false,
     "productCount" : 5,
     "slug" : "men",
-    "visible" : false
+    "visible" : false,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "45,8",

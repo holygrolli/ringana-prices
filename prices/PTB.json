@@ -25,7 +25,8 @@
     "primary" : true,
     "productCount" : 19,
     "slug" : "samples",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 89,
     "infoColorNeeded" : false,
@@ -33,7 +34,8 @@
     "primary" : false,
     "productCount" : 8,
     "slug" : "oral-hygiene",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "15",

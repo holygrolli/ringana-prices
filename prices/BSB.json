@@ -35,7 +35,8 @@
     "primary" : true,
     "productCount" : 16,
     "slug" : "body",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 17,
     "infoColorNeeded" : false,
@@ -43,15 +44,17 @@
     "primary" : false,
     "productCount" : 44,
     "slug" : "fresh",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 91,
     "infoColorNeeded" : false,
     "name" : "category.category91.name",
     "primary" : false,
-    "productCount" : 10,
+    "productCount" : 9,
     "slug" : "suncare",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "200",

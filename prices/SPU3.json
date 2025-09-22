@@ -18,7 +18,8 @@
     "primary" : true,
     "productCount" : 7,
     "slug" : "sport",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 87,
     "infoColorNeeded" : false,
@@ -26,7 +27,8 @@
     "primary" : false,
     "productCount" : 14,
     "slug" : "sport-essentials",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 496,
     "infoColorNeeded" : false,
@@ -34,7 +36,8 @@
     "primary" : false,
     "productCount" : 37,
     "slug" : "sets",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 99,
     "infoColorNeeded" : false,
@@ -42,7 +45,8 @@
     "primary" : false,
     "productCount" : 24,
     "slug" : "supplement-sets",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "152,40",

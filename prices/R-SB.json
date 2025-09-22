@@ -10,7 +10,8 @@
     "primary" : false,
     "productCount" : 14,
     "slug" : "merchandise",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "1",

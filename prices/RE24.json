@@ -15,7 +15,8 @@
     "primary" : true,
     "productCount" : 37,
     "slug" : "sets",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 5,
     "infoColorNeeded" : false,
@@ -23,7 +24,8 @@
     "primary" : false,
     "productCount" : 7,
     "slug" : "drinks",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 99,
     "infoColorNeeded" : false,
@@ -31,7 +33,8 @@
     "primary" : false,
     "productCount" : 24,
     "slug" : "supplement-sets",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "720",

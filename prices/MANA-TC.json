@@ -10,7 +10,8 @@
     "primary" : true,
     "productCount" : 4,
     "slug" : "manadental",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "1",

@@ -10,7 +10,8 @@
     "primary" : true,
     "productCount" : 19,
     "slug" : "samples",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "45",

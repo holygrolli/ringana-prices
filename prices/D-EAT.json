@@ -13,7 +13,8 @@
     "primary" : true,
     "productCount" : 2,
     "slug" : "complete",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 73,
     "infoColorNeeded" : false,
@@ -21,7 +22,8 @@
     "primary" : false,
     "productCount" : 7,
     "slug" : "body-shape",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "700",

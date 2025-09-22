@@ -10,7 +10,8 @@
     "primary" : true,
     "productCount" : 7,
     "slug" : "drinks",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 430,
     "infoColorNeeded" : false,
@@ -18,7 +19,8 @@
     "primary" : false,
     "productCount" : 3,
     "slug" : "timeless-beauty",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 75,
     "infoColorNeeded" : false,
@@ -26,7 +28,8 @@
     "primary" : false,
     "productCount" : 12,
     "slug" : "lifting",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 74,
     "infoColorNeeded" : false,
@@ -34,7 +37,8 @@
     "primary" : false,
     "productCount" : 9,
     "slug" : "better-aging",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 18,
     "infoColorNeeded" : false,
@@ -42,7 +46,8 @@
     "primary" : false,
     "productCount" : 22,
     "slug" : "supplements",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : {
     "buttonLink" : null,

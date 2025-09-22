@@ -10,7 +10,8 @@
     "primary" : true,
     "productCount" : 14,
     "slug" : "merchandise",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 87,
     "infoColorNeeded" : false,
@@ -18,7 +19,8 @@
     "primary" : false,
     "productCount" : 14,
     "slug" : "sport-essentials",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 14,
     "infoColorNeeded" : false,
@@ -26,7 +28,8 @@
     "primary" : false,
     "productCount" : 7,
     "slug" : "sport",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : null,

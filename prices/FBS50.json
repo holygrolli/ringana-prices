@@ -15,23 +15,26 @@
     "primary" : true,
     "productCount" : 16,
     "slug" : "body",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 463,
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 34,
+    "productCount" : 33,
     "slug" : "pregnancy-breastfeeding",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 7,
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : false,
-    "productCount" : 28,
+    "productCount" : 27,
     "slug" : "face",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "50",

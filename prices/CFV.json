@@ -13,7 +13,8 @@
     "primary" : true,
     "productCount" : 13,
     "slug" : "caps",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 18,
     "infoColorNeeded" : false,
@@ -21,7 +22,8 @@
     "primary" : false,
     "productCount" : 22,
     "slug" : "supplements",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 69,
     "infoColorNeeded" : false,
@@ -29,7 +31,8 @@
     "primary" : false,
     "productCount" : 3,
     "slug" : "mood",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "49,8",
@@ -222,25 +225,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS fem",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CFV.tabs0.description",
     "id" : 352,
     "showPrintButton" : false,
     "title" : "product.CFV.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CFV.tabs1.description",
     "id" : 353,
     "showPrintButton" : true,
     "title" : "product.CFV.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CFV.tabs2.description",
     "id" : 354,
     "showPrintButton" : false,
     "title" : "product.CFV.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CFV.tabs3.description",
     "id" : 355,
     "showPrintButton" : false,

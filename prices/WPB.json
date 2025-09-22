@@ -13,7 +13,8 @@
     "primary" : true,
     "productCount" : 5,
     "slug" : "packs",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 71,
     "infoColorNeeded" : false,
@@ -21,7 +22,8 @@
     "primary" : false,
     "productCount" : 5,
     "slug" : "gut-feeling",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 18,
     "infoColorNeeded" : false,
@@ -29,7 +31,8 @@
     "primary" : false,
     "productCount" : 22,
     "slug" : "supplements",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "260",

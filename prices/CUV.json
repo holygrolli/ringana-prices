@@ -13,7 +13,8 @@
     "primary" : true,
     "productCount" : 13,
     "slug" : "caps",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 18,
     "infoColorNeeded" : false,
@@ -21,7 +22,8 @@
     "primary" : false,
     "productCount" : 22,
     "slug" : "supplements",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 67,
     "infoColorNeeded" : false,
@@ -29,7 +31,8 @@
     "primary" : false,
     "productCount" : 5,
     "slug" : "immune-system",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "40,5",

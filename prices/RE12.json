@@ -15,7 +15,8 @@
     "primary" : true,
     "productCount" : 7,
     "slug" : "drinks",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 18,
     "infoColorNeeded" : false,
@@ -23,7 +24,8 @@
     "primary" : false,
     "productCount" : 22,
     "slug" : "supplements",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 70,
     "infoColorNeeded" : false,
@@ -31,7 +33,8 @@
     "primary" : false,
     "productCount" : 3,
     "slug" : "mental-strength",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 68,
     "infoColorNeeded" : false,
@@ -39,7 +42,8 @@
     "primary" : false,
     "productCount" : 4,
     "slug" : "energy",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 67,
     "infoColorNeeded" : false,
@@ -47,7 +51,8 @@
     "primary" : false,
     "productCount" : 5,
     "slug" : "immune-system",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "360",

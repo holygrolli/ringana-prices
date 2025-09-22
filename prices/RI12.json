@@ -10,7 +10,8 @@
     "primary" : true,
     "productCount" : 7,
     "slug" : "drinks",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 18,
     "infoColorNeeded" : false,
@@ -18,7 +19,8 @@
     "primary" : false,
     "productCount" : 22,
     "slug" : "supplements",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 72,
     "infoColorNeeded" : false,
@@ -26,7 +28,8 @@
     "primary" : false,
     "productCount" : 2,
     "slug" : "relaxation",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "360",

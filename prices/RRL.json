@@ -10,7 +10,8 @@
     "primary" : false,
     "productCount" : 1,
     "slug" : "products",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "1",

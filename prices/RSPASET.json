@@ -8,9 +8,10 @@
     "infoColorNeeded" : false,
     "name" : "category.category497.name",
     "primary" : true,
-    "productCount" : 4,
+    "productCount" : 3,
     "slug" : "specials",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : null,

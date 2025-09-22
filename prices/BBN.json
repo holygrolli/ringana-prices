@@ -20,7 +20,8 @@
     "primary" : true,
     "productCount" : 16,
     "slug" : "body",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 17,
     "infoColorNeeded" : false,
@@ -28,7 +29,8 @@
     "primary" : false,
     "productCount" : 44,
     "slug" : "fresh",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 93,
     "infoColorNeeded" : false,
@@ -36,7 +38,8 @@
     "primary" : false,
     "productCount" : 14,
     "slug" : "body-care",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 88,
     "infoColorNeeded" : false,
@@ -44,15 +47,17 @@
     "primary" : false,
     "productCount" : 3,
     "slug" : "night-care",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 82,
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
-    "productCount" : 22,
+    "productCount" : 21,
     "slug" : "dry-skin",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 81,
     "infoColorNeeded" : false,
@@ -60,7 +65,8 @@
     "primary" : false,
     "productCount" : 26,
     "slug" : "mature-skin",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 75,
     "infoColorNeeded" : false,
@@ -68,7 +74,8 @@
     "primary" : false,
     "productCount" : 12,
     "slug" : "lifting",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 74,
     "infoColorNeeded" : false,
@@ -76,7 +83,8 @@
     "primary" : false,
     "productCount" : 9,
     "slug" : "better-aging",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 73,
     "infoColorNeeded" : false,
@@ -84,7 +92,8 @@
     "primary" : false,
     "productCount" : 7,
     "slug" : "body-shape",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "125",

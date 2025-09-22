@@ -25,7 +25,8 @@
     "primary" : true,
     "productCount" : 16,
     "slug" : "body",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 17,
     "infoColorNeeded" : false,
@@ -33,15 +34,17 @@
     "primary" : false,
     "productCount" : 44,
     "slug" : "fresh",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 463,
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 34,
+    "productCount" : 33,
     "slug" : "pregnancy-breastfeeding",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 93,
     "infoColorNeeded" : false,
@@ -49,15 +52,17 @@
     "primary" : false,
     "productCount" : 14,
     "slug" : "body-care",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 91,
     "infoColorNeeded" : false,
     "name" : "category.category91.name",
     "primary" : false,
-    "productCount" : 10,
+    "productCount" : 9,
     "slug" : "suncare",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 85,
     "infoColorNeeded" : false,
@@ -65,23 +70,26 @@
     "primary" : false,
     "productCount" : 20,
     "slug" : "sensitive-reddened-skin",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 82,
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
-    "productCount" : 22,
+    "productCount" : 21,
     "slug" : "dry-skin",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 77,
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
-    "productCount" : 31,
+    "productCount" : 30,
     "slug" : "hydrating",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "125",

@@ -25,7 +25,8 @@
     "primary" : true,
     "productCount" : 9,
     "slug" : "fresh-baby",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "50",

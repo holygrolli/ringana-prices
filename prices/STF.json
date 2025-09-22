@@ -25,7 +25,8 @@
     "primary" : true,
     "productCount" : 16,
     "slug" : "body",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 78,
     "infoColorNeeded" : false,
@@ -33,7 +34,8 @@
     "primary" : false,
     "productCount" : 12,
     "slug" : "cleansing",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 17,
     "infoColorNeeded" : false,
@@ -41,7 +43,8 @@
     "primary" : false,
     "productCount" : 44,
     "slug" : "fresh",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 94,
     "infoColorNeeded" : false,
@@ -49,7 +52,8 @@
     "primary" : false,
     "productCount" : 7,
     "slug" : "washing-care",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 79,
     "infoColorNeeded" : false,
@@ -57,7 +61,8 @@
     "primary" : false,
     "productCount" : 6,
     "slug" : "microbiome-friendly",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "50",

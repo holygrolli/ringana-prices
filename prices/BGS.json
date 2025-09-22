@@ -23,9 +23,10 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
-    "productCount" : 28,
+    "productCount" : 27,
     "slug" : "face",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 84,
     "infoColorNeeded" : false,
@@ -33,7 +34,8 @@
     "primary" : false,
     "productCount" : 18,
     "slug" : "impure-skin",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 83,
     "infoColorNeeded" : false,
@@ -41,7 +43,8 @@
     "primary" : false,
     "productCount" : 20,
     "slug" : "oily-skin",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 201,
     "infoColorNeeded" : false,
@@ -49,7 +52,8 @@
     "primary" : false,
     "productCount" : 2,
     "slug" : "step-3-toning",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 76,
     "infoColorNeeded" : false,
@@ -57,23 +61,26 @@
     "primary" : false,
     "productCount" : 13,
     "slug" : "toning",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 463,
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 34,
+    "productCount" : 33,
     "slug" : "pregnancy-breastfeeding",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 92,
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
-    "productCount" : 33,
+    "productCount" : 32,
     "slug" : "facial-care",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 86,
     "infoColorNeeded" : false,
@@ -81,7 +88,8 @@
     "primary" : false,
     "productCount" : 25,
     "slug" : "combination-skin",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 17,
     "infoColorNeeded" : false,
@@ -89,7 +97,8 @@
     "primary" : false,
     "productCount" : 44,
     "slug" : "fresh",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "125",

@@ -35,15 +35,17 @@
     "primary" : true,
     "productCount" : 9,
     "slug" : "fresh-baby",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 91,
     "infoColorNeeded" : false,
     "name" : "category.category91.name",
     "primary" : false,
-    "productCount" : 10,
+    "productCount" : 9,
     "slug" : "suncare",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "50",

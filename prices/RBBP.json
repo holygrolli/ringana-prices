@@ -10,7 +10,8 @@
     "primary" : true,
     "productCount" : 9,
     "slug" : "fresh-baby",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 16,
     "infoColorNeeded" : false,
@@ -18,7 +19,8 @@
     "primary" : false,
     "productCount" : 14,
     "slug" : "merchandise",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : null,

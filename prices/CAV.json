@@ -18,7 +18,8 @@
     "primary" : true,
     "productCount" : 13,
     "slug" : "caps",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 18,
     "infoColorNeeded" : false,
@@ -26,7 +27,8 @@
     "primary" : false,
     "productCount" : 22,
     "slug" : "supplements",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 87,
     "infoColorNeeded" : false,
@@ -34,7 +36,8 @@
     "primary" : false,
     "productCount" : 14,
     "slug" : "sport-essentials",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   }, {
     "id" : 74,
     "infoColorNeeded" : false,
@@ -42,7 +45,8 @@
     "primary" : false,
     "productCount" : 9,
     "slug" : "better-aging",
-    "visible" : true
+    "visible" : true,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "49,6",
