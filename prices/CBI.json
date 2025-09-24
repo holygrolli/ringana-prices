@@ -329,25 +329,25 @@
   "soldOut" : false,
   "supplementDescription" : "BEYOND biotic",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CBI.tabs0.description",
     "id" : 357,
     "showPrintButton" : false,
     "title" : "product.CBI.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CBI.tabs1.description",
     "id" : 360,
     "showPrintButton" : true,
     "title" : "product.CBI.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CBI.tabs2.description",
     "id" : 362,
     "showPrintButton" : false,
     "title" : "product.CBI.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CBI.tabs3.description",
     "id" : 364,
     "showPrintButton" : false,
