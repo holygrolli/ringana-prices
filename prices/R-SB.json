@@ -179,6 +179,12 @@
     "id" : 99,
     "mediaId" : 223,
     "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 6286,
+    "mediaId" : 9524,
+    "mediaType" : "image"
   } ],
   "nemBackgroundColor" : null,
   "press" : null,
@@ -236,19 +242,13 @@
   "soldOut" : false,
   "supplementDescription" : "SOULBOTTLE",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.R-SB.tabs0.description",
     "id" : 185,
     "showPrintButton" : false,
     "title" : "product.R-SB.tabs0.title"
   }, {
-    "anchorName" : null,
-    "description" : "product.R-SB.tabs1.description",
-    "id" : 187,
-    "showPrintButton" : false,
-    "title" : "product.R-SB.tabs1.title"
-  }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.R-SB.tabs2.description",
     "id" : 188,
     "showPrintButton" : false,
