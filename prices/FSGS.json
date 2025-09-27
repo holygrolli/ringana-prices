@@ -7,7 +7,7 @@
     "id" : 497,
     "infoColorNeeded" : false,
     "name" : "category.category497.name",
-    "primary" : true,
+    "primary" : false,
     "productCount" : 3,
     "slug" : "specials",
     "visible" : true,
@@ -17,8 +17,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -55,10 +55,10 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 77.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 38.85,
+      "bruttoWithoutDiscount" : 77.7,
+      "discountPercentage" : 50,
+      "discountUntil" : "2025-09-30T10:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -66,13 +66,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 39.9
+      "provisionPoints" : 17.95
     },
     "partner" : {
-      "brutto" : 77.7,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 38.85,
+      "bruttoWithoutDiscount" : 77.7,
+      "discountPercentage" : 50,
+      "discountUntil" : "2025-09-30T10:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -80,10 +80,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 39.9
+      "provisionPoints" : 17.95
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -114,7 +114,7 @@
     "text" : "",
     "title" : "product.FSGS.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "summer glow",
   "tabs" : [ {
     "anchorName" : null,
@@ -149,6 +149,15 @@
     "lineHeight" : 1.4,
     "position" : "top-right",
     "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  }, {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 10,
+    "id" : 562,
+    "lineHeight" : 1,
+    "position" : "top-right",
+    "text" : "LAST CHANCE",
     "textColor" : "#ffffff"
   } ],
   "title" : "FRESH summer glow set",
