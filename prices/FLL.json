@@ -132,7 +132,7 @@
         "provisionPoints" : 13.29
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-body-milk",
     "title" : "FRESH body milk",
     "unitContents" : "ml"

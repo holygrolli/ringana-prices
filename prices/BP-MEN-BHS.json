@@ -270,16 +270,16 @@
   "supplementDescription" : "Skin care",
   "tabs" : [ {
     "anchorName" : "",
-    "description" : "product.BP-MEN-BHS.tabs1.description",
-    "id" : 22,
-    "showPrintButton" : true,
-    "title" : "product.BP-MEN-BHS.tabs1.title"
-  }, {
-    "anchorName" : "",
     "description" : "product.BP-MEN-BHS.tabs0.description",
     "id" : 21,
     "showPrintButton" : false,
     "title" : "product.BP-MEN-BHS.tabs0.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.BP-MEN-BHS.tabs1.description",
+    "id" : 22,
+    "showPrintButton" : true,
+    "title" : "product.BP-MEN-BHS.tabs1.title"
   }, {
     "anchorName" : "",
     "description" : "product.BP-MEN-BHS.tabs2.description",
