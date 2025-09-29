@@ -18,7 +18,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
-    "productCount" : 27,
+    "productCount" : 29,
     "slug" : "face",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -36,7 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 44,
+    "productCount" : 50,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -45,7 +45,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
-    "productCount" : 32,
+    "productCount" : 34,
     "slug" : "facial-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -63,7 +63,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
-    "productCount" : 21,
+    "productCount" : 23,
     "slug" : "dry-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -81,7 +81,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
-    "productCount" : 30,
+    "productCount" : 36,
     "slug" : "hydrating",
     "visible" : true,
     "visibleCountries" : [ ]

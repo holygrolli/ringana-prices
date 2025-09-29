@@ -23,7 +23,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category13.name",
     "primary" : true,
-    "productCount" : 19,
+    "productCount" : 21,
     "slug" : "samples",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -32,7 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category93.name",
     "primary" : false,
-    "productCount" : 14,
+    "productCount" : 18,
     "slug" : "body-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -50,7 +50,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
-    "productCount" : 21,
+    "productCount" : 23,
     "slug" : "dry-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -59,7 +59,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
-    "productCount" : 30,
+    "productCount" : 36,
     "slug" : "hydrating",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -68,8 +68,8 @@
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6328,
   "discountDate" : null,
@@ -287,7 +287,7 @@
       "provisionPoints" : 1.6
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -302,7 +302,7 @@
     "text" : "product.PKM.socialMedia.text",
     "title" : "product.PKM.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "sample",
   "tabs" : [ {
     "anchorName" : null,

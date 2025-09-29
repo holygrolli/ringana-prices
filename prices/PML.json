@@ -1,39 +1,30 @@
 {
-  "matchcode" : "BFB",
+  "matchcode" : "PML",
   "additionalUnitPrice" : null,
   "awards" : [ {
-    "id" : 3,
-    "imageId" : 1045,
-    "link" : "https://www.cosmos-standard.org/",
-    "name" : "COSMOS Natural"
+    "id" : 397,
+    "imageId" : 1044,
+    "link" : "https://skin.li/bntfluxg",
+    "name" : "cosmeticanalysis.com - FRESH body milk light"
+  }, {
+    "id" : 4,
+    "imageId" : 1046,
+    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
+    "name" : "COSMOS Organic"
   }, {
     "id" : 1,
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
-  }, {
-    "id" : 75,
-    "imageId" : 1044,
-    "link" : "https://skin.li/d4af2cba",
-    "name" : "cosmeticsanalysis.com - FRESH foot balm "
   } ],
-  "blogPostIds" : [ 171054, 85275 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 2,
+    "id" : 13,
     "infoColorNeeded" : false,
-    "name" : "category.category2.name",
+    "name" : "category.category13.name",
     "primary" : true,
-    "productCount" : 16,
-    "slug" : "body",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 17,
-    "infoColorNeeded" : false,
-    "name" : "category.category17.name",
-    "primary" : false,
-    "productCount" : 50,
-    "slug" : "fresh",
+    "productCount" : 21,
+    "slug" : "samples",
     "visible" : true,
     "visibleCountries" : [ ]
   }, {
@@ -46,15 +37,6 @@
     "visible" : true,
     "visibleCountries" : [ ]
   }, {
-    "id" : 82,
-    "infoColorNeeded" : false,
-    "name" : "category.category82.name",
-    "primary" : false,
-    "productCount" : 23,
-    "slug" : "dry-skin",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
     "id" : 77,
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
@@ -64,92 +46,53 @@
     "visible" : true,
     "visibleCountries" : [ ]
   }, {
-    "id" : 463,
+    "id" : 17,
     "infoColorNeeded" : false,
-    "name" : "category.category463.name",
+    "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 33,
-    "slug" : "pregnancy-breastfeeding",
+    "productCount" : 50,
+    "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "125",
+  "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : 6338,
+  "descriptionImageId" : 9318,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
-  "faqs" : [ ],
-  "firstHeadline" : "",
-  "id" : 120,
+  "faqs" : [ {
+    "answer" : "product.PML.faqs1758626686629.answer",
+    "id" : 2100,
+    "question" : "product.PML.faqs1758626686629.question"
+  }, {
+    "answer" : "product.PML.faqs1758626686630.answer",
+    "id" : 2101,
+    "question" : "product.PML.faqs1758626686630.question"
+  } ],
+  "firstHeadline" : "product.PML.firstHeadline",
+  "id" : 4623,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "100",
+    "contentsAmount" : "15",
     "currency" : "eur",
-    "description" : "soapsoapsoap",
-    "imageId" : 546,
-    "matchcode" : "BSR",
+    "description" : "sample",
+    "imageId" : 2490,
+    "matchcode" : "PFB",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 106,
-        "unit" : "g",
-        "unitId" : 812
-      },
-      "customer" : {
-        "brutto" : 10.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 5
-      },
-      "partner" : {
-        "brutto" : 10.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 5
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-soap",
-    "title" : "FRESH soap",
-    "unitContents" : "g"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "200",
-    "currency" : "eur",
-    "description" : "scrub",
-    "imageId" : 8035,
-    "matchcode" : "FSC",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 238,
+        "brutto" : 240,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 47.6,
+        "brutto" : 3.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -160,10 +103,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29
+        "provisionPoints" : 1.7
       },
       "partner" : {
-        "brutto" : 47.6,
+        "brutto" : 3.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -174,29 +117,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29
+        "provisionPoints" : 1.7
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-scrub",
-    "title" : "FRESH scrub face & body",
+    "slug" : "fresh-foot-balm-sample",
+    "title" : "FRESH foot balm sample",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "125",
+    "contentsAmount" : "15",
     "currency" : "eur",
-    "description" : "light legs",
-    "imageId" : 587,
-    "matchcode" : "FLL",
+    "description" : "rich",
+    "imageId" : 9484,
+    "matchcode" : "PMR",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 228.8,
+        "brutto" : 226.6,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 28.6,
+        "brutto" : 3.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -207,10 +150,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 17
+        "provisionPoints" : 1.6
       },
       "partner" : {
-        "brutto" : 28.6,
+        "brutto" : 3.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -221,41 +164,41 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 17
+        "provisionPoints" : 1.6
       }
     },
-    "purchasePossible" : true,
-    "slug" : "fresh-light-legs",
-    "title" : "FRESH light legs",
+    "purchasePossible" : false,
+    "slug" : "fresh-body-milk-rich-sample",
+    "title" : "FRESH body milk rich sample",
     "unitContents" : "ml"
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "maxPerCart" : 100,
+  "maxPerCart" : 999999,
   "mediaGallery" : [ {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
-    "id" : 334,
-    "mediaId" : 1165,
+    "id" : 6269,
+    "mediaId" : 9482,
     "mediaType" : "image"
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
-    "id" : 335,
-    "mediaId" : 5525,
+    "id" : 6204,
+    "mediaId" : 9319,
     "mediaType" : "image"
   }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 336,
-    "mediaId" : 5257,
-    "mediaType" : "image"
-  }, {
-    "caption" : "product.BFB.imageGallery3.caption",
+    "caption" : "product.PML.imageGallery1758626686632.caption",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 337,
-    "mediaId" : 581,
+    "id" : 6206,
+    "mediaId" : 9321,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.PML.imageGallery1758626686633.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 6207,
+    "mediaId" : 9325,
     "mediaType" : "image"
   } ],
   "nemBackgroundColor" : null,
@@ -263,12 +206,12 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 202.4,
+      "brutto" : 220,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 25.3,
+      "brutto" : 3.3,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -279,10 +222,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 14.2
+      "provisionPoints" : 1.5
     },
     "partner" : {
-      "brutto" : 25.3,
+      "brutto" : 3.3,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -293,92 +236,98 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 14.2
+      "provisionPoints" : 1.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
-  "shortDescription" : "product.BFB.shortDescription",
+  "shortDescription" : "product.PML.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "fresh-foot-balm",
+  "slug" : "fresh-body-milk-light-sample",
   "socialMedia" : {
-    "id" : 119,
-    "imageId" : 577,
-    "text" : "product.BFB.socialMedia.text",
-    "title" : "product.BFB.socialMedia.title"
+    "id" : 4392,
+    "imageId" : null,
+    "text" : "product.PML.socialMedia.text",
+    "title" : "product.PML.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "foot balm",
+  "supplementDescription" : "light",
   "tabs" : [ {
-    "anchorName" : null,
-    "description" : "product.BFB.tabs0.description",
-    "id" : 455,
+    "anchorName" : "",
+    "description" : "product.PML.tabs1758626686630.description",
+    "id" : 5293,
     "showPrintButton" : false,
-    "title" : "product.BFB.tabs0.title"
+    "title" : "product.PML.tabs1758626686630.title"
   }, {
-    "anchorName" : null,
-    "description" : "product.BFB.tabs1.description",
-    "id" : 456,
-    "showPrintButton" : true,
-    "title" : "product.BFB.tabs1.title"
-  }, {
-    "anchorName" : null,
-    "description" : "product.BFB.tabs2.description",
-    "id" : 457,
+    "anchorName" : "",
+    "description" : "product.PML.tabs1758626686631.description",
+    "id" : 5294,
     "showPrintButton" : false,
-    "title" : "product.BFB.tabs2.title"
+    "title" : "product.PML.tabs1758626686631.title"
   }, {
-    "anchorName" : null,
-    "description" : "product.BFB.tabs3.description",
-    "id" : 458,
+    "anchorName" : "",
+    "description" : "product.PML.tabs1758626686632.description",
+    "id" : 5295,
     "showPrintButton" : false,
-    "title" : "product.BFB.tabs3.title"
+    "title" : "product.PML.tabs1758626686632.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.PML.tabs1758626686633.description",
+    "id" : 5296,
+    "showPrintButton" : false,
+    "title" : "product.PML.tabs1758626686633.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "FRESH foot balm",
-  "unit" : "Stk.",
+  "title" : "FRESH body milk light sample",
+  "unit" : null,
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : 996,
-  "usp" : "product.BFB.usp",
+  "unitId" : null,
+  "usp" : "product.PML.usp",
   "values" : [ {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  }, {
     "iconMediaId" : 1090,
     "name" : "value.value35.name"
-  }, {
-    "iconMediaId" : 1061,
-    "name" : "value.value6.name"
   }, {
     "iconMediaId" : 1089,
     "name" : "value.value34.name"
   }, {
-    "iconMediaId" : 1097,
-    "name" : "value.value42.name"
+    "iconMediaId" : 1074,
+    "name" : "value.value19.name"
   }, {
-    "iconMediaId" : 1107,
-    "name" : "value.value52.name"
+    "iconMediaId" : 1057,
+    "name" : "value.value2.name"
+  }, {
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
   } ],
   "variants" : [ {
     "color" : null,
-    "id" : 177,
+    "id" : 2575,
     "language" : null,
-    "matchcode" : "BFB",
+    "matchcode" : "PML",
     "name" : null,
-    "size" : 125,
-    "slug" : "fresh-foot-balm",
+    "size" : 15,
+    "slug" : "fresh-body-milk-light-sample",
     "type" : 2,
     "unit" : 6
   }, {
     "color" : null,
-    "id" : 178,
+    "id" : 2576,
     "language" : null,
-    "matchcode" : "PFB",
+    "matchcode" : "BML",
     "name" : null,
-    "size" : 15,
-    "slug" : "fresh-foot-balm-sample",
+    "size" : 200,
+    "slug" : "fresh-body-milk-light",
     "type" : 2,
     "unit" : 6
   } ]

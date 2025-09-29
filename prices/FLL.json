@@ -32,7 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 44,
+    "productCount" : 50,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -50,7 +50,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category93.name",
     "primary" : false,
-    "productCount" : 14,
+    "productCount" : 18,
     "slug" : "body-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -99,15 +99,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 189.5,
+        "brutto" : 132.6,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 37.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 26.53,
+        "bruttoWithoutDiscount" : 37.9,
+        "discountPercentage" : 30,
+        "discountUntil" : "2025-10-01T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -115,13 +115,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 21.1
+        "provisionPoints" : 13.29
       },
       "partner" : {
-        "brutto" : 37.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 26.53,
+        "bruttoWithoutDiscount" : 37.9,
+        "discountPercentage" : 30,
+        "discountUntil" : "2025-10-01T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -129,7 +129,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 21.1
+        "provisionPoints" : 13.29
       }
     },
     "purchasePossible" : true,

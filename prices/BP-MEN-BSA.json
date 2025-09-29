@@ -269,29 +269,29 @@
   "soldOut" : false,
   "supplementDescription" : "Skin care",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BP-MEN-BSA.tabs0.description",
     "id" : 17,
     "showPrintButton" : false,
     "title" : "product.BP-MEN-BSA.tabs0.title"
   }, {
-    "anchorName" : null,
-    "description" : "product.BP-MEN-BSA.tabs1.description",
-    "id" : 18,
-    "showPrintButton" : true,
-    "title" : "product.BP-MEN-BSA.tabs1.title"
-  }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BP-MEN-BSA.tabs2.description",
     "id" : 19,
     "showPrintButton" : false,
     "title" : "product.BP-MEN-BSA.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BP-MEN-BSA.tabs3.description",
     "id" : 20,
     "showPrintButton" : false,
     "title" : "product.BP-MEN-BSA.tabs3.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.BP-MEN-BSA.tabs1.description",
+    "id" : 18,
+    "showPrintButton" : true,
+    "title" : "product.BP-MEN-BSA.tabs1.title"
   } ],
   "teaserDots" : [ ],
   "title" : "FRESH skin care set for men - alternative serum",
