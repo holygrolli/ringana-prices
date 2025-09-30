@@ -58,6 +58,15 @@
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
+  }, {
+    "id" : 595,
+    "infoColorNeeded" : false,
+    "name" : "category.category595.name",
+    "primary" : false,
+    "productCount" : 2,
+    "slug" : "lip-care",
+    "visible" : true,
+    "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "10",

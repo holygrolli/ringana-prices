@@ -283,10 +283,10 @@
   } ],
   "teaserDots" : [ ],
   "title" : "FRESH body milk light sample",
-  "unit" : null,
+  "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : null,
+  "unitId" : 996,
   "usp" : "product.PML.usp",
   "values" : [ {
     "iconMediaId" : 1097,

@@ -264,25 +264,25 @@
   "soldOut" : false,
   "supplementDescription" : "Skin care",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BP2-BSA-BGL.tabs0.description",
     "id" : 47,
     "showPrintButton" : false,
     "title" : "product.BP2-BSA-BGL.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BP2-BSA-BGL.tabs1.description",
     "id" : 49,
     "showPrintButton" : true,
     "title" : "product.BP2-BSA-BGL.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BP2-BSA-BGL.tabs2.description",
     "id" : 50,
     "showPrintButton" : false,
     "title" : "product.BP2-BSA-BGL.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BP2-BSA-BGL.tabs3.description",
     "id" : 52,
     "showPrintButton" : false,
