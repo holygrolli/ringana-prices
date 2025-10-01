@@ -72,7 +72,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category75.name",
     "primary" : false,
-    "productCount" : 12,
+    "productCount" : 13,
     "slug" : "lifting",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -218,25 +218,25 @@
   "soldOut" : false,
   "supplementDescription" : "sample",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.PAS.tabs0.description",
     "id" : 743,
     "showPrintButton" : false,
     "title" : "product.PAS.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.PAS.tabs1.description",
     "id" : 744,
     "showPrintButton" : false,
     "title" : "product.PAS.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.PAS.tabs2.description",
     "id" : 745,
     "showPrintButton" : false,
     "title" : "product.PAS.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.PAS.tabs3.description",
     "id" : 746,
     "showPrintButton" : false,

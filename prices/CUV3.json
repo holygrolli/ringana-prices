@@ -11,7 +11,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category496.name",
     "primary" : true,
-    "productCount" : 37,
+    "productCount" : 38,
     "slug" : "sets",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -20,7 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category99.name",
     "primary" : false,
-    "productCount" : 24,
+    "productCount" : 25,
     "slug" : "supplement-sets",
     "visible" : true,
     "visibleCountries" : [ ]

@@ -20,7 +20,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category18.name",
     "primary" : false,
-    "productCount" : 22,
+    "productCount" : 23,
     "slug" : "supplements",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -56,7 +56,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category75.name",
     "primary" : false,
-    "productCount" : 12,
+    "productCount" : 13,
     "slug" : "lifting",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -74,7 +74,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category430.name",
     "primary" : false,
-    "productCount" : 3,
+    "productCount" : 4,
     "slug" : "timeless-beauty",
     "visible" : true,
     "visibleCountries" : [ ]

@@ -90,25 +90,25 @@
   "soldOut" : false,
   "supplementDescription" : null,
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BSR-LE-GPP.tabs1753192035138.description",
     "id" : 4831,
     "showPrintButton" : false,
     "title" : "product.BSR-LE-GPP.tabs1753192035138.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BSR-LE-GPP.tabs1753950821346.description",
     "id" : 4996,
     "showPrintButton" : false,
     "title" : "product.BSR-LE-GPP.tabs1753950821346.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BSR-LE-GPP.tabs1753192035139.description",
     "id" : 4832,
     "showPrintButton" : false,
     "title" : "product.BSR-LE-GPP.tabs1753192035139.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BSR-LE-GPP.tabs1753192035140.description",
     "id" : 4833,
     "showPrintButton" : false,
