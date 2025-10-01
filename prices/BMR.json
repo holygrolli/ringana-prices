@@ -23,7 +23,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category93.name",
     "primary" : true,
-    "productCount" : 18,
+    "productCount" : 17,
     "slug" : "body-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -41,7 +41,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
-    "productCount" : 36,
+    "productCount" : 35,
     "slug" : "hydrating",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -59,8 +59,8 @@
   "contentsAmount" : "200",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 9327,
   "discountDate" : null,
@@ -87,15 +87,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 184,
+        "brutto" : 165.6,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 36.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 33.12,
+        "bruttoWithoutDiscount" : 36.8,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-10-01T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -103,13 +103,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 19.8
+        "provisionPoints" : 16.04
       },
       "partner" : {
-        "brutto" : 36.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 33.12,
+        "bruttoWithoutDiscount" : 36.8,
+        "discountPercentage" : 10,
+        "discountUntil" : "2025-10-01T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -117,10 +117,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 19.8
+        "provisionPoints" : 16.04
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-body-milk-light",
     "title" : "FRESH body milk light ",
     "unitContents" : "ml"
@@ -259,15 +259,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 189.5,
+      "brutto" : 170.5,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 37.9,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 34.11,
+      "bruttoWithoutDiscount" : 37.9,
+      "discountPercentage" : 10,
+      "discountUntil" : "2025-10-01T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -275,13 +275,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 21.1
+      "provisionPoints" : 17.09
     },
     "partner" : {
-      "brutto" : 37.9,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 34.11,
+      "bruttoWithoutDiscount" : 37.9,
+      "discountPercentage" : 10,
+      "discountUntil" : "2025-10-01T21:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -289,10 +289,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 21.1
+      "provisionPoints" : 17.09
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],

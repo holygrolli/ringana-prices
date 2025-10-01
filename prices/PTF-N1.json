@@ -8,7 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category13.name",
     "primary" : true,
-    "productCount" : 21,
+    "productCount" : 20,
     "slug" : "samples",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -17,7 +17,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
-    "productCount" : 36,
+    "productCount" : 35,
     "slug" : "hydrating",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -53,7 +53,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category85.name",
     "primary" : false,
-    "productCount" : 20,
+    "productCount" : 19,
     "slug" : "sensitive-reddened-skin",
     "visible" : true,
     "visibleCountries" : [ ]

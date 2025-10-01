@@ -1,23 +1,8 @@
 {
-  "matchcode" : "BLB",
+  "matchcode" : "FLB-P",
   "additionalUnitPrice" : null,
-  "awards" : [ {
-    "id" : 3,
-    "imageId" : 1045,
-    "link" : "https://www.cosmos-standard.org/",
-    "name" : "COSMOS Natural"
-  }, {
-    "id" : 1,
-    "imageId" : 1043,
-    "link" : "https://www.beatthemicrobead.org/zero-products/",
-    "name" : "Beat the Microbead"
-  }, {
-    "id" : 82,
-    "imageId" : 1044,
-    "link" : "https://skin.li/1458adb0",
-    "name" : "cosmeticsanalysis.com - FRESH lip balm"
-  } ],
-  "blogPostIds" : [ 113041, 87604 ],
+  "awards" : [ ],
+  "blogPostIds" : [ ],
   "categories" : [ {
     "id" : 7,
     "infoColorNeeded" : false,
@@ -25,24 +10,6 @@
     "primary" : true,
     "productCount" : 29,
     "slug" : "face",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 17,
-    "infoColorNeeded" : false,
-    "name" : "category.category17.name",
-    "primary" : false,
-    "productCount" : 50,
-    "slug" : "fresh",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 463,
-    "infoColorNeeded" : false,
-    "name" : "category.category463.name",
-    "primary" : false,
-    "productCount" : 33,
-    "slug" : "pregnancy-breastfeeding",
     "visible" : true,
     "visibleCountries" : [ ]
   }, {
@@ -59,7 +26,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
-    "productCount" : 23,
+    "productCount" : 22,
     "slug" : "dry-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -68,41 +35,62 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
-    "productCount" : 36,
+    "productCount" : 35,
     "slug" : "hydrating",
+    "visible" : true,
+    "visibleCountries" : [ ]
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "productCount" : 50,
+    "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "5",
+  "contentsAmount" : "10",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : 6343,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
-  "faqs" : [ ],
-  "firstHeadline" : "",
-  "id" : 134,
+  "faqs" : [ {
+    "answer" : "product.FLB-P.faqs1757423081596.answer",
+    "id" : 1968,
+    "question" : "product.FLB-P.faqs1757423081596.question"
+  }, {
+    "answer" : "product.FLB-P.faqs1757423081597.answer",
+    "id" : 1969,
+    "question" : "product.FLB-P.faqs1757423081597.question"
+  }, {
+    "answer" : "product.FLB-P.faqs1757423081598.answer",
+    "id" : 1970,
+    "question" : "product.FLB-P.faqs1757423081598.question"
+  } ],
+  "firstHeadline" : "product.FLB-P.firstHeadline",
+  "id" : 4461,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "125",
+    "contentsAmount" : "10",
     "currency" : "eur",
-    "description" : "cleanser",
-    "imageId" : 750,
-    "matchcode" : "BRM",
+    "description" : "lip balm",
+    "imageId" : 9219,
+    "matchcode" : "FLB",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 212,
+        "brutto" : 1420,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 26.5,
+        "brutto" : 14.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -113,10 +101,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 14.4
+        "provisionPoints" : 8.2
       },
       "partner" : {
-        "brutto" : 26.5,
+        "brutto" : 14.2,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -127,12 +115,59 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 14.4
+        "provisionPoints" : 8.2
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-cleanser",
-    "title" : "FRESH cleanser",
+    "slug" : "fresh-lip-balm-classic",
+    "title" : "FRESH lip balm classic",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "10",
+    "currency" : "eur",
+    "description" : "rosewood",
+    "imageId" : 9217,
+    "matchcode" : "FLB-RW",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1490,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 14.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 8.6
+      },
+      "partner" : {
+        "brutto" : 14.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 8.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-tinted-balm-rosewood",
+    "title" : "FRESH tinted balm lip & cheek rosewood",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
@@ -185,30 +220,18 @@
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
   "isMerchandise" : false,
-  "maxPerCart" : 100,
+  "maxPerCart" : 99999,
   "mediaGallery" : [ {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
-    "id" : 403,
-    "mediaId" : 1159,
+    "id" : 6042,
+    "mediaId" : 9218,
     "mediaType" : "image"
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
-    "id" : 404,
-    "mediaId" : 7013,
-    "mediaType" : "image"
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 405,
-    "mediaId" : 1160,
-    "mediaType" : "image"
-  }, {
-    "caption" : "product.BLB.imageGallery3.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 406,
-    "mediaId" : 663,
+    "id" : 6179,
+    "mediaId" : 9361,
     "mediaType" : "image"
   } ],
   "nemBackgroundColor" : null,
@@ -216,12 +239,12 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 2420,
+      "brutto" : 1490,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 12.1,
+      "brutto" : 14.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -232,10 +255,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 7
+      "provisionPoints" : 8.6
     },
     "partner" : {
-      "brutto" : 12.1,
+      "brutto" : 14.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -246,70 +269,97 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 7
+      "provisionPoints" : 8.6
     }
   },
   "purchasePossible" : false,
   "searchable" : true,
-  "secondHeadline" : "",
+  "secondHeadline" : "product.FLB-P.secondHeadline",
   "setContents" : [ ],
-  "shortDescription" : "product.BLB.shortDescription",
+  "shortDescription" : "product.FLB-P.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "fresh-lip-balm",
+  "slug" : "fresh-lip-balm-plump",
   "socialMedia" : {
-    "id" : 135,
-    "imageId" : 659,
-    "text" : "product.BLB.socialMedia.text",
-    "title" : "product.BLB.socialMedia.title"
+    "id" : 4228,
+    "imageId" : null,
+    "text" : "product.FLB-P.socialMedia.text",
+    "title" : "product.FLB-P.socialMedia.title"
   },
-  "soldOut" : true,
-  "supplementDescription" : "lip balm",
+  "soldOut" : false,
+  "supplementDescription" : "plump",
   "tabs" : [ {
-    "anchorName" : null,
-    "description" : "product.BLB.tabs0.description",
-    "id" : 515,
+    "anchorName" : "",
+    "description" : "product.FLB-P.tabs1757422594502.description",
+    "id" : 5133,
     "showPrintButton" : false,
-    "title" : "product.BLB.tabs0.title"
+    "title" : "product.FLB-P.tabs1757422594502.title"
   }, {
-    "anchorName" : null,
-    "description" : "product.BLB.tabs1.description",
-    "id" : 516,
-    "showPrintButton" : true,
-    "title" : "product.BLB.tabs1.title"
-  }, {
-    "anchorName" : null,
-    "description" : "product.BLB.tabs2.description",
-    "id" : 517,
+    "anchorName" : "",
+    "description" : "product.FLB-P.tabs1757422594503.description",
+    "id" : 5134,
     "showPrintButton" : false,
-    "title" : "product.BLB.tabs2.title"
+    "title" : "product.FLB-P.tabs1757422594503.title"
   }, {
-    "anchorName" : null,
-    "description" : "product.BLB.tabs3.description",
-    "id" : 518,
+    "anchorName" : "",
+    "description" : "product.FLB-P.tabs1757422594504.description",
+    "id" : 5135,
     "showPrintButton" : false,
-    "title" : "product.BLB.tabs3.title"
+    "title" : "product.FLB-P.tabs1757422594504.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.FLB-P.tabs1757422594505.description",
+    "id" : 5136,
+    "showPrintButton" : false,
+    "title" : "product.FLB-P.tabs1757422594505.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "FRESH lip balm",
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 12,
+    "id" : 334,
+    "lineHeight" : 1,
+    "position" : "top-left",
+    "text" : "from 08.10.",
+    "textColor" : "#ffffff"
+  }, {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 9,
+    "id" : 4,
+    "lineHeight" : 1.4,
+    "position" : "top-left",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH lip balm plump",
   "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 996,
-  "usp" : "product.BLB.usp",
+  "usp" : "product.FLB-P.usp",
   "values" : [ {
+    "iconMediaId" : 4399,
+    "name" : "value.value100.name"
+  }, {
+    "iconMediaId" : 1107,
+    "name" : "value.value52.name"
+  }, {
+    "iconMediaId" : 1106,
+    "name" : "value.value51.name"
+  }, {
     "iconMediaId" : 1090,
     "name" : "value.value35.name"
   }, {
     "iconMediaId" : 1089,
     "name" : "value.value34.name"
   }, {
-    "iconMediaId" : 1097,
-    "name" : "value.value42.name"
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
   }, {
-    "iconMediaId" : 1107,
-    "name" : "value.value52.name"
+    "iconMediaId" : 1057,
+    "name" : "value.value2.name"
   } ],
   "variants" : [ ]
 }

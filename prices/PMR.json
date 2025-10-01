@@ -23,7 +23,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category13.name",
     "primary" : true,
-    "productCount" : 21,
+    "productCount" : 20,
     "slug" : "samples",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -32,7 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category93.name",
     "primary" : false,
-    "productCount" : 18,
+    "productCount" : 17,
     "slug" : "body-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -41,7 +41,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
-    "productCount" : 36,
+    "productCount" : 35,
     "slug" : "hydrating",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -59,8 +59,8 @@
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 9327,
   "discountDate" : null,
@@ -116,7 +116,7 @@
         "provisionPoints" : 1.5
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-body-milk-light-sample",
     "title" : "FRESH body milk light sample",
     "unitContents" : "ml"
@@ -235,7 +235,7 @@
       "provisionPoints" : 1.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
