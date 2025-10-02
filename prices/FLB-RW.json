@@ -75,7 +75,7 @@
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : 9360,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
@@ -232,37 +232,7 @@
     "caption" : null,
     "captionLink" : null,
     "id" : 6040,
-    "mediaId" : 9217,
-    "mediaType" : "image"
-  }, {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 6174,
-    "mediaId" : 9354,
-    "mediaType" : "image"
-  }, {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 6175,
-    "mediaId" : 9355,
-    "mediaType" : "image"
-  }, {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 6176,
-    "mediaId" : 9356,
-    "mediaType" : "image"
-  }, {
-    "caption" : "product.FLB-RW.imageGallery1758176838963.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 6177,
-    "mediaId" : 9357,
-    "mediaType" : "image"
-  }, {
-    "caption" : "product.FLB-RW.imageGallery1758793677424.caption",
-    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 6282,
-    "mediaId" : 9486,
+    "mediaId" : 9680,
     "mediaType" : "image"
   } ],
   "nemBackgroundColor" : null,

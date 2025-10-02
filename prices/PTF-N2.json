@@ -383,31 +383,31 @@
   "soldOut" : false,
   "supplementDescription" : "NUANCE2",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.PTF-N2.tabs4266.description",
     "id" : 4266,
     "showPrintButton" : false,
     "title" : "product.PTF-N2.tabs4266.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.PTF-N2.tabs4267.description",
     "id" : 4267,
     "showPrintButton" : true,
     "title" : "product.PTF-N2.tabs4267.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.PTF-N2.tabs4268.description",
     "id" : 4268,
     "showPrintButton" : false,
     "title" : "product.PTF-N2.tabs4268.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.PTF-N2.tabs4269.description",
     "id" : 4269,
     "showPrintButton" : false,
     "title" : "product.PTF-N2.tabs4269.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.PTF-N2.tabs4270.description",
     "id" : 4270,
     "showPrintButton" : false,

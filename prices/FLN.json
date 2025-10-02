@@ -130,10 +130,6 @@
     "posterMediaId" : null
   },
   "faqs" : [ {
-    "answer" : "product.FLN.faqs5.answer",
-    "id" : 1047,
-    "question" : "product.FLN.faqs5.question"
-  }, {
     "answer" : "product.FLN.faqs0.answer",
     "id" : 978,
     "question" : "product.FLN.faqs0.question"
@@ -153,6 +149,10 @@
     "answer" : "product.FLN.faqs4.answer",
     "id" : 1046,
     "question" : "product.FLN.faqs4.question"
+  }, {
+    "answer" : "product.FLN.faqs5.answer",
+    "id" : 1047,
+    "question" : "product.FLN.faqs5.question"
   } ],
   "firstHeadline" : "product.FLN.firstHeadline",
   "id" : 2709,
