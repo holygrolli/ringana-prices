@@ -8,7 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category16.name",
     "primary" : true,
-    "productCount" : 14,
+    "productCount" : 15,
     "slug" : "merchandise",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -84,15 +84,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 244,
+        "brutto" : 122,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 48.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 24.4,
+        "bruttoWithoutDiscount" : 48.8,
+        "discountPercentage" : 50,
+        "discountUntil" : "2025-10-30T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -100,13 +100,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.2
+        "provisionPoints" : 12.69
       },
       "partner" : {
-        "brutto" : 48.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 24.4,
+        "bruttoWithoutDiscount" : 48.8,
+        "discountPercentage" : 50,
+        "discountUntil" : "2025-10-30T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -114,7 +114,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.2
+        "provisionPoints" : 12.69
       }
     },
     "purchasePossible" : true,

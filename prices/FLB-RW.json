@@ -232,7 +232,37 @@
     "caption" : null,
     "captionLink" : null,
     "id" : 6040,
-    "mediaId" : 9680,
+    "mediaId" : 9217,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 6405,
+    "mediaId" : 9354,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 6401,
+    "mediaId" : 9356,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 6402,
+    "mediaId" : 9355,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 6403,
+    "mediaId" : 9357,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 6404,
+    "mediaId" : 9486,
     "mediaType" : "image"
   } ],
   "nemBackgroundColor" : null,
@@ -284,7 +314,7 @@
   "slug" : "fresh-tinted-balm-rosewood",
   "socialMedia" : {
     "id" : 4227,
-    "imageId" : null,
+    "imageId" : 9217,
     "text" : "product.FLB-RW.socialMedia.text",
     "title" : "product.FLB-RW.socialMedia.title"
   },
@@ -347,5 +377,25 @@
     "iconMediaId" : 1057,
     "name" : "value.value2.name"
   } ],
-  "variants" : [ ]
+  "variants" : [ {
+    "color" : "#d49596",
+    "id" : 2707,
+    "language" : null,
+    "matchcode" : "FLB-RW",
+    "name" : "rosewood",
+    "size" : null,
+    "slug" : "fresh-tinted-balm-rosewood",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#f1dbda",
+    "id" : 2708,
+    "language" : null,
+    "matchcode" : "FLB",
+    "name" : "classic",
+    "size" : null,
+    "slug" : "fresh-lip-balm-classic",
+    "type" : 1,
+    "unit" : null
+  } ]
 }

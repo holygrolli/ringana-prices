@@ -92,7 +92,7 @@
     "contentsAmount" : "10",
     "currency" : "eur",
     "description" : "rosewood",
-    "imageId" : 9680,
+    "imageId" : 9217,
     "matchcode" : "FLB-RW",
     "priceInformation" : {
       "base" : {
@@ -341,5 +341,25 @@
     "iconMediaId" : 1057,
     "name" : "value.value2.name"
   } ],
-  "variants" : [ ]
+  "variants" : [ {
+    "color" : "#f1dbda",
+    "id" : 2709,
+    "language" : null,
+    "matchcode" : "FLB",
+    "name" : "classic",
+    "size" : null,
+    "slug" : "fresh-lip-balm-classic",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#d49596",
+    "id" : 2710,
+    "language" : null,
+    "matchcode" : "FLB-RW",
+    "name" : "rosewood",
+    "size" : null,
+    "slug" : "fresh-tinted-balm-rosewood",
+    "type" : 1,
+    "unit" : null
+  } ]
 }
