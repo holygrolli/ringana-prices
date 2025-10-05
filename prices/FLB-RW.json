@@ -377,25 +377,5 @@
     "iconMediaId" : 1057,
     "name" : "value.value2.name"
   } ],
-  "variants" : [ {
-    "color" : "#d49596",
-    "id" : 2707,
-    "language" : null,
-    "matchcode" : "FLB-RW",
-    "name" : "rosewood",
-    "size" : null,
-    "slug" : "fresh-tinted-balm-rosewood",
-    "type" : 1,
-    "unit" : null
-  }, {
-    "color" : "#f1dbda",
-    "id" : 2708,
-    "language" : null,
-    "matchcode" : "FLB",
-    "name" : "classic",
-    "size" : null,
-    "slug" : "fresh-lip-balm-classic",
-    "type" : 1,
-    "unit" : null
-  } ]
+  "variants" : [ ]
 }
