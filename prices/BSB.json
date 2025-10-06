@@ -55,6 +55,15 @@
     "slug" : "suncare",
     "visible" : true,
     "visibleCountries" : [ ]
+  }, {
+    "id" : 463,
+    "infoColorNeeded" : false,
+    "name" : "category.category463.name",
+    "primary" : false,
+    "productCount" : 47,
+    "slug" : "pregnancy-breastfeeding",
+    "visible" : true,
+    "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "200",
@@ -364,5 +373,25 @@
     "iconMediaId" : 1104,
     "name" : "value.value49.name"
   } ],
-  "variants" : [ ]
+  "variants" : [ {
+    "color" : null,
+    "id" : 2049,
+    "language" : null,
+    "matchcode" : "BSB",
+    "name" : null,
+    "size" : 200,
+    "slug" : "fresh-sunscreen-spf-25",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 2050,
+    "language" : null,
+    "matchcode" : "T-BSB",
+    "name" : null,
+    "size" : 50,
+    "slug" : "",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }

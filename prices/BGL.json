@@ -41,10 +41,10 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 32,
+    "productCount" : 47,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true,
-    "visibleCountries" : [ ]
+    "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
   }, {
     "id" : 201,
     "infoColorNeeded" : false,

@@ -59,6 +59,15 @@
     "visible" : true,
     "visibleCountries" : [ ]
   }, {
+    "id" : 463,
+    "infoColorNeeded" : false,
+    "name" : "category.category463.name",
+    "primary" : false,
+    "productCount" : 47,
+    "slug" : "pregnancy-breastfeeding",
+    "visible" : true,
+    "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
+  }, {
     "id" : 595,
     "infoColorNeeded" : false,
     "name" : "category.category595.name",
@@ -377,5 +386,25 @@
     "iconMediaId" : 1057,
     "name" : "value.value2.name"
   } ],
-  "variants" : [ ]
+  "variants" : [ {
+    "color" : "#d49596",
+    "id" : 2707,
+    "language" : null,
+    "matchcode" : "FLB-RW",
+    "name" : "rosewood",
+    "size" : null,
+    "slug" : "fresh-tinted-balm-rosewood",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#f1dbda",
+    "id" : 2708,
+    "language" : null,
+    "matchcode" : "FLB",
+    "name" : "classic",
+    "size" : null,
+    "slug" : "fresh-lip-balm-classic",
+    "type" : 1,
+    "unit" : null
+  } ]
 }
