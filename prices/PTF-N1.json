@@ -122,18 +122,14 @@
   "contentsAmount" : "5",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 7447,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ {
-    "answer" : "product.PTF-N1.faqs5.answer",
-    "id" : 1670,
-    "question" : "product.PTF-N1.faqs5.question"
-  }, {
     "answer" : "product.PTF-N1.faqs0.answer",
     "id" : 1665,
     "question" : "product.PTF-N1.faqs0.question"
@@ -153,6 +149,10 @@
     "answer" : "product.PTF-N1.faqs4.answer",
     "id" : 1669,
     "question" : "product.PTF-N1.faqs4.question"
+  }, {
+    "answer" : "product.PTF-N1.faqs5.answer",
+    "id" : 1670,
+    "question" : "product.PTF-N1.faqs5.question"
   } ],
   "firstHeadline" : "product.PTF-N1.firstHeadline",
   "id" : 3638,
@@ -365,7 +365,7 @@
       "provisionPoints" : 4.8
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "product.PTF-N1.secondHeadline",
   "setContents" : [ ],
@@ -380,7 +380,7 @@
     "text" : "product.PTF-N1.socialMedia.text",
     "title" : "product.PTF-N1.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "NUANCE1",
   "tabs" : [ {
     "anchorName" : "",
