@@ -410,31 +410,31 @@
   "soldOut" : false,
   "supplementDescription" : "scrub",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FSC.tabs0.description",
     "id" : 531,
     "showPrintButton" : false,
     "title" : "product.FSC.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FSC.tabs1.description",
     "id" : 532,
     "showPrintButton" : true,
     "title" : "product.FSC.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FSC.tabs2.description",
     "id" : 533,
     "showPrintButton" : false,
     "title" : "product.FSC.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FSC.tabs3.description",
     "id" : 534,
     "showPrintButton" : false,
     "title" : "product.FSC.tabs3.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FSC.tabs2072.description",
     "id" : 2072,
     "showPrintButton" : false,
