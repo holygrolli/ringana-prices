@@ -1,13 +1,22 @@
 {
-  "matchcode" : "MANA-SK",
+  "matchcode" : "MANA-SK-BZO-FTB",
   "additionalUnitPrice" : null,
   "awards" : [ ],
   "blogPostIds" : [ 189850, 186646, 189265 ],
   "categories" : [ {
+    "id" : 496,
+    "infoColorNeeded" : false,
+    "name" : "category.category496.name",
+    "primary" : true,
+    "productCount" : 39,
+    "slug" : "sets",
+    "visible" : true,
+    "visibleCountries" : [ ]
+  }, {
     "id" : 20,
     "infoColorNeeded" : false,
     "name" : "category.category20.name",
-    "primary" : true,
+    "primary" : false,
     "productCount" : 5,
     "slug" : "manadental",
     "visible" : true,
@@ -23,43 +32,43 @@
     "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "200",
+  "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ {
-    "answer" : "product.MANA-SK.faqs1.answer",
-    "id" : 90,
-    "question" : "product.MANA-SK.faqs1.question"
+    "answer" : "product.MANA-SK-BZO-FTB.faqs0.answer",
+    "id" : 847,
+    "question" : "product.MANA-SK-BZO-FTB.faqs0.question"
   }, {
-    "answer" : "product.MANA-SK.faqs2.answer",
-    "id" : 91,
-    "question" : "product.MANA-SK.faqs2.question"
+    "answer" : "product.MANA-SK-BZO-FTB.faqs1.answer",
+    "id" : 848,
+    "question" : "product.MANA-SK-BZO-FTB.faqs1.question"
   }, {
-    "answer" : "product.MANA-SK.faqs3.answer",
-    "id" : 92,
-    "question" : "product.MANA-SK.faqs3.question"
+    "answer" : "product.MANA-SK-BZO-FTB.faqs2.answer",
+    "id" : 849,
+    "question" : "product.MANA-SK-BZO-FTB.faqs2.question"
   }, {
-    "answer" : "product.MANA-SK.faqs4.answer",
-    "id" : 93,
-    "question" : "product.MANA-SK.faqs4.question"
+    "answer" : "product.MANA-SK-BZO-FTB.faqs3.answer",
+    "id" : 850,
+    "question" : "product.MANA-SK-BZO-FTB.faqs3.question"
   }, {
-    "answer" : "product.MANA-SK.faqs5.answer",
-    "id" : 94,
-    "question" : "product.MANA-SK.faqs5.question"
+    "answer" : "product.MANA-SK-BZO-FTB.faqs4.answer",
+    "id" : 851,
+    "question" : "product.MANA-SK-BZO-FTB.faqs4.question"
   }, {
-    "answer" : "product.MANA-SK.faqs6.answer",
-    "id" : 95,
-    "question" : "product.MANA-SK.faqs6.question"
+    "answer" : "product.MANA-SK-BZO-FTB.faqs5.answer",
+    "id" : 852,
+    "question" : "product.MANA-SK-BZO-FTB.faqs5.question"
   } ],
   "firstHeadline" : "",
-  "id" : 256,
+  "id" : 2223,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
     "contentsAmount" : "1",
@@ -207,21 +216,21 @@
   "isMerchandise" : false,
   "maxPerCart" : 100,
   "mediaGallery" : [ {
-    "caption" : "product.MANA-SK.imageGallery646.caption",
+    "caption" : "",
     "captionLink" : "blog/ringana-x-manadental/",
-    "id" : 646,
-    "mediaId" : 3684,
+    "id" : 2980,
+    "mediaId" : 4927,
     "mediaType" : "image"
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 647,
+    "id" : 2981,
     "mediaId" : 938,
     "mediaType" : "image"
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 648,
+    "id" : 2982,
     "mediaId" : 1256,
     "mediaType" : "image"
   } ],
@@ -235,10 +244,10 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 279,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 251.1,
+      "bruttoWithoutDiscount" : 279,
+      "discountPercentage" : 10,
+      "discountUntil" : "2025-10-31T09:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -246,13 +255,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 94
+      "provisionPoints" : 76.14
     },
     "partner" : {
-      "brutto" : 279,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 251.1,
+      "bruttoWithoutDiscount" : 279,
+      "discountPercentage" : 10,
+      "discountUntil" : "2025-10-31T09:00:00Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -260,66 +269,79 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 94
+      "provisionPoints" : 76.14
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
     "amount" : 1,
     "freeOfCharge" : false,
-    "matchcode" : "FTLL-SK"
+    "matchcode" : "MANA-SK"
   }, {
     "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "MANA-D"
+    "freeOfCharge" : true,
+    "matchcode" : "BZO"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : true,
+    "matchcode" : "FTB"
   } ],
-  "shortDescription" : "product.MANA-SK.shortDescription",
+  "shortDescription" : "product.MANA-SK-BZO-FTB.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "manadental-starter-kit",
+  "slug" : "manadental-starter-kit-special",
   "socialMedia" : {
-    "id" : 255,
+    "id" : 2223,
     "imageId" : 934,
-    "text" : "product.MANA-SK.socialMedia.text",
-    "title" : "product.MANA-SK.socialMedia.title"
+    "text" : "product.MANA-SK-BZO-FTB.socialMedia.text",
+    "title" : "product.MANA-SK-BZO-FTB.socialMedia.title"
   },
   "soldOut" : false,
   "supplementDescription" : "manadental",
   "tabs" : [ {
-    "anchorName" : null,
-    "description" : "product.MANA-SK.tabs0.description",
-    "id" : 826,
+    "anchorName" : "",
+    "description" : "product.MANA-SK-BZO-FTB.tabs2658.description",
+    "id" : 2658,
     "showPrintButton" : false,
-    "title" : "product.MANA-SK.tabs0.title"
+    "title" : "product.MANA-SK-BZO-FTB.tabs2658.title"
   }, {
-    "anchorName" : null,
-    "description" : "product.MANA-SK.tabs1.description",
-    "id" : 827,
+    "anchorName" : "",
+    "description" : "product.MANA-SK-BZO-FTB.tabs2659.description",
+    "id" : 2659,
     "showPrintButton" : false,
-    "title" : "product.MANA-SK.tabs1.title"
+    "title" : "product.MANA-SK-BZO-FTB.tabs2659.title"
   }, {
-    "anchorName" : null,
-    "description" : "product.MANA-SK.tabs2.description",
-    "id" : 828,
+    "anchorName" : "",
+    "description" : "product.MANA-SK-BZO-FTB.tabs2660.description",
+    "id" : 2660,
     "showPrintButton" : false,
-    "title" : "product.MANA-SK.tabs2.title"
+    "title" : "product.MANA-SK-BZO-FTB.tabs2660.title"
   }, {
-    "anchorName" : null,
-    "description" : "product.MANA-SK.tabs3.description",
-    "id" : 829,
+    "anchorName" : "",
+    "description" : "product.MANA-SK-BZO-FTB.tabs2661.description",
+    "id" : 2661,
     "showPrintButton" : false,
-    "title" : "product.MANA-SK.tabs3.title"
+    "title" : "product.MANA-SK-BZO-FTB.tabs2661.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "manadental starter kit",
-  "unit" : "Stk.",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
-  "unitId" : 996,
-  "usp" : "product.MANA-SK.usp",
+  "teaserDots" : [ {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 9,
+    "id" : 4,
+    "lineHeight" : 1.4,
+    "position" : "top-left",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "manadental starter kit special",
+  "unit" : "Set",
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
+  "unitId" : 43586,
+  "usp" : "product.MANA-SK-BZO-FTB.usp",
   "values" : [ {
     "iconMediaId" : 1097,
     "name" : "value.value42.name"

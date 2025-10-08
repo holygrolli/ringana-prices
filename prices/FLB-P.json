@@ -174,7 +174,7 @@
         "provisionPoints" : 8.6
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-tinted-balm-rosewood",
     "title" : "FRESH tinted balm lip & cheek rosewood",
     "unitContents" : "ml"
@@ -249,9 +249,9 @@
     "mediaId" : 9361,
     "mediaType" : "image"
   }, {
-    "caption" : "product.FLB-P.imageGallery1759844156257.caption",
+    "caption" : "product.FLB-P.imageGallery1759928930441.caption",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 6440,
+    "id" : 6468,
     "mediaId" : 9358,
     "mediaType" : "image"
   }, {
@@ -301,7 +301,7 @@
   },
   "purchasePossible" : true,
   "searchable" : true,
-  "secondHeadline" : "product.FLB-P.secondHeadline",
+  "secondHeadline" : "",
   "setContents" : [ ],
   "shortDescription" : "product.FLB-P.shortDescription",
   "showOnSpecialOffer" : 2,
@@ -385,5 +385,35 @@
     "iconMediaId" : 1057,
     "name" : "value.value2.name"
   } ],
-  "variants" : [ ]
+  "variants" : [ {
+    "color" : "#c99da4",
+    "id" : 2775,
+    "language" : null,
+    "matchcode" : "FLB-P",
+    "name" : "plump",
+    "size" : null,
+    "slug" : "fresh-lip-balm-plump",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#ebb0b9",
+    "id" : 2776,
+    "language" : null,
+    "matchcode" : "FLB",
+    "name" : "classic",
+    "size" : null,
+    "slug" : "fresh-lip-balm-classic",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#cf8a8d",
+    "id" : 2777,
+    "language" : null,
+    "matchcode" : "FLB-RW",
+    "name" : "rosewood",
+    "size" : null,
+    "slug" : "fresh-tinted-balm-rosewood",
+    "type" : 1,
+    "unit" : null
+  } ]
 }
