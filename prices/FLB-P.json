@@ -62,8 +62,8 @@
   "contentsAmount" : "10",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 9815,
   "discountDate" : null,
@@ -243,12 +243,6 @@
     "mediaId" : 9814,
     "mediaType" : "image"
   }, {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 6441,
-    "mediaId" : 9816,
-    "mediaType" : "image"
-  }, {
     "caption" : "product.FLB-P.imageGallery1759844156256.caption",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
     "id" : 6179,
@@ -259,6 +253,12 @@
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
     "id" : 6440,
     "mediaId" : 9358,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 6441,
+    "mediaId" : 9816,
     "mediaType" : "image"
   } ],
   "nemBackgroundColor" : null,
@@ -299,7 +299,7 @@
       "provisionPoints" : 8.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "product.FLB-P.secondHeadline",
   "setContents" : [ ],
@@ -348,15 +348,6 @@
     "title" : "product.FLB-P.tabs1759845040170.title"
   } ],
   "teaserDots" : [ {
-    "backgroundColor" : "#000000",
-    "borderColor" : "#000000",
-    "fontSize" : 12,
-    "id" : 334,
-    "lineHeight" : 1,
-    "position" : "top-left",
-    "text" : "from 08.10.",
-    "textColor" : "#ffffff"
-  }, {
     "backgroundColor" : "#000000",
     "borderColor" : "#000000",
     "fontSize" : 9,
