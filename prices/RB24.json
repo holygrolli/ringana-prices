@@ -419,5 +419,25 @@
     "iconMediaId" : 1064,
     "name" : "value.value9.name"
   } ],
-  "variants" : [ ]
+  "variants" : [ {
+    "color" : null,
+    "id" : 2811,
+    "language" : null,
+    "matchcode" : "RB24",
+    "name" : null,
+    "size" : 720,
+    "slug" : "ringanabty-set",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 2812,
+    "language" : null,
+    "matchcode" : "RB12",
+    "name" : null,
+    "size" : 360,
+    "slug" : "ringanabty",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }
