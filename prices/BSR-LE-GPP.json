@@ -8,7 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category497.name",
     "primary" : true,
-    "productCount" : 3,
+    "productCount" : 2,
     "slug" : "specials",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -17,8 +17,8 @@
   "contentsAmount" : "100",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -77,7 +77,7 @@
       "provisionPoints" : 3.6
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -87,7 +87,7 @@
   "skinTypes" : [ ],
   "slug" : "fresh-soap-goji-pink-pepper",
   "socialMedia" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : null,
   "tabs" : [ {
     "anchorName" : "",

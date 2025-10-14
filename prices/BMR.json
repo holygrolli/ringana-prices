@@ -355,7 +355,7 @@
     "fontSize" : 11,
     "id" : 7,
     "lineHeight" : 1.2,
-    "position" : "top-left",
+    "position" : "top-right",
     "text" : "BRAND NEW",
     "textColor" : "#ffffff"
   } ],

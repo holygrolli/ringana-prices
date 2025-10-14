@@ -353,7 +353,7 @@
     "fontSize" : 9,
     "id" : 4,
     "lineHeight" : 1.4,
-    "position" : "top-left",
+    "position" : "top-right",
     "text" : "LIMITED EDITION",
     "textColor" : "#ffffff"
   } ],

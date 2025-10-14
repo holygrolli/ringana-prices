@@ -287,16 +287,7 @@
     "showPrintButton" : false,
     "title" : "product.RSBO.tabs4009.title"
   } ],
-  "teaserDots" : [ {
-    "backgroundColor" : "#000000",
-    "borderColor" : "#000000",
-    "fontSize" : 11,
-    "id" : 7,
-    "lineHeight" : 1.2,
-    "position" : "top-left",
-    "text" : "BRAND NEW",
-    "textColor" : "#ffffff"
-  } ],
+  "teaserDots" : [ ],
   "title" : "RINGANA sport bottle",
   "unit" : "Stk.",
   "unitContents" : "Stk.",

@@ -113,16 +113,7 @@
     "showPrintButton" : false,
     "title" : "product.RSW.tabs4603.title"
   } ],
-  "teaserDots" : [ {
-    "backgroundColor" : "#000000",
-    "borderColor" : "#000000",
-    "fontSize" : 9,
-    "id" : 4,
-    "lineHeight" : 1.4,
-    "position" : "top-left",
-    "text" : "LIMITED EDITION",
-    "textColor" : "#ffffff"
-  } ],
+  "teaserDots" : [ ],
   "title" : "RINGANA scarf waves",
   "unit" : "Stk.",
   "unitContents" : "Stk.",
