@@ -42,7 +42,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 50,
+    "productCount" : 49,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -60,7 +60,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category2.name",
     "primary" : false,
-    "productCount" : 16,
+    "productCount" : 15,
     "slug" : "body",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -69,7 +69,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category93.name",
     "primary" : false,
-    "productCount" : 17,
+    "productCount" : 16,
     "slug" : "body-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -141,7 +141,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 47,
+    "productCount" : 46,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -217,53 +217,6 @@
     "purchasePossible" : true,
     "slug" : "fresh-hand-balm",
     "title" : "FRESH hand balm",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "200",
-    "currency" : "eur",
-    "description" : "body milk",
-    "imageId" : 606,
-    "matchcode" : "BKM",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 189.5,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 37.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 21.1
-      },
-      "partner" : {
-        "brutto" : 37.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 21.1
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "fresh-body-milk",
-    "title" : "FRESH body milk",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,

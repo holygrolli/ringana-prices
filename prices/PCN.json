@@ -45,7 +45,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
-    "productCount" : 22,
+    "productCount" : 21,
     "slug" : "dry-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -96,53 +96,6 @@
   "firstHeadline" : "product.PCN.firstHeadline",
   "id" : 300,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "200",
-    "currency" : "eur",
-    "description" : "body milk",
-    "imageId" : 606,
-    "matchcode" : "BKM",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 189.5,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 37.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 21.1
-      },
-      "partner" : {
-        "brutto" : 37.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 21.1
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "fresh-body-milk",
-    "title" : "FRESH body milk",
-    "unitContents" : "ml"
-  }, {
     "additionalUnitPrice" : null,
     "contentsAmount" : "125",
     "currency" : "eur",
