@@ -1,0 +1,165 @@
+{
+  "matchcode" : "RX-2025-1",
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 497,
+    "infoColorNeeded" : false,
+    "name" : "category.category497.name",
+    "primary" : true,
+    "productCount" : 19,
+    "slug" : "specials",
+    "visible" : true,
+    "visibleCountries" : [ ]
+  }, {
+    "id" : 628,
+    "infoColorNeeded" : false,
+    "name" : "category.category628.name",
+    "primary" : false,
+    "productCount" : 21,
+    "slug" : "limited-xmas-editions",
+    "visible" : true,
+    "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
+  } ],
+  "contentBlock" : null,
+  "contentsAmount" : null,
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "product.RX-2025-1.firstHeadline",
+  "id" : 4758,
+  "idealSupplements" : [ ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
+  "isMerchandise" : false,
+  "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 6601,
+    "mediaId" : 10012,
+    "mediaType" : "image"
+  } ],
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
+    "customer" : {
+      "brutto" : 87.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 40.8
+    },
+    "partner" : {
+      "brutto" : 87.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 40.8
+    }
+  },
+  "purchasePossible" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "FBO-LE-G"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "FEP"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "RSC-LE80"
+  } ],
+  "shortDescription" : "product.RX-2025-1.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "fresh-relaxing-xmas-set",
+  "socialMedia" : null,
+  "soldOut" : false,
+  "supplementDescription" : "relaxing",
+  "tabs" : [ {
+    "anchorName" : "",
+    "description" : "product.RX-2025-1.tabs1759402933035.description",
+    "id" : 5431,
+    "showPrintButton" : false,
+    "title" : "product.RX-2025-1.tabs1759402933035.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.RX-2025-1.tabs1759403617262.description",
+    "id" : 5434,
+    "showPrintButton" : false,
+    "title" : "product.RX-2025-1.tabs1759403617262.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.RX-2025-1.tabs1759402933036.description",
+    "id" : 5432,
+    "showPrintButton" : false,
+    "title" : "product.RX-2025-1.tabs1759402933036.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.RX-2025-1.tabs1759402933037.description",
+    "id" : 5433,
+    "showPrintButton" : false,
+    "title" : "product.RX-2025-1.tabs1759402933037.title"
+  } ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#035f30",
+    "borderColor" : "#035f30",
+    "fontSize" : 10,
+    "id" : 397,
+    "lineHeight" : 1,
+    "position" : "top-right",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  }, {
+    "backgroundColor" : "#035f30",
+    "borderColor" : "#035f30",
+    "fontSize" : 12,
+    "id" : 364,
+    "lineHeight" : 1,
+    "position" : "top-right",
+    "text" : "from 17.11.",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH relaxing x-mas set",
+  "unit" : "Set",
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
+  "unitId" : 43586,
+  "usp" : "product.RX-2025-1.usp",
+  "values" : [ ],
+  "variants" : [ ]
+}

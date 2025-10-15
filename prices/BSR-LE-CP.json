@@ -1,0 +1,275 @@
+{
+  "matchcode" : "BSR-LE-CP",
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "id" : 7,
+    "imageId" : 1049,
+    "link" : "https://www.lacon-institut.com/en/philosophy/",
+    "name" : "Lacon"
+  }, {
+    "id" : 1,
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  } ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 497,
+    "infoColorNeeded" : false,
+    "name" : "category.category497.name",
+    "primary" : true,
+    "productCount" : 19,
+    "slug" : "specials",
+    "visible" : true,
+    "visibleCountries" : [ ]
+  }, {
+    "id" : 628,
+    "infoColorNeeded" : false,
+    "name" : "category.category628.name",
+    "primary" : false,
+    "productCount" : 21,
+    "slug" : "limited-xmas-editions",
+    "visible" : true,
+    "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
+  } ],
+  "contentBlock" : null,
+  "contentsAmount" : "100",
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ {
+    "answer" : "product.BSR-LE-CP.faqs0.answer",
+    "id" : 846,
+    "question" : "product.BSR-LE-CP.faqs0.question"
+  } ],
+  "firstHeadline" : "product.BSR-LE-CP.firstHeadline",
+  "id" : 2116,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "125",
+    "currency" : "eur",
+    "description" : "hand balm",
+    "imageId" : 9679,
+    "matchcode" : "BHB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 196,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 24.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 13.7
+      },
+      "partner" : {
+        "brutto" : 24.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 13.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-hand-balm",
+    "title" : "FRESH hand balm",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "200",
+    "currency" : "eur",
+    "description" : "scrub",
+    "imageId" : 8035,
+    "matchcode" : "FSC",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 238,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 47.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29
+      },
+      "partner" : {
+        "brutto" : 47.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-scrub",
+    "title" : "FRESH scrub face & body",
+    "unitContents" : "ml"
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
+  "isMerchandise" : false,
+  "maxPerCart" : 99999,
+  "mediaGallery" : [ {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 2871,
+    "mediaId" : 3677,
+    "mediaType" : "image"
+  } ],
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 109,
+      "unit" : "g",
+      "unitId" : 812
+    },
+    "customer" : {
+      "brutto" : 10.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 5
+    },
+    "partner" : {
+      "brutto" : 10.9,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 5
+    }
+  },
+  "purchasePossible" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.BSR-LE-CP.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "fresh-soap-chai-scrub",
+  "socialMedia" : {
+    "id" : 2116,
+    "imageId" : 3677,
+    "text" : "product.BSR-LE-CP.socialMedia.text",
+    "title" : "product.BSR-LE-CP.socialMedia.title"
+  },
+  "soldOut" : false,
+  "supplementDescription" : "chai & scrub",
+  "tabs" : [ {
+    "anchorName" : "",
+    "description" : "product.BSR-LE-CP.tabs2554.description",
+    "id" : 2554,
+    "showPrintButton" : false,
+    "title" : "product.BSR-LE-CP.tabs2554.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.BSR-LE-CP.tabs2555.description",
+    "id" : 2555,
+    "showPrintButton" : false,
+    "title" : "product.BSR-LE-CP.tabs2555.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.BSR-LE-CP.tabs2556.description",
+    "id" : 2556,
+    "showPrintButton" : false,
+    "title" : "product.BSR-LE-CP.tabs2556.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.BSR-LE-CP.tabs2557.description",
+    "id" : 2557,
+    "showPrintButton" : false,
+    "title" : "product.BSR-LE-CP.tabs2557.title"
+  } ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#035f30",
+    "borderColor" : "#035f30",
+    "fontSize" : 10,
+    "id" : 397,
+    "lineHeight" : 1,
+    "position" : "top-right",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  }, {
+    "backgroundColor" : "#035f30",
+    "borderColor" : "#035f30",
+    "fontSize" : 12,
+    "id" : 331,
+    "lineHeight" : 1,
+    "position" : "top-right",
+    "text" : "from 20.10.",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH soap chai & scrub",
+  "unit" : "Stk.",
+  "unitContents" : "g",
+  "unitContentsId" : 812,
+  "unitId" : 996,
+  "usp" : "product.BSR-LE-CP.usp",
+  "values" : [ {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1069,
+    "name" : "value.value14.name"
+  }, {
+    "iconMediaId" : 1057,
+    "name" : "value.value2.name"
+  } ],
+  "variants" : [ ]
+}

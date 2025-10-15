@@ -1,0 +1,349 @@
+{
+  "matchcode" : "FBO-LE-G",
+  "additionalUnitPrice" : null,
+  "awards" : [ {
+    "id" : 1,
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  } ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 2,
+    "infoColorNeeded" : false,
+    "name" : "category.category2.name",
+    "primary" : true,
+    "productCount" : 16,
+    "slug" : "body",
+    "visible" : true,
+    "visibleCountries" : [ ]
+  }, {
+    "id" : 628,
+    "infoColorNeeded" : false,
+    "name" : "category.category628.name",
+    "primary" : false,
+    "productCount" : 21,
+    "slug" : "limited-xmas-editions",
+    "visible" : true,
+    "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
+  }, {
+    "id" : 497,
+    "infoColorNeeded" : false,
+    "name" : "category.category497.name",
+    "primary" : false,
+    "productCount" : 19,
+    "slug" : "specials",
+    "visible" : true,
+    "visibleCountries" : [ ]
+  }, {
+    "id" : 94,
+    "infoColorNeeded" : false,
+    "name" : "category.category94.name",
+    "primary" : false,
+    "productCount" : 8,
+    "slug" : "washing-care",
+    "visible" : true,
+    "visibleCountries" : [ ]
+  }, {
+    "id" : 17,
+    "infoColorNeeded" : false,
+    "name" : "category.category17.name",
+    "primary" : false,
+    "productCount" : 52,
+    "slug" : "fresh",
+    "visible" : true,
+    "visibleCountries" : [ ]
+  } ],
+  "contentBlock" : null,
+  "contentsAmount" : "200",
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "product.FBO-LE-G.firstHeadline",
+  "id" : 4888,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "200",
+    "currency" : "eur",
+    "description" : "body wash",
+    "imageId" : 600,
+    "matchcode" : "BDB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 101,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 20.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 11.5
+      },
+      "partner" : {
+        "brutto" : 20.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 11.5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-body-wash-nbc",
+    "title" : "FRESH body wash",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "200",
+    "currency" : "eur",
+    "description" : "scrub",
+    "imageId" : 8035,
+    "matchcode" : "FSC",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 238,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 47.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29
+      },
+      "partner" : {
+        "brutto" : 47.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-scrub",
+    "title" : "FRESH scrub face & body",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "200",
+    "currency" : "eur",
+    "description" : "light",
+    "imageId" : 9317,
+    "matchcode" : "BML",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 184,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 36.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 19.8
+      },
+      "partner" : {
+        "brutto" : 36.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 19.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-body-milk-light",
+    "title" : "FRESH body milk light ",
+    "unitContents" : "ml"
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : true,
+  "isMerchandise" : false,
+  "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 6599,
+    "mediaId" : 10010,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 6600,
+    "mediaId" : 10011,
+    "mediaType" : "image"
+  } ],
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1,
+      "brutto" : 0.19,
+      "unit" : "Mon.",
+      "unitId" : 499248
+    },
+    "customer" : {
+      "brutto" : 38.6,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 22.4
+    },
+    "partner" : {
+      "brutto" : 38.6,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 22.4
+    }
+  },
+  "purchasePossible" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.FBO-LE-G.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "fresh-bath-shower-oil-zest",
+  "socialMedia" : {
+    "id" : 4591,
+    "imageId" : null,
+    "text" : "product.FBO-LE-G.socialMedia.text",
+    "title" : "product.FBO-LE-G.socialMedia.title"
+  },
+  "soldOut" : false,
+  "supplementDescription" : "bath oil",
+  "tabs" : [ {
+    "anchorName" : "",
+    "description" : "product.FBO-LE-G.tabs1760011463383.description",
+    "id" : 5562,
+    "showPrintButton" : false,
+    "title" : "product.FBO-LE-G.tabs1760011463383.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.FBO-LE-G.tabs1760011463384.description",
+    "id" : 5563,
+    "showPrintButton" : false,
+    "title" : "product.FBO-LE-G.tabs1760011463384.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.FBO-LE-G.tabs1760011463385.description",
+    "id" : 5564,
+    "showPrintButton" : false,
+    "title" : "product.FBO-LE-G.tabs1760011463385.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.FBO-LE-G.tabs1760011463386.description",
+    "id" : 5565,
+    "showPrintButton" : false,
+    "title" : "product.FBO-LE-G.tabs1760011463386.title"
+  } ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#035f30",
+    "borderColor" : "#035f30",
+    "fontSize" : 10,
+    "id" : 397,
+    "lineHeight" : 1,
+    "position" : "top-right",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  }, {
+    "backgroundColor" : "#035f30",
+    "borderColor" : "#035f30",
+    "fontSize" : 12,
+    "id" : 364,
+    "lineHeight" : 1,
+    "position" : "top-right",
+    "text" : "from 17.11.",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH bath & shower oil zest limited edition ",
+  "unit" : "Pck.",
+  "unitContents" : "Mon.",
+  "unitContentsId" : 499248,
+  "unitId" : 43589,
+  "usp" : "product.FBO-LE-G.usp",
+  "values" : [ {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1088,
+    "name" : "value.value33.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  } ],
+  "variants" : [ ]
+}

@@ -1,0 +1,159 @@
+{
+  "matchcode" : "RB12-CBH-FLN",
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 497,
+    "infoColorNeeded" : false,
+    "name" : "category.category497.name",
+    "primary" : true,
+    "productCount" : 19,
+    "slug" : "specials",
+    "visible" : true,
+    "visibleCountries" : [ ]
+  }, {
+    "id" : 628,
+    "infoColorNeeded" : false,
+    "name" : "category.category628.name",
+    "primary" : false,
+    "productCount" : 21,
+    "slug" : "limited-xmas-editions",
+    "visible" : true,
+    "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
+  } ],
+  "contentBlock" : null,
+  "contentsAmount" : "1",
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ ],
+  "firstHeadline" : "product.RB12-CBH-FLN.firstHeadline",
+  "id" : 4227,
+  "idealSupplements" : [ ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
+  "isMerchandise" : false,
+  "maxPerCart" : 99999999,
+  "mediaGallery" : [ {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 6567,
+    "mediaId" : 9954,
+    "mediaType" : "image"
+  } ],
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
+    "customer" : {
+      "brutto" : 194,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 99.6
+    },
+    "partner" : {
+      "brutto" : 194,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 99.6
+    }
+  },
+  "purchasePossible" : false,
+  "searchable" : true,
+  "secondHeadline" : "product.RB12-CBH-FLN.secondHeadline",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "RB12"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "CBH"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "FLN"
+  } ],
+  "shortDescription" : "product.RB12-CBH-FLN.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "timeless-beauty-xmas-set",
+  "socialMedia" : null,
+  "soldOut" : false,
+  "supplementDescription" : "timeless beauty ",
+  "tabs" : [ {
+    "anchorName" : "",
+    "description" : "product.RB12-CBH-FLN.tabs1753258997805.description",
+    "id" : 4864,
+    "showPrintButton" : false,
+    "title" : "product.RB12-CBH-FLN.tabs1753258997805.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.RB12-CBH-FLN.tabs1753258997806.description",
+    "id" : 4865,
+    "showPrintButton" : false,
+    "title" : "product.RB12-CBH-FLN.tabs1753258997806.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.RB12-CBH-FLN.tabs1753258997807.description",
+    "id" : 4866,
+    "showPrintButton" : false,
+    "title" : "product.RB12-CBH-FLN.tabs1753258997807.title"
+  } ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#035f30",
+    "borderColor" : "#035f30",
+    "fontSize" : 10,
+    "id" : 397,
+    "lineHeight" : 1,
+    "position" : "top-right",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  }, {
+    "backgroundColor" : "#035f30",
+    "borderColor" : "#035f30",
+    "fontSize" : 12,
+    "id" : 364,
+    "lineHeight" : 1,
+    "position" : "top-right",
+    "text" : "from 17.11.",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH timeless beauty x-mas set",
+  "unit" : "Set",
+  "unitContents" : "Set",
+  "unitContentsId" : 43586,
+  "unitId" : 43586,
+  "usp" : "product.RB12-CBH-FLN.usp",
+  "values" : [ ],
+  "variants" : [ ]
+}

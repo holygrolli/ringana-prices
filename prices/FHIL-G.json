@@ -1,0 +1,224 @@
+{
+  "matchcode" : "FHIL-G",
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 497,
+    "infoColorNeeded" : false,
+    "name" : "category.category497.name",
+    "primary" : true,
+    "productCount" : 19,
+    "slug" : "specials",
+    "visible" : true,
+    "visibleCountries" : [ ]
+  }, {
+    "id" : 628,
+    "infoColorNeeded" : false,
+    "name" : "category.category628.name",
+    "primary" : false,
+    "productCount" : 21,
+    "slug" : "limited-xmas-editions",
+    "visible" : true,
+    "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
+  } ],
+  "contentBlock" : null,
+  "contentsAmount" : "10",
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ {
+    "answer" : "product.FHIL-G.faqs1759833445504.answer",
+    "id" : 2232,
+    "question" : "product.FHIL-G.faqs1759833445504.question"
+  } ],
+  "firstHeadline" : "product.FHIL-G.firstHeadline",
+  "id" : 4823,
+  "idealSupplements" : [ {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "5",
+    "currency" : "eur",
+    "description" : "lip balm",
+    "imageId" : 1159,
+    "matchcode" : "BLB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2420,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 12.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 7
+      },
+      "partner" : {
+        "brutto" : 12.1,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 7
+      }
+    },
+    "purchasePossible" : false,
+    "slug" : "fresh-lip-balm",
+    "title" : "FRESH lip balm",
+    "unitContents" : "ml"
+  } ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
+  "isMerchandise" : false,
+  "maxPerCart" : 99999,
+  "mediaGallery" : [ {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 6436,
+    "mediaId" : 9813,
+    "mediaType" : "image"
+  } ],
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : 1000,
+      "brutto" : 1520,
+      "unit" : "ml",
+      "unitId" : 827
+    },
+    "customer" : {
+      "brutto" : 15.2,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 8.5
+    },
+    "partner" : {
+      "brutto" : 15.2,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 8.5
+    }
+  },
+  "purchasePossible" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.FHIL-G.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "fresh-highlighter-gold",
+  "socialMedia" : {
+    "id" : 4525,
+    "imageId" : 3679,
+    "text" : "product.FHIL-G.socialMedia.text",
+    "title" : "product.FHIL-G.socialMedia.title"
+  },
+  "soldOut" : false,
+  "supplementDescription" : "gold",
+  "tabs" : [ {
+    "anchorName" : "",
+    "description" : "product.FHIL-G.tabs1759833445504.description",
+    "id" : 5495,
+    "showPrintButton" : false,
+    "title" : "product.FHIL-G.tabs1759833445504.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.FHIL-G.tabs1759833445505.description",
+    "id" : 5496,
+    "showPrintButton" : true,
+    "title" : "product.FHIL-G.tabs1759833445505.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.FHIL-G.tabs1759833445506.description",
+    "id" : 5497,
+    "showPrintButton" : false,
+    "title" : "product.FHIL-G.tabs1759833445506.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.FHIL-G.tabs1759833445507.description",
+    "id" : 5498,
+    "showPrintButton" : false,
+    "title" : "product.FHIL-G.tabs1759833445507.title"
+  } ],
+  "teaserDots" : [ {
+    "backgroundColor" : "#035f30",
+    "borderColor" : "#035f30",
+    "fontSize" : 10,
+    "id" : 397,
+    "lineHeight" : 1,
+    "position" : "top-right",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  }, {
+    "backgroundColor" : "#035f30",
+    "borderColor" : "#035f30",
+    "fontSize" : 12,
+    "id" : 595,
+    "lineHeight" : 1,
+    "position" : "top-right",
+    "text" : "from 24.11",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "FRESH highlighter gold",
+  "unit" : "Stk.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 996,
+  "usp" : "product.FHIL-G.usp",
+  "values" : [ {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  }, {
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1074,
+    "name" : "value.value19.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  } ],
+  "variants" : [ ]
+}
