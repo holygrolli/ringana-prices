@@ -43,6 +43,15 @@
     "visible" : true,
     "visibleCountries" : [ ]
   }, {
+    "id" : 661,
+    "infoColorNeeded" : false,
+    "name" : "category.category661.name",
+    "primary" : false,
+    "productCount" : 5,
+    "slug" : "xmas-soaps",
+    "visible" : false,
+    "visibleCountries" : [ ]
+  }, {
     "id" : 628,
     "infoColorNeeded" : false,
     "name" : "category.category628.name",

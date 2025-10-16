@@ -231,10 +231,10 @@
   "press" : null,
   "priceInformation" : {
     "base" : {
-      "amount" : 1,
-      "brutto" : 0.19,
-      "unit" : "Mon.",
-      "unitId" : 499248
+      "amount" : 1000,
+      "brutto" : 193,
+      "unit" : "ml",
+      "unitId" : 827
     },
     "customer" : {
       "brutto" : 38.6,
@@ -328,8 +328,8 @@
   } ],
   "title" : "FRESH bath & shower oil zest limited edition ",
   "unit" : "Pck.",
-  "unitContents" : "Mon.",
-  "unitContentsId" : 499248,
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
   "unitId" : 43589,
   "usp" : "product.FBO-LE-G.usp",
   "values" : [ {

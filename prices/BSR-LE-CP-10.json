@@ -18,6 +18,15 @@
     "visible" : true,
     "visibleCountries" : [ ]
   }, {
+    "id" : 661,
+    "infoColorNeeded" : false,
+    "name" : "category.category661.name",
+    "primary" : false,
+    "productCount" : 5,
+    "slug" : "xmas-soaps",
+    "visible" : false,
+    "visibleCountries" : [ ]
+  }, {
     "id" : 628,
     "infoColorNeeded" : false,
     "name" : "category.category628.name",
@@ -276,6 +285,16 @@
     "name" : "value.value2.name"
   } ],
   "variants" : [ {
+    "color" : null,
+    "id" : 1684,
+    "language" : null,
+    "matchcode" : "BSR-LE-CP-10",
+    "name" : null,
+    "size" : 10,
+    "slug" : "fresh-soap-chai-scrub-set-of-10",
+    "type" : 2,
+    "unit" : 5
+  }, {
     "color" : null,
     "id" : 1685,
     "language" : null,

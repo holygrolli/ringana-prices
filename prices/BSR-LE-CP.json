@@ -31,6 +31,15 @@
     "slug" : "limited-xmas-editions",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
+  }, {
+    "id" : 661,
+    "infoColorNeeded" : false,
+    "name" : "category.category661.name",
+    "primary" : false,
+    "productCount" : 5,
+    "slug" : "xmas-soaps",
+    "visible" : false,
+    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "100",
@@ -271,5 +280,25 @@
     "iconMediaId" : 1057,
     "name" : "value.value2.name"
   } ],
-  "variants" : [ ]
+  "variants" : [ {
+    "color" : null,
+    "id" : 1686,
+    "language" : null,
+    "matchcode" : "BSR-LE-CP",
+    "name" : null,
+    "size" : 1,
+    "slug" : "fresh-soap-chai-scrub",
+    "type" : 2,
+    "unit" : 5
+  }, {
+    "color" : null,
+    "id" : 1687,
+    "language" : null,
+    "matchcode" : "BSR-LE-CP-10",
+    "name" : null,
+    "size" : 10,
+    "slug" : "fresh-soap-chai-scrub-set-of-10",
+    "type" : 2,
+    "unit" : 5
+  } ]
 }
