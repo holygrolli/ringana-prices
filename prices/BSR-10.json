@@ -85,15 +85,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 196,
+        "brutto" : 156.8,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 24.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 19.6,
+        "bruttoWithoutDiscount" : 24.5,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-10-16T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -101,13 +101,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 13.7
+        "provisionPoints" : 9.86
       },
       "partner" : {
-        "brutto" : 24.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 19.6,
+        "bruttoWithoutDiscount" : 24.5,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-10-16T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -115,7 +115,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 13.7
+        "provisionPoints" : 9.86
       }
     },
     "purchasePossible" : true,
@@ -347,6 +347,15 @@
     "lineHeight" : 1,
     "position" : "top-right",
     "text" : "from 20.10.",
+    "textColor" : "#ffffff"
+  }, {
+    "backgroundColor" : "#000000",
+    "borderColor" : "#000000",
+    "fontSize" : 12,
+    "id" : 100,
+    "lineHeight" : 1,
+    "position" : "top-right",
+    "text" : "Set of 10",
     "textColor" : "#ffffff"
   } ],
   "title" : "FRESH soap, Set of 10",
