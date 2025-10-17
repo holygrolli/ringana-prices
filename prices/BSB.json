@@ -42,7 +42,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 52,
+    "productCount" : 51,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -60,7 +60,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 47,
+    "productCount" : 46,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -144,15 +144,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 268,
+        "brutto" : 134,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 33.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 16.75,
+        "bruttoWithoutDiscount" : 33.5,
+        "discountPercentage" : 50,
+        "discountUntil" : "2025-10-22T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -160,13 +160,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 19.2
+        "provisionPoints" : 8.64
       },
       "partner" : {
-        "brutto" : 33.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 16.75,
+        "bruttoWithoutDiscount" : 33.5,
+        "discountPercentage" : 50,
+        "discountUntil" : "2025-10-22T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -174,10 +174,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 19.2
+        "provisionPoints" : 8.64
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-after-sun",
     "title" : "FRESH after sun & tan booster",
     "unitContents" : "ml"

@@ -33,7 +33,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
-    "productCount" : 31,
+    "productCount" : 30,
     "slug" : "face",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -69,7 +69,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
-    "productCount" : 36,
+    "productCount" : 35,
     "slug" : "facial-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -132,7 +132,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
-    "productCount" : 36,
+    "productCount" : 35,
     "slug" : "hydrating",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -141,7 +141,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 52,
+    "productCount" : 51,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -150,7 +150,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 47,
+    "productCount" : 46,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -309,15 +309,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 2586.6,
+        "brutto" : 3233.3,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 38.8,
-        "bruttoWithoutDiscount" : 48.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-10-16T21:59:59Z",
+        "brutto" : 48.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -325,13 +325,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 19.8
+        "provisionPoints" : 27.5
       },
       "partner" : {
-        "brutto" : 38.8,
-        "bruttoWithoutDiscount" : 48.5,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-10-16T21:59:59Z",
+        "brutto" : 48.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -339,7 +339,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 19.8
+        "provisionPoints" : 27.5
       }
     },
     "purchasePossible" : true,

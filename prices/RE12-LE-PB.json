@@ -188,6 +188,12 @@
     "id" : 1168,
     "mediaId" : 1528,
     "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 6632,
+    "mediaId" : 10075,
+    "mediaType" : "image"
   } ],
   "nemBackgroundColor" : null,
   "press" : null,
@@ -304,5 +310,25 @@
     "iconMediaId" : 1065,
     "name" : "value.value10.name"
   } ],
-  "variants" : [ ]
+  "variants" : [ {
+    "color" : null,
+    "id" : 1882,
+    "language" : null,
+    "matchcode" : "RE12-LE-PB",
+    "name" : null,
+    "size" : 360,
+    "slug" : "ringanachi-punch",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 1883,
+    "language" : null,
+    "matchcode" : "RE24-LE-PB",
+    "name" : null,
+    "size" : 720,
+    "slug" : "ringanachi-punch-set",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }
