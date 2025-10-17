@@ -86,8 +86,8 @@
   "contentsAmount" : "10",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 9349,
   "discountDate" : null,
@@ -139,7 +139,7 @@
         "provisionPoints" : 8.6
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-tinted-balm-rosewood",
     "title" : "FRESH tinted balm lip & cheek rosewood",
     "unitContents" : "ml"
@@ -270,7 +270,7 @@
       "provisionPoints" : 8.2
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -285,7 +285,7 @@
     "text" : "product.FLB.socialMedia.text",
     "title" : "product.FLB.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "lip balm",
   "tabs" : [ {
     "anchorName" : "",
@@ -368,16 +368,6 @@
     "name" : "rosewood",
     "size" : null,
     "slug" : "fresh-tinted-balm-rosewood",
-    "type" : 1,
-    "unit" : null
-  }, {
-    "color" : "#c99da4",
-    "id" : 2773,
-    "language" : null,
-    "matchcode" : "FLB-P",
-    "name" : "plump",
-    "size" : null,
-    "slug" : "fresh-lip-balm-plump",
     "type" : 1,
     "unit" : null
   } ]

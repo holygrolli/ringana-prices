@@ -140,7 +140,7 @@
         "provisionPoints" : 8.2
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-lip-balm-classic",
     "title" : "FRESH lip balm classic",
     "unitContents" : "ml"
@@ -187,7 +187,7 @@
         "provisionPoints" : 8.6
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-tinted-balm-rosewood",
     "title" : "FRESH tinted balm lip & cheek rosewood",
     "unitContents" : "ml"

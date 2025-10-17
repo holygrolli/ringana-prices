@@ -81,8 +81,8 @@
   "contentsAmount" : "10",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 9877,
   "discountDate" : null,
@@ -134,7 +134,7 @@
         "provisionPoints" : 8.2
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-lip-balm-classic",
     "title" : "FRESH lip balm classic",
     "unitContents" : "ml"
@@ -312,7 +312,7 @@
       "provisionPoints" : 8.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -327,7 +327,7 @@
     "text" : "product.FLB-RW.socialMedia.text",
     "title" : "product.FLB-RW.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "rosewood",
   "tabs" : [ {
     "anchorName" : "",
@@ -404,16 +404,6 @@
     "name" : "classic",
     "size" : null,
     "slug" : "fresh-lip-balm-classic",
-    "type" : 1,
-    "unit" : null
-  }, {
-    "color" : "#c99da4",
-    "id" : 2774,
-    "language" : null,
-    "matchcode" : "FLB-P",
-    "name" : "plump",
-    "size" : null,
-    "slug" : "fresh-lip-balm-plump",
     "type" : 1,
     "unit" : null
   } ]
