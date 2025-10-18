@@ -95,8 +95,8 @@
   "contentsAmount" : "125",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 7481,
   "discountDate" : null,
@@ -294,15 +294,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 134,
+      "brutto" : 268,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 16.75,
-      "bruttoWithoutDiscount" : 33.5,
-      "discountPercentage" : 50,
-      "discountUntil" : "2025-10-22T21:59:59Z",
+      "brutto" : 33.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -310,13 +310,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 8.64
+      "provisionPoints" : 19.2
     },
     "partner" : {
-      "brutto" : 16.75,
-      "bruttoWithoutDiscount" : 33.5,
-      "discountPercentage" : 50,
-      "discountUntil" : "2025-10-22T21:59:59Z",
+      "brutto" : 33.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -324,10 +324,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 8.64
+      "provisionPoints" : 19.2
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -342,7 +342,7 @@
     "text" : "product.SBA.socialMedia.text",
     "title" : "product.SBA.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "after sun",
   "tabs" : [ {
     "anchorName" : "",
@@ -375,16 +375,7 @@
     "showPrintButton" : false,
     "title" : "product.SBA.tabs2073.title"
   } ],
-  "teaserDots" : [ {
-    "backgroundColor" : "#000000",
-    "borderColor" : "#000000",
-    "fontSize" : 9,
-    "id" : 628,
-    "lineHeight" : 0.85,
-    "position" : "top-right",
-    "text" : "best before date 01.2026",
-    "textColor" : "#ffffff"
-  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH after sun & tan booster",
   "unit" : "Stk.",
   "unitContents" : "ml",
