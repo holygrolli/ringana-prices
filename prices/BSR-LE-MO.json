@@ -256,15 +256,6 @@
     "position" : "top-right",
     "text" : "LIMITED EDITION",
     "textColor" : "#ffffff"
-  }, {
-    "backgroundColor" : "#035f30",
-    "borderColor" : "#035f30",
-    "fontSize" : 12,
-    "id" : 331,
-    "lineHeight" : 1,
-    "position" : "top-right",
-    "text" : "from 20.10.",
-    "textColor" : "#ffffff"
   } ],
   "title" : "FRESH soap mandarine & orange",
   "unit" : "Stk.",
