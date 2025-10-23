@@ -87,22 +87,22 @@
     "visibleCountries" : [ ]
   } ],
   "contentBlock" : {
-    "buttonLink" : null,
-    "buttonText" : null,
+    "buttonLink" : "product.RAE.contentBlock.buttonLink",
+    "buttonText" : "product.RAE.contentBlock.buttonText",
     "contentBlockItems" : [ {
-      "description" : null,
+      "description" : "product.RAE.contentBlockItem1761205860992.description",
       "id" : 67,
-      "link" : null,
+      "link" : "product.RAE.contentBlockItem1761205860992.link",
       "text" : "product.RAE.contentBlockItem0.text"
     }, {
-      "description" : null,
+      "description" : "product.RAE.contentBlockItem1761205860993.description",
       "id" : 68,
-      "link" : null,
+      "link" : "product.RAE.contentBlockItem1761205860993.link",
       "text" : "product.RAE.contentBlockItem1.text"
     }, {
-      "description" : null,
+      "description" : "product.RAE.contentBlockItem1761205860994.description",
       "id" : 69,
-      "link" : null,
+      "link" : "product.RAE.contentBlockItem1761205860994.link",
       "text" : "product.RAE.contentBlockItem2.text"
     } ],
     "id" : 67,
@@ -369,35 +369,35 @@
   "soldOut" : false,
   "supplementDescription" : "ADDS effect",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RAE.tabs3428.description",
     "id" : 3428,
     "showPrintButton" : false,
     "title" : "product.RAE.tabs3428.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RAE.tabs3429.description",
     "id" : 3429,
     "showPrintButton" : true,
     "title" : "product.RAE.tabs3429.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RAE.tabs3430.description",
     "id" : 3430,
     "showPrintButton" : false,
     "title" : "product.RAE.tabs3430.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RAE.tabs3431.description",
     "id" : 3431,
     "showPrintButton" : false,
     "title" : "product.RAE.tabs3431.title"
   }, {
-    "anchorName" : null,
-    "description" : "product.RAE.tabs3451.description",
-    "id" : 3451,
+    "anchorName" : "",
+    "description" : "product.RAE.tabs1761208894164.description",
+    "id" : 5656,
     "showPrintButton" : false,
-    "title" : "product.RAE.tabs3451.title"
+    "title" : "product.RAE.tabs1761208894164.title"
   } ],
   "teaserDots" : [ ],
   "title" : "ADDS effect",
