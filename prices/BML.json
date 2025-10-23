@@ -316,7 +316,7 @@
   "slug" : "fresh-body-milk-light",
   "socialMedia" : {
     "id" : 4293,
-    "imageId" : null,
+    "imageId" : 9317,
     "text" : "product.BML.socialMedia.text",
     "title" : "product.BML.socialMedia.title"
   },
@@ -347,7 +347,7 @@
     "showPrintButton" : false,
     "title" : "product.BML.tabs1757936310547.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BML.tabs1758637481325.description",
     "id" : 5316,
     "showPrintButton" : false,

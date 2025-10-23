@@ -81,7 +81,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category430.name",
     "primary" : false,
-    "productCount" : 5,
+    "productCount" : 4,
     "slug" : "timeless-beauty",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -317,8 +317,8 @@
   "mediaGallery" : [ {
     "caption" : null,
     "captionLink" : null,
-    "id" : 3497,
-    "mediaId" : 8036,
+    "id" : 6701,
+    "mediaId" : 10210,
     "mediaType" : "image"
   }, {
     "caption" : null,

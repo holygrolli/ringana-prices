@@ -194,7 +194,7 @@
     "contentsAmount" : "30",
     "currency" : "eur",
     "description" : "perfection",
-    "imageId" : 8036,
+    "imageId" : 10210,
     "matchcode" : "FLN",
     "priceInformation" : {
       "base" : {
@@ -387,31 +387,31 @@
   "soldOut" : false,
   "supplementDescription" : "eye serum",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BAS.tabs0.description",
     "id" : 535,
     "showPrintButton" : false,
     "title" : "product.BAS.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BAS.tabs1.description",
     "id" : 536,
     "showPrintButton" : true,
     "title" : "product.BAS.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BAS.tabs2.description",
     "id" : 537,
     "showPrintButton" : false,
     "title" : "product.BAS.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BAS.tabs3.description",
     "id" : 538,
     "showPrintButton" : false,
     "title" : "product.BAS.tabs3.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BAS.tabs1961.description",
     "id" : 1961,
     "showPrintButton" : false,
