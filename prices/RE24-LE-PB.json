@@ -26,8 +26,8 @@
   "contentsAmount" : "720",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -227,7 +227,7 @@
       "provisionPoints" : 46.2
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -309,6 +309,16 @@
     "name" : "value.value10.name"
   } ],
   "variants" : [ {
+    "color" : null,
+    "id" : 925,
+    "language" : null,
+    "matchcode" : "RE24-LE-PB",
+    "name" : null,
+    "size" : 720,
+    "slug" : "ringanachi-punch-set",
+    "type" : 2,
+    "unit" : 6
+  }, {
     "color" : null,
     "id" : 926,
     "language" : null,
