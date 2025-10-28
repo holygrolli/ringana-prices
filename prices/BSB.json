@@ -280,7 +280,7 @@
       "brutto" : 24.4,
       "bruttoWithoutDiscount" : 48.8,
       "discountPercentage" : 50,
-      "discountUntil" : "2025-10-30T22:59:59Z",
+      "discountUntil" : "2025-11-14T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -294,7 +294,7 @@
       "brutto" : 24.4,
       "bruttoWithoutDiscount" : 48.8,
       "discountPercentage" : 50,
-      "discountUntil" : "2025-10-30T22:59:59Z",
+      "discountUntil" : "2025-11-14T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -373,25 +373,5 @@
     "iconMediaId" : 1104,
     "name" : "value.value49.name"
   } ],
-  "variants" : [ {
-    "color" : null,
-    "id" : 2049,
-    "language" : null,
-    "matchcode" : "BSB",
-    "name" : null,
-    "size" : 200,
-    "slug" : "fresh-sunscreen-spf-25",
-    "type" : 2,
-    "unit" : 6
-  }, {
-    "color" : null,
-    "id" : 2050,
-    "language" : null,
-    "matchcode" : "T-BSB",
-    "name" : null,
-    "size" : 50,
-    "slug" : "",
-    "type" : 2,
-    "unit" : 6
-  } ]
+  "variants" : [ ]
 }
