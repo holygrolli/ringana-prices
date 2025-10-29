@@ -7,25 +7,25 @@
     "link" : "",
     "name" : "UVB-protection"
   }, {
+    "id" : 84,
+    "imageId" : 1044,
+    "link" : "https://skin.li/92pfv74u",
+    "name" : "cosmeticsanalysis.com - FRESH sunscreen face"
+  }, {
+    "id" : 3,
+    "imageId" : 1045,
+    "link" : "https://www.cosmos-standard.org/",
+    "name" : "COSMOS Natural"
+  }, {
     "id" : 12,
     "imageId" : 2223,
     "link" : "",
     "name" : "UVA-protection"
   }, {
-    "id" : 4,
-    "imageId" : 1046,
-    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
-    "name" : "COSMOS Organic"
-  }, {
     "id" : 1,
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
-  }, {
-    "id" : 84,
-    "imageId" : 1044,
-    "link" : "https://skin.li/92pfv74u",
-    "name" : "cosmeticsanalysis.com - FRESH sunscreen face"
   } ],
   "blogPostIds" : [ 190187 ],
   "categories" : [ {
