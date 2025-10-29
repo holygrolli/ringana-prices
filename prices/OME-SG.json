@@ -37,6 +37,7 @@
   "contentBlock" : {
     "buttonLink" : "product.OME-SG.contentBlock.buttonLink",
     "buttonText" : "product.OME-SG.contentBlock.buttonText",
+    "contentBlockButtonTypes" : [ ],
     "contentBlockItems" : [ {
       "description" : null,
       "id" : 1,
