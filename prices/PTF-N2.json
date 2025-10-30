@@ -97,6 +97,7 @@
   "contentBlock" : {
     "buttonLink" : "product.PTF-N2.contentBlock.buttonLink",
     "buttonText" : "product.PTF-N2.contentBlock.buttonText",
+    "contentBlockButtonTypes" : [ ],
     "contentBlockItems" : [ {
       "description" : "product.PTF-N2.contentBlockItem0.description",
       "id" : 235,
