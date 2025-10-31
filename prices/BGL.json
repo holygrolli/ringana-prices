@@ -180,15 +180,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 2597.3,
+        "brutto" : 3246.6,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 38.96,
-        "bruttoWithoutDiscount" : 48.7,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-11-04T22:59:59Z",
+        "brutto" : 48.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -196,13 +196,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 21.31
+        "provisionPoints" : 29.6
       },
       "partner" : {
-        "brutto" : 38.96,
-        "bruttoWithoutDiscount" : 48.7,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-11-04T22:59:59Z",
+        "brutto" : 48.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -210,10 +210,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 21.31
+        "provisionPoints" : 29.6
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-adds-repair",
     "title" : "ADDS repair",
     "unitContents" : "ml"

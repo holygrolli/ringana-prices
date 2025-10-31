@@ -166,6 +166,12 @@
     "id" : 6633,
     "mediaId" : 10076,
     "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 6809,
+    "mediaId" : 10376,
+    "mediaType" : "video"
   } ],
   "nemBackgroundColor" : null,
   "press" : null,
