@@ -33,7 +33,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
-    "productCount" : 30,
+    "productCount" : 29,
     "slug" : "face",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -96,7 +96,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 46,
+    "productCount" : 45,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -396,7 +396,7 @@
       "brutto" : 39.76,
       "bruttoWithoutDiscount" : 49.7,
       "discountPercentage" : 20,
-      "discountUntil" : "2025-11-03T22:59:59Z",
+      "discountUntil" : "2025-11-05T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -410,7 +410,7 @@
       "brutto" : 39.76,
       "bruttoWithoutDiscount" : 49.7,
       "discountPercentage" : 20,
-      "discountUntil" : "2025-11-03T22:59:59Z",
+      "discountUntil" : "2025-11-05T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
