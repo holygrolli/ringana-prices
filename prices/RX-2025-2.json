@@ -26,8 +26,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -197,12 +197,6 @@
     "id" : 6635,
     "mediaId" : 10079,
     "mediaType" : "image"
-  }, {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 6805,
-    "mediaId" : 10375,
-    "mediaType" : "video"
   } ],
   "nemBackgroundColor" : null,
   "press" : null,
@@ -242,7 +236,7 @@
       "provisionPoints" : 20.2
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -312,15 +306,6 @@
     "lineHeight" : 1,
     "position" : "top-right",
     "text" : "LIMITED EDITION",
-    "textColor" : "#ffffff"
-  }, {
-    "backgroundColor" : "#035f30",
-    "borderColor" : "#035f30",
-    "fontSize" : 12,
-    "id" : 333,
-    "lineHeight" : 1,
-    "position" : "top-right",
-    "text" : "from 03.11.",
     "textColor" : "#ffffff"
   } ],
   "title" : "FRESH body care x-mas set",
