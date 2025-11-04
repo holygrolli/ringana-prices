@@ -158,6 +158,7 @@
   "contentBlock" : {
     "buttonLink" : "product.BTF-N3.contentBlock.buttonLink",
     "buttonText" : "product.BTF-N3.contentBlock.buttonText",
+    "contentBlockButtonTypes" : [ ],
     "contentBlockItems" : [ {
       "description" : "product.BTF-N3.contentBlockItem0.description",
       "id" : 205,

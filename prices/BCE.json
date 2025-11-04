@@ -121,10 +121,6 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ {
-    "answer" : "product.BCE.faqs0.answer",
-    "id" : 1144,
-    "question" : "product.BCE.faqs0.question"
-  }, {
     "answer" : "product.BCE.faqs1.answer",
     "id" : 1145,
     "question" : "product.BCE.faqs1.question"
@@ -136,6 +132,10 @@
     "answer" : "product.BCE.faqs3.answer",
     "id" : 1147,
     "question" : "product.BCE.faqs3.question"
+  }, {
+    "answer" : "product.BCE.faqs0.answer",
+    "id" : 1144,
+    "question" : "product.BCE.faqs0.question"
   } ],
   "firstHeadline" : "product.BCE.firstHeadline",
   "id" : 2941,

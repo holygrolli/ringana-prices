@@ -89,6 +89,7 @@
   "contentBlock" : {
     "buttonLink" : "product.RAE.contentBlock.buttonLink",
     "buttonText" : "product.RAE.contentBlock.buttonText",
+    "contentBlockButtonTypes" : [ ],
     "contentBlockItems" : [ {
       "description" : "product.RAE.contentBlockItem1761205860992.description",
       "id" : 67,
