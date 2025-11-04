@@ -13,7 +13,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category20.name",
     "primary" : true,
-    "productCount" : 5,
+    "productCount" : 4,
     "slug" : "manadental",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -22,7 +22,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category89.name",
     "primary" : false,
-    "productCount" : 9,
+    "productCount" : 8,
     "slug" : "oral-hygiene",
     "visible" : true,
     "visibleCountries" : [ ]

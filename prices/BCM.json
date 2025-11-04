@@ -112,6 +112,7 @@
   "contentBlock" : {
     "buttonLink" : null,
     "buttonText" : null,
+    "contentBlockButtonTypes" : [ ],
     "contentBlockItems" : [ {
       "description" : null,
       "id" : 265,
