@@ -42,6 +42,7 @@
   "contentBlock" : {
     "buttonLink" : null,
     "buttonText" : null,
+    "contentBlockButtonTypes" : [ ],
     "contentBlockItems" : [ {
       "description" : null,
       "id" : 133,
@@ -283,31 +284,31 @@
   "soldOut" : false,
   "supplementDescription" : "SPORT endurance",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.SEN.tabs3874.description",
     "id" : 3874,
     "showPrintButton" : false,
     "title" : "product.SEN.tabs3874.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.SEN.tabs3875.description",
     "id" : 3875,
     "showPrintButton" : true,
     "title" : "product.SEN.tabs3875.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.SEN.tabs3876.description",
     "id" : 3876,
     "showPrintButton" : false,
     "title" : "product.SEN.tabs3876.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.SEN.tabs3877.description",
     "id" : 3877,
     "showPrintButton" : false,
     "title" : "product.SEN.tabs3877.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.SEN.tabs4068.description",
     "id" : 4068,
     "showPrintButton" : false,

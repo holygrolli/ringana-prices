@@ -237,25 +237,25 @@
   "soldOut" : false,
   "supplementDescription" : "pack antiox",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.WPA.tabs0.description",
     "id" : 244,
     "showPrintButton" : false,
     "title" : "product.WPA.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.WPA.tabs1.description",
     "id" : 245,
     "showPrintButton" : true,
     "title" : "product.WPA.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.WPA.tabs2.description",
     "id" : 246,
     "showPrintButton" : false,
     "title" : "product.WPA.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.WPA.tabs3.description",
     "id" : 247,
     "showPrintButton" : false,
