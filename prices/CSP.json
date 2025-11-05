@@ -282,25 +282,25 @@
   "soldOut" : false,
   "supplementDescription" : "spermidine",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CSP.tabs0.description",
     "id" : 372,
     "showPrintButton" : false,
     "title" : "product.CSP.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CSP.tabs1.description",
     "id" : 373,
     "showPrintButton" : true,
     "title" : "product.CSP.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CSP.tabs2.description",
     "id" : 374,
     "showPrintButton" : false,
     "title" : "product.CSP.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CSP.tabs3.description",
     "id" : 375,
     "showPrintButton" : false,

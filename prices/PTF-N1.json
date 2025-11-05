@@ -35,7 +35,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
-    "productCount" : 35,
+    "productCount" : 34,
     "slug" : "facial-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -44,7 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
-    "productCount" : 25,
+    "productCount" : 24,
     "slug" : "combination-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -53,7 +53,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category85.name",
     "primary" : false,
-    "productCount" : 18,
+    "productCount" : 17,
     "slug" : "sensitive-reddened-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -62,7 +62,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category84.name",
     "primary" : false,
-    "productCount" : 18,
+    "productCount" : 17,
     "slug" : "impure-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -71,7 +71,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category83.name",
     "primary" : false,
-    "productCount" : 20,
+    "productCount" : 19,
     "slug" : "oily-skin",
     "visible" : true,
     "visibleCountries" : [ ]

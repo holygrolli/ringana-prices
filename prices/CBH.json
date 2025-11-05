@@ -29,7 +29,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
-    "productCount" : 35,
+    "productCount" : 34,
     "slug" : "facial-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -47,7 +47,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category76.name",
     "primary" : false,
-    "productCount" : 13,
+    "productCount" : 12,
     "slug" : "toning",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -136,7 +136,7 @@
         "provisionPoints" : 29.6
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-adds-repair",
     "title" : "ADDS repair",
     "unitContents" : "ml"
@@ -320,25 +320,25 @@
   "soldOut" : false,
   "supplementDescription" : "beauty & hair",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CBH.tabs0.description",
     "id" : 368,
     "showPrintButton" : false,
     "title" : "product.CBH.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CBH.tabs1.description",
     "id" : 369,
     "showPrintButton" : true,
     "title" : "product.CBH.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CBH.tabs2.description",
     "id" : 370,
     "showPrintButton" : false,
     "title" : "product.CBH.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CBH.tabs3.description",
     "id" : 371,
     "showPrintButton" : false,

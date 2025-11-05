@@ -287,25 +287,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS moodoo",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CMO.tabs0.description",
     "id" : 320,
     "showPrintButton" : false,
     "title" : "product.CMO.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CMO.tabs1.description",
     "id" : 321,
     "showPrintButton" : true,
     "title" : "product.CMO.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CMO.tabs2.description",
     "id" : 322,
     "showPrintButton" : false,
     "title" : "product.CMO.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CMO.tabs3.description",
     "id" : 323,
     "showPrintButton" : false,

@@ -23,7 +23,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
-    "productCount" : 29,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -32,7 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 51,
+    "productCount" : 50,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -41,7 +41,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 45,
+    "productCount" : 44,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -59,7 +59,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
-    "productCount" : 35,
+    "productCount" : 34,
     "slug" : "facial-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -68,7 +68,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
-    "productCount" : 25,
+    "productCount" : 24,
     "slug" : "combination-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -77,7 +77,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category85.name",
     "primary" : false,
-    "productCount" : 18,
+    "productCount" : 17,
     "slug" : "sensitive-reddened-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -213,7 +213,7 @@
         "provisionPoints" : 29.6
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-adds-repair",
     "title" : "ADDS repair",
     "unitContents" : "ml"

@@ -76,53 +76,6 @@
     "unitContents" : null
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "5",
-    "currency" : "eur",
-    "description" : "lip balm",
-    "imageId" : 1159,
-    "matchcode" : "BLB",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 2420,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 12.1,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 7
-      },
-      "partner" : {
-        "brutto" : 12.1,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 7
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "fresh-lip-balm",
-    "title" : "FRESH lip balm",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
     "contentsAmount" : "15",
     "currency" : "eur",
     "description" : "eye serum",
@@ -167,6 +120,53 @@
     "purchasePossible" : true,
     "slug" : "fresh-eye-serum",
     "title" : "FRESH eye serum",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "10",
+    "currency" : "eur",
+    "description" : "lip balm",
+    "imageId" : 9219,
+    "matchcode" : "FLB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 1420,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 14.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 8.2
+      },
+      "partner" : {
+        "brutto" : 14.2,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 8.2
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-lip-balm-classic",
+    "title" : "FRESH lip balm classic",
     "unitContents" : "ml"
   } ],
   "infoColor" : null,
