@@ -23,7 +23,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
-    "productCount" : 28,
+    "productCount" : 29,
     "slug" : "face",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -32,7 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 50,
+    "productCount" : 51,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -41,7 +41,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
-    "productCount" : 24,
+    "productCount" : 25,
     "slug" : "combination-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -50,7 +50,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category85.name",
     "primary" : false,
-    "productCount" : 17,
+    "productCount" : 18,
     "slug" : "sensitive-reddened-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -59,7 +59,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category84.name",
     "primary" : false,
-    "productCount" : 17,
+    "productCount" : 18,
     "slug" : "impure-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -68,7 +68,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category83.name",
     "primary" : false,
-    "productCount" : 19,
+    "productCount" : 20,
     "slug" : "oily-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -86,7 +86,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category76.name",
     "primary" : false,
-    "productCount" : 12,
+    "productCount" : 13,
     "slug" : "toning",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -262,15 +262,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1943.3,
+        "brutto" : 1554.6,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 58.3,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 46.64,
+        "bruttoWithoutDiscount" : 58.3,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-11-06T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -278,13 +278,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32.8
+        "provisionPoints" : 23.62
       },
       "partner" : {
-        "brutto" : 58.3,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 46.64,
+        "bruttoWithoutDiscount" : 58.3,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-11-06T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -292,7 +292,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32.8
+        "provisionPoints" : 23.62
       }
     },
     "purchasePossible" : true,

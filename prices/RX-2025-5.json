@@ -26,8 +26,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -98,7 +98,7 @@
       "provisionPoints" : 28.8
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -151,15 +151,6 @@
     "lineHeight" : 1,
     "position" : "top-right",
     "text" : "LIMITED EDITION",
-    "textColor" : "#ffffff"
-  }, {
-    "backgroundColor" : "#035f30",
-    "borderColor" : "#035f30",
-    "fontSize" : 12,
-    "id" : 334,
-    "lineHeight" : 1,
-    "position" : "top-right",
-    "text" : "from 06.11.",
     "textColor" : "#ffffff"
   } ],
   "title" : "FRESH tint & blend N1 x-mas set",

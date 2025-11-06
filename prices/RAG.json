@@ -18,7 +18,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
-    "productCount" : 28,
+    "productCount" : 29,
     "slug" : "face",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -27,7 +27,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 44,
+    "productCount" : 45,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -36,7 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
-    "productCount" : 34,
+    "productCount" : 35,
     "slug" : "facial-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -45,7 +45,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
-    "productCount" : 24,
+    "productCount" : 25,
     "slug" : "combination-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -54,7 +54,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category83.name",
     "primary" : false,
-    "productCount" : 19,
+    "productCount" : 20,
     "slug" : "oily-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -90,7 +90,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 50,
+    "productCount" : 51,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -246,15 +246,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1943.3,
+        "brutto" : 1554.6,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 58.3,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 46.64,
+        "bruttoWithoutDiscount" : 58.3,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-11-06T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -262,13 +262,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32.8
+        "provisionPoints" : 23.62
       },
       "partner" : {
-        "brutto" : 58.3,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 46.64,
+        "bruttoWithoutDiscount" : 58.3,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-11-06T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -276,7 +276,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32.8
+        "provisionPoints" : 23.62
       }
     },
     "purchasePossible" : true,
@@ -316,7 +316,7 @@
     "caption" : "",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts/",
     "id" : 2840,
-    "mediaId" : 5429,
+    "mediaId" : 10474,
     "mediaType" : "image"
   } ],
   "nemBackgroundColor" : null,

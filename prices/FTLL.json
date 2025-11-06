@@ -284,25 +284,25 @@
   "soldOut" : false,
   "supplementDescription" : "mana liquid",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FTLL.tabs0.description",
     "id" : 813,
     "showPrintButton" : false,
     "title" : "product.FTLL.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FTLL.tabs1.description",
     "id" : 814,
     "showPrintButton" : false,
     "title" : "product.FTLL.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FTLL.tabs2.description",
     "id" : 815,
     "showPrintButton" : false,
     "title" : "product.FTLL.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FTLL.tabs3.description",
     "id" : 816,
     "showPrintButton" : false,

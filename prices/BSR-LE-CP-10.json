@@ -228,25 +228,25 @@
   "soldOut" : false,
   "supplementDescription" : "chai & scrub",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BSR-LE-CP-10.tabs2620.description",
     "id" : 2620,
     "showPrintButton" : false,
     "title" : "product.BSR-LE-CP-10.tabs2620.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BSR-LE-CP-10.tabs2621.description",
     "id" : 2621,
     "showPrintButton" : false,
     "title" : "product.BSR-LE-CP-10.tabs2621.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BSR-LE-CP-10.tabs2622.description",
     "id" : 2622,
     "showPrintButton" : false,
     "title" : "product.BSR-LE-CP-10.tabs2622.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BSR-LE-CP-10.tabs2623.description",
     "id" : 2623,
     "showPrintButton" : false,

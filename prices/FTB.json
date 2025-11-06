@@ -23,7 +23,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
-    "productCount" : 28,
+    "productCount" : 29,
     "slug" : "face",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -32,7 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 50,
+    "productCount" : 51,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -41,7 +41,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 44,
+    "productCount" : 45,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -302,31 +302,31 @@
   "soldOut" : false,
   "supplementDescription" : "tooth balm",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FTB.tabs0.description",
     "id" : 639,
     "showPrintButton" : false,
     "title" : "product.FTB.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FTB.tabs1.description",
     "id" : 640,
     "showPrintButton" : true,
     "title" : "product.FTB.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FTB.tabs2.description",
     "id" : 641,
     "showPrintButton" : false,
     "title" : "product.FTB.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FTB.tabs3.description",
     "id" : 642,
     "showPrintButton" : false,
     "title" : "product.FTB.tabs3.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FTB.tabs2061.description",
     "id" : 2061,
     "showPrintButton" : false,
