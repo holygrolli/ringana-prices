@@ -405,31 +405,31 @@
   "soldOut" : false,
   "supplementDescription" : "cream rich",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BCM.tabs3424.description",
     "id" : 3424,
     "showPrintButton" : false,
     "title" : "product.BCM.tabs3424.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BCM.tabs3425.description",
     "id" : 3425,
     "showPrintButton" : true,
     "title" : "product.BCM.tabs3425.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BCM.tabs3426.description",
     "id" : 3426,
     "showPrintButton" : false,
     "title" : "product.BCM.tabs3426.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BCM.tabs3427.description",
     "id" : 3427,
     "showPrintButton" : false,
     "title" : "product.BCM.tabs3427.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BCM.tabs3480.description",
     "id" : 3480,
     "showPrintButton" : false,

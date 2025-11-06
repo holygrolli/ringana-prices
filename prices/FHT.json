@@ -326,31 +326,31 @@
   "soldOut" : false,
   "supplementDescription" : "hair treatment",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FHT.tabs0.description",
     "id" : 419,
     "showPrintButton" : false,
     "title" : "product.FHT.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FHT.tabs1.description",
     "id" : 420,
     "showPrintButton" : true,
     "title" : "product.FHT.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FHT.tabs2.description",
     "id" : 421,
     "showPrintButton" : false,
     "title" : "product.FHT.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FHT.tabs3.description",
     "id" : 422,
     "showPrintButton" : false,
     "title" : "product.FHT.tabs3.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FHT.tabs3150.description",
     "id" : 3150,
     "showPrintButton" : false,

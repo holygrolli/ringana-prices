@@ -401,31 +401,31 @@
   "soldOut" : false,
   "supplementDescription" : "hydro serum",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BHS.tabs2587.description",
     "id" : 2587,
     "showPrintButton" : false,
     "title" : "product.BHS.tabs2587.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BHS.tabs2588.description",
     "id" : 2588,
     "showPrintButton" : false,
     "title" : "product.BHS.tabs2588.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BHS.tabs2589.description",
     "id" : 2589,
     "showPrintButton" : false,
     "title" : "product.BHS.tabs2589.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BHS.tabs2590.description",
     "id" : 2590,
     "showPrintButton" : false,
     "title" : "product.BHS.tabs2590.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BHS.tabs2591.description",
     "id" : 2591,
     "showPrintButton" : false,

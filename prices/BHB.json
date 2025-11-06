@@ -267,25 +267,25 @@
   "soldOut" : false,
   "supplementDescription" : "hand balm",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BHB.tabs0.description",
     "id" : 463,
     "showPrintButton" : false,
     "title" : "product.BHB.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BHB.tabs1.description",
     "id" : 464,
     "showPrintButton" : true,
     "title" : "product.BHB.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BHB.tabs2.description",
     "id" : 465,
     "showPrintButton" : false,
     "title" : "product.BHB.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BHB.tabs3.description",
     "id" : 466,
     "showPrintButton" : false,
