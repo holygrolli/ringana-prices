@@ -160,5 +160,45 @@
   "unitId" : 43586,
   "usp" : "product.RX-2025-6.usp",
   "values" : [ ],
-  "variants" : [ ]
+  "variants" : [ {
+    "color" : "#c58c69",
+    "id" : 2876,
+    "language" : null,
+    "matchcode" : "RX-2025-6",
+    "name" : "N2",
+    "size" : null,
+    "slug" : "fresh-tint-blend-n2",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#cea887",
+    "id" : 2877,
+    "language" : null,
+    "matchcode" : "RX-2025-5",
+    "name" : "N1",
+    "size" : null,
+    "slug" : "fresh-tint-blend-n1",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#ab6e4a",
+    "id" : 2878,
+    "language" : null,
+    "matchcode" : "RX-2025-7",
+    "name" : "N3",
+    "size" : null,
+    "slug" : "fresh-tint-blend-n3",
+    "type" : 1,
+    "unit" : null
+  }, {
+    "color" : "#986a4d",
+    "id" : 2879,
+    "language" : null,
+    "matchcode" : "RX-2025-8",
+    "name" : "N4",
+    "size" : null,
+    "slug" : "fresh-tint-blend-n4",
+    "type" : 1,
+    "unit" : null
+  } ]
 }

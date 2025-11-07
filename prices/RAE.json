@@ -41,6 +41,15 @@
     "visible" : true,
     "visibleCountries" : [ ]
   }, {
+    "id" : 694,
+    "infoColorNeeded" : false,
+    "name" : "category.category694.name",
+    "primary" : false,
+    "productCount" : 3,
+    "slug" : "adds",
+    "visible" : false,
+    "visibleCountries" : [ ]
+  }, {
     "id" : 86,
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
@@ -87,23 +96,23 @@
     "visibleCountries" : [ ]
   } ],
   "contentBlock" : {
-    "buttonLink" : "product.RAE.contentBlock.buttonLink",
-    "buttonText" : "product.RAE.contentBlock.buttonText",
+    "buttonLink" : null,
+    "buttonText" : null,
     "contentBlockButtonTypes" : [ ],
     "contentBlockItems" : [ {
-      "description" : "product.RAE.contentBlockItem1761205860992.description",
+      "description" : null,
       "id" : 67,
-      "link" : "product.RAE.contentBlockItem1761205860992.link",
+      "link" : null,
       "text" : "product.RAE.contentBlockItem0.text"
     }, {
-      "description" : "product.RAE.contentBlockItem1761205860993.description",
+      "description" : null,
       "id" : 68,
-      "link" : "product.RAE.contentBlockItem1761205860993.link",
+      "link" : null,
       "text" : "product.RAE.contentBlockItem1.text"
     }, {
-      "description" : "product.RAE.contentBlockItem1761205860994.description",
+      "description" : null,
       "id" : 69,
-      "link" : "product.RAE.contentBlockItem1761205860994.link",
+      "link" : null,
       "text" : "product.RAE.contentBlockItem2.text"
     } ],
     "id" : 67,
@@ -182,15 +191,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1554.6,
+        "brutto" : 1943.3,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 46.64,
-        "bruttoWithoutDiscount" : 58.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-11-06T22:59:59Z",
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -198,13 +207,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 23.62
+        "provisionPoints" : 32.8
       },
       "partner" : {
-        "brutto" : 46.64,
-        "bruttoWithoutDiscount" : 58.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-11-06T22:59:59Z",
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -212,7 +221,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 23.62
+        "provisionPoints" : 32.8
       }
     },
     "purchasePossible" : true,

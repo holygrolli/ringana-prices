@@ -2,11 +2,6 @@
   "matchcode" : "RBC",
   "additionalUnitPrice" : null,
   "awards" : [ {
-    "id" : 4,
-    "imageId" : 1046,
-    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
-    "name" : "COSMOS Organic"
-  }, {
     "id" : 1,
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
@@ -16,6 +11,11 @@
     "imageId" : 1044,
     "link" : "https://skin.li/ghl9ia56",
     "name" : "cosmeticsanalysis.com - FRESH baby cream"
+  }, {
+    "id" : 3,
+    "imageId" : 1045,
+    "link" : "https://www.cosmos-standard.org/",
+    "name" : "COSMOS Natural"
   } ],
   "blogPostIds" : [ ],
   "categories" : [ {
@@ -291,25 +291,25 @@
   "soldOut" : false,
   "supplementDescription" : "FRESH baby",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RBC.tabs0.description",
     "id" : 388,
     "showPrintButton" : false,
     "title" : "product.RBC.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RBC.tabs1.description",
     "id" : 390,
     "showPrintButton" : true,
     "title" : "product.RBC.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RBC.tabs2.description",
     "id" : 392,
     "showPrintButton" : false,
     "title" : "product.RBC.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RBC.tabs3.description",
     "id" : 395,
     "showPrintButton" : false,
