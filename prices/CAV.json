@@ -252,25 +252,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS move",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CAV.tabs0.description",
     "id" : 328,
     "showPrintButton" : false,
     "title" : "product.CAV.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CAV.tabs1.description",
     "id" : 329,
     "showPrintButton" : true,
     "title" : "product.CAV.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CAV.tabs2.description",
     "id" : 330,
     "showPrintButton" : false,
     "title" : "product.CAV.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CAV.tabs3.description",
     "id" : 331,
     "showPrintButton" : false,

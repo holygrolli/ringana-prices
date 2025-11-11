@@ -385,24 +385,24 @@
     "name" : "value.value2.name"
   } ],
   "variants" : [ {
-    "color" : null,
-    "id" : 2618,
+    "color" : "#eddcd6",
+    "id" : 2907,
     "language" : null,
     "matchcode" : "BMR",
-    "name" : null,
-    "size" : 200,
+    "name" : "rich",
+    "size" : null,
     "slug" : "fresh-body-milk-rich",
-    "type" : 2,
-    "unit" : 6
+    "type" : 1,
+    "unit" : null
   }, {
-    "color" : null,
-    "id" : 2619,
+    "color" : "#eee6d4",
+    "id" : 2908,
     "language" : null,
-    "matchcode" : "PMR",
-    "name" : null,
-    "size" : 15,
-    "slug" : "fresh-body-milk-rich-sample",
-    "type" : 2,
-    "unit" : 6
+    "matchcode" : "BML",
+    "name" : "light",
+    "size" : null,
+    "slug" : "fresh-body-milk-light",
+    "type" : 1,
+    "unit" : null
   } ]
 }
