@@ -206,6 +206,18 @@
     "id" : 6996,
     "mediaId" : 10604,
     "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 7001,
+    "mediaId" : 10609,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 7002,
+    "mediaId" : 10610,
+    "mediaType" : "video"
   } ],
   "nemBackgroundColor" : null,
   "press" : null,
