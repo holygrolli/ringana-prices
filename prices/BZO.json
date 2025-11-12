@@ -67,7 +67,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.BZO.firstHeadline",
   "id" : 163,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
