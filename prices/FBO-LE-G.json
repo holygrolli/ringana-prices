@@ -13,7 +13,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category2.name",
     "primary" : true,
-    "productCount" : 15,
+    "productCount" : 14,
     "slug" : "body",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -49,7 +49,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 51,
+    "productCount" : 50,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]

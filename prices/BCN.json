@@ -27,7 +27,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 51,
+    "productCount" : 50,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -45,7 +45,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category88.name",
     "primary" : false,
-    "productCount" : 3,
+    "productCount" : 2,
     "slug" : "night-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -54,7 +54,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
-    "productCount" : 22,
+    "productCount" : 21,
     "slug" : "dry-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -63,7 +63,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
     "primary" : false,
-    "productCount" : 26,
+    "productCount" : 25,
     "slug" : "mature-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -72,7 +72,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category75.name",
     "primary" : false,
-    "productCount" : 13,
+    "productCount" : 12,
     "slug" : "lifting",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -81,7 +81,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category74.name",
     "primary" : false,
-    "productCount" : 10,
+    "productCount" : 9,
     "slug" : "better-aging",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -90,7 +90,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 45,
+    "productCount" : 44,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -215,15 +215,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 478.7,
+        "brutto" : 598.4,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 59.84,
-        "bruttoWithoutDiscount" : 74.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-11-20T22:59:59Z",
+        "brutto" : 74.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -231,13 +231,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32.11
+        "provisionPoints" : 44.6
       },
       "partner" : {
-        "brutto" : 59.84,
-        "bruttoWithoutDiscount" : 74.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-11-20T22:59:59Z",
+        "brutto" : 74.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -245,10 +245,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32.11
+        "provisionPoints" : 44.6
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-overnight-body-treatment",
     "title" : "FRESH overnight body treatment",
     "unitContents" : "ml"
@@ -453,25 +453,5 @@
     "iconMediaId" : 1116,
     "name" : "value.value61.name"
   } ],
-  "variants" : [ {
-    "color" : "#edefa3",
-    "id" : 205,
-    "language" : null,
-    "matchcode" : "BBN",
-    "name" : "body",
-    "size" : null,
-    "slug" : "fresh-overnight-body-treatment",
-    "type" : 1,
-    "unit" : null
-  }, {
-    "color" : "#edefa3",
-    "id" : 206,
-    "language" : null,
-    "matchcode" : "BCN",
-    "name" : "face",
-    "size" : null,
-    "slug" : "fresh-overnight-face-treatment",
-    "type" : 1,
-    "unit" : null
-  } ]
+  "variants" : [ ]
 }

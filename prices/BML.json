@@ -23,7 +23,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category93.name",
     "primary" : true,
-    "productCount" : 16,
+    "productCount" : 15,
     "slug" : "body-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -41,7 +41,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 45,
+    "productCount" : 44,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -50,7 +50,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 51,
+    "productCount" : 50,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -194,15 +194,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 478.7,
+        "brutto" : 598.4,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 59.84,
-        "bruttoWithoutDiscount" : 74.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-11-20T22:59:59Z",
+        "brutto" : 74.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -210,13 +210,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32.11
+        "provisionPoints" : 44.6
       },
       "partner" : {
-        "brutto" : 59.84,
-        "bruttoWithoutDiscount" : 74.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-11-20T22:59:59Z",
+        "brutto" : 74.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -224,10 +224,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32.11
+        "provisionPoints" : 44.6
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-overnight-body-treatment",
     "title" : "FRESH overnight body treatment",
     "unitContents" : "ml"

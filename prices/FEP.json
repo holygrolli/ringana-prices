@@ -41,7 +41,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 51,
+    "productCount" : 50,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -50,7 +50,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 45,
+    "productCount" : 44,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -95,7 +95,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
     "primary" : false,
-    "productCount" : 26,
+    "productCount" : 25,
     "slug" : "mature-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -122,7 +122,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category75.name",
     "primary" : false,
-    "productCount" : 13,
+    "productCount" : 12,
     "slug" : "lifting",
     "visible" : true,
     "visibleCountries" : [ ]

@@ -36,7 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category88.name",
     "primary" : false,
-    "productCount" : 3,
+    "productCount" : 2,
     "slug" : "night-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -45,7 +45,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
-    "productCount" : 22,
+    "productCount" : 21,
     "slug" : "dry-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -54,7 +54,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
     "primary" : false,
-    "productCount" : 26,
+    "productCount" : 25,
     "slug" : "mature-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -63,7 +63,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category75.name",
     "primary" : false,
-    "productCount" : 13,
+    "productCount" : 12,
     "slug" : "lifting",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -72,7 +72,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category74.name",
     "primary" : false,
-    "productCount" : 10,
+    "productCount" : 9,
     "slug" : "better-aging",
     "visible" : true,
     "visibleCountries" : [ ]
