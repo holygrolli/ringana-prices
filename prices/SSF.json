@@ -113,6 +113,10 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ {
+    "answer" : "product.SSF.faqs2.answer",
+    "id" : 1276,
+    "question" : "product.SSF.faqs2.question"
+  }, {
     "answer" : "product.SSF.faqs0.answer",
     "id" : 187,
     "question" : "product.SSF.faqs0.question"
@@ -120,10 +124,6 @@
     "answer" : "product.SSF.faqs1.answer",
     "id" : 1275,
     "question" : "product.SSF.faqs1.question"
-  }, {
-    "answer" : "product.SSF.faqs2.answer",
-    "id" : 1276,
-    "question" : "product.SSF.faqs2.question"
   } ],
   "firstHeadline" : "product.SSF.firstHeadline",
   "id" : 132,
