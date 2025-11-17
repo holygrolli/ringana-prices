@@ -22,7 +22,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category628.name",
     "primary" : false,
-    "productCount" : 20,
+    "productCount" : 19,
     "slug" : "limited-xmas-editions",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -31,7 +31,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category497.name",
     "primary" : false,
-    "productCount" : 18,
+    "productCount" : 17,
     "slug" : "specials",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -58,8 +58,8 @@
   "contentsAmount" : "200",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -277,7 +277,7 @@
       "provisionPoints" : 22.4
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -328,21 +328,12 @@
     "position" : "top-right",
     "text" : "LIMITED EDITION",
     "textColor" : "#ffffff"
-  }, {
-    "backgroundColor" : "#035f30",
-    "borderColor" : "#035f30",
-    "fontSize" : 12,
-    "id" : 364,
-    "lineHeight" : 1,
-    "position" : "top-right",
-    "text" : "from 17.11.",
-    "textColor" : "#ffffff"
   } ],
   "title" : "FRESH bath & shower oil zest limited edition ",
-  "unit" : "Pck.",
+  "unit" : "Stk.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : 43589,
+  "unitId" : 996,
   "usp" : "product.FBO-LE-G.usp",
   "values" : [ {
     "iconMediaId" : 1090,

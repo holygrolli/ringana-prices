@@ -8,7 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category497.name",
     "primary" : true,
-    "productCount" : 18,
+    "productCount" : 17,
     "slug" : "specials",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -17,7 +17,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category628.name",
     "primary" : false,
-    "productCount" : 20,
+    "productCount" : 19,
     "slug" : "limited-xmas-editions",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -26,8 +26,8 @@
   "contentsAmount" : "1",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Coming soon",
-  "deliveryStatusId" : 103177,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -98,7 +98,7 @@
       "provisionPoints" : 99.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "product.RB12-CBH-FLN.secondHeadline",
   "setContents" : [ {
@@ -149,15 +149,6 @@
     "lineHeight" : 1,
     "position" : "top-right",
     "text" : "LIMITED EDITION",
-    "textColor" : "#ffffff"
-  }, {
-    "backgroundColor" : "#035f30",
-    "borderColor" : "#035f30",
-    "fontSize" : 12,
-    "id" : 364,
-    "lineHeight" : 1,
-    "position" : "top-right",
-    "text" : "from 17.11.",
     "textColor" : "#ffffff"
   } ],
   "title" : "FRESH timeless beauty x-mas set",

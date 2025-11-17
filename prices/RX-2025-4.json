@@ -8,7 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category497.name",
     "primary" : true,
-    "productCount" : 18,
+    "productCount" : 17,
     "slug" : "specials",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -17,7 +17,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category628.name",
     "primary" : false,
-    "productCount" : 20,
+    "productCount" : 19,
     "slug" : "limited-xmas-editions",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -37,53 +37,6 @@
   "firstHeadline" : "product.RX-2025-4.firstHeadline",
   "id" : 4821,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "125",
-    "currency" : "eur",
-    "description" : "overnight",
-    "imageId" : 592,
-    "matchcode" : "BBN",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 598.4,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 74.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 44.6
-      },
-      "partner" : {
-        "brutto" : 74.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 44.6
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "fresh-overnight-body-treatment",
-    "title" : "FRESH overnight body treatment",
-    "unitContents" : "ml"
-  }, {
     "additionalUnitPrice" : null,
     "contentsAmount" : "125",
     "currency" : "eur",

@@ -156,13 +156,13 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ {
-    "answer" : "product.BCL.faqs0.answer",
-    "id" : 1148,
-    "question" : "product.BCL.faqs0.question"
-  }, {
     "answer" : "product.BCL.faqs1.answer",
     "id" : 1149,
     "question" : "product.BCL.faqs1.question"
+  }, {
+    "answer" : "product.BCL.faqs0.answer",
+    "id" : 1148,
+    "question" : "product.BCL.faqs0.question"
   } ],
   "firstHeadline" : "product.BCL.firstHeadline",
   "id" : 2942,
