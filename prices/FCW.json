@@ -151,6 +151,10 @@
     "posterMediaId" : 771
   },
   "faqs" : [ {
+    "answer" : "product.FCW.faqs1.answer",
+    "id" : 82,
+    "question" : "product.FCW.faqs1.question"
+  }, {
     "answer" : "product.FCW.faqs2.answer",
     "id" : 83,
     "question" : "product.FCW.faqs2.question"
@@ -158,10 +162,6 @@
     "answer" : "product.FCW.faqs3.answer",
     "id" : 84,
     "question" : "product.FCW.faqs3.question"
-  }, {
-    "answer" : "product.FCW.faqs1.answer",
-    "id" : 82,
-    "question" : "product.FCW.faqs1.question"
   } ],
   "firstHeadline" : "product.FCW.firstHeadline",
   "id" : 158,
