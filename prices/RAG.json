@@ -384,31 +384,31 @@
   "soldOut" : false,
   "supplementDescription" : "ADDS glow",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RAG.tabs2521.description",
     "id" : 2521,
     "showPrintButton" : false,
     "title" : "product.RAG.tabs2521.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RAG.tabs2522.description",
     "id" : 2522,
     "showPrintButton" : true,
     "title" : "product.RAG.tabs2522.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RAG.tabs2523.description",
     "id" : 2523,
     "showPrintButton" : false,
     "title" : "product.RAG.tabs2523.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RAG.tabs2524.description",
     "id" : 2524,
     "showPrintButton" : false,
     "title" : "product.RAG.tabs2524.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RAG.tabs2525.description",
     "id" : 2525,
     "showPrintButton" : false,
