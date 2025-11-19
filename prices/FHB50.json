@@ -89,53 +89,6 @@
   "id" : 121,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "5",
-    "currency" : "eur",
-    "description" : "lip balm",
-    "imageId" : 1159,
-    "matchcode" : "BLB",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 2420,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 12.1,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 7
-      },
-      "partner" : {
-        "brutto" : 12.1,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 7
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "fresh-lip-balm",
-    "title" : "FRESH lip balm",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
     "currency" : "eur",
     "description" : "stay fresh",
