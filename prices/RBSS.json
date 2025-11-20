@@ -51,8 +51,8 @@
   "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6322,
   "discountDate" : null,
@@ -245,7 +245,7 @@
       "provisionPoints" : 4.54
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -260,7 +260,7 @@
     "text" : "product.RBSS.socialMedia.text",
     "title" : "product.RBSS.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "fresh baby",
   "tabs" : [ {
     "anchorName" : null,
