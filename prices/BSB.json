@@ -33,7 +33,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category2.name",
     "primary" : true,
-    "productCount" : 14,
+    "productCount" : 13,
     "slug" : "body",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -42,7 +42,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 50,
+    "productCount" : 49,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -69,8 +69,8 @@
   "contentsAmount" : "200",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6350,
   "discountDate" : null,
@@ -305,7 +305,7 @@
       "provisionPoints" : 12.69
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -320,7 +320,7 @@
     "text" : "product.BSB.socialMedia.text",
     "title" : "product.BSB.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "sunscreen",
   "tabs" : [ {
     "anchorName" : null,

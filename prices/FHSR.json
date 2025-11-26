@@ -32,7 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category94.name",
     "primary" : false,
-    "productCount" : 8,
+    "productCount" : 7,
     "slug" : "washing-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -68,7 +68,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 50,
+    "productCount" : 49,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]

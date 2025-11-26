@@ -52,15 +52,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1001.2,
+        "brutto" : 1112.4,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 49.86,
-        "bruttoWithoutDiscount" : 55.4,
-        "discountPercentage" : 10,
-        "discountUntil" : "2025-11-25T22:59:59Z",
+        "brutto" : 55.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -68,13 +68,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 24.79
+        "provisionPoints" : 30.6
       },
       "partner" : {
-        "brutto" : 49.86,
-        "bruttoWithoutDiscount" : 55.4,
-        "discountPercentage" : 10,
-        "discountUntil" : "2025-11-25T22:59:59Z",
+        "brutto" : 55.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -82,7 +82,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 24.79
+        "provisionPoints" : 30.6
       }
     },
     "purchasePossible" : true,
@@ -182,7 +182,7 @@
         "provisionPoints" : 12.69
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-sunscreen-spf-25",
     "title" : "FRESH sunscreen",
     "unitContents" : "ml"
@@ -227,15 +227,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 823.7,
+      "brutto" : 915.2,
       "unit" : "g",
       "unitId" : 812
     },
     "customer" : {
-      "brutto" : 100.08,
-      "bruttoWithoutDiscount" : 111.2,
-      "discountPercentage" : 10,
-      "discountUntil" : "2025-11-25T22:59:59Z",
+      "brutto" : 111.2,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -243,13 +243,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 44.87
+      "provisionPoints" : 55.4
     },
     "partner" : {
-      "brutto" : 100.08,
-      "bruttoWithoutDiscount" : 111.2,
-      "discountPercentage" : 10,
-      "discountUntil" : "2025-11-25T22:59:59Z",
+      "brutto" : 111.2,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -257,7 +257,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 44.87
+      "provisionPoints" : 55.4
     }
   },
   "purchasePossible" : true,
