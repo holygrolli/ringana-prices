@@ -26,8 +26,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -98,7 +98,7 @@
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -108,7 +108,7 @@
   "skinTypes" : [ ],
   "slug" : "scented-candle-zest-cedar",
   "socialMedia" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "candle",
   "tabs" : [ {
     "anchorName" : "",
