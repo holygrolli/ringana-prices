@@ -237,25 +237,25 @@
   "soldOut" : false,
   "supplementDescription" : "FRESH PACKS",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.WP1.tabs0.description",
     "id" : 228,
     "showPrintButton" : false,
     "title" : "product.WP1.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.WP1.tabs1.description",
     "id" : 229,
     "showPrintButton" : true,
     "title" : "product.WP1.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.WP1.tabs2.description",
     "id" : 230,
     "showPrintButton" : false,
     "title" : "product.WP1.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.WP1.tabs3.description",
     "id" : 231,
     "showPrintButton" : false,
