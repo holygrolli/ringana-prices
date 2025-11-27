@@ -408,31 +408,31 @@
   "soldOut" : false,
   "supplementDescription" : "perfection",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FLN.tabs3115.description",
     "id" : 3115,
     "showPrintButton" : false,
     "title" : "product.FLN.tabs3115.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FLN.tabs3116.description",
     "id" : 3116,
     "showPrintButton" : false,
     "title" : "product.FLN.tabs3116.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FLN.tabs3117.description",
     "id" : 3117,
     "showPrintButton" : false,
     "title" : "product.FLN.tabs3117.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FLN.tabs3118.description",
     "id" : 3118,
     "showPrintButton" : false,
     "title" : "product.FLN.tabs3118.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FLN.tabs3248.description",
     "id" : 3248,
     "showPrintButton" : false,
