@@ -69,8 +69,8 @@
   "contentsAmount" : "200",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6350,
   "discountDate" : null,
@@ -305,7 +305,7 @@
       "provisionPoints" : 28.2
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -320,7 +320,7 @@
     "text" : "product.BSB.socialMedia.text",
     "title" : "product.BSB.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "sunscreen",
   "tabs" : [ {
     "anchorName" : null,
