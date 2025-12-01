@@ -17,7 +17,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
-    "productCount" : 33,
+    "productCount" : 34,
     "slug" : "hydrating",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -26,7 +26,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category203.name",
     "primary" : false,
-    "productCount" : 11,
+    "productCount" : 12,
     "slug" : "step-5-moisturising",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -35,7 +35,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
-    "productCount" : 33,
+    "productCount" : 34,
     "slug" : "facial-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -44,7 +44,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
-    "productCount" : 24,
+    "productCount" : 25,
     "slug" : "combination-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -53,7 +53,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category85.name",
     "primary" : false,
-    "productCount" : 17,
+    "productCount" : 18,
     "slug" : "sensitive-reddened-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -62,7 +62,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category84.name",
     "primary" : false,
-    "productCount" : 17,
+    "productCount" : 18,
     "slug" : "impure-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -71,7 +71,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category83.name",
     "primary" : false,
-    "productCount" : 19,
+    "productCount" : 20,
     "slug" : "oily-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -80,7 +80,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category81.name",
     "primary" : false,
-    "productCount" : 24,
+    "productCount" : 25,
     "slug" : "mature-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -89,7 +89,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category80.name",
     "primary" : false,
-    "productCount" : 10,
+    "productCount" : 11,
     "slug" : "anti-pollution",
     "visible" : true,
     "visibleCountries" : [ ]

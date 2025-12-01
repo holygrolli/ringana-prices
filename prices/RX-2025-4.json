@@ -26,8 +26,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -192,7 +192,7 @@
       "provisionPoints" : 23.7
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -215,7 +215,7 @@
     "text" : "product.RX-2025-4.socialMedia.text",
     "title" : "product.RX-2025-4.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "bright eyes",
   "tabs" : [ {
     "anchorName" : "",

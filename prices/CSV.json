@@ -29,7 +29,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category91.name",
     "primary" : false,
-    "productCount" : 8,
+    "productCount" : 9,
     "slug" : "suncare",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -38,7 +38,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category80.name",
     "primary" : false,
-    "productCount" : 10,
+    "productCount" : 11,
     "slug" : "anti-pollution",
     "visible" : true,
     "visibleCountries" : [ ]

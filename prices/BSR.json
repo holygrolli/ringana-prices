@@ -1,23 +1,38 @@
 {
-  "matchcode" : "FLL",
+  "matchcode" : "BSR",
   "additionalUnitPrice" : null,
   "awards" : [ {
-    "id" : 3,
-    "imageId" : 1045,
-    "link" : "https://www.cosmos-standard.org/",
-    "name" : "COSMOS Natural"
+    "id" : 7,
+    "imageId" : 1049,
+    "link" : "https://www.lacon-institut.com/en/philosophy/",
+    "name" : "Lacon"
+  }, {
+    "id" : 11,
+    "imageId" : 1053,
+    "link" : "https://www.umweltzeichen.at/de/produkte/haushalt-reinigung?cert_number=UW+1162",
+    "name" : "Umweltzeichen"
   }, {
     "id" : 1,
     "imageId" : 1043,
     "link" : "https://www.beatthemicrobead.org/zero-products/",
     "name" : "Beat the Microbead"
   }, {
-    "id" : 110,
+    "id" : 5,
+    "imageId" : 1047,
+    "link" : "https://www.umweltzeichen.at/de/ecolabel/living-and-cosmetics?cert_number=AT/030/004",
+    "name" : "EU Ecolabel"
+  }, {
+    "id" : 34,
+    "imageId" : 1826,
+    "link" : "",
+    "name" : "Reusable Materials"
+  }, {
+    "id" : 102,
     "imageId" : 1044,
-    "link" : "https://skin.li/68gywu3m",
-    "name" : "cosmeticsanalysis.com - FRESH light legs"
+    "link" : "https://skin.li/80e6acfc",
+    "name" : "cosmeticsanalysis.com - FRESH soap"
   } ],
-  "blogPostIds" : [ 142093, 142151 ],
+  "blogPostIds" : [ 191456, 155090, 170591 ],
   "categories" : [ {
     "id" : 2,
     "infoColorNeeded" : false,
@@ -46,65 +61,63 @@
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
   }, {
-    "id" : 93,
+    "id" : 94,
     "infoColorNeeded" : false,
-    "name" : "category.category93.name",
+    "name" : "category.category94.name",
     "primary" : false,
-    "productCount" : 15,
-    "slug" : "body-care",
+    "productCount" : 7,
+    "slug" : "washing-care",
+    "visible" : true,
+    "visibleCountries" : [ ]
+  }, {
+    "id" : 87,
+    "infoColorNeeded" : false,
+    "name" : "category.category87.name",
+    "primary" : false,
+    "productCount" : 14,
+    "slug" : "sport-essentials",
+    "visible" : true,
+    "visibleCountries" : [ ]
+  }, {
+    "id" : 78,
+    "infoColorNeeded" : false,
+    "name" : "category.category78.name",
+    "primary" : false,
+    "productCount" : 12,
+    "slug" : "cleansing",
     "visible" : true,
     "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "125",
+  "contentsAmount" : "100",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : 6342,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
-  "faqs" : [ {
-    "answer" : "product.FLL.faqs1.answer",
-    "id" : 66,
-    "question" : "product.FLL.faqs1.question"
-  }, {
-    "answer" : "product.FLL.faqs2.answer",
-    "id" : 67,
-    "question" : "product.FLL.faqs2.question"
-  }, {
-    "answer" : "product.FLL.faqs3.answer",
-    "id" : 68,
-    "question" : "product.FLL.faqs3.question"
-  }, {
-    "answer" : "product.FLL.faqs4.answer",
-    "id" : 69,
-    "question" : "product.FLL.faqs4.question"
-  }, {
-    "answer" : "product.FLL.faqs5.answer",
-    "id" : 70,
-    "question" : "product.FLL.faqs5.question"
-  } ],
-  "firstHeadline" : "product.FLL.firstHeadline",
-  "id" : 122,
+  "faqs" : [ ],
+  "firstHeadline" : "product.BSR.firstHeadline",
+  "id" : 114,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
     "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "DEODORANT",
-    "imageId" : 1168,
-    "matchcode" : "BDO",
+    "description" : "hand balm",
+    "imageId" : 9679,
+    "matchcode" : "BHB",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 215.2,
+        "brutto" : 196,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 26.9,
+        "brutto" : 24.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -115,10 +128,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 14.6
+        "provisionPoints" : 13.7
       },
       "partner" : {
-        "brutto" : 26.9,
+        "brutto" : 24.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -129,29 +142,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 14.6
+        "provisionPoints" : 13.7
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-deodorant",
-    "title" : "FRESH deodorant",
+    "slug" : "fresh-hand-balm",
+    "title" : "FRESH hand balm",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "125",
+    "contentsAmount" : "50",
     "currency" : "eur",
-    "description" : "foot balm",
-    "imageId" : 1165,
-    "matchcode" : "BFB",
+    "description" : "stay fresh",
+    "imageId" : 553,
+    "matchcode" : "STF",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 202.4,
+        "brutto" : 218,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 25.3,
+        "brutto" : 10.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -162,10 +175,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 14.2
+        "provisionPoints" : 5.7
       },
       "partner" : {
-        "brutto" : 25.3,
+        "brutto" : 10.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -176,12 +189,59 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 14.2
+        "provisionPoints" : 5.7
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-foot-balm",
-    "title" : "FRESH foot balm",
+    "slug" : "fresh-stay-fresh",
+    "title" : "FRESH stay fresh",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "255",
+    "currency" : "eur",
+    "description" : "soap liquid",
+    "imageId" : 567,
+    "matchcode" : "FSLP",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 80,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 20.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 11.6
+      },
+      "partner" : {
+        "brutto" : 20.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 11.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-soap-liquid",
+    "title" : "FRESH soap liquid",
     "unitContents" : "ml"
   } ],
   "infoColor" : null,
@@ -191,26 +251,26 @@
   "mediaGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 346,
-    "mediaId" : 587,
+    "id" : 320,
+    "mediaId" : 546,
     "mediaType" : "image"
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 347,
-    "mediaId" : 588,
+    "id" : 321,
+    "mediaId" : 5260,
     "mediaType" : "image"
   }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 348,
-    "mediaId" : 589,
-    "mediaType" : "image"
-  }, {
-    "caption" : "product.FLL.imageGallery3.caption",
+    "caption" : "product.BSR.imageGallery2.caption",
     "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
-    "id" : 349,
-    "mediaId" : 590,
+    "id" : 322,
+    "mediaId" : 548,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.BSR.imageGallery3.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 323,
+    "mediaId" : 549,
     "mediaType" : "image"
   } ],
   "nemBackgroundColor" : null,
@@ -218,12 +278,12 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 228.8,
-      "unit" : "ml",
-      "unitId" : 827
+      "brutto" : 106,
+      "unit" : "g",
+      "unitId" : 812
     },
     "customer" : {
-      "brutto" : 28.6,
+      "brutto" : 10.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -234,10 +294,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 17
+      "provisionPoints" : 5
     },
     "partner" : {
-      "brutto" : 28.6,
+      "brutto" : 10.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -248,76 +308,67 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 17
+      "provisionPoints" : 5
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
-  "shortDescription" : "product.FLL.shortDescription",
+  "shortDescription" : "product.BSR.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "fresh-light-legs",
+  "slug" : "fresh-soap",
   "socialMedia" : {
-    "id" : 122,
-    "imageId" : 586,
-    "text" : "product.FLL.socialMedia.text",
-    "title" : "product.FLL.socialMedia.title"
+    "id" : 116,
+    "imageId" : 545,
+    "text" : "product.BSR.socialMedia.text",
+    "title" : "product.BSR.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "light legs",
+  "supplementDescription" : "soapsoapsoap",
   "tabs" : [ {
-    "anchorName" : "",
-    "description" : "product.FLL.tabs0.description",
-    "id" : 467,
+    "anchorName" : null,
+    "description" : "product.BSR.tabs0.description",
+    "id" : 443,
     "showPrintButton" : false,
-    "title" : "product.FLL.tabs0.title"
+    "title" : "product.BSR.tabs0.title"
   }, {
-    "anchorName" : "",
-    "description" : "product.FLL.tabs1.description",
-    "id" : 468,
+    "anchorName" : null,
+    "description" : "product.BSR.tabs1.description",
+    "id" : 444,
     "showPrintButton" : true,
-    "title" : "product.FLL.tabs1.title"
+    "title" : "product.BSR.tabs1.title"
   }, {
-    "anchorName" : "",
-    "description" : "product.FLL.tabs2.description",
-    "id" : 469,
+    "anchorName" : null,
+    "description" : "product.BSR.tabs2.description",
+    "id" : 445,
     "showPrintButton" : false,
-    "title" : "product.FLL.tabs2.title"
+    "title" : "product.BSR.tabs2.title"
   }, {
-    "anchorName" : "",
-    "description" : "product.FLL.tabs3.description",
-    "id" : 470,
+    "anchorName" : null,
+    "description" : "product.BSR.tabs3.description",
+    "id" : 446,
     "showPrintButton" : false,
-    "title" : "product.FLL.tabs3.title"
-  }, {
-    "anchorName" : "",
-    "description" : "product.FLL.tabs2071.description",
-    "id" : 2071,
-    "showPrintButton" : false,
-    "title" : "product.FLL.tabs2071.title"
+    "title" : "product.BSR.tabs3.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "FRESH light legs",
+  "title" : "FRESH soap",
   "unit" : "Stk.",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
+  "unitContents" : "g",
+  "unitContentsId" : 812,
   "unitId" : 996,
-  "usp" : "product.FLL.usp",
+  "usp" : "product.BSR.usp",
   "values" : [ {
-    "iconMediaId" : 1061,
-    "name" : "value.value6.name"
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
   }, {
-    "iconMediaId" : 1097,
-    "name" : "value.value42.name"
+    "iconMediaId" : 1069,
+    "name" : "value.value14.name"
   }, {
-    "iconMediaId" : 1067,
-    "name" : "value.value12.name"
-  }, {
-    "iconMediaId" : 1089,
-    "name" : "value.value34.name"
+    "iconMediaId" : 1057,
+    "name" : "value.value2.name"
   } ],
   "variants" : [ ]
 }

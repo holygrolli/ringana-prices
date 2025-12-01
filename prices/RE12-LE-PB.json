@@ -26,8 +26,8 @@
   "contentsAmount" : "360",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -239,7 +239,7 @@
       "provisionPoints" : 27
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -254,7 +254,7 @@
     "text" : "product.RE12-LE-PB.socialMedia.text",
     "title" : "product.RE12-LE-PB.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "RINGANAchi",
   "tabs" : [ {
     "anchorName" : null,

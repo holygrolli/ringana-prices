@@ -76,6 +76,53 @@
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
+    "contentsAmount" : "100",
+    "currency" : "eur",
+    "description" : "soapsoapsoap",
+    "imageId" : 546,
+    "matchcode" : "BSR",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 106,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 10.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5
+      },
+      "partner" : {
+        "brutto" : 10.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 5
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-soap",
+    "title" : "FRESH soap",
+    "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : null,
     "contentsAmount" : "50",
     "currency" : "eur",
     "description" : "stay fresh",

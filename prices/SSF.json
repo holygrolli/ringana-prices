@@ -33,7 +33,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
-    "productCount" : 27,
+    "productCount" : 28,
     "slug" : "face",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -42,7 +42,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 42,
+    "productCount" : 44,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -51,7 +51,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 46,
+    "productCount" : 48,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -69,7 +69,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
-    "productCount" : 33,
+    "productCount" : 34,
     "slug" : "facial-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -78,7 +78,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category91.name",
     "primary" : false,
-    "productCount" : 8,
+    "productCount" : 9,
     "slug" : "suncare",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -87,7 +87,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category80.name",
     "primary" : false,
-    "productCount" : 10,
+    "productCount" : 11,
     "slug" : "anti-pollution",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -96,7 +96,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
-    "productCount" : 33,
+    "productCount" : 34,
     "slug" : "hydrating",
     "visible" : true,
     "visibleCountries" : [ ]
