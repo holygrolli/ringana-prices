@@ -59,53 +59,6 @@
   "id" : 88,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "50",
-    "currency" : "eur",
-    "description" : "for men",
-    "imageId" : 668,
-    "matchcode" : "BMF",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 970,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 48.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 29.8
-      },
-      "partner" : {
-        "brutto" : 48.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 29.8
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-moisturiser-for-men",
-    "title" : "FRESH moisturiser for men",
-    "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
     "contentsAmount" : "180",
     "currency" : "eur",
     "description" : "Skin care",
@@ -230,15 +183,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 1009.6,
+      "brutto" : 1262,
       "unit" : "g",
       "unitId" : 812
     },
     "customer" : {
-      "brutto" : 46.24,
-      "bruttoWithoutDiscount" : 57.8,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-11-30T22:59:59Z",
+      "brutto" : 57.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -246,13 +199,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 23.47
+      "provisionPoints" : 32.6
     },
     "partner" : {
-      "brutto" : 46.24,
-      "bruttoWithoutDiscount" : 57.8,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-11-30T22:59:59Z",
+      "brutto" : 57.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -260,7 +213,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 23.47
+      "provisionPoints" : 32.6
     }
   },
   "purchasePossible" : false,

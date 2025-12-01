@@ -13,7 +13,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
-    "productCount" : 29,
+    "productCount" : 27,
     "slug" : "face",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -22,7 +22,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category628.name",
     "primary" : false,
-    "productCount" : 18,
+    "productCount" : 16,
     "slug" : "limited-xmas-editions",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -31,7 +31,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 44,
+    "productCount" : 42,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -40,7 +40,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
-    "productCount" : 35,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -49,7 +49,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
-    "productCount" : 21,
+    "productCount" : 20,
     "slug" : "dry-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -58,7 +58,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
-    "productCount" : 35,
+    "productCount" : 33,
     "slug" : "hydrating",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -67,7 +67,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 49,
+    "productCount" : 46,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -76,7 +76,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category595.name",
     "primary" : false,
-    "productCount" : 4,
+    "productCount" : 3,
     "slug" : "lip-care",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -85,8 +85,8 @@
   "contentsAmount" : "10",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 10605,
   "discountDate" : null,
@@ -257,7 +257,7 @@
       "provisionPoints" : 8.6
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -272,7 +272,7 @@
     "text" : "product.FLB-G.socialMedia.text",
     "title" : "product.FLB-G.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "gold",
   "tabs" : [ {
     "anchorName" : "",

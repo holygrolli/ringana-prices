@@ -33,7 +33,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category2.name",
     "primary" : true,
-    "productCount" : 13,
+    "productCount" : 12,
     "slug" : "body",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -42,7 +42,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 49,
+    "productCount" : 46,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -51,7 +51,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category91.name",
     "primary" : false,
-    "productCount" : 9,
+    "productCount" : 8,
     "slug" : "suncare",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -60,7 +60,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 44,
+    "productCount" : 42,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]

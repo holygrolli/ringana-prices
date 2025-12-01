@@ -23,7 +23,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
-    "productCount" : 29,
+    "productCount" : 27,
     "slug" : "face",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -32,7 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 49,
+    "productCount" : 46,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -41,7 +41,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category86.name",
     "primary" : false,
-    "productCount" : 25,
+    "productCount" : 24,
     "slug" : "combination-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -50,7 +50,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category85.name",
     "primary" : false,
-    "productCount" : 18,
+    "productCount" : 17,
     "slug" : "sensitive-reddened-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -59,7 +59,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category84.name",
     "primary" : false,
-    "productCount" : 18,
+    "productCount" : 17,
     "slug" : "impure-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -68,7 +68,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category83.name",
     "primary" : false,
-    "productCount" : 20,
+    "productCount" : 19,
     "slug" : "oily-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -77,7 +77,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
-    "productCount" : 35,
+    "productCount" : 33,
     "slug" : "hydrating",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -104,7 +104,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category203.name",
     "primary" : false,
-    "productCount" : 12,
+    "productCount" : 11,
     "slug" : "step-5-moisturising",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -205,53 +205,6 @@
     "slug" : "fresh-eye-serum",
     "title" : "FRESH eye serum",
     "unitContents" : "ml"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "100",
-    "currency" : "eur",
-    "description" : "soapsoapsoap",
-    "imageId" : 546,
-    "matchcode" : "BSR",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 106,
-        "unit" : "g",
-        "unitId" : 812
-      },
-      "customer" : {
-        "brutto" : 10.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 5
-      },
-      "partner" : {
-        "brutto" : 10.6,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 5
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-soap",
-    "title" : "FRESH soap",
-    "unitContents" : "g"
   }, {
     "additionalUnitPrice" : null,
     "contentsAmount" : "30",
