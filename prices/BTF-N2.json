@@ -487,5 +487,15 @@
     "slug" : "fresh-tinted-moisturiser-n4",
     "type" : 1,
     "unit" : null
+  }, {
+    "color" : "#ab6e4a",
+    "id" : 2366,
+    "language" : null,
+    "matchcode" : "BTF-N3",
+    "name" : "N3",
+    "size" : null,
+    "slug" : "fresh-tinted-moisturiser-n3",
+    "type" : 1,
+    "unit" : null
   } ]
 }
