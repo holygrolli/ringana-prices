@@ -215,7 +215,7 @@
         "provisionPoints" : 5.9
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-hand-balm-pocket",
     "title" : "FRESH hand balm pocket",
     "unitContents" : "ml"
