@@ -299,25 +299,25 @@
   "soldOut" : false,
   "supplementDescription" : "pocket",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FDO50.tabs0.description",
     "id" : 479,
     "showPrintButton" : false,
     "title" : "product.FDO50.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FDO50.tabs1.description",
     "id" : 480,
     "showPrintButton" : true,
     "title" : "product.FDO50.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FDO50.tabs2.description",
     "id" : 481,
     "showPrintButton" : false,
     "title" : "product.FDO50.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FDO50.tabs3.description",
     "id" : 482,
     "showPrintButton" : false,
