@@ -23,7 +23,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
-    "productCount" : 28,
+    "productCount" : 27,
     "slug" : "face",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -32,7 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 44,
+    "productCount" : 43,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -59,7 +59,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
-    "productCount" : 34,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -77,7 +77,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category82.name",
     "primary" : false,
-    "productCount" : 20,
+    "productCount" : 19,
     "slug" : "dry-skin",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -95,7 +95,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
-    "productCount" : 34,
+    "productCount" : 33,
     "slug" : "hydrating",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -104,7 +104,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 48,
+    "productCount" : 47,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -270,15 +270,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 2016,
+        "brutto" : 2520,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 60.48,
-        "bruttoWithoutDiscount" : 75.6,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-12-03T22:59:59Z",
+        "brutto" : 75.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -286,13 +286,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 30.96
+        "provisionPoints" : 43
       },
       "partner" : {
-        "brutto" : 60.48,
-        "bruttoWithoutDiscount" : 75.6,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-12-03T22:59:59Z",
+        "brutto" : 75.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -300,7 +300,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 30.96
+        "provisionPoints" : 43
       }
     },
     "purchasePossible" : true,
@@ -435,16 +435,7 @@
     "showPrintButton" : false,
     "title" : "product.BCM.tabs3480.title"
   } ],
-  "teaserDots" : [ {
-    "backgroundColor" : "#000000",
-    "borderColor" : "#000000",
-    "fontSize" : 10,
-    "id" : 3,
-    "lineHeight" : 1.3,
-    "position" : "top-left",
-    "text" : "New Formu-lation",
-    "textColor" : "#ffffff"
-  } ],
+  "teaserDots" : [ ],
   "title" : "FRESH cream rich",
   "unit" : "Stk.",
   "unitContents" : "ml",

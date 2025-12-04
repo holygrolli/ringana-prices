@@ -23,7 +23,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category7.name",
     "primary" : true,
-    "productCount" : 28,
+    "productCount" : 27,
     "slug" : "face",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -32,7 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 48,
+    "productCount" : 47,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -50,7 +50,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category463.name",
     "primary" : false,
-    "productCount" : 44,
+    "productCount" : 43,
     "slug" : "pregnancy-breastfeeding",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -59,7 +59,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category92.name",
     "primary" : false,
-    "productCount" : 34,
+    "productCount" : 33,
     "slug" : "facial-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -178,15 +178,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 2016,
+        "brutto" : 2520,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 60.48,
-        "bruttoWithoutDiscount" : 75.6,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-12-03T22:59:59Z",
+        "brutto" : 75.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -194,13 +194,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 30.96
+        "provisionPoints" : 43
       },
       "partner" : {
-        "brutto" : 60.48,
-        "bruttoWithoutDiscount" : 75.6,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-12-03T22:59:59Z",
+        "brutto" : 75.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -208,7 +208,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 30.96
+        "provisionPoints" : 43
       }
     },
     "purchasePossible" : true,
