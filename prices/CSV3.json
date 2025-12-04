@@ -276,25 +276,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS protect",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CSV3.tabs0.description",
     "id" : 237,
     "showPrintButton" : false,
     "title" : "product.CSV3.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CSV3.tabs1.description",
     "id" : 239,
     "showPrintButton" : true,
     "title" : "product.CSV3.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CSV3.tabs2.description",
     "id" : 240,
     "showPrintButton" : false,
     "title" : "product.CSV3.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CSV3.tabs3.description",
     "id" : 242,
     "showPrintButton" : false,

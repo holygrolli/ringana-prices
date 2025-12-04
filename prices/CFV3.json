@@ -220,25 +220,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS fem",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CFV3.tabs0.description",
     "id" : 292,
     "showPrintButton" : false,
     "title" : "product.CFV3.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CFV3.tabs1.description",
     "id" : 293,
     "showPrintButton" : true,
     "title" : "product.CFV3.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CFV3.tabs2.description",
     "id" : 294,
     "showPrintButton" : false,
     "title" : "product.CFV3.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CFV3.tabs3.description",
     "id" : 295,
     "showPrintButton" : false,
