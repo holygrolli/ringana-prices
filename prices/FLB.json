@@ -139,7 +139,7 @@
         "provisionPoints" : 8.6
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-tinted-balm-rosewood",
     "title" : "FRESH tinted balm lip & cheek rosewood",
     "unitContents" : "ml"

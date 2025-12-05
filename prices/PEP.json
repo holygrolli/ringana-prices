@@ -104,8 +104,8 @@
   "contentsAmount" : "10",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6336,
   "discountDate" : null,
@@ -247,7 +247,7 @@
       "provisionPoints" : 4.8
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -262,7 +262,7 @@
     "text" : "product.PEP.socialMedia.text",
     "title" : "product.PEP.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "sample",
   "tabs" : [ {
     "anchorName" : "",
