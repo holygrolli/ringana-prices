@@ -106,15 +106,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 223.2,
+        "brutto" : 178.5,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 27.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 22.32,
+        "bruttoWithoutDiscount" : 27.9,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-12-06T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -122,13 +122,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 16.2
+        "provisionPoints" : 11.66
       },
       "partner" : {
-        "brutto" : 27.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 22.32,
+        "bruttoWithoutDiscount" : 27.9,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-12-06T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -136,7 +136,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 16.2
+        "provisionPoints" : 11.66
       }
     },
     "purchasePossible" : true,
@@ -236,7 +236,7 @@
         "provisionPoints" : 52.5
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-skin-perfection",
     "title" : "FRESH skin perfection",
     "unitContents" : "ml"
@@ -287,15 +287,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 103,
+      "brutto" : 82.4,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 20.6,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 16.48,
+      "bruttoWithoutDiscount" : 20.6,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-12-06T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -303,13 +303,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 12
+      "provisionPoints" : 8.64
     },
     "partner" : {
-      "brutto" : 20.6,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 16.48,
+      "bruttoWithoutDiscount" : 20.6,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-12-06T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -317,7 +317,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 12
+      "provisionPoints" : 8.64
     }
   },
   "purchasePossible" : true,

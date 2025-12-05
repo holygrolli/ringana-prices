@@ -129,8 +129,8 @@
   "contentsAmount" : "30",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6349,
   "discountDate" : null,
@@ -390,7 +390,7 @@
       "provisionPoints" : 52.5
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "product.FLN.secondHeadline",
   "setContents" : [ ],
@@ -405,7 +405,7 @@
     "text" : "",
     "title" : ""
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "perfection",
   "tabs" : [ {
     "anchorName" : "",
