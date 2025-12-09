@@ -150,7 +150,7 @@
         "provisionPoints" : 38.9
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "manadental-liquid-set-of-3",
     "title" : "manadental liquid, Set of 3",
     "unitContents" : "ml"
@@ -172,7 +172,7 @@
         "brutto" : 12.24,
         "bruttoWithoutDiscount" : 15.3,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-12-08T22:59:59Z",
+        "discountUntil" : "2025-12-12T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -186,7 +186,7 @@
         "brutto" : 12.24,
         "bruttoWithoutDiscount" : 15.3,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-12-08T22:59:59Z",
+        "discountUntil" : "2025-12-12T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,

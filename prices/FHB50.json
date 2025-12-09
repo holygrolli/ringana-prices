@@ -177,7 +177,7 @@
         "provisionPoints" : 6.1
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-deodorant-pocket",
     "title" : "FRESH deodorant pocket",
     "unitContents" : "ml"

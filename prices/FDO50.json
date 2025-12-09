@@ -68,8 +68,8 @@
   "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6335,
   "discountDate" : null,
@@ -281,7 +281,7 @@
       "provisionPoints" : 6.1
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -296,7 +296,7 @@
     "text" : "product.FDO50.socialMedia.text",
     "title" : "product.FDO50.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "pocket",
   "tabs" : [ {
     "anchorName" : "",
