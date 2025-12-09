@@ -163,7 +163,7 @@
         "provisionPoints" : 1.7
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-foot-balm-sample",
     "title" : "FRESH foot balm sample",
     "unitContents" : "ml"

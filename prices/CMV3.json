@@ -29,8 +29,8 @@
   "contentsAmount" : "137,4",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -251,7 +251,7 @@
       "provisionPoints" : 79.2
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -270,7 +270,7 @@
     "text" : "product.CMV3.socialMedia.text",
     "title" : "product.CMV3.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "CAPS mascu",
   "tabs" : [ {
     "anchorName" : null,

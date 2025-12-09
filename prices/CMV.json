@@ -47,8 +47,8 @@
   "contentsAmount" : "45,8",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -58,6 +58,53 @@
   "firstHeadline" : "",
   "id" : 88,
   "idealSupplements" : [ {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "50",
+    "currency" : "eur",
+    "description" : "for men",
+    "imageId" : 668,
+    "matchcode" : "BMF",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 970,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 48.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29.8
+      },
+      "partner" : {
+        "brutto" : 48.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-moisturiser-for-men",
+    "title" : "FRESH moisturiser for men",
+    "unitContents" : "ml"
+  }, {
     "additionalUnitPrice" : null,
     "contentsAmount" : "180",
     "currency" : "eur",
@@ -216,7 +263,7 @@
       "provisionPoints" : 32.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -231,7 +278,7 @@
     "text" : "product.CMV.socialMedia.text",
     "title" : "product.CMV.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "CAPS mascu",
   "tabs" : [ {
     "anchorName" : "",
