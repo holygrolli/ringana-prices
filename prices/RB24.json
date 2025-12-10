@@ -181,15 +181,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1571.4,
+        "brutto" : 1257.1,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 58.3,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 46.64,
+        "bruttoWithoutDiscount" : 58.3,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-12-11T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -197,13 +197,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32.6
+        "provisionPoints" : 23.47
       },
       "partner" : {
-        "brutto" : 58.3,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 46.64,
+        "bruttoWithoutDiscount" : 58.3,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-12-11T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -211,7 +211,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32.6
+        "provisionPoints" : 23.47
       }
     },
     "purchasePossible" : true,
@@ -355,31 +355,31 @@
   "soldOut" : false,
   "supplementDescription" : "RINGANAbty",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RB24.tabs1753852208268.description",
     "id" : 4963,
     "showPrintButton" : false,
     "title" : "product.RB24.tabs1753852208268.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RB24.tabs1753852208269.description",
     "id" : 4964,
     "showPrintButton" : false,
     "title" : "product.RB24.tabs1753852208269.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RB24.tabs1753852208270.description",
     "id" : 4965,
     "showPrintButton" : false,
     "title" : "product.RB24.tabs1753852208270.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RB24.tabs1753852208271.description",
     "id" : 4966,
     "showPrintButton" : false,
     "title" : "product.RB24.tabs1753852208271.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RB24.tabs1753852208272.description",
     "id" : 4967,
     "showPrintButton" : false,
