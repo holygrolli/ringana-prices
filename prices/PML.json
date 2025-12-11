@@ -167,7 +167,7 @@
         "provisionPoints" : 1.6
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-body-milk-rich-sample",
     "title" : "FRESH body milk rich sample",
     "unitContents" : "ml"

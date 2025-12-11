@@ -306,25 +306,25 @@
   "soldOut" : false,
   "supplementDescription" : "soapsoapsoap",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BSR-10.tabs2624.description",
     "id" : 2624,
     "showPrintButton" : false,
     "title" : "product.BSR-10.tabs2624.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BSR-10.tabs2625.description",
     "id" : 2625,
     "showPrintButton" : true,
     "title" : "product.BSR-10.tabs2625.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BSR-10.tabs2626.description",
     "id" : 2626,
     "showPrintButton" : false,
     "title" : "product.BSR-10.tabs2626.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BSR-10.tabs2627.description",
     "id" : 2627,
     "showPrintButton" : false,

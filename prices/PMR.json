@@ -59,8 +59,8 @@
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 9327,
   "discountDate" : null,
@@ -235,7 +235,7 @@
       "provisionPoints" : 1.6
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -250,7 +250,7 @@
     "text" : "product.PMR.socialMedia.text",
     "title" : "product.PMR.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "rich",
   "tabs" : [ {
     "anchorName" : "",

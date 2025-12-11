@@ -105,23 +105,23 @@
     "visibleCountries" : [ ]
   } ],
   "contentBlock" : {
-    "buttonLink" : null,
-    "buttonText" : null,
+    "buttonLink" : "product.RAR.contentBlock.buttonLink",
+    "buttonText" : "product.RAR.contentBlock.buttonText",
     "contentBlockButtonTypes" : [ ],
     "contentBlockItems" : [ {
-      "description" : null,
+      "description" : "product.RAR.contentBlockItem1765439063574.description",
       "id" : 562,
-      "link" : null,
+      "link" : "product.RAR.contentBlockItem1765439063574.link",
       "text" : "product.RAR.contentBlockItem1762344762353.text"
     }, {
-      "description" : null,
+      "description" : "product.RAR.contentBlockItem1765439063575.description",
       "id" : 563,
-      "link" : null,
+      "link" : "product.RAR.contentBlockItem1765439063575.link",
       "text" : "product.RAR.contentBlockItem1762344762354.text"
     }, {
-      "description" : null,
+      "description" : "product.RAR.contentBlockItem1765439063576.description",
       "id" : 564,
-      "link" : null,
+      "link" : "product.RAR.contentBlockItem1765439063576.link",
       "text" : "product.RAR.contentBlockItem1762344762355.text"
     } ],
     "id" : 562,

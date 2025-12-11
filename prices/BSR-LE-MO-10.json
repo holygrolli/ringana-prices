@@ -176,25 +176,25 @@
   "soldOut" : false,
   "supplementDescription" : "FRESH soap mandarine & orange, Set of 10",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BSR-LE-MO-10.tabs0.description",
     "id" : 937,
     "showPrintButton" : false,
     "title" : "product.BSR-LE-MO-10.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BSR-LE-MO-10.tabs1.description",
     "id" : 938,
     "showPrintButton" : false,
     "title" : "product.BSR-LE-MO-10.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BSR-LE-MO-10.tabs2.description",
     "id" : 939,
     "showPrintButton" : false,
     "title" : "product.BSR-LE-MO-10.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BSR-LE-MO-10.tabs3.description",
     "id" : 940,
     "showPrintButton" : false,
