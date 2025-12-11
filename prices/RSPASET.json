@@ -17,8 +17,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -83,7 +83,7 @@
       "provisionPoints" : 0
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -93,7 +93,7 @@
   "skinTypes" : [ ],
   "slug" : "home-spa-set",
   "socialMedia" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : null,
   "tabs" : [ {
     "anchorName" : null,

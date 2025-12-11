@@ -129,7 +129,7 @@
         "provisionPoints" : 3
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-sample-box-body",
     "title" : "FRESH sample box body",
     "unitContents" : null
