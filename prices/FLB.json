@@ -86,8 +86,8 @@
   "contentsAmount" : "10",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 9349,
   "discountDate" : null,
@@ -270,7 +270,7 @@
       "provisionPoints" : 8.2
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -285,7 +285,7 @@
     "text" : "product.FLB.socialMedia.text",
     "title" : "product.FLB.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "lip balm",
   "tabs" : [ {
     "anchorName" : "",

@@ -40,8 +40,8 @@
   "contentsAmount" : "1000",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -206,7 +206,7 @@
       "provisionPoints" : 40.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -225,7 +225,7 @@
     "text" : "product.BSR-LE-CP-10.socialMedia.text",
     "title" : "product.BSR-LE-CP-10.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "chai & scrub",
   "tabs" : [ {
     "anchorName" : "",
