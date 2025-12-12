@@ -38,7 +38,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category497.name",
     "primary" : true,
-    "productCount" : 12,
+    "productCount" : 11,
     "slug" : "specials",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -187,7 +187,7 @@
         "brutto" : 16.32,
         "bruttoWithoutDiscount" : 20.4,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-12-16T22:59:59Z",
+        "discountUntil" : "2025-12-12T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -201,7 +201,7 @@
         "brutto" : 16.32,
         "bruttoWithoutDiscount" : 20.4,
         "discountPercentage" : 20,
-        "discountUntil" : "2025-12-16T22:59:59Z",
+        "discountUntil" : "2025-12-12T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,

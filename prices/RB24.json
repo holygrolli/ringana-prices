@@ -13,39 +13,12 @@
     "visible" : true,
     "visibleCountries" : [ ]
   }, {
-    "id" : 430,
-    "infoColorNeeded" : false,
-    "name" : "category.category430.name",
-    "primary" : false,
-    "productCount" : 4,
-    "slug" : "timeless-beauty",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
     "id" : 99,
     "infoColorNeeded" : false,
     "name" : "category.category99.name",
     "primary" : false,
     "productCount" : 25,
     "slug" : "supplement-sets",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 75,
-    "infoColorNeeded" : false,
-    "name" : "category.category75.name",
-    "primary" : false,
-    "productCount" : 12,
-    "slug" : "lifting",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 74,
-    "infoColorNeeded" : false,
-    "name" : "category.category74.name",
-    "primary" : false,
-    "productCount" : 9,
-    "slug" : "better-aging",
     "visible" : true,
     "visibleCountries" : [ ]
   }, {
@@ -181,15 +154,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1257.1,
+        "brutto" : 1571.4,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 46.64,
-        "bruttoWithoutDiscount" : 58.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-12-11T22:59:59Z",
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -197,13 +170,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 23.47
+        "provisionPoints" : 32.6
       },
       "partner" : {
-        "brutto" : 46.64,
-        "bruttoWithoutDiscount" : 58.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-12-11T22:59:59Z",
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -211,7 +184,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 23.47
+        "provisionPoints" : 32.6
       }
     },
     "purchasePossible" : true,

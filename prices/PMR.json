@@ -116,7 +116,7 @@
         "provisionPoints" : 1.5
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-body-milk-light-sample",
     "title" : "FRESH body milk light sample",
     "unitContents" : "ml"
