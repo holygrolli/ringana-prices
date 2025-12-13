@@ -26,8 +26,8 @@
   "contentsAmount" : "1",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -98,7 +98,7 @@
       "provisionPoints" : 71.71
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "product.RB12-CBH-FLN.secondHeadline",
   "setContents" : [ {
@@ -120,7 +120,7 @@
   "skinTypes" : [ ],
   "slug" : "timeless-beauty-xmas-set",
   "socialMedia" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "timeless beauty ",
   "tabs" : [ {
     "anchorName" : "",
