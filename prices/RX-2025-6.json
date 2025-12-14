@@ -26,8 +26,8 @@
   "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -98,7 +98,7 @@
       "provisionPoints" : 28.8
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -116,7 +116,7 @@
   "skinTypes" : [ ],
   "slug" : "fresh-tint-blend-n2",
   "socialMedia" : null,
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "relaxing",
   "tabs" : [ {
     "anchorName" : "",
