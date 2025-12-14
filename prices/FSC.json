@@ -161,13 +161,13 @@
     "posterMediaId" : 694
   },
   "faqs" : [ {
-    "answer" : "product.FSC.faqs4.answer",
-    "id" : 81,
-    "question" : "product.FSC.faqs4.question"
-  }, {
     "answer" : "product.FSC.faqs3.answer",
     "id" : 80,
     "question" : "product.FSC.faqs3.question"
+  }, {
+    "answer" : "product.FSC.faqs4.answer",
+    "id" : 81,
+    "question" : "product.FSC.faqs4.question"
   } ],
   "firstHeadline" : "",
   "id" : 138,
