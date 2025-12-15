@@ -239,7 +239,7 @@
         "provisionPoints" : 11.6
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-soap-liquid",
     "title" : "FRESH soap liquid",
     "unitContents" : "ml"

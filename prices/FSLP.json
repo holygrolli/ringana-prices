@@ -92,8 +92,8 @@
   "contentsAmount" : "255",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6684,
   "discountDate" : null,
@@ -311,7 +311,7 @@
       "provisionPoints" : 11.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -326,7 +326,7 @@
     "text" : "product.FSLP.socialMedia.text",
     "title" : "product.FSLP.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "soap liquid",
   "tabs" : [ {
     "anchorName" : null,

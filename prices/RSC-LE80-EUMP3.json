@@ -1,15 +1,15 @@
 {
-  "matchcode" : "RB12-CBH-FLN",
+  "matchcode" : "RSC-LE80-EUMP3",
   "additionalUnitPrice" : null,
   "awards" : [ ],
   "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 497,
+    "id" : 16,
     "infoColorNeeded" : false,
-    "name" : "category.category497.name",
+    "name" : "category.category16.name",
     "primary" : true,
-    "productCount" : 11,
-    "slug" : "specials",
+    "productCount" : 14,
+    "slug" : "merchandise",
     "visible" : true,
     "visibleCountries" : [ ]
   }, {
@@ -17,48 +17,42 @@
     "infoColorNeeded" : false,
     "name" : "category.category628.name",
     "primary" : false,
-    "productCount" : 11,
+    "productCount" : 8,
     "slug" : "limited-xmas-editions",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "1",
+  "contentsAmount" : null,
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "product.RB12-CBH-FLN.firstHeadline",
-  "id" : 4227,
+  "firstHeadline" : "",
+  "id" : 5019,
   "idealSupplements" : [ ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "maxPerCart" : 99999999,
+  "maxPerCart" : 100,
   "mediaGallery" : [ {
     "caption" : null,
     "captionLink" : null,
-    "id" : 6567,
-    "mediaId" : 9954,
+    "id" : 7196,
+    "mediaId" : 10967,
     "mediaType" : "image"
   }, {
     "caption" : null,
     "captionLink" : null,
-    "id" : 6998,
-    "mediaId" : 10607,
+    "id" : 7193,
+    "mediaId" : 10966,
     "mediaType" : "image"
-  }, {
-    "caption" : null,
-    "captionLink" : null,
-    "id" : 7003,
-    "mediaId" : 10611,
-    "mediaType" : "video"
   } ],
   "nemBackgroundColor" : null,
   "press" : null,
@@ -70,10 +64,10 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 155.2,
-      "bruttoWithoutDiscount" : 194,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-12-29T22:59:59Z",
+      "brutto" : 16.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -81,13 +75,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 71.71
+      "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 155.2,
-      "bruttoWithoutDiscount" : 194,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-12-29T22:59:59Z",
+      "brutto" : 16.4,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -95,51 +89,33 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 71.71
+      "provisionPoints" : 0
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
-  "secondHeadline" : "product.RB12-CBH-FLN.secondHeadline",
-  "setContents" : [ {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "RB12"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "CBH"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "FLN"
-  } ],
-  "shortDescription" : "product.RB12-CBH-FLN.shortDescription",
+  "secondHeadline" : "",
+  "setContents" : [ ],
+  "shortDescription" : "product.RSC-LE80-EUMP3.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "timeless-beauty-xmas-set",
+  "slug" : "scented-candle-zest-cedar-small",
   "socialMedia" : null,
-  "soldOut" : true,
-  "supplementDescription" : "timeless beauty ",
+  "soldOut" : false,
+  "supplementDescription" : "candle",
   "tabs" : [ {
     "anchorName" : "",
-    "description" : "product.RB12-CBH-FLN.tabs1753258997805.description",
-    "id" : 4864,
+    "description" : "product.RSC-LE80-EUMP3.tabs1764932798324.description",
+    "id" : 5920,
     "showPrintButton" : false,
-    "title" : "product.RB12-CBH-FLN.tabs1753258997805.title"
+    "title" : "product.RSC-LE80-EUMP3.tabs1764932798324.title"
   }, {
     "anchorName" : "",
-    "description" : "product.RB12-CBH-FLN.tabs1753258997806.description",
-    "id" : 4865,
+    "description" : "product.RSC-LE80-EUMP3.tabs1764932798325.description",
+    "id" : 5921,
     "showPrintButton" : false,
-    "title" : "product.RB12-CBH-FLN.tabs1753258997806.title"
-  }, {
-    "anchorName" : "",
-    "description" : "product.RB12-CBH-FLN.tabs1753258997807.description",
-    "id" : 4866,
-    "showPrintButton" : false,
-    "title" : "product.RB12-CBH-FLN.tabs1753258997807.title"
+    "title" : "product.RSC-LE80-EUMP3.tabs1764932798325.title"
   } ],
   "teaserDots" : [ {
     "backgroundColor" : "#035f30",
@@ -151,12 +127,12 @@
     "text" : "LIMITED EDITION",
     "textColor" : "#ffffff"
   } ],
-  "title" : "FRESH timeless beauty x-mas set",
-  "unit" : "Set",
-  "unitContents" : "Set",
-  "unitContentsId" : 43586,
-  "unitId" : 43586,
-  "usp" : "product.RB12-CBH-FLN.usp",
+  "title" : "RINGANA scented candle zest & cedar small",
+  "unit" : null,
+  "unitContents" : null,
+  "unitContentsId" : null,
+  "unitId" : null,
+  "usp" : "product.RSC-LE80-EUMP3.usp",
   "values" : [ ],
   "variants" : [ ]
 }
