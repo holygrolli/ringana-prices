@@ -184,8 +184,8 @@
   "contentsAmount" : "30",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 7448,
   "discountDate" : null,
@@ -374,7 +374,7 @@
       "provisionPoints" : 28.8
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "product.BTF-N2.secondHeadline",
   "setContents" : [ ],
@@ -389,7 +389,7 @@
     "text" : "product.BTF-N2.socialMedia.text",
     "title" : "product.BTF-N2.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "NUANCE2",
   "tabs" : [ {
     "anchorName" : "",

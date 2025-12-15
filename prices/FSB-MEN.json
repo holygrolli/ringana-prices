@@ -26,8 +26,8 @@
   "contentsAmount" : "30",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -230,7 +230,7 @@
       "provisionPoints" : 13.2
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -257,7 +257,7 @@
     "text" : "product.FSB-MEN.socialMedia.text",
     "title" : "product.FSB-MEN.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "SAMPLE BOX",
   "tabs" : [ {
     "anchorName" : null,
