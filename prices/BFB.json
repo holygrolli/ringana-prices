@@ -224,7 +224,7 @@
         "provisionPoints" : 17
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-light-legs",
     "title" : "FRESH light legs",
     "unitContents" : "ml"
