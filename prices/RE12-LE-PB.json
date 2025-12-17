@@ -1,33 +1,33 @@
 {
-  "matchcode" : "FTLL3",
+  "matchcode" : "RE12-LE-PB",
   "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ 189850, 186646, 189265 ],
+  "blogPostIds" : [ ],
   "categories" : [ {
-    "id" : 20,
+    "id" : 497,
     "infoColorNeeded" : false,
-    "name" : "category.category20.name",
+    "name" : "category.category497.name",
     "primary" : true,
-    "productCount" : 4,
-    "slug" : "manadental",
+    "productCount" : 8,
+    "slug" : "specials",
     "visible" : true,
     "visibleCountries" : [ ]
   }, {
-    "id" : 89,
+    "id" : 628,
     "infoColorNeeded" : false,
-    "name" : "category.category89.name",
+    "name" : "category.category628.name",
     "primary" : false,
-    "productCount" : 8,
-    "slug" : "oral-hygiene",
+    "productCount" : 9,
+    "slug" : "limited-xmas-editions",
     "visible" : true,
-    "visibleCountries" : [ ]
+    "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "600",
+  "contentsAmount" : "360",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -35,14 +35,14 @@
   "disruptor" : null,
   "faqs" : [ ],
   "firstHeadline" : "",
-  "id" : 254,
+  "id" : 677,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
     "contentsAmount" : "1",
     "currency" : "eur",
-    "description" : "",
-    "imageId" : 1260,
-    "matchcode" : "MANA-TC",
+    "description" : "SOULBOTTLE",
+    "imageId" : 223,
+    "matchcode" : "R-SB",
     "priceInformation" : {
       "base" : {
         "amount" : null,
@@ -51,7 +51,7 @@
         "unitId" : null
       },
       "customer" : {
-        "brutto" : 39,
+        "brutto" : 31.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -65,7 +65,7 @@
         "provisionPoints" : 0
       },
       "partner" : {
-        "brutto" : 39,
+        "brutto" : 31.6,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -80,25 +80,25 @@
       }
     },
     "purchasePossible" : true,
-    "slug" : "manadental-travel-case",
-    "title" : "manadental travel case",
+    "slug" : "ringana-soulbottle",
+    "title" : "RINGANA Soulbottle",
     "unitContents" : "Stk."
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "125",
+    "contentsAmount" : "360",
     "currency" : "eur",
-    "description" : "tooth balm",
-    "imageId" : 4635,
-    "matchcode" : "FTB",
+    "description" : "RINGANAchi",
+    "imageId" : 252,
+    "matchcode" : "RE12",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 122.4,
+        "brutto" : 138.3,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 15.3,
+        "brutto" : 49.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -109,10 +109,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 8.9
+        "provisionPoints" : 27
       },
       "partner" : {
-        "brutto" : 15.3,
+        "brutto" : 49.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -123,29 +123,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 8.9
+        "provisionPoints" : 27
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-tooth-balm",
-    "title" : "FRESH tooth balm",
+    "slug" : "ringanachi",
+    "title" : "RINGANAchi",
     "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "125",
+    "contentsAmount" : "360",
     "currency" : "eur",
-    "description" : "tooth oil",
-    "imageId" : 4634,
-    "matchcode" : "BZO",
+    "description" : "RINGANAisi",
+    "imageId" : 263,
+    "matchcode" : "RI12",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 122.4,
+        "brutto" : 154.7,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 15.3,
+        "brutto" : 55.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -156,10 +156,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 8.9
+        "provisionPoints" : 32
       },
       "partner" : {
-        "brutto" : 15.3,
+        "brutto" : 55.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -170,12 +170,12 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 8.9
+        "provisionPoints" : 32
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-tooth-oil",
-    "title" : "FRESH tooth oil",
+    "slug" : "ringanaisi",
+    "title" : "RINGANAisi",
     "unitContents" : "ml"
   } ],
   "infoColor" : null,
@@ -185,39 +185,33 @@
   "mediaGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 642,
-    "mediaId" : 943,
+    "id" : 1168,
+    "mediaId" : 1528,
     "mediaType" : "image"
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
-    "id" : 644,
-    "mediaId" : 944,
+    "id" : 6632,
+    "mediaId" : 10075,
     "mediaType" : "image"
   }, {
-    "caption" : "",
+    "caption" : null,
     "captionLink" : null,
-    "id" : 645,
-    "mediaId" : 945,
-    "mediaType" : "image"
-  }, {
-    "caption" : "",
-    "captionLink" : "corporate/products/care-facts",
-    "id" : 832,
-    "mediaId" : 1212,
-    "mediaType" : "image"
+    "id" : 6642,
+    "mediaId" : 10087,
+    "mediaType" : "video"
   } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 132.8,
+      "brutto" : 138.3,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 79.7,
+      "brutto" : 49.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -228,10 +222,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 38.9
+      "provisionPoints" : 27
     },
     "partner" : {
-      "brutto" : 79.7,
+      "brutto" : 49.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -242,99 +236,95 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 38.9
+      "provisionPoints" : 27
     }
   },
   "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
-  "setContents" : [ {
-    "amount" : 3,
-    "freeOfCharge" : false,
-    "matchcode" : "FTLL"
-  } ],
-  "shortDescription" : "product.FTLL3.shortDescription",
+  "setContents" : [ ],
+  "shortDescription" : "product.RE12-LE-PB.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "manadental-liquid-set-of-3",
+  "slug" : "ringanachi-punch",
   "socialMedia" : {
-    "id" : 254,
-    "imageId" : 943,
-    "text" : "product.FTLL3.socialMedia.text",
-    "title" : "product.FTLL3.socialMedia.title"
+    "id" : 677,
+    "imageId" : 1528,
+    "text" : "product.RE12-LE-PB.socialMedia.text",
+    "title" : "product.RE12-LE-PB.socialMedia.title"
   },
-  "soldOut" : true,
-  "supplementDescription" : "mana liquid",
+  "soldOut" : false,
+  "supplementDescription" : "RINGANAchi",
   "tabs" : [ {
     "anchorName" : null,
-    "description" : "product.FTLL3.tabs0.description",
-    "id" : 821,
+    "description" : "product.RE12-LE-PB.tabs0.description",
+    "id" : 1158,
     "showPrintButton" : false,
-    "title" : "product.FTLL3.tabs0.title"
+    "title" : "product.RE12-LE-PB.tabs0.title"
   }, {
     "anchorName" : null,
-    "description" : "product.FTLL3.tabs1.description",
-    "id" : 822,
+    "description" : "product.RE12-LE-PB.tabs1.description",
+    "id" : 1159,
     "showPrintButton" : false,
-    "title" : "product.FTLL3.tabs1.title"
+    "title" : "product.RE12-LE-PB.tabs1.title"
   }, {
     "anchorName" : null,
-    "description" : "product.FTLL3.tabs2.description",
-    "id" : 823,
+    "description" : "product.RE12-LE-PB.tabs2.description",
+    "id" : 1160,
     "showPrintButton" : false,
-    "title" : "product.FTLL3.tabs2.title"
+    "title" : "product.RE12-LE-PB.tabs2.title"
   }, {
     "anchorName" : null,
-    "description" : "product.FTLL3.tabs3.description",
-    "id" : 824,
+    "description" : "product.RE12-LE-PB.tabs3.description",
+    "id" : 1161,
     "showPrintButton" : false,
-    "title" : "product.FTLL3.tabs3.title"
+    "title" : "product.RE12-LE-PB.tabs3.title"
   } ],
-  "teaserDots" : [ ],
-  "title" : "manadental liquid, Set of 3",
-  "unit" : "Set",
+  "teaserDots" : [ {
+    "backgroundColor" : "#035f30",
+    "borderColor" : "#035f30",
+    "fontSize" : 10,
+    "id" : 397,
+    "lineHeight" : 1,
+    "position" : "top-right",
+    "text" : "LIMITED EDITION",
+    "textColor" : "#ffffff"
+  } ],
+  "title" : "RINGANAchi punch",
+  "unit" : "Pck.",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : 43586,
-  "usp" : "product.FTLL3.usp",
+  "unitId" : 43589,
+  "usp" : "product.RE12-LE-PB.usp",
   "values" : [ {
-    "iconMediaId" : 1120,
-    "name" : "value.value65.name"
+    "iconMediaId" : 1121,
+    "name" : "value.value66.name"
   }, {
-    "iconMediaId" : 1119,
-    "name" : "value.value64.name"
+    "iconMediaId" : 1072,
+    "name" : "value.value17.name"
   }, {
-    "iconMediaId" : 1118,
-    "name" : "value.value63.name"
-  }, {
-    "iconMediaId" : 1117,
-    "name" : "value.value62.name"
-  }, {
-    "iconMediaId" : 6149,
-    "name" : "value.value167.name"
-  }, {
-    "iconMediaId" : 6148,
-    "name" : "value.value166.name"
+    "iconMediaId" : 1065,
+    "name" : "value.value10.name"
   } ],
   "variants" : [ {
     "color" : null,
-    "id" : 798,
+    "id" : 1882,
     "language" : null,
-    "matchcode" : "FTLL",
+    "matchcode" : "RE12-LE-PB",
     "name" : null,
-    "size" : 200,
-    "slug" : "manadental-liquid",
+    "size" : 360,
+    "slug" : "ringanachi-punch",
     "type" : 2,
     "unit" : 6
   }, {
     "color" : null,
-    "id" : 799,
+    "id" : 1883,
     "language" : null,
-    "matchcode" : "FTLL3",
+    "matchcode" : "RE24-LE-PB",
     "name" : null,
-    "size" : 600,
-    "slug" : "manadental-liquid-set-of-3",
+    "size" : 720,
+    "slug" : "ringanachi-punch-set",
     "type" : 2,
     "unit" : 6
   } ]

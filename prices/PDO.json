@@ -27,24 +27,6 @@
     "slug" : "samples",
     "visible" : true,
     "visibleCountries" : [ ]
-  }, {
-    "id" : 93,
-    "infoColorNeeded" : false,
-    "name" : "category.category93.name",
-    "primary" : false,
-    "productCount" : 15,
-    "slug" : "body-care",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 87,
-    "infoColorNeeded" : false,
-    "name" : "category.category87.name",
-    "primary" : false,
-    "productCount" : 14,
-    "slug" : "sport-essentials",
-    "visible" : true,
-    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "5",

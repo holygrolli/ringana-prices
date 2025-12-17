@@ -27,33 +27,6 @@
     "slug" : "samples",
     "visible" : true,
     "visibleCountries" : [ ]
-  }, {
-    "id" : 93,
-    "infoColorNeeded" : false,
-    "name" : "category.category93.name",
-    "primary" : false,
-    "productCount" : 15,
-    "slug" : "body-care",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 82,
-    "infoColorNeeded" : false,
-    "name" : "category.category82.name",
-    "primary" : false,
-    "productCount" : 19,
-    "slug" : "dry-skin",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 77,
-    "infoColorNeeded" : false,
-    "name" : "category.category77.name",
-    "primary" : false,
-    "productCount" : 33,
-    "slug" : "hydrating",
-    "visible" : true,
-    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "15",

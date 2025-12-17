@@ -27,96 +27,6 @@
     "slug" : "samples",
     "visible" : true,
     "visibleCountries" : [ ]
-  }, {
-    "id" : 92,
-    "infoColorNeeded" : false,
-    "name" : "category.category92.name",
-    "primary" : false,
-    "productCount" : 33,
-    "slug" : "facial-care",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 86,
-    "infoColorNeeded" : false,
-    "name" : "category.category86.name",
-    "primary" : false,
-    "productCount" : 25,
-    "slug" : "combination-skin",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 85,
-    "infoColorNeeded" : false,
-    "name" : "category.category85.name",
-    "primary" : false,
-    "productCount" : 18,
-    "slug" : "sensitive-reddened-skin",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 84,
-    "infoColorNeeded" : false,
-    "name" : "category.category84.name",
-    "primary" : false,
-    "productCount" : 18,
-    "slug" : "impure-skin",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 83,
-    "infoColorNeeded" : false,
-    "name" : "category.category83.name",
-    "primary" : false,
-    "productCount" : 20,
-    "slug" : "oily-skin",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 81,
-    "infoColorNeeded" : false,
-    "name" : "category.category81.name",
-    "primary" : false,
-    "productCount" : 25,
-    "slug" : "mature-skin",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 78,
-    "infoColorNeeded" : false,
-    "name" : "category.category78.name",
-    "primary" : false,
-    "productCount" : 12,
-    "slug" : "cleansing",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 77,
-    "infoColorNeeded" : false,
-    "name" : "category.category77.name",
-    "primary" : false,
-    "productCount" : 33,
-    "slug" : "hydrating",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 76,
-    "infoColorNeeded" : false,
-    "name" : "category.category76.name",
-    "primary" : false,
-    "productCount" : 13,
-    "slug" : "toning",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 17,
-    "infoColorNeeded" : false,
-    "name" : "category.category17.name",
-    "primary" : false,
-    "productCount" : 47,
-    "slug" : "fresh",
-    "visible" : true,
-    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "15",
@@ -201,15 +111,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1554.6,
+        "brutto" : 1943.3,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 46.64,
-        "bruttoWithoutDiscount" : 58.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-12-16T22:59:59Z",
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -217,13 +127,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 23.62
+        "provisionPoints" : 32.8
       },
       "partner" : {
-        "brutto" : 46.64,
-        "bruttoWithoutDiscount" : 58.3,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-12-16T22:59:59Z",
+        "brutto" : 58.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -231,7 +141,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 23.62
+        "provisionPoints" : 32.8
       }
     },
     "purchasePossible" : true,
@@ -240,7 +150,7 @@
     "unitContents" : "ml"
   } ],
   "infoColor" : null,
-  "isFreshCosmeticsProduct" : true,
+  "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
   "mediaGallery" : [ {

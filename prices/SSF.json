@@ -51,7 +51,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 47,
+    "productCount" : 45,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -96,7 +96,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category77.name",
     "primary" : false,
-    "productCount" : 33,
+    "productCount" : 31,
     "slug" : "hydrating",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -105,8 +105,8 @@
   "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6544,
   "discountDate" : null,
@@ -345,7 +345,7 @@
       "provisionPoints" : 19.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -360,7 +360,7 @@
     "text" : "product.SSF.socialMedia.text",
     "title" : "product.SSF.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "sunscreen face",
   "tabs" : [ {
     "anchorName" : null,

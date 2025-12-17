@@ -8,7 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category20.name",
     "primary" : true,
-    "productCount" : 4,
+    "productCount" : 3,
     "slug" : "manadental",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -17,7 +17,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category89.name",
     "primary" : false,
-    "productCount" : 8,
+    "productCount" : 6,
     "slug" : "oral-hygiene",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -107,53 +107,6 @@
     "slug" : "manadental-travel-case",
     "title" : "manadental travel case",
     "unitContents" : "Stk."
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "600",
-    "currency" : "eur",
-    "description" : "mana liquid",
-    "imageId" : 943,
-    "matchcode" : "FTLL3",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 132.8,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 79.7,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 38.9
-      },
-      "partner" : {
-        "brutto" : 79.7,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 38.9
-      }
-    },
-    "purchasePossible" : false,
-    "slug" : "manadental-liquid-set-of-3",
-    "title" : "manadental liquid, Set of 3",
-    "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
     "contentsAmount" : "125",

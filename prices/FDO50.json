@@ -32,7 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category17.name",
     "primary" : false,
-    "productCount" : 47,
+    "productCount" : 45,
     "slug" : "fresh",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -50,7 +50,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category93.name",
     "primary" : false,
-    "productCount" : 15,
+    "productCount" : 13,
     "slug" : "body-care",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -215,7 +215,7 @@
         "provisionPoints" : 5.9
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-hand-balm-pocket",
     "title" : "FRESH hand balm pocket",
     "unitContents" : "ml"

@@ -22,60 +22,6 @@
     "slug" : "samples",
     "visible" : true,
     "visibleCountries" : [ ]
-  }, {
-    "id" : 92,
-    "infoColorNeeded" : false,
-    "name" : "category.category92.name",
-    "primary" : false,
-    "productCount" : 33,
-    "slug" : "facial-care",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 86,
-    "infoColorNeeded" : false,
-    "name" : "category.category86.name",
-    "primary" : false,
-    "productCount" : 25,
-    "slug" : "combination-skin",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 82,
-    "infoColorNeeded" : false,
-    "name" : "category.category82.name",
-    "primary" : false,
-    "productCount" : 19,
-    "slug" : "dry-skin",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 81,
-    "infoColorNeeded" : false,
-    "name" : "category.category81.name",
-    "primary" : false,
-    "productCount" : 25,
-    "slug" : "mature-skin",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 77,
-    "infoColorNeeded" : false,
-    "name" : "category.category77.name",
-    "primary" : false,
-    "productCount" : 33,
-    "slug" : "hydrating",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 75,
-    "infoColorNeeded" : false,
-    "name" : "category.category75.name",
-    "primary" : false,
-    "productCount" : 11,
-    "slug" : "lifting",
-    "visible" : true,
-    "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
   "contentsAmount" : "5",
