@@ -32,7 +32,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category89.name",
     "primary" : false,
-    "productCount" : 6,
+    "productCount" : 7,
     "slug" : "oral-hygiene",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -41,8 +41,8 @@
   "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6327,
   "discountDate" : null,
@@ -114,7 +114,7 @@
         "provisionPoints" : 5.3
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-baby-cream",
     "title" : "FRESH baby cream",
     "unitContents" : "ml"
@@ -280,7 +280,7 @@
       "provisionPoints" : 5.3
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -295,7 +295,7 @@
     "text" : "product.RBTG.socialMedia.text",
     "title" : "product.RBTG.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "FRESH BABY",
   "tabs" : [ {
     "anchorName" : null,

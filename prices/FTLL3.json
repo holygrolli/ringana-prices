@@ -1,20 +1,29 @@
 {
-  "matchcode" : "RSBUDDY",
+  "matchcode" : "FTLL3",
   "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ ],
+  "blogPostIds" : [ 189850, 186646, 189265 ],
   "categories" : [ {
-    "id" : 16,
+    "id" : 20,
     "infoColorNeeded" : false,
-    "name" : "category.category16.name",
+    "name" : "category.category20.name",
     "primary" : true,
-    "productCount" : 14,
-    "slug" : "merchandise",
+    "productCount" : 4,
+    "slug" : "manadental",
+    "visible" : true,
+    "visibleCountries" : [ ]
+  }, {
+    "id" : 89,
+    "infoColorNeeded" : false,
+    "name" : "category.category89.name",
+    "primary" : false,
+    "productCount" : 7,
+    "slug" : "oral-hygiene",
     "visible" : true,
     "visibleCountries" : [ ]
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "1",
+  "contentsAmount" : "600",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
@@ -26,26 +35,23 @@
   "disruptor" : null,
   "faqs" : [ ],
   "firstHeadline" : "",
-  "id" : 47,
+  "id" : 254,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : 26,
-      "type" : 2
-    },
-    "contentsAmount" : "520",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "1",
     "currency" : "eur",
-    "description" : "pack cleansing",
-    "imageId" : 1146,
-    "matchcode" : "WPC",
+    "description" : "",
+    "imageId" : 11065,
+    "matchcode" : "MANA-TC",
     "priceInformation" : {
       "base" : {
-        "amount" : 1000,
-        "brutto" : 134.4,
-        "unit" : "g",
-        "unitId" : 812
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
       },
       "customer" : {
-        "brutto" : 69.9,
+        "brutto" : 39,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -56,10 +62,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 39.4
+        "provisionPoints" : 0
       },
       "partner" : {
-        "brutto" : 69.9,
+        "brutto" : 39,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -70,32 +76,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 39.4
+        "provisionPoints" : 0
       }
     },
     "purchasePossible" : true,
-    "slug" : "pack-cleansing",
-    "title" : "FRESH pack cleansing",
-    "unitContents" : "g"
+    "slug" : "manadental-travel-case",
+    "title" : "manadental travel case",
+    "unitContents" : "Stk."
   }, {
-    "additionalUnitPrice" : {
-      "entity" : 26,
-      "type" : 2
-    },
-    "contentsAmount" : "260",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "pack antiox",
-    "imageId" : 1143,
-    "matchcode" : "WPA",
+    "description" : "tooth balm",
+    "imageId" : 4635,
+    "matchcode" : "FTB",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 299.6,
-        "unit" : "g",
-        "unitId" : 812
+        "brutto" : 122.4,
+        "unit" : "ml",
+        "unitId" : 827
       },
       "customer" : {
-        "brutto" : 77.9,
+        "brutto" : 15.3,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -106,10 +109,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 39.3
+        "provisionPoints" : 8.9
       },
       "partner" : {
-        "brutto" : 77.9,
+        "brutto" : 15.3,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -120,32 +123,29 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 39.3
+        "provisionPoints" : 8.9
       }
     },
     "purchasePossible" : true,
-    "slug" : "pack-antiox",
-    "title" : "FRESH pack antiox",
-    "unitContents" : "g"
+    "slug" : "fresh-tooth-balm",
+    "title" : "FRESH tooth balm",
+    "unitContents" : "ml"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : 26,
-      "type" : 2
-    },
-    "contentsAmount" : "260",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "pack balancing",
-    "imageId" : 1145,
-    "matchcode" : "WPB",
+    "description" : "tooth oil",
+    "imageId" : 4634,
+    "matchcode" : "BZO",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 190,
-        "unit" : "g",
-        "unitId" : 812
+        "brutto" : 122.4,
+        "unit" : "ml",
+        "unitId" : 827
       },
       "customer" : {
-        "brutto" : 49.4,
+        "brutto" : 15.3,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -156,10 +156,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28
+        "provisionPoints" : 8.9
       },
       "partner" : {
-        "brutto" : 49.4,
+        "brutto" : 15.3,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -170,13 +170,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28
+        "provisionPoints" : 8.9
       }
     },
     "purchasePossible" : true,
-    "slug" : "pack-balancing",
-    "title" : "FRESH pack balancing",
-    "unitContents" : "g"
+    "slug" : "fresh-tooth-oil",
+    "title" : "FRESH tooth oil",
+    "unitContents" : "ml"
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -185,27 +185,39 @@
   "mediaGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 92,
-    "mediaId" : 220,
+    "id" : 642,
+    "mediaId" : 943,
     "mediaType" : "image"
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 4553,
-    "mediaId" : 6974,
+    "id" : 644,
+    "mediaId" : 944,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 645,
+    "mediaId" : 945,
+    "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : "corporate/products/care-facts",
+    "id" : 832,
+    "mediaId" : 1212,
     "mediaType" : "image"
   } ],
   "nemBackgroundColor" : null,
   "press" : null,
   "priceInformation" : {
     "base" : {
-      "amount" : null,
-      "brutto" : null,
-      "unit" : null,
-      "unitId" : null
+      "amount" : 1000,
+      "brutto" : 132.8,
+      "unit" : "ml",
+      "unitId" : 827
     },
     "customer" : {
-      "brutto" : 18.9,
+      "brutto" : 79.7,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -216,10 +228,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 38.9
     },
     "partner" : {
-      "brutto" : 18.9,
+      "brutto" : 79.7,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -230,46 +242,100 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 38.9
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
-  "setContents" : [ ],
-  "shortDescription" : "product.RSBUDDY.shortDescription",
+  "setContents" : [ {
+    "amount" : 3,
+    "freeOfCharge" : false,
+    "matchcode" : "FTLL"
+  } ],
+  "shortDescription" : "product.FTLL3.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "ringana-shaker-buddy",
+  "slug" : "manadental-liquid-set-of-3",
   "socialMedia" : {
-    "id" : 47,
-    "imageId" : 4138,
-    "text" : "product.RSBUDDY.socialMedia.text",
-    "title" : "product.RSBUDDY.socialMedia.title"
+    "id" : 254,
+    "imageId" : 943,
+    "text" : "product.FTLL3.socialMedia.text",
+    "title" : "product.FTLL3.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "",
+  "supplementDescription" : "mana liquid",
   "tabs" : [ {
     "anchorName" : null,
-    "description" : "product.RSBUDDY.tabs0.description",
-    "id" : 180,
+    "description" : "product.FTLL3.tabs0.description",
+    "id" : 821,
     "showPrintButton" : false,
-    "title" : "product.RSBUDDY.tabs0.title"
+    "title" : "product.FTLL3.tabs0.title"
   }, {
     "anchorName" : null,
-    "description" : "product.RSBUDDY.tabs1.description",
-    "id" : 667,
+    "description" : "product.FTLL3.tabs1.description",
+    "id" : 822,
     "showPrintButton" : false,
-    "title" : "product.RSBUDDY.tabs1.title"
+    "title" : "product.FTLL3.tabs1.title"
+  }, {
+    "anchorName" : null,
+    "description" : "product.FTLL3.tabs2.description",
+    "id" : 823,
+    "showPrintButton" : false,
+    "title" : "product.FTLL3.tabs2.title"
+  }, {
+    "anchorName" : null,
+    "description" : "product.FTLL3.tabs3.description",
+    "id" : 824,
+    "showPrintButton" : false,
+    "title" : "product.FTLL3.tabs3.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "RINGANA shaker buddy",
-  "unit" : "Stk.",
-  "unitContents" : "Stk.",
-  "unitContentsId" : 996,
-  "unitId" : 996,
-  "usp" : "product.RSBUDDY.usp",
-  "values" : [ ],
-  "variants" : [ ]
+  "title" : "manadental liquid, Set of 3",
+  "unit" : "Set",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 43586,
+  "usp" : "product.FTLL3.usp",
+  "values" : [ {
+    "iconMediaId" : 1120,
+    "name" : "value.value65.name"
+  }, {
+    "iconMediaId" : 1119,
+    "name" : "value.value64.name"
+  }, {
+    "iconMediaId" : 1118,
+    "name" : "value.value63.name"
+  }, {
+    "iconMediaId" : 1117,
+    "name" : "value.value62.name"
+  }, {
+    "iconMediaId" : 6149,
+    "name" : "value.value167.name"
+  }, {
+    "iconMediaId" : 6148,
+    "name" : "value.value166.name"
+  } ],
+  "variants" : [ {
+    "color" : null,
+    "id" : 798,
+    "language" : null,
+    "matchcode" : "FTLL",
+    "name" : null,
+    "size" : 200,
+    "slug" : "manadental-liquid",
+    "type" : 2,
+    "unit" : 6
+  }, {
+    "color" : null,
+    "id" : 799,
+    "language" : null,
+    "matchcode" : "FTLL3",
+    "name" : null,
+    "size" : 600,
+    "slug" : "manadental-liquid-set-of-3",
+    "type" : 2,
+    "unit" : 6
+  } ]
 }
