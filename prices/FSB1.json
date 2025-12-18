@@ -17,8 +17,8 @@
   "contentsAmount" : "45",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -218,7 +218,7 @@
       "provisionPoints" : 14.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -249,7 +249,7 @@
     "text" : "product.FSB1.socialMedia.text",
     "title" : "product.FSB1.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "SAMPLE BOX",
   "tabs" : [ {
     "anchorName" : null,

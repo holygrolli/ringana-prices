@@ -32,8 +32,8 @@
   "contentsAmount" : "50",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6324,
   "discountDate" : null,
@@ -275,7 +275,7 @@
       "provisionPoints" : 5.8
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -290,7 +290,7 @@
     "text" : "product.RBDC.socialMedia.text",
     "title" : "product.RBDC.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "FRESH BABY",
   "tabs" : [ {
     "anchorName" : null,
