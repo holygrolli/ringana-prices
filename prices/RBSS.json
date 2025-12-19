@@ -179,7 +179,7 @@
         "provisionPoints" : 5.3
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-baby-cream",
     "title" : "FRESH baby cream",
     "unitContents" : "ml"

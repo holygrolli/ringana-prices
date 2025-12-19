@@ -59,8 +59,8 @@
   "contentsAmount" : "125",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6342,
   "discountDate" : null,
@@ -251,7 +251,7 @@
       "provisionPoints" : 17
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -266,7 +266,7 @@
     "text" : "product.FLL.socialMedia.text",
     "title" : "product.FLL.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "light legs",
   "tabs" : [ {
     "anchorName" : "",
