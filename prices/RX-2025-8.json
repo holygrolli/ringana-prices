@@ -17,7 +17,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category628.name",
     "primary" : false,
-    "productCount" : 9,
+    "productCount" : 8,
     "slug" : "limited-xmas-editions",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -70,10 +70,10 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 69.6,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 55.68,
+      "bruttoWithoutDiscount" : 69.6,
+      "discountPercentage" : 20,
+      "discountUntil" : "2026-01-29T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -81,13 +81,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 28.8
+      "provisionPoints" : 20.74
     },
     "partner" : {
-      "brutto" : 69.6,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 55.68,
+      "bruttoWithoutDiscount" : 69.6,
+      "discountPercentage" : 20,
+      "discountUntil" : "2026-01-29T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -95,7 +95,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 28.8
+      "provisionPoints" : 20.74
     }
   },
   "purchasePossible" : true,
