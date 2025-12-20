@@ -95,7 +95,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category331.name",
     "primary" : false,
-    "productCount" : 5,
+    "productCount" : 4,
     "slug" : "men",
     "visible" : false,
     "visibleCountries" : [ ]
@@ -340,15 +340,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 970,
+      "brutto" : 776,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 48.5,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 38.8,
+      "bruttoWithoutDiscount" : 48.5,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-12-21T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -356,13 +356,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 29.8
+      "provisionPoints" : 21.46
     },
     "partner" : {
-      "brutto" : 48.5,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
+      "brutto" : 38.8,
+      "bruttoWithoutDiscount" : 48.5,
+      "discountPercentage" : 20,
+      "discountUntil" : "2025-12-21T22:59:59Z",
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -370,7 +370,7 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 29.8
+      "provisionPoints" : 21.46
     }
   },
   "purchasePossible" : true,
