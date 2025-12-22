@@ -70,7 +70,7 @@
         "provisionPoints" : 3
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-sample-box-body",
     "title" : "FRESH sample box body",
     "unitContents" : null
