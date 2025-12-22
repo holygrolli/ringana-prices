@@ -1,0 +1,212 @@
+{
+  "matchcode" : "MANA-BUNDLE",
+  "additionalUnitPrice" : null,
+  "awards" : [ ],
+  "blogPostIds" : [ 190653, 188815, 189642 ],
+  "categories" : [ {
+    "id" : 20,
+    "infoColorNeeded" : false,
+    "name" : "category.category20.name",
+    "primary" : true,
+    "productCount" : 5,
+    "slug" : "manadental",
+    "visible" : true,
+    "visibleCountries" : [ ]
+  }, {
+    "id" : 89,
+    "infoColorNeeded" : false,
+    "name" : "category.category89.name",
+    "primary" : false,
+    "productCount" : 8,
+    "slug" : "oral-hygiene",
+    "visible" : true,
+    "visibleCountries" : [ ]
+  } ],
+  "contentBlock" : null,
+  "contentsAmount" : "200",
+  "countryIso" : "DE",
+  "currency" : "eur",
+  "deliveryStatus" : "Coming soon",
+  "deliveryStatusId" : 103177,
+  "deliveryStatusId2" : null,
+  "descriptionImageId" : null,
+  "discountDate" : null,
+  "discountPercentage" : null,
+  "disruptor" : null,
+  "faqs" : [ {
+    "answer" : "product.MANA-BUNDLE.faqs1766125679126.answer",
+    "id" : 2397,
+    "question" : "product.MANA-BUNDLE.faqs1766125679126.question"
+  }, {
+    "answer" : "product.MANA-BUNDLE.faqs1766125679127.answer",
+    "id" : 2398,
+    "question" : "product.MANA-BUNDLE.faqs1766125679127.question"
+  }, {
+    "answer" : "product.MANA-BUNDLE.faqs1766125679128.answer",
+    "id" : 2399,
+    "question" : "product.MANA-BUNDLE.faqs1766125679128.question"
+  }, {
+    "answer" : "product.MANA-BUNDLE.faqs1766125679129.answer",
+    "id" : 2400,
+    "question" : "product.MANA-BUNDLE.faqs1766125679129.question"
+  }, {
+    "answer" : "product.MANA-BUNDLE.faqs1766125679131.answer",
+    "id" : 2401,
+    "question" : "product.MANA-BUNDLE.faqs1766125679131.question"
+  }, {
+    "answer" : "product.MANA-BUNDLE.faqs1766125679132.answer",
+    "id" : 2402,
+    "question" : "product.MANA-BUNDLE.faqs1766125679132.question"
+  } ],
+  "firstHeadline" : "product.MANA-BUNDLE.firstHeadline",
+  "id" : 5052,
+  "idealSupplements" : [ ],
+  "infoColor" : null,
+  "isFreshCosmeticsProduct" : false,
+  "isMerchandise" : false,
+  "maxPerCart" : 100,
+  "mediaGallery" : [ {
+    "caption" : "product.MANA-BUNDLE.imageGallery1766125679127.caption",
+    "captionLink" : "blog/ringana-x-manadental/",
+    "id" : 7226,
+    "mediaId" : 11164,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 7227,
+    "mediaId" : 11165,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 7228,
+    "mediaId" : 1256,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 7259,
+    "mediaId" : 11166,
+    "mediaType" : "image"
+  } ],
+  "nemBackgroundColor" : null,
+  "press" : null,
+  "priceInformation" : {
+    "base" : {
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
+    },
+    "customer" : {
+      "brutto" : 222.6,
+      "bruttoWithoutDiscount" : 318,
+      "discountPercentage" : 30,
+      "discountUntil" : "2026-01-07T22:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 59.22
+    },
+    "partner" : {
+      "brutto" : 222.6,
+      "bruttoWithoutDiscount" : 318,
+      "discountPercentage" : 30,
+      "discountUntil" : "2026-01-07T22:59:59Z",
+      "initialPurchase" : {
+        "brutto" : null,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "provisionPoints" : null
+      },
+      "provisionPoints" : 59.22
+    }
+  },
+  "purchasePossible" : false,
+  "searchable" : true,
+  "secondHeadline" : "",
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "FTLL-SK"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "MANA-D"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "MANA-TC"
+  } ],
+  "shortDescription" : "product.MANA-BUNDLE.shortDescription",
+  "showOnSpecialOffer" : 2,
+  "singleShipmentOnly" : false,
+  "skinTypes" : [ ],
+  "slug" : "manadental-bundle",
+  "socialMedia" : {
+    "id" : 4821,
+    "imageId" : 11164,
+    "text" : "product.MANA-BUNDLE.socialMedia.text",
+    "title" : "product.MANA-BUNDLE.socialMedia.title"
+  },
+  "soldOut" : false,
+  "supplementDescription" : "manadental",
+  "tabs" : [ {
+    "anchorName" : "",
+    "description" : "product.MANA-BUNDLE.tabs1766125679127.description",
+    "id" : 5953,
+    "showPrintButton" : false,
+    "title" : "product.MANA-BUNDLE.tabs1766125679127.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.MANA-BUNDLE.tabs1766125679128.description",
+    "id" : 5954,
+    "showPrintButton" : false,
+    "title" : "product.MANA-BUNDLE.tabs1766125679128.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.MANA-BUNDLE.tabs1766125679129.description",
+    "id" : 5955,
+    "showPrintButton" : false,
+    "title" : "product.MANA-BUNDLE.tabs1766125679129.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.MANA-BUNDLE.tabs1766125679130.description",
+    "id" : 5956,
+    "showPrintButton" : false,
+    "title" : "product.MANA-BUNDLE.tabs1766125679130.title"
+  } ],
+  "teaserDots" : [ ],
+  "title" : "manadental bundle",
+  "unit" : "Stk.",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 996,
+  "usp" : "product.MANA-BUNDLE.usp",
+  "values" : [ {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  }, {
+    "iconMediaId" : 1088,
+    "name" : "value.value33.name"
+  }, {
+    "iconMediaId" : 1117,
+    "name" : "value.value62.name"
+  }, {
+    "iconMediaId" : 1118,
+    "name" : "value.value63.name"
+  }, {
+    "iconMediaId" : 1119,
+    "name" : "value.value64.name"
+  }, {
+    "iconMediaId" : 1120,
+    "name" : "value.value65.name"
+  } ],
+  "variants" : [ ]
+}

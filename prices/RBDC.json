@@ -109,7 +109,7 @@
         "provisionPoints" : 5.3
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-baby-bum-foam",
     "title" : "FRESH baby bum foam",
     "unitContents" : "ml"
