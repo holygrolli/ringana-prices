@@ -72,7 +72,7 @@
     },
     "purchasePossible" : true,
     "slug" : "pack-shaker",
-    "title" : "RINGANA Shaker",
+    "title" : "RINGANA shaker",
     "unitContents" : "Stk."
   }, {
     "additionalUnitPrice" : {
@@ -255,7 +255,7 @@
     "title" : "product.RSHBB.tabs2.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "RINGANA Shaker Ball",
+  "title" : "RINGANA shaker ball",
   "unit" : "Stk.",
   "unitContents" : "Stk.",
   "unitContentsId" : 996,

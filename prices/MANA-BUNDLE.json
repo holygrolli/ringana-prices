@@ -184,10 +184,10 @@
   } ],
   "teaserDots" : [ ],
   "title" : "manadental bundle",
-  "unit" : "Stk.",
+  "unit" : "Set",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : 996,
+  "unitId" : 43586,
   "usp" : "product.MANA-BUNDLE.usp",
   "values" : [ {
     "iconMediaId" : 1097,

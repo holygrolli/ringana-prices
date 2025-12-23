@@ -99,7 +99,7 @@
     },
     "purchasePossible" : true,
     "slug" : "ringana-soulbottle",
-    "title" : "RINGANA Soulbottle",
+    "title" : "RINGANA soulbottle",
     "unitContents" : "Stk."
   }, {
     "additionalUnitPrice" : {
@@ -211,6 +211,12 @@
     "captionLink" : null,
     "id" : 114,
     "mediaId" : 240,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 7292,
+    "mediaId" : 11197,
     "mediaType" : "image"
   }, {
     "caption" : "",
