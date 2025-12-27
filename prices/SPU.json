@@ -113,7 +113,7 @@
         "provisionPoints" : 19.44
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "ringanachi",
     "title" : "RINGANAchi",
     "unitContents" : "ml"

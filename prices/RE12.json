@@ -58,8 +58,8 @@
   "contentsAmount" : "360",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6313,
   "discountDate" : null,
@@ -233,7 +233,7 @@
       "provisionPoints" : 19.44
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -248,7 +248,7 @@
     "text" : "product.RE12.socialMedia.text",
     "title" : "product.RE12.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "RINGANAchi",
   "tabs" : [ {
     "anchorName" : null,
