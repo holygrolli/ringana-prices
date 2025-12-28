@@ -130,15 +130,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 110.6,
+        "brutto" : 138.3,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 39.84,
-        "bruttoWithoutDiscount" : 49.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-12-27T22:59:59Z",
+        "brutto" : 49.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -146,13 +146,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 19.44
+        "provisionPoints" : 27
       },
       "partner" : {
-        "brutto" : 39.84,
-        "bruttoWithoutDiscount" : 49.8,
-        "discountPercentage" : 20,
-        "discountUntil" : "2025-12-27T22:59:59Z",
+        "brutto" : 49.8,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -160,10 +160,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 19.44
+        "provisionPoints" : 27
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "ringanachi",
     "title" : "RINGANAchi",
     "unitContents" : "ml"
@@ -180,15 +180,15 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 92.5,
+        "brutto" : 74,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 51.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 41.44,
+        "bruttoWithoutDiscount" : 51.8,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-12-31T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -196,13 +196,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29
+        "provisionPoints" : 20.88
       },
       "partner" : {
-        "brutto" : 51.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 41.44,
+        "bruttoWithoutDiscount" : 51.8,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-12-31T22:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -210,7 +210,7 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29
+        "provisionPoints" : 20.88
       }
     },
     "purchasePossible" : true,
