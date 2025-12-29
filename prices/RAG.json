@@ -149,56 +149,6 @@
   "firstHeadline" : "product.RAG.firstHeadline",
   "id" : 2082,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : 90,
-      "type" : 1
-    },
-    "contentsAmount" : "37,1",
-    "currency" : "eur",
-    "description" : "beauty & hair",
-    "imageId" : 8033,
-    "matchcode" : "CBH",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 1571.4,
-        "unit" : "g",
-        "unitId" : 812
-      },
-      "customer" : {
-        "brutto" : 58.3,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 32.6
-      },
-      "partner" : {
-        "brutto" : 58.3,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 32.6
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "caps-beautyhair",
-    "title" : "CAPS beauty & hair",
-    "unitContents" : "g"
-  }, {
     "additionalUnitPrice" : null,
     "contentsAmount" : "125",
     "currency" : "eur",
@@ -291,6 +241,53 @@
     "purchasePossible" : true,
     "slug" : "fresh-hydro-serum",
     "title" : "FRESH hydro serum",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "30",
+    "currency" : "eur",
+    "description" : "anti wrinkle",
+    "imageId" : 8032,
+    "matchcode" : "BSA",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 2016,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 60.48,
+        "bruttoWithoutDiscount" : 75.6,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-12-31T22:59:59Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 30.96
+      },
+      "partner" : {
+        "brutto" : 60.48,
+        "bruttoWithoutDiscount" : 75.6,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-12-31T22:59:59Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 30.96
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-anti-wrinkle-serum",
+    "title" : "FRESH anti wrinkle serum",
     "unitContents" : "ml"
   } ],
   "infoColor" : null,

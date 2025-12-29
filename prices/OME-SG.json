@@ -37,36 +37,41 @@
   "contentBlock" : {
     "buttonLink" : "product.OME-SG.contentBlock.buttonLink",
     "buttonText" : "product.OME-SG.contentBlock.buttonText",
-    "contentBlockButtonTypes" : [ ],
+    "contentBlockButtonTypes" : [ {
+      "contentBlockId" : 1,
+      "id" : 26,
+      "language" : "en",
+      "type" : 4
+    } ],
     "contentBlockItems" : [ {
-      "description" : null,
+      "description" : "product.OME-SG.contentBlockItem1767015146430.description",
       "id" : 1,
-      "link" : "",
+      "link" : "product.OME-SG.contentBlockItem1767015146430.link",
       "text" : "product.OME-SG.contentBlockItem0.text"
     }, {
-      "description" : null,
+      "description" : "product.OME-SG.contentBlockItem1767015146431.description",
       "id" : 2,
-      "link" : "",
+      "link" : "product.OME-SG.contentBlockItem1767015146431.link",
       "text" : "product.OME-SG.contentBlockItem1.text"
     }, {
-      "description" : null,
+      "description" : "product.OME-SG.contentBlockItem1767015146432.description",
       "id" : 3,
-      "link" : "",
+      "link" : "product.OME-SG.contentBlockItem1767015146432.link",
       "text" : "product.OME-SG.contentBlockItem2.text"
     }, {
-      "description" : null,
+      "description" : "product.OME-SG.contentBlockItem1767015146433.description",
       "id" : 4,
-      "link" : "",
+      "link" : "product.OME-SG.contentBlockItem1767015146433.link",
       "text" : "product.OME-SG.contentBlockItem3.text"
     }, {
-      "description" : null,
+      "description" : "product.OME-SG.contentBlockItem1767015146434.description",
       "id" : 5,
-      "link" : "",
+      "link" : "product.OME-SG.contentBlockItem1767015146434.link",
       "text" : "product.OME-SG.contentBlockItem4.text"
     }, {
-      "description" : null,
+      "description" : "product.OME-SG.contentBlockItem1767015146435.description",
       "id" : 6,
-      "link" : "",
+      "link" : "product.OME-SG.contentBlockItem1767015146435.link",
       "text" : "product.OME-SG.contentBlockItem5.text"
     } ],
     "id" : 1,
@@ -332,25 +337,25 @@
   "soldOut" : false,
   "supplementDescription" : "BEYOND omega",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.OME-SG.tabs2785.description",
     "id" : 2785,
     "showPrintButton" : false,
     "title" : "product.OME-SG.tabs2785.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.OME-SG.tabs2786.description",
     "id" : 2786,
     "showPrintButton" : true,
     "title" : "product.OME-SG.tabs2786.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.OME-SG.tabs2787.description",
     "id" : 2787,
     "showPrintButton" : false,
     "title" : "product.OME-SG.tabs2787.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.OME-SG.tabs2788.description",
     "id" : 2788,
     "showPrintButton" : false,

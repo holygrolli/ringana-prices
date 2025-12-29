@@ -180,6 +180,12 @@
     "id" : 152,
     "mediaId" : 312,
     "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 7330,
+    "mediaId" : 11233,
+    "mediaType" : "video"
   } ],
   "nemBackgroundColor" : null,
   "press" : null,

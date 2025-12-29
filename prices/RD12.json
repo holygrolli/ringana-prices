@@ -230,12 +230,6 @@
   }, {
     "caption" : "",
     "captionLink" : null,
-    "id" : 115,
-    "mediaId" : 241,
-    "mediaType" : "image"
-  }, {
-    "caption" : "",
-    "captionLink" : null,
     "id" : 117,
     "mediaId" : 243,
     "mediaType" : "image"
@@ -251,6 +245,12 @@
     "id" : 119,
     "mediaId" : 247,
     "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 7327,
+    "mediaId" : 11232,
+    "mediaType" : "video"
   } ],
   "nemBackgroundColor" : null,
   "press" : null,
