@@ -16,6 +16,15 @@
     "visible" : true,
     "visibleCountries" : [ ]
   }, {
+    "id" : 727,
+    "infoColorNeeded" : false,
+    "name" : "category.category727.name",
+    "primary" : false,
+    "productCount" : 2,
+    "slug" : "refresh-your-habits",
+    "visible" : false,
+    "visibleCountries" : [ ]
+  }, {
     "id" : 73,
     "infoColorNeeded" : false,
     "name" : "category.category73.name",

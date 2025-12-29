@@ -363,31 +363,31 @@
   "soldOut" : false,
   "supplementDescription" : "sunscreen face",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.SSF.tabs0.description",
     "id" : 507,
     "showPrintButton" : false,
     "title" : "product.SSF.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.SSF.tabs1.description",
     "id" : 508,
     "showPrintButton" : true,
     "title" : "product.SSF.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.SSF.tabs2.description",
     "id" : 509,
     "showPrintButton" : false,
     "title" : "product.SSF.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.SSF.tabs3.description",
     "id" : 510,
     "showPrintButton" : false,
     "title" : "product.SSF.tabs3.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.SSF.tabs3907.description",
     "id" : 3907,
     "showPrintButton" : false,

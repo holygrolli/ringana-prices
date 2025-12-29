@@ -18,7 +18,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category497.name",
     "primary" : true,
-    "productCount" : 5,
+    "productCount" : 4,
     "slug" : "specials",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -36,7 +36,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category628.name",
     "primary" : false,
-    "productCount" : 5,
+    "productCount" : 4,
     "slug" : "limited-xmas-editions",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -56,53 +56,6 @@
   "firstHeadline" : "",
   "id" : 564,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "30",
-    "currency" : "eur",
-    "description" : "overnight",
-    "imageId" : 679,
-    "matchcode" : "BCN",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 2650,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 79.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 46.7
-      },
-      "partner" : {
-        "brutto" : 79.5,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 46.7
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-overnight-face-treatment",
-    "title" : "FRESH overnight face treatment",
-    "unitContents" : "ml"
-  }, {
     "additionalUnitPrice" : null,
     "contentsAmount" : "125",
     "currency" : "eur",
@@ -148,6 +101,100 @@
     "purchasePossible" : true,
     "slug" : "fresh-hand-balm",
     "title" : "FRESH hand balm",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "200",
+    "currency" : "eur",
+    "description" : "scrub",
+    "imageId" : 8035,
+    "matchcode" : "FSC",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 238,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 47.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29
+      },
+      "partner" : {
+        "brutto" : 47.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-scrub",
+    "title" : "FRESH scrub face & body",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "200",
+    "currency" : "eur",
+    "description" : "light",
+    "imageId" : 9317,
+    "matchcode" : "BML",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 147.2,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 29.44,
+        "bruttoWithoutDiscount" : 36.8,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-12-31T22:59:59Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 14.26
+      },
+      "partner" : {
+        "brutto" : 29.44,
+        "bruttoWithoutDiscount" : 36.8,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-12-31T22:59:59Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 14.26
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-body-milk-light",
+    "title" : "FRESH body milk light ",
     "unitContents" : "ml"
   } ],
   "infoColor" : null,

@@ -8,7 +8,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category497.name",
     "primary" : true,
-    "productCount" : 5,
+    "productCount" : 4,
     "slug" : "specials",
     "visible" : true,
     "visibleCountries" : [ ]
@@ -26,7 +26,7 @@
     "infoColorNeeded" : false,
     "name" : "category.category628.name",
     "primary" : false,
-    "productCount" : 5,
+    "productCount" : 4,
     "slug" : "limited-xmas-editions",
     "visible" : true,
     "visibleCountries" : [ "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GI", "GR", "HK", "HR", "HU", "IC", "IE", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "ZA" ]
@@ -47,20 +47,20 @@
   "id" : 532,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "15",
+    "contentsAmount" : "125",
     "currency" : "eur",
-    "description" : "sample",
-    "imageId" : 2489,
-    "matchcode" : "PZO",
+    "description" : "hand balm",
+    "imageId" : 9679,
+    "matchcode" : "BHB",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 146.6,
+        "brutto" : 196,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 2.2,
+        "brutto" : 24.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -71,10 +71,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 1.1
+        "provisionPoints" : 13.7
       },
       "partner" : {
-        "brutto" : 2.2,
+        "brutto" : 24.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -85,12 +85,106 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 1.1
+        "provisionPoints" : 13.7
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-tooth-oil-sample",
-    "title" : "FRESH tooth oil sample",
+    "slug" : "fresh-hand-balm",
+    "title" : "FRESH hand balm",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "255",
+    "currency" : "eur",
+    "description" : "soap liquid",
+    "imageId" : 567,
+    "matchcode" : "FSLP",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 80,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 20.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 11.6
+      },
+      "partner" : {
+        "brutto" : 20.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 11.6
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-soap-liquid",
+    "title" : "FRESH soap liquid",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "200",
+    "currency" : "eur",
+    "description" : "scrub",
+    "imageId" : 8035,
+    "matchcode" : "FSC",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 238,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 47.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29
+      },
+      "partner" : {
+        "brutto" : 47.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 29
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-scrub",
+    "title" : "FRESH scrub face & body",
     "unitContents" : "ml"
   } ],
   "infoColor" : null,

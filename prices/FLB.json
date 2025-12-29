@@ -190,6 +190,53 @@
     "slug" : "fresh-illuminating-enzyme-mask",
     "title" : "FRESH illuminating enzyme mask",
     "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "125",
+    "currency" : "eur",
+    "description" : "cleanser",
+    "imageId" : 750,
+    "matchcode" : "BRM",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 212,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 26.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 14.4
+      },
+      "partner" : {
+        "brutto" : 26.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 14.4
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-cleanser",
+    "title" : "FRESH cleanser",
+    "unitContents" : "ml"
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : true,
