@@ -299,25 +299,25 @@
   "soldOut" : false,
   "supplementDescription" : "MEAL REPLACEMENT",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.D-EAT.tabs0.description",
     "id" : 212,
     "showPrintButton" : false,
     "title" : "product.D-EAT.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.D-EAT.tabs1.description",
     "id" : 213,
     "showPrintButton" : true,
     "title" : "product.D-EAT.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.D-EAT.tabs2.description",
     "id" : 214,
     "showPrintButton" : false,
     "title" : "product.D-EAT.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.D-EAT.tabs3.description",
     "id" : 215,
     "showPrintButton" : false,

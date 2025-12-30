@@ -134,15 +134,11 @@
   "setContents" : [ {
     "amount" : 1,
     "freeOfCharge" : false,
-    "matchcode" : "FTLL-SK"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "MANA-D"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
     "matchcode" : "MANA-TC"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "MANA-SK"
   } ],
   "shortDescription" : "product.MANA-BUNDLE.shortDescription",
   "showOnSpecialOffer" : 2,
