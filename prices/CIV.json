@@ -278,25 +278,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS immu",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CIV.tabs0.description",
     "id" : 348,
     "showPrintButton" : false,
     "title" : "product.CIV.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CIV.tabs1.description",
     "id" : 349,
     "showPrintButton" : true,
     "title" : "product.CIV.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CIV.tabs2.description",
     "id" : 350,
     "showPrintButton" : false,
     "title" : "product.CIV.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CIV.tabs3.description",
     "id" : 351,
     "showPrintButton" : false,

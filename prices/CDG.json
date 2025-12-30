@@ -287,25 +287,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS d-gest",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CDG.tabs0.description",
     "id" : 336,
     "showPrintButton" : false,
     "title" : "product.CDG.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CDG.tabs1.description",
     "id" : 337,
     "showPrintButton" : true,
     "title" : "product.CDG.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CDG.tabs2.description",
     "id" : 338,
     "showPrintButton" : false,
     "title" : "product.CDG.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CDG.tabs3.description",
     "id" : 339,
     "showPrintButton" : false,

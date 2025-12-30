@@ -44,34 +44,34 @@
       "type" : 4
     } ],
     "contentBlockItems" : [ {
-      "description" : "product.OME-SG.contentBlockItem1767015146430.description",
+      "description" : null,
       "id" : 1,
-      "link" : "product.OME-SG.contentBlockItem1767015146430.link",
+      "link" : null,
       "text" : "product.OME-SG.contentBlockItem0.text"
     }, {
-      "description" : "product.OME-SG.contentBlockItem1767015146431.description",
+      "description" : null,
       "id" : 2,
-      "link" : "product.OME-SG.contentBlockItem1767015146431.link",
+      "link" : null,
       "text" : "product.OME-SG.contentBlockItem1.text"
     }, {
-      "description" : "product.OME-SG.contentBlockItem1767015146432.description",
+      "description" : null,
       "id" : 3,
-      "link" : "product.OME-SG.contentBlockItem1767015146432.link",
+      "link" : null,
       "text" : "product.OME-SG.contentBlockItem2.text"
     }, {
-      "description" : "product.OME-SG.contentBlockItem1767015146433.description",
+      "description" : null,
       "id" : 4,
-      "link" : "product.OME-SG.contentBlockItem1767015146433.link",
+      "link" : null,
       "text" : "product.OME-SG.contentBlockItem3.text"
     }, {
-      "description" : "product.OME-SG.contentBlockItem1767015146434.description",
+      "description" : null,
       "id" : 5,
-      "link" : "product.OME-SG.contentBlockItem1767015146434.link",
+      "link" : null,
       "text" : "product.OME-SG.contentBlockItem4.text"
     }, {
-      "description" : "product.OME-SG.contentBlockItem1767015146435.description",
+      "description" : null,
       "id" : 6,
-      "link" : "product.OME-SG.contentBlockItem1767015146435.link",
+      "link" : null,
       "text" : "product.OME-SG.contentBlockItem5.text"
     } ],
     "id" : 1,

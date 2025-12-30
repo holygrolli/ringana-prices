@@ -144,6 +144,56 @@
     "slug" : "beyond-omega",
     "title" : "BEYOND omega",
     "unitContents" : "g"
+  }, {
+    "additionalUnitPrice" : {
+      "entity" : 14,
+      "type" : 2
+    },
+    "contentsAmount" : "560",
+    "currency" : "eur",
+    "description" : "protein",
+    "imageId" : 7014,
+    "matchcode" : "SPR",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 74,
+        "unit" : "g",
+        "unitId" : 812
+      },
+      "customer" : {
+        "brutto" : 41.44,
+        "bruttoWithoutDiscount" : 51.8,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-12-31T22:59:59Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 20.88
+      },
+      "partner" : {
+        "brutto" : 41.44,
+        "bruttoWithoutDiscount" : 51.8,
+        "discountPercentage" : 20,
+        "discountUntil" : "2025-12-31T22:59:59Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 20.88
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "sport-protein",
+    "title" : "SPORT protein",
+    "unitContents" : "g"
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,

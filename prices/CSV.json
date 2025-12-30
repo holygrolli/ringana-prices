@@ -302,25 +302,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS protect",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CSV.tabs0.description",
     "id" : 324,
     "showPrintButton" : false,
     "title" : "product.CSV.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CSV.tabs1.description",
     "id" : 325,
     "showPrintButton" : true,
     "title" : "product.CSV.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CSV.tabs2.description",
     "id" : 326,
     "showPrintButton" : false,
     "title" : "product.CSV.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CSV.tabs3.description",
     "id" : 327,
     "showPrintButton" : false,

@@ -287,25 +287,25 @@
   "soldOut" : false,
   "supplementDescription" : "CAPS hydro",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CUV.tabs0.description",
     "id" : 342,
     "showPrintButton" : false,
     "title" : "product.CUV.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CUV.tabs1.description",
     "id" : 344,
     "showPrintButton" : true,
     "title" : "product.CUV.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CUV.tabs2.description",
     "id" : 346,
     "showPrintButton" : false,
     "title" : "product.CUV.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.CUV.tabs3.description",
     "id" : 347,
     "showPrintButton" : false,
