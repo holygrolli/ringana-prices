@@ -31,14 +31,18 @@
   "contentsAmount" : "200",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ {
+    "answer" : "product.FTLL.faqs7.answer",
+    "id" : 98,
+    "question" : "product.FTLL.faqs7.question"
+  }, {
     "answer" : "product.FTLL.faqs8.answer",
     "id" : 99,
     "question" : "product.FTLL.faqs8.question"
@@ -50,10 +54,6 @@
     "answer" : "product.FTLL.faqs6.answer",
     "id" : 97,
     "question" : "product.FTLL.faqs6.question"
-  }, {
-    "answer" : "product.FTLL.faqs7.answer",
-    "id" : 98,
-    "question" : "product.FTLL.faqs7.question"
   } ],
   "firstHeadline" : "",
   "id" : 258,
@@ -233,15 +233,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 118,
+      "brutto" : 147.5,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 23.6,
-      "bruttoWithoutDiscount" : 29.5,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-12-31T22:59:59Z",
+      "brutto" : 29.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -249,13 +249,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 11.52
+      "provisionPoints" : 16
     },
     "partner" : {
-      "brutto" : 23.6,
-      "bruttoWithoutDiscount" : 29.5,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-12-31T22:59:59Z",
+      "brutto" : 29.5,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -263,10 +263,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 11.52
+      "provisionPoints" : 16
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -281,7 +281,7 @@
     "text" : "product.FTLL.socialMedia.text",
     "title" : "product.FTLL.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "mana liquid",
   "tabs" : [ {
     "anchorName" : "",

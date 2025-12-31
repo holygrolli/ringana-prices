@@ -213,7 +213,7 @@
         "provisionPoints" : 21.31
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-adds-repair",
     "title" : "ADDS repair",
     "unitContents" : "ml"

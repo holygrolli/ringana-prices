@@ -26,8 +26,8 @@
   "contentsAmount" : "600",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -245,7 +245,7 @@
       "provisionPoints" : 38.9
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -264,7 +264,7 @@
     "text" : "product.FTLL3.socialMedia.text",
     "title" : "product.FTLL3.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "mana liquid",
   "tabs" : [ {
     "anchorName" : null,
