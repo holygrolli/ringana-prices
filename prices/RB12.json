@@ -93,8 +93,8 @@
   "contentsAmount" : "360",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 8162,
   "discountDate" : null,
@@ -288,15 +288,15 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 150.6,
+      "brutto" : 188.3,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 54.24,
-      "bruttoWithoutDiscount" : 67.8,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-12-31T22:59:59Z",
+      "brutto" : 67.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -304,13 +304,13 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 27.29
+      "provisionPoints" : 37.9
     },
     "partner" : {
-      "brutto" : 54.24,
-      "bruttoWithoutDiscount" : 67.8,
-      "discountPercentage" : 20,
-      "discountUntil" : "2025-12-31T22:59:59Z",
+      "brutto" : 67.8,
+      "bruttoWithoutDiscount" : null,
+      "discountPercentage" : null,
+      "discountUntil" : null,
       "initialPurchase" : {
         "brutto" : null,
         "bruttoWithoutDiscount" : null,
@@ -318,10 +318,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 27.29
+      "provisionPoints" : 37.9
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "product.RB12.secondHeadline",
   "setContents" : [ ],
@@ -336,7 +336,7 @@
     "text" : "product.RB12.socialMedia.text",
     "title" : "product.RB12.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "RINGANAbty",
   "tabs" : [ {
     "anchorName" : "",
