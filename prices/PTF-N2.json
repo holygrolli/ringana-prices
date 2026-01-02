@@ -273,7 +273,7 @@
         "provisionPoints" : 8.2
       }
     },
-    "purchasePossible" : true,
+    "purchasePossible" : false,
     "slug" : "fresh-lip-balm-classic",
     "title" : "FRESH lip balm classic",
     "unitContents" : "ml"
