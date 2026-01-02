@@ -230,6 +230,12 @@
   }, {
     "caption" : null,
     "captionLink" : null,
+    "id" : 7392,
+    "mediaId" : 11329,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
     "id" : 7325,
     "mediaId" : 11231,
     "mediaType" : "video"
@@ -317,6 +323,12 @@
     "id" : 195,
     "showPrintButton" : false,
     "title" : "product.D-EAT3.tabs3.title"
+  }, {
+    "anchorName" : null,
+    "description" : "product.D-EAT3.tabs1767343756213.description",
+    "id" : 5987,
+    "showPrintButton" : false,
+    "title" : "product.D-EAT3.tabs1767343756213.title"
   } ],
   "teaserDots" : [ ],
   "title" : "COMPLETE d-eat, Set of 3",

@@ -43,7 +43,7 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
+  "firstHeadline" : "product.RD24.firstHeadline",
   "id" : 23,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
@@ -230,8 +230,8 @@
   }, {
     "caption" : null,
     "captionLink" : null,
-    "id" : 7328,
-    "mediaId" : 11232,
+    "id" : 7359,
+    "mediaId" : 11296,
     "mediaType" : "video"
   } ],
   "nemBackgroundColor" : null,

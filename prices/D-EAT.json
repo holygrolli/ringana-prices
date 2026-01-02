@@ -34,7 +34,32 @@
     "visible" : true,
     "visibleCountries" : [ ]
   } ],
-  "contentBlock" : null,
+  "contentBlock" : {
+    "buttonLink" : null,
+    "buttonText" : null,
+    "contentBlockButtonTypes" : [ ],
+    "contentBlockItems" : [ {
+      "description" : null,
+      "id" : 595,
+      "link" : null,
+      "text" : "product.D-EAT.contentBlockItem1767340937237.text"
+    }, {
+      "description" : null,
+      "id" : 596,
+      "link" : null,
+      "text" : "product.D-EAT.contentBlockItem1767340937238.text"
+    }, {
+      "description" : null,
+      "id" : 597,
+      "link" : null,
+      "text" : "product.D-EAT.contentBlockItem1767340937239.text"
+    } ],
+    "id" : 595,
+    "imageId" : 11330,
+    "imageLayoutLeft" : true,
+    "subtitle" : "product.D-EAT.contentBlock.subtitle",
+    "title" : "product.D-EAT.contentBlock.title"
+  },
   "contentsAmount" : "700",
   "countryIso" : "DE",
   "currency" : "eur",
@@ -239,6 +264,12 @@
   }, {
     "caption" : null,
     "captionLink" : null,
+    "id" : 7391,
+    "mediaId" : 11329,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
     "id" : 7326,
     "mediaId" : 11231,
     "mediaType" : "video"
@@ -322,6 +353,12 @@
     "id" : 215,
     "showPrintButton" : false,
     "title" : "product.D-EAT.tabs3.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.D-EAT.tabs1767338476146.description",
+    "id" : 5986,
+    "showPrintButton" : false,
+    "title" : "product.D-EAT.tabs1767338476146.title"
   } ],
   "teaserDots" : [ ],
   "title" : "COMPLETE d-eat",
