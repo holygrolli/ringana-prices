@@ -42,7 +42,7 @@
         "unitId" : null
       },
       "customer" : {
-        "brutto" : 4.5,
+        "brutto" : 5.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -56,7 +56,7 @@
         "provisionPoints" : 0
       },
       "partner" : {
-        "brutto" : 4.5,
+        "brutto" : 5.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -92,7 +92,7 @@
         "unitId" : null
       },
       "customer" : {
-        "brutto" : 177.5,
+        "brutto" : 181,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -106,7 +106,7 @@
         "provisionPoints" : 86.4
       },
       "partner" : {
-        "brutto" : 177.5,
+        "brutto" : 181,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -137,13 +137,13 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 75,
+        "brutto" : 76.9,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 52.56,
-        "bruttoWithoutDiscount" : 65.7,
+        "brutto" : 53.84,
+        "bruttoWithoutDiscount" : 67.3,
         "discountPercentage" : 20,
         "discountUntil" : "2026-01-12T22:59:59Z",
         "initialPurchase" : {
@@ -156,8 +156,8 @@
         "provisionPoints" : 25.92
       },
       "partner" : {
-        "brutto" : 52.56,
-        "bruttoWithoutDiscount" : 65.7,
+        "brutto" : 53.84,
+        "bruttoWithoutDiscount" : 67.3,
         "discountPercentage" : 20,
         "discountUntil" : "2026-01-12T22:59:59Z",
         "initialPurchase" : {
@@ -196,7 +196,7 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 2.4,
+      "brutto" : 2.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -210,7 +210,7 @@
       "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 2.4,
+      "brutto" : 2.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,

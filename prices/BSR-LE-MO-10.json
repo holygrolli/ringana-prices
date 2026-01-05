@@ -35,8 +35,8 @@
   "contentsAmount" : "1000",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -102,12 +102,12 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 80,
+        "brutto" : 81.9,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 20.4,
+        "brutto" : 20.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -121,7 +121,7 @@
         "provisionPoints" : 11.6
       },
       "partner" : {
-        "brutto" : 20.4,
+        "brutto" : 20.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -149,12 +149,12 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 238,
+        "brutto" : 243.5,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 47.6,
+        "brutto" : 48.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -168,7 +168,7 @@
         "provisionPoints" : 29
       },
       "partner" : {
-        "brutto" : 47.6,
+        "brutto" : 48.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -248,7 +248,7 @@
       "provisionPoints" : 40.5
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -267,7 +267,7 @@
     "text" : "product.BSR-LE-MO-10.socialMedia.text",
     "title" : "product.BSR-LE-MO-10.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "FRESH soap mandarine & orange, Set of 10",
   "tabs" : [ {
     "anchorName" : "",

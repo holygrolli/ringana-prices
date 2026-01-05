@@ -17,8 +17,8 @@
   "contentsAmount" : "45",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : null,
-  "deliveryStatusId" : null,
+  "deliveryStatus" : "Ausverkauft",
+  "deliveryStatusId" : 12265,
   "deliveryStatusId2" : null,
   "descriptionImageId" : null,
   "discountDate" : null,
@@ -84,12 +84,12 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 3233.3,
+        "brutto" : 3313.3,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 48.5,
+        "brutto" : 49.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -103,7 +103,7 @@
         "provisionPoints" : 27.5
       },
       "partner" : {
-        "brutto" : 48.5,
+        "brutto" : 49.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -131,12 +131,12 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1420,
+        "brutto" : 1450,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 14.2,
+        "brutto" : 14.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -150,7 +150,7 @@
         "provisionPoints" : 8.2
       },
       "partner" : {
-        "brutto" : 14.2,
+        "brutto" : 14.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -190,7 +190,7 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 26,
+      "brutto" : 26.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -204,7 +204,7 @@
       "provisionPoints" : 14.6
     },
     "partner" : {
-      "brutto" : 26,
+      "brutto" : 26.6,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -218,7 +218,7 @@
       "provisionPoints" : 14.6
     }
   },
-  "purchasePossible" : true,
+  "purchasePossible" : false,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ {
@@ -249,7 +249,7 @@
     "text" : "product.FSB1.socialMedia.text",
     "title" : "product.FSB1.socialMedia.title"
   },
-  "soldOut" : false,
+  "soldOut" : true,
   "supplementDescription" : "SAMPLE BOX",
   "tabs" : [ {
     "anchorName" : null,

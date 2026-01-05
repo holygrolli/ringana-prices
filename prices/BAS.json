@@ -153,12 +153,12 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 2520,
+        "brutto" : 2580,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 75.6,
+        "brutto" : 77.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -172,7 +172,7 @@
         "provisionPoints" : 43
       },
       "partner" : {
-        "brutto" : 75.6,
+        "brutto" : 77.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -200,12 +200,12 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 2983.3,
+        "brutto" : 2993.3,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 89.5,
+        "brutto" : 89.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -219,7 +219,7 @@
         "provisionPoints" : 52.5
       },
       "partner" : {
-        "brutto" : 89.5,
+        "brutto" : 89.8,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -247,12 +247,12 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 212,
+        "brutto" : 216.8,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 26.5,
+        "brutto" : 27.1,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -266,7 +266,7 @@
         "provisionPoints" : 14.4
       },
       "partner" : {
-        "brutto" : 26.5,
+        "brutto" : 27.1,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -337,12 +337,12 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 3233.3,
+      "brutto" : 3313.3,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 48.5,
+      "brutto" : 49.7,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -356,7 +356,7 @@
       "provisionPoints" : 27.5
     },
     "partner" : {
-      "brutto" : 48.5,
+      "brutto" : 49.7,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
