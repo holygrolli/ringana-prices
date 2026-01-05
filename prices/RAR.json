@@ -133,8 +133,8 @@
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 10485,
   "discountDate" : null,
@@ -385,7 +385,7 @@
       "provisionPoints" : 29.6
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -400,7 +400,7 @@
     "text" : "product.RAR.socialMedia.text",
     "title" : "product.RAR.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "ADDS repair",
   "tabs" : [ {
     "anchorName" : "",
