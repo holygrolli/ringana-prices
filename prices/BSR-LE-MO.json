@@ -323,25 +323,5 @@
     "iconMediaId" : 1069,
     "name" : "value.value14.name"
   } ],
-  "variants" : [ {
-    "color" : null,
-    "id" : 892,
-    "language" : null,
-    "matchcode" : "BSR-LE-MO",
-    "name" : null,
-    "size" : 100,
-    "slug" : "fresh-soap-mandarine-orange",
-    "type" : 2,
-    "unit" : 2
-  }, {
-    "color" : null,
-    "id" : 893,
-    "language" : null,
-    "matchcode" : "BSR-LE-MO-10",
-    "name" : null,
-    "size" : 10,
-    "slug" : "fresh-soap-mandarine-orange-set-of-10",
-    "type" : 2,
-    "unit" : 5
-  } ]
+  "variants" : [ ]
 }

@@ -124,8 +124,8 @@
   "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 6317,
   "discountDate" : null,
@@ -361,7 +361,7 @@
       "provisionPoints" : 40.5
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -376,7 +376,7 @@
     "text" : "product.RAE.socialMedia.text",
     "title" : "product.RAE.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "ADDS effect",
   "tabs" : [ {
     "anchorName" : "",

@@ -170,7 +170,7 @@
         "provisionPoints" : 40.5
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-adds-effect",
     "title" : "ADDS effect",
     "unitContents" : "ml"
