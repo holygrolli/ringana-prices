@@ -68,8 +68,8 @@
   "contentsAmount" : "200",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 9327,
   "discountDate" : null,
@@ -307,7 +307,7 @@
       "provisionPoints" : 21.1
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
@@ -322,7 +322,7 @@
     "text" : "product.BMR.socialMedia.text",
     "title" : "product.BMR.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "rich",
   "tabs" : [ {
     "anchorName" : "",

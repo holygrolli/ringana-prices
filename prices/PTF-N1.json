@@ -50,14 +50,6 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ {
-    "answer" : "product.PTF-N1.faqs0.answer",
-    "id" : 1665,
-    "question" : "product.PTF-N1.faqs0.question"
-  }, {
-    "answer" : "product.PTF-N1.faqs1.answer",
-    "id" : 1666,
-    "question" : "product.PTF-N1.faqs1.question"
-  }, {
     "answer" : "product.PTF-N1.faqs2.answer",
     "id" : 1667,
     "question" : "product.PTF-N1.faqs2.question"
@@ -73,6 +65,14 @@
     "answer" : "product.PTF-N1.faqs5.answer",
     "id" : 1670,
     "question" : "product.PTF-N1.faqs5.question"
+  }, {
+    "answer" : "product.PTF-N1.faqs0.answer",
+    "id" : 1665,
+    "question" : "product.PTF-N1.faqs0.question"
+  }, {
+    "answer" : "product.PTF-N1.faqs1.answer",
+    "id" : 1666,
+    "question" : "product.PTF-N1.faqs1.question"
   } ],
   "firstHeadline" : "product.PTF-N1.firstHeadline",
   "id" : 3638,
@@ -205,12 +205,12 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 1980,
+      "brutto" : 2040,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 9.9,
+      "brutto" : 10.2,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -224,7 +224,7 @@
       "provisionPoints" : 4.8
     },
     "partner" : {
-      "brutto" : 9.9,
+      "brutto" : 10.2,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,

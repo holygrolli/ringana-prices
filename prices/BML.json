@@ -133,7 +133,7 @@
         "provisionPoints" : 21.1
       }
     },
-    "purchasePossible" : false,
+    "purchasePossible" : true,
     "slug" : "fresh-body-milk-rich",
     "title" : "FRESH body milk rich",
     "unitContents" : "ml"
