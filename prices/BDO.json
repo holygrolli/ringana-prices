@@ -258,25 +258,25 @@
   "soldOut" : false,
   "supplementDescription" : "DEODORANT",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BDO.tabs0.description",
     "id" : 491,
     "showPrintButton" : false,
     "title" : "product.BDO.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BDO.tabs1.description",
     "id" : 492,
     "showPrintButton" : true,
     "title" : "product.BDO.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BDO.tabs2.description",
     "id" : 493,
     "showPrintButton" : false,
     "title" : "product.BDO.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BDO.tabs3.description",
     "id" : 494,
     "showPrintButton" : false,

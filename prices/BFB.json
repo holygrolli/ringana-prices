@@ -314,25 +314,25 @@
   "soldOut" : false,
   "supplementDescription" : "foot balm",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BFB.tabs0.description",
     "id" : 455,
     "showPrintButton" : false,
     "title" : "product.BFB.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BFB.tabs1.description",
     "id" : 456,
     "showPrintButton" : true,
     "title" : "product.BFB.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BFB.tabs2.description",
     "id" : 457,
     "showPrintButton" : false,
     "title" : "product.BFB.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BFB.tabs3.description",
     "id" : 458,
     "showPrintButton" : false,
