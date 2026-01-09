@@ -378,31 +378,31 @@
   "soldOut" : false,
   "supplementDescription" : "cream light",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BCE.tabs3416.description",
     "id" : 3416,
     "showPrintButton" : false,
     "title" : "product.BCE.tabs3416.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BCE.tabs3417.description",
     "id" : 3417,
     "showPrintButton" : true,
     "title" : "product.BCE.tabs3417.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BCE.tabs3418.description",
     "id" : 3418,
     "showPrintButton" : false,
     "title" : "product.BCE.tabs3418.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BCE.tabs3419.description",
     "id" : 3419,
     "showPrintButton" : false,
     "title" : "product.BCE.tabs3419.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BCE.tabs3511.description",
     "id" : 3511,
     "showPrintButton" : false,

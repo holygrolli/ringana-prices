@@ -263,25 +263,25 @@
   "soldOut" : false,
   "supplementDescription" : "fresh baby",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RBSS.tabs0.description",
     "id" : 1337,
     "showPrintButton" : false,
     "title" : "product.RBSS.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RBSS.tabs1.description",
     "id" : 1338,
     "showPrintButton" : false,
     "title" : "product.RBSS.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RBSS.tabs2.description",
     "id" : 1339,
     "showPrintButton" : false,
     "title" : "product.RBSS.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.RBSS.tabs3.description",
     "id" : 1340,
     "showPrintButton" : false,

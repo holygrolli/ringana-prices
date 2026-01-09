@@ -404,31 +404,31 @@
   "soldOut" : false,
   "supplementDescription" : "Cleansing water",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FCW.tabs0.description",
     "id" : 601,
     "showPrintButton" : false,
     "title" : "product.FCW.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FCW.tabs1.description",
     "id" : 602,
     "showPrintButton" : true,
     "title" : "product.FCW.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FCW.tabs2.description",
     "id" : 603,
     "showPrintButton" : false,
     "title" : "product.FCW.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FCW.tabs3.description",
     "id" : 604,
     "showPrintButton" : false,
     "title" : "product.FCW.tabs3.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.FCW.tabs3247.description",
     "id" : 3247,
     "showPrintButton" : false,

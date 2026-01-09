@@ -365,25 +365,25 @@
   "soldOut" : false,
   "supplementDescription" : "cleanser",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BRM.tabs0.description",
     "id" : 593,
     "showPrintButton" : false,
     "title" : "product.BRM.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BRM.tabs1.description",
     "id" : 594,
     "showPrintButton" : true,
     "title" : "product.BRM.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BRM.tabs2.description",
     "id" : 595,
     "showPrintButton" : false,
     "title" : "product.BRM.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BRM.tabs3.description",
     "id" : 596,
     "showPrintButton" : false,

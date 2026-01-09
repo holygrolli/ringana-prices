@@ -291,25 +291,25 @@
   "soldOut" : false,
   "supplementDescription" : "body wash",
   "tabs" : [ {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BDB.tabs0.description",
     "id" : 483,
     "showPrintButton" : false,
     "title" : "product.BDB.tabs0.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BDB.tabs1.description",
     "id" : 484,
     "showPrintButton" : true,
     "title" : "product.BDB.tabs1.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BDB.tabs2.description",
     "id" : 485,
     "showPrintButton" : false,
     "title" : "product.BDB.tabs2.title"
   }, {
-    "anchorName" : null,
+    "anchorName" : "",
     "description" : "product.BDB.tabs3.description",
     "id" : 486,
     "showPrintButton" : false,
