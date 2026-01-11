@@ -273,12 +273,12 @@
   "priceInformation" : {
     "base" : {
       "amount" : 1000,
-      "brutto" : 169.4,
+      "brutto" : 173.4,
       "unit" : "ml",
       "unitId" : 827
     },
     "customer" : {
-      "brutto" : 122,
+      "brutto" : 124.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -292,7 +292,7 @@
       "provisionPoints" : 64.8
     },
     "partner" : {
-      "brutto" : 122,
+      "brutto" : 124.9,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
