@@ -94,7 +94,7 @@
     "additionalUnitPrice" : null,
     "contentsAmount" : "200",
     "currency" : "eur",
-    "description" : "rich",
+    "description" : "body milk rich",
     "imageId" : 9322,
     "matchcode" : "BMR",
     "priceInformation" : {
@@ -327,7 +327,7 @@
     "title" : "product.BML.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "light",
+  "supplementDescription" : "body milk light",
   "tabs" : [ {
     "anchorName" : "",
     "description" : "product.BML.tabs1757936310544.description",

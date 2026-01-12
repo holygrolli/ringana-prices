@@ -84,8 +84,8 @@
   "contentsAmount" : "720",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 8162,
   "discountDate" : null,
@@ -306,7 +306,7 @@
       "provisionPoints" : 64.8
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "product.RB24.secondHeadline",
   "setContents" : [ {
@@ -325,7 +325,7 @@
     "text" : "product.RB24.socialMedia.text",
     "title" : "product.RB24.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "RINGANAbty",
   "tabs" : [ {
     "anchorName" : "",

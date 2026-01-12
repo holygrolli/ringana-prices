@@ -113,6 +113,53 @@
   "id" : 124,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
+    "contentsAmount" : "200",
+    "currency" : "eur",
+    "description" : "body milk light",
+    "imageId" : 9317,
+    "matchcode" : "BML",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 188.5,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 37.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 19.8
+      },
+      "partner" : {
+        "brutto" : 37.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 19.8
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-body-milk-light",
+    "title" : "FRESH body milk light ",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
     "contentsAmount" : "125",
     "currency" : "eur",
     "description" : "hair treatment",

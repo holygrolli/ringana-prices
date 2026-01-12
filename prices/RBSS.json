@@ -94,6 +94,53 @@
     "contentsAmount" : "50",
     "currency" : "eur",
     "description" : "FRESH BABY",
+    "imageId" : 507,
+    "matchcode" : "RBO",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 186,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 9.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 4.7
+      },
+      "partner" : {
+        "brutto" : 9.3,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 4.7
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-baby-oil",
+    "title" : "FRESH baby oil",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "50",
+    "currency" : "eur",
+    "description" : "FRESH BABY",
     "imageId" : 502,
     "matchcode" : "RBW",
     "priceInformation" : {

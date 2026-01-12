@@ -93,8 +93,8 @@
   "contentsAmount" : "360",
   "countryIso" : "DE",
   "currency" : "eur",
-  "deliveryStatus" : "Ausverkauft",
-  "deliveryStatusId" : 12265,
+  "deliveryStatus" : null,
+  "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
   "descriptionImageId" : 8162,
   "discountDate" : null,
@@ -321,7 +321,7 @@
       "provisionPoints" : 37.9
     }
   },
-  "purchasePossible" : false,
+  "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "product.RB12.secondHeadline",
   "setContents" : [ ],
@@ -336,7 +336,7 @@
     "text" : "product.RB12.socialMedia.text",
     "title" : "product.RB12.socialMedia.title"
   },
-  "soldOut" : true,
+  "soldOut" : false,
   "supplementDescription" : "RINGANAbty",
   "tabs" : [ {
     "anchorName" : "",

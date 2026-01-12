@@ -49,24 +49,21 @@
   "firstHeadline" : "",
   "id" : 93,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : {
-      "entity" : 78,
-      "type" : 2
-    },
-    "contentsAmount" : "1040",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "30",
     "currency" : "eur",
-    "description" : "FRESH PACKS",
-    "imageId" : 1141,
-    "matchcode" : "WP1",
+    "description" : "NUANCE1",
+    "imageId" : 7435,
+    "matchcode" : "BTF-N1",
     "priceInformation" : {
       "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
+        "amount" : 1000,
+        "brutto" : 1696.6,
+        "unit" : "ml",
+        "unitId" : 827
       },
       "customer" : {
-        "brutto" : 181,
+        "brutto" : 50.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -77,10 +74,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 86.4
+        "provisionPoints" : 28.8
       },
       "partner" : {
-        "brutto" : 181,
+        "brutto" : 50.9,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -91,13 +88,60 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 86.4
+        "provisionPoints" : 28.8
       }
     },
     "purchasePossible" : true,
-    "slug" : "packs-abc",
-    "title" : "FRESH packs ABC",
-    "unitContents" : "g"
+    "slug" : "fresh-tinted-moisturiser-n1",
+    "title" : "FRESH tinted moisturiser SPF 30 – N1",
+    "unitContents" : "ml"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "360",
+    "currency" : "eur",
+    "description" : "RINGANAchi",
+    "imageId" : 252,
+    "matchcode" : "RE12",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 141.3,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 50.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 27
+      },
+      "partner" : {
+        "brutto" : 50.9,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 27
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringanachi",
+    "title" : "RINGANAchi",
+    "unitContents" : "ml"
   }, {
     "additionalUnitPrice" : null,
     "contentsAmount" : "360",
