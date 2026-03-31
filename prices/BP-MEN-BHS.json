@@ -91,7 +91,8 @@
     "purchasePossible" : true,
     "slug" : "fresh-scrub",
     "title" : "FRESH scrub face & body",
-    "unitContents" : "ml"
+    "unitContents" : "ml",
+    "usp" : "product.FSC.usp"
   }, {
     "additionalUnitPrice" : null,
     "contentsAmount" : "200",
@@ -138,7 +139,8 @@
     "purchasePossible" : true,
     "slug" : "fresh-body-wash-nbc",
     "title" : "FRESH body wash",
-    "unitContents" : "ml"
+    "unitContents" : "ml",
+    "usp" : "product.BDB.usp"
   }, {
     "additionalUnitPrice" : {
       "entity" : 90,
@@ -188,7 +190,8 @@
     "purchasePossible" : true,
     "slug" : "caps-mascu",
     "title" : "CAPS mascu",
-    "unitContents" : "g"
+    "unitContents" : "g",
+    "usp" : "product.CMV.usp"
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
