@@ -285,6 +285,7 @@
   "values" : [ ],
   "variants" : [ {
     "color" : "#e8d5ce",
+    "custom" : null,
     "id" : 9,
     "language" : null,
     "matchcode" : "BP1",
@@ -295,6 +296,7 @@
     "unit" : null
   }, {
     "color" : "#e8e0ce",
+    "custom" : null,
     "id" : 10,
     "language" : null,
     "matchcode" : "BP2",
@@ -305,6 +307,7 @@
     "unit" : null
   }, {
     "color" : "#dac8b1",
+    "custom" : null,
     "id" : 11,
     "language" : null,
     "matchcode" : "BP3",
@@ -315,6 +318,7 @@
     "unit" : null
   }, {
     "color" : "#dfd9c8",
+    "custom" : null,
     "id" : 12,
     "language" : null,
     "matchcode" : "BP-MEN-BHS",
