@@ -205,6 +205,7 @@
     "mediaType" : "image"
   } ],
   "nemBackgroundColor" : null,
+  "notifyMeActive" : false,
   "press" : null,
   "priceInformation" : {
     "base" : {
@@ -245,19 +246,7 @@
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
-  "setContents" : [ {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "BRM"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "BHS"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "BMF"
-  } ],
+  "setContents" : [ ],
   "shortDescription" : "product.BP-MEN-BHS.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
@@ -306,6 +295,7 @@
   "values" : [ ],
   "variants" : [ {
     "color" : "#e8d5ce",
+    "custom" : null,
     "id" : 1,
     "language" : null,
     "matchcode" : "BP1",
@@ -316,6 +306,7 @@
     "unit" : null
   }, {
     "color" : "#e8e0ce",
+    "custom" : null,
     "id" : 2,
     "language" : null,
     "matchcode" : "BP2",
@@ -326,6 +317,7 @@
     "unit" : null
   }, {
     "color" : "#dac8b1",
+    "custom" : null,
     "id" : 3,
     "language" : null,
     "matchcode" : "BP3",
@@ -336,6 +328,7 @@
     "unit" : null
   }, {
     "color" : "#dfd9c8",
+    "custom" : null,
     "id" : 4,
     "language" : null,
     "matchcode" : "BP-MEN-BHS",
