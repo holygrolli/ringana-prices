@@ -196,6 +196,7 @@
     "mediaType" : "image"
   } ],
   "nemBackgroundColor" : null,
+  "notifyMeActive" : false,
   "press" : null,
   "priceInformation" : {
     "base" : {

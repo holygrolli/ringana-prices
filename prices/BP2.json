@@ -196,6 +196,7 @@
     "mediaType" : "image"
   } ],
   "nemBackgroundColor" : null,
+  "notifyMeActive" : false,
   "press" : null,
   "priceInformation" : {
     "base" : {
@@ -285,6 +286,7 @@
   "values" : [ ],
   "variants" : [ {
     "color" : "#e8d5ce",
+    "custom" : null,
     "id" : 13,
     "language" : null,
     "matchcode" : "BP1",
@@ -295,6 +297,7 @@
     "unit" : null
   }, {
     "color" : "#e8e0ce",
+    "custom" : null,
     "id" : 14,
     "language" : null,
     "matchcode" : "BP2",
@@ -305,6 +308,7 @@
     "unit" : null
   }, {
     "color" : "#dac8b1",
+    "custom" : null,
     "id" : 15,
     "language" : null,
     "matchcode" : "BP3",
@@ -315,6 +319,7 @@
     "unit" : null
   }, {
     "color" : "#dfd9c8",
+    "custom" : null,
     "id" : 16,
     "language" : null,
     "matchcode" : "BP-MEN-BHS",
