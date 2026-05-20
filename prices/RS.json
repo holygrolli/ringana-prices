@@ -1,29 +1,17 @@
 {
-  "matchcode" : "BP2-BGL",
+  "matchcode" : "RS",
   "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ 178302, 178339, 125090 ],
+  "blogPostIds" : [ 156677, 168257, 146360 ],
   "categories" : [ {
-    "id" : 496,
+    "id" : 16,
     "infoColorNeeded" : false,
-    "name" : "category.category496.name",
+    "name" : "category.category16.name",
     "primary" : true,
-    "productCount" : 37,
-    "slug" : "sets",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 98,
-    "infoColorNeeded" : false,
-    "name" : "category.category98.name",
-    "primary" : false,
-    "productCount" : 12,
-    "slug" : "skincare-sets",
-    "visible" : true,
-    "visibleCountries" : [ ]
+    "slug" : "merchandise"
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "330",
+  "contentsAmount" : "1",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
@@ -34,123 +22,27 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
-  "id" : 11,
+  "firstHeadline" : "product.RS.firstHeadline",
+  "id" : 44,
   "idealSupplements" : [ {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "30",
-    "currency" : "eur",
-    "description" : "overnight",
-    "imageId" : 679,
-    "matchcode" : "BCN",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 2713.3,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 81.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 46.7
-      },
-      "partner" : {
-        "brutto" : 81.4,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 46.7
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-overnight-face-treatment",
-    "title" : "FRESH overnight face treatment",
-    "unitContents" : "ml",
-    "usp" : "product.BCN.usp"
-  }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "200",
-    "currency" : "eur",
-    "description" : "scrub",
-    "imageId" : 8035,
-    "matchcode" : "FSC",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 243.5,
-        "unit" : "ml",
-        "unitId" : 827
-      },
-      "customer" : {
-        "brutto" : 48.7,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 29
-      },
-      "partner" : {
-        "brutto" : 48.7,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 29
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "fresh-scrub",
-    "title" : "FRESH scrub face & body",
-    "unitContents" : "ml",
-    "usp" : "product.FSC.usp"
-  }, {
     "additionalUnitPrice" : {
-      "entity" : 90,
-      "type" : 1
+      "entity" : 78,
+      "type" : 2
     },
-    "contentsAmount" : "37,1",
+    "contentsAmount" : "1040",
     "currency" : "eur",
-    "description" : "beauty & hair",
-    "imageId" : 8033,
-    "matchcode" : "CBH",
+    "description" : "FRESH PACKS",
+    "imageId" : 1141,
+    "matchcode" : "WP1",
     "priceInformation" : {
       "base" : {
-        "amount" : 1000,
-        "brutto" : 1609.1,
-        "unit" : "g",
-        "unitId" : 812
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
       },
       "customer" : {
-        "brutto" : 59.7,
+        "brutto" : 181,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -161,10 +53,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32.6
+        "provisionPoints" : 86.4
       },
       "partner" : {
-        "brutto" : 59.7,
+        "brutto" : 181,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -175,14 +67,110 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32.6
+        "provisionPoints" : 86.4
       }
     },
     "purchasePossible" : true,
-    "slug" : "caps-beautyhair",
-    "title" : "CAPS beauty & hair",
+    "slug" : "packs-abc",
+    "title" : "FRESH packs ABC",
     "unitContents" : "g",
-    "usp" : "product.CBH.usp"
+    "usp" : "product.WP1.usp"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "1",
+    "currency" : "eur",
+    "description" : "SHAKER BALL",
+    "imageId" : 1729,
+    "matchcode" : "RSHBB",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 2.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 2.6,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "shaker-ball",
+    "title" : "RINGANA shaker ball",
+    "unitContents" : "Stk.",
+    "usp" : "product.RSHBB.usp"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "1",
+    "currency" : "eur",
+    "description" : "",
+    "imageId" : 220,
+    "matchcode" : "RSBUDDY",
+    "priceInformation" : {
+      "base" : {
+        "amount" : null,
+        "brutto" : null,
+        "unit" : null,
+        "unitId" : null
+      },
+      "customer" : {
+        "brutto" : 19.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      },
+      "partner" : {
+        "brutto" : 19.5,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 0
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "ringana-shaker-buddy",
+    "title" : "RINGANA shaker buddy",
+    "unitContents" : "Stk.",
+    "usp" : "product.RSBUDDY.usp"
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -191,11 +179,12 @@
   "mediaGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 10,
-    "mediaId" : 4998,
+    "id" : 87,
+    "mediaId" : 6748,
     "mediaType" : "image"
   } ],
   "nemBackgroundColor" : null,
+  "partnerOnly" : false,
   "press" : null,
   "priceInformation" : {
     "base" : {
@@ -205,7 +194,7 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 152.3,
+      "brutto" : 5.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -216,10 +205,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 75.7
+      "provisionPoints" : 0
     },
     "partner" : {
-      "brutto" : 152.3,
+      "brutto" : 5.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -230,74 +219,46 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 75.7
+      "provisionPoints" : 0
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
-  "setContents" : [ {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "BRM"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "BGL"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "BHS"
-  }, {
-    "amount" : 1,
-    "freeOfCharge" : false,
-    "matchcode" : "BCL"
-  } ],
-  "shortDescription" : "product.BP2-BGL.shortDescription",
+  "setContents" : [ ],
+  "shortDescription" : "product.RS.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "fresh-skin-care-set-medium-alternative-tonic",
+  "slug" : "pack-shaker",
   "socialMedia" : {
-    "id" : 10,
-    "imageId" : 107,
-    "text" : "product.BP2-BGL.socialMedia.text",
-    "title" : "product.BP2-BGL.socialMedia.title"
+    "id" : 44,
+    "imageId" : 211,
+    "text" : "product.RS.socialMedia.text",
+    "title" : "product.RS.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "Skin care",
+  "supplementDescription" : "SHAKE! SHAKE!",
   "tabs" : [ {
     "anchorName" : "",
-    "description" : "product.BP2-BGL.tabs0.description",
-    "id" : 37,
+    "description" : "product.RS.tabs0.description",
+    "id" : 171,
     "showPrintButton" : false,
-    "title" : "product.BP2-BGL.tabs0.title"
+    "title" : "product.RS.tabs0.title"
   }, {
     "anchorName" : "",
-    "description" : "product.BP2-BGL.tabs1.description",
-    "id" : 38,
+    "description" : "product.RS.tabs1.description",
+    "id" : 172,
     "showPrintButton" : true,
-    "title" : "product.BP2-BGL.tabs1.title"
-  }, {
-    "anchorName" : "",
-    "description" : "product.BP2-BGL.tabs2.description",
-    "id" : 39,
-    "showPrintButton" : false,
-    "title" : "product.BP2-BGL.tabs2.title"
-  }, {
-    "anchorName" : "",
-    "description" : "product.BP2-BGL.tabs3.description",
-    "id" : 40,
-    "showPrintButton" : false,
-    "title" : "product.BP2-BGL.tabs3.title"
+    "title" : "product.RS.tabs1.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "FRESH skin care set medium - alternative tonic",
-  "unit" : "Set",
-  "unitContents" : "ml",
-  "unitContentsId" : 827,
-  "unitId" : 43586,
-  "usp" : "product.BP2-BGL.usp",
+  "title" : "RINGANA shaker",
+  "unit" : "Stk.",
+  "unitContents" : "Stk.",
+  "unitContentsId" : 996,
+  "unitId" : 996,
+  "usp" : "product.RS.usp",
   "values" : [ ],
   "variants" : [ ]
 }

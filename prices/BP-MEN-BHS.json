@@ -8,28 +8,13 @@
     "infoColorNeeded" : false,
     "name" : "category.category496.name",
     "primary" : true,
-    "productCount" : 37,
-    "slug" : "sets",
-    "visible" : true,
-    "visibleCountries" : [ ]
+    "slug" : "sets"
   }, {
     "id" : 98,
     "infoColorNeeded" : false,
     "name" : "category.category98.name",
     "primary" : false,
-    "productCount" : 12,
-    "slug" : "skincare-sets",
-    "visible" : true,
-    "visibleCountries" : [ ]
-  }, {
-    "id" : 331,
-    "infoColorNeeded" : false,
-    "name" : "category.category331.name",
-    "primary" : false,
-    "productCount" : 4,
-    "slug" : "men",
-    "visible" : false,
-    "visibleCountries" : [ ]
+    "slug" : "skincare-sets"
   } ],
   "contentBlock" : null,
   "contentsAmount" : "180",
@@ -206,6 +191,7 @@
   } ],
   "nemBackgroundColor" : null,
   "notifyMeActive" : false,
+  "partnerOnly" : false,
   "press" : null,
   "priceInformation" : {
     "base" : {

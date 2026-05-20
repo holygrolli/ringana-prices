@@ -1,57 +1,60 @@
 {
-  "matchcode" : "BP1",
+  "matchcode" : "PHB",
   "additionalUnitPrice" : null,
-  "awards" : [ ],
-  "blogPostIds" : [ 178302, 125090, 178339 ],
-  "categories" : [ {
-    "id" : 496,
-    "infoColorNeeded" : false,
-    "name" : "category.category496.name",
-    "primary" : true,
-    "productCount" : 37,
-    "slug" : "sets",
-    "visible" : true,
-    "visibleCountries" : [ ]
+  "awards" : [ {
+    "id" : 4,
+    "imageId" : 1046,
+    "link" : "https://www.ecocert.com/de-DE/zertifizierung-detail/natur-und-bio-kosmetik-cosmos",
+    "name" : "COSMOS Organic"
   }, {
-    "id" : 98,
+    "id" : 1,
+    "imageId" : 1043,
+    "link" : "https://www.beatthemicrobead.org/zero-products/",
+    "name" : "Beat the Microbead"
+  }, {
+    "id" : 78,
+    "imageId" : 1044,
+    "link" : "https://skin.li/ce634208",
+    "name" : "cosmeticsanalysis.com - FRESH hand balm"
+  } ],
+  "blogPostIds" : [ ],
+  "categories" : [ {
+    "id" : 13,
     "infoColorNeeded" : false,
-    "name" : "category.category98.name",
-    "primary" : false,
-    "productCount" : 12,
-    "slug" : "skincare-sets",
-    "visible" : true,
-    "visibleCountries" : [ ]
+    "name" : "category.category13.name",
+    "primary" : true,
+    "slug" : "samples"
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "330",
+  "contentsAmount" : "15",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : null,
+  "descriptionImageId" : 6340,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "",
-  "id" : 14,
+  "firstHeadline" : "product.PHB.firstHeadline",
+  "id" : 37,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "30",
+    "contentsAmount" : "15",
     "currency" : "eur",
-    "description" : "overnight",
-    "imageId" : 679,
-    "matchcode" : "BCN",
+    "description" : "sample",
+    "imageId" : 12255,
+    "matchcode" : "PML",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 2713.3,
+        "brutto" : 226.6,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 81.4,
+        "brutto" : 3.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -62,10 +65,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 46.7
+        "provisionPoints" : 1.5
       },
       "partner" : {
-        "brutto" : 81.4,
+        "brutto" : 3.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -76,30 +79,30 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 46.7
+        "provisionPoints" : 1.5
       }
     },
-    "purchasePossible" : true,
-    "slug" : "fresh-overnight-face-treatment",
-    "title" : "FRESH overnight face treatment",
+    "purchasePossible" : false,
+    "slug" : "fresh-body-milk-light-sample",
+    "title" : "FRESH body milk light sample",
     "unitContents" : "ml",
-    "usp" : "product.BCN.usp"
+    "usp" : "product.PML.usp"
   }, {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "200",
+    "contentsAmount" : "10",
     "currency" : "eur",
-    "description" : "scrub",
-    "imageId" : 8035,
-    "matchcode" : "FSC",
+    "description" : "sample",
+    "imageId" : 12367,
+    "matchcode" : "PCL",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 243.5,
+        "brutto" : 1350,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 48.7,
+        "brutto" : 13.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -110,10 +113,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29
+        "provisionPoints" : 6.2
       },
       "partner" : {
-        "brutto" : 48.7,
+        "brutto" : 13.5,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -124,33 +127,30 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 29
+        "provisionPoints" : 6.2
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-scrub",
-    "title" : "FRESH scrub face & body",
+    "slug" : "fresh-cream-medium-sample",
+    "title" : "FRESH cream medium sample",
     "unitContents" : "ml",
-    "usp" : "product.FSC.usp"
+    "usp" : "product.PCL.usp"
   }, {
-    "additionalUnitPrice" : {
-      "entity" : 90,
-      "type" : 1
-    },
-    "contentsAmount" : "37,1",
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "15",
     "currency" : "eur",
-    "description" : "beauty & hair",
-    "imageId" : 8033,
-    "matchcode" : "CBH",
+    "description" : "sample",
+    "imageId" : 12360,
+    "matchcode" : "PDO15",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1609.1,
-        "unit" : "g",
-        "unitId" : 812
+        "brutto" : 266.6,
+        "unit" : "ml",
+        "unitId" : 827
       },
       "customer" : {
-        "brutto" : 59.7,
+        "brutto" : 4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -161,10 +161,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32.6
+        "provisionPoints" : 1.8
       },
       "partner" : {
-        "brutto" : 59.7,
+        "brutto" : 4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -175,14 +175,14 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 32.6
+        "provisionPoints" : 1.8
       }
     },
     "purchasePossible" : true,
-    "slug" : "caps-beautyhair",
-    "title" : "CAPS beauty & hair",
-    "unitContents" : "g",
-    "usp" : "product.CBH.usp"
+    "slug" : "fresh-deodorant-sample-15",
+    "title" : "FRESH deodorant sample",
+    "unitContents" : "ml",
+    "usp" : "product.PDO15.usp"
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -191,22 +191,40 @@
   "mediaGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 15,
-    "mediaId" : 5554,
+    "id" : 64,
+    "mediaId" : 2494,
     "mediaType" : "image"
+  }, {
+    "caption" : "",
+    "captionLink" : null,
+    "id" : 65,
+    "mediaId" : 6049,
+    "mediaType" : "image"
+  }, {
+    "caption" : "product.PHB.imageGallery2.caption",
+    "captionLink" : "https://www.ringana.com/corporate/products/care-facts",
+    "id" : 66,
+    "mediaId" : 585,
+    "mediaType" : "image"
+  }, {
+    "caption" : null,
+    "captionLink" : null,
+    "id" : 7956,
+    "mediaId" : 12126,
+    "mediaType" : "video"
   } ],
   "nemBackgroundColor" : null,
-  "notifyMeActive" : false,
+  "partnerOnly" : false,
   "press" : null,
   "priceInformation" : {
     "base" : {
-      "amount" : null,
-      "brutto" : null,
-      "unit" : null,
-      "unitId" : null
+      "amount" : 1000,
+      "brutto" : 233.3,
+      "unit" : "ml",
+      "unitId" : 827
     },
     "customer" : {
-      "brutto" : 147.7,
+      "brutto" : 3.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -217,10 +235,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 73.3
+      "provisionPoints" : 1.6
     },
     "partner" : {
-      "brutto" : 147.7,
+      "brutto" : 3.5,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -231,102 +249,106 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 73.3
+      "provisionPoints" : 1.6
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
-  "secondHeadline" : "",
+  "secondHeadline" : "product.PHB.secondHeadline",
   "setContents" : [ ],
-  "shortDescription" : "product.BP1.shortDescription",
+  "shortDescription" : "product.PHB.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "fresh-skin-care-set-light",
+  "slug" : "fresh-hand-balm-sample",
   "socialMedia" : {
-    "id" : 14,
-    "imageId" : 121,
-    "text" : "product.BP1.socialMedia.text",
-    "title" : "product.BP1.socialMedia.title"
+    "id" : 37,
+    "imageId" : 2494,
+    "text" : "product.PHB.socialMedia.text",
+    "title" : "product.PHB.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "Skin care",
+  "supplementDescription" : "sample",
   "tabs" : [ {
-    "anchorName" : "",
-    "description" : "product.BP1.tabs0.description",
-    "id" : 55,
+    "anchorName" : null,
+    "description" : "product.PHB.tabs0.description",
+    "id" : 145,
     "showPrintButton" : false,
-    "title" : "product.BP1.tabs0.title"
+    "title" : "product.PHB.tabs0.title"
   }, {
-    "anchorName" : "",
-    "description" : "product.BP1.tabs1.description",
-    "id" : 57,
+    "anchorName" : null,
+    "description" : "product.PHB.tabs1.description",
+    "id" : 146,
     "showPrintButton" : true,
-    "title" : "product.BP1.tabs1.title"
+    "title" : "product.PHB.tabs1.title"
   }, {
-    "anchorName" : "",
-    "description" : "product.BP1.tabs2.description",
-    "id" : 59,
+    "anchorName" : null,
+    "description" : "product.PHB.tabs2.description",
+    "id" : 147,
     "showPrintButton" : false,
-    "title" : "product.BP1.tabs2.title"
+    "title" : "product.PHB.tabs2.title"
   }, {
-    "anchorName" : "",
-    "description" : "product.BP1.tabs3.description",
-    "id" : 60,
+    "anchorName" : null,
+    "description" : "product.PHB.tabs3.description",
+    "id" : 148,
     "showPrintButton" : false,
-    "title" : "product.BP1.tabs3.title"
+    "title" : "product.PHB.tabs3.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "FRESH skin care set light",
-  "unit" : "Set",
+  "title" : "FRESH hand balm sample",
+  "unit" : "Reisegröße",
   "unitContents" : "ml",
   "unitContentsId" : 827,
-  "unitId" : 43586,
-  "usp" : "product.BP1.usp",
-  "values" : [ ],
+  "unitId" : 43592,
+  "usp" : "product.PHB.usp",
+  "values" : [ {
+    "iconMediaId" : 1097,
+    "name" : "value.value42.name"
+  }, {
+    "iconMediaId" : 1096,
+    "name" : "value.value41.name"
+  }, {
+    "iconMediaId" : 1090,
+    "name" : "value.value35.name"
+  }, {
+    "iconMediaId" : 1089,
+    "name" : "value.value34.name"
+  }, {
+    "iconMediaId" : 1061,
+    "name" : "value.value6.name"
+  } ],
   "variants" : [ {
-    "color" : "#e8d5ce",
+    "color" : null,
     "custom" : null,
-    "id" : 9,
+    "id" : 62,
     "language" : null,
-    "matchcode" : "BP1",
-    "name" : "light",
-    "size" : null,
-    "slug" : "fresh-skin-care-set-light",
-    "type" : 1,
-    "unit" : null
+    "matchcode" : "BHB",
+    "name" : null,
+    "size" : 125,
+    "slug" : "fresh-hand-balm",
+    "type" : 2,
+    "unit" : 6
   }, {
-    "color" : "#e8e0ce",
+    "color" : null,
     "custom" : null,
-    "id" : 10,
+    "id" : 63,
     "language" : null,
-    "matchcode" : "BP2",
-    "name" : "medium",
-    "size" : null,
-    "slug" : "fresh-skin-care-set-medium",
-    "type" : 1,
-    "unit" : null
+    "matchcode" : "FHB50",
+    "name" : null,
+    "size" : 50,
+    "slug" : "fresh-hand-balm-pocket",
+    "type" : 2,
+    "unit" : 6
   }, {
-    "color" : "#dac8b1",
+    "color" : null,
     "custom" : null,
-    "id" : 11,
+    "id" : 64,
     "language" : null,
-    "matchcode" : "BP3",
-    "name" : "rich",
-    "size" : null,
-    "slug" : "fresh-skin-care-set-rich",
-    "type" : 1,
-    "unit" : null
-  }, {
-    "color" : "#dfd9c8",
-    "custom" : null,
-    "id" : 12,
-    "language" : null,
-    "matchcode" : "BP-MEN-BHS",
-    "name" : "men",
-    "size" : null,
-    "slug" : "set-for-men",
-    "type" : 1,
-    "unit" : null
+    "matchcode" : "PHB",
+    "name" : null,
+    "size" : 15,
+    "slug" : "fresh-hand-balm-sample",
+    "type" : 2,
+    "unit" : 6
   } ]
 }
