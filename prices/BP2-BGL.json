@@ -1,8 +1,8 @@
 {
-  "matchcode" : "RI24",
+  "matchcode" : "BP2-BGL",
   "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ 146383, 137378, 183520 ],
+  "blogPostIds" : [ 178302, 178339, 125090 ],
   "categories" : [ {
     "id" : 496,
     "infoColorNeeded" : false,
@@ -10,48 +10,42 @@
     "primary" : true,
     "slug" : "sets"
   }, {
-    "id" : 5,
+    "id" : 98,
     "infoColorNeeded" : false,
-    "name" : "category.category5.name",
+    "name" : "category.category98.name",
     "primary" : false,
-    "slug" : "drinks"
-  }, {
-    "id" : 99,
-    "infoColorNeeded" : false,
-    "name" : "category.category99.name",
-    "primary" : false,
-    "slug" : "supplement-sets"
+    "slug" : "skincare-sets"
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "720",
+  "contentsAmount" : "330",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
   "deliveryStatusId" : null,
   "deliveryStatusId2" : null,
-  "descriptionImageId" : 6316,
+  "descriptionImageId" : null,
   "discountDate" : null,
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "product.RI24.firstHeadline",
-  "id" : 22,
+  "firstHeadline" : "",
+  "id" : 11,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "1",
+    "contentsAmount" : "30",
     "currency" : "eur",
-    "description" : "SOULBOTTLE",
-    "imageId" : 223,
-    "matchcode" : "R-SB",
+    "description" : "overnight",
+    "imageId" : 679,
+    "matchcode" : "BCN",
     "priceInformation" : {
       "base" : {
-        "amount" : null,
-        "brutto" : null,
-        "unit" : null,
-        "unitId" : null
+        "amount" : 1000,
+        "brutto" : 2713.3,
+        "unit" : "ml",
+        "unitId" : 827
       },
       "customer" : {
-        "brutto" : 32.5,
+        "brutto" : 81.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -62,10 +56,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 0
+        "provisionPoints" : 46.7
       },
       "partner" : {
-        "brutto" : 32.5,
+        "brutto" : 81.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -76,33 +70,81 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 0
+        "provisionPoints" : 46.7
       }
     },
-    "purchasePossible" : false,
-    "slug" : "ringana-soulbottle",
-    "title" : "RINGANA soulbottle",
-    "unitContents" : "Stk.",
-    "usp" : "product.R-SB.usp"
+    "purchasePossible" : true,
+    "slug" : "fresh-overnight-face-treatment",
+    "title" : "FRESH overnight face treatment",
+    "unitContents" : "ml",
+    "usp" : "product.BCN.usp"
+  }, {
+    "additionalUnitPrice" : null,
+    "contentsAmount" : "200",
+    "currency" : "eur",
+    "description" : "scrub",
+    "imageId" : 8035,
+    "matchcode" : "FSC",
+    "priceInformation" : {
+      "base" : {
+        "amount" : 1000,
+        "brutto" : 194.8,
+        "unit" : "ml",
+        "unitId" : 827
+      },
+      "customer" : {
+        "brutto" : 38.96,
+        "bruttoWithoutDiscount" : 48.7,
+        "discountPercentage" : 20,
+        "discountUntil" : "2026-05-21T21:59:59Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 20.88
+      },
+      "partner" : {
+        "brutto" : 38.96,
+        "bruttoWithoutDiscount" : 48.7,
+        "discountPercentage" : 20,
+        "discountUntil" : "2026-05-21T21:59:59Z",
+        "initialPurchase" : {
+          "brutto" : null,
+          "bruttoWithoutDiscount" : null,
+          "discountPercentage" : null,
+          "discountUntil" : null,
+          "provisionPoints" : null
+        },
+        "provisionPoints" : 20.88
+      }
+    },
+    "purchasePossible" : true,
+    "slug" : "fresh-scrub",
+    "title" : "FRESH scrub face & body",
+    "unitContents" : "ml",
+    "usp" : "product.FSC.usp"
   }, {
     "additionalUnitPrice" : {
       "entity" : 90,
       "type" : 1
     },
-    "contentsAmount" : "41,7",
+    "contentsAmount" : "37,1",
     "currency" : "eur",
-    "description" : "CAPS moodoo",
-    "imageId" : 1137,
-    "matchcode" : "CMO",
+    "description" : "beauty & hair",
+    "imageId" : 8033,
+    "matchcode" : "CBH",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1419.6,
+        "brutto" : 1609.1,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 59.2,
+        "brutto" : 59.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -113,10 +155,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 33.1
+        "provisionPoints" : 32.6
       },
       "partner" : {
-        "brutto" : 59.2,
+        "brutto" : 59.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -127,65 +169,14 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 33.1
+        "provisionPoints" : 32.6
       }
     },
     "purchasePossible" : true,
-    "slug" : "caps-moodoo",
-    "title" : "CAPS moodoo",
+    "slug" : "caps-beautyhair",
+    "title" : "CAPS beauty & hair",
     "unitContents" : "g",
-    "usp" : "product.CMO.usp"
-  }, {
-    "additionalUnitPrice" : {
-      "entity" : 60,
-      "type" : 1
-    },
-    "contentsAmount" : "50",
-    "currency" : "eur",
-    "description" : "BEYOND omega",
-    "imageId" : 3413,
-    "matchcode" : "OME-SG",
-    "priceInformation" : {
-      "base" : {
-        "amount" : 1000,
-        "brutto" : 1796,
-        "unit" : "g",
-        "unitId" : 812
-      },
-      "customer" : {
-        "brutto" : 89.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 49.6
-      },
-      "partner" : {
-        "brutto" : 89.8,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
-        "provisionPoints" : 49.6
-      }
-    },
-    "purchasePossible" : true,
-    "slug" : "beyond-omega",
-    "title" : "BEYOND omega",
-    "unitContents" : "g",
-    "usp" : "product.OME-SG.usp"
+    "usp" : "product.CBH.usp"
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
@@ -194,20 +185,8 @@
   "mediaGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 34,
-    "mediaId" : 142,
-    "mediaType" : "image"
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 36,
-    "mediaId" : 12055,
-    "mediaType" : "image"
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 35,
-    "mediaId" : 3409,
+    "id" : 10,
+    "mediaId" : 4998,
     "mediaType" : "image"
   } ],
   "nemBackgroundColor" : null,
@@ -216,13 +195,13 @@
   "press" : null,
   "priceInformation" : {
     "base" : {
-      "amount" : 1000,
-      "brutto" : 141.9,
-      "unit" : "ml",
-      "unitId" : 827
+      "amount" : null,
+      "brutto" : null,
+      "unit" : null,
+      "unitId" : null
     },
     "customer" : {
-      "brutto" : 102.2,
+      "brutto" : 152.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -233,10 +212,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 54.7
+      "provisionPoints" : 75.7
     },
     "partner" : {
-      "brutto" : 102.2,
+      "brutto" : 152.8,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -247,89 +226,58 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 54.7
+      "provisionPoints" : 75.7
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
-  "shortDescription" : "product.RI24.shortDescription",
+  "shortDescription" : "product.BP2-BGL.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "ringanaisi-set",
+  "slug" : "fresh-skin-care-set-medium-alternative-tonic",
   "socialMedia" : {
-    "id" : 22,
-    "imageId" : 141,
-    "text" : "product.RI24.socialMedia.text",
-    "title" : "product.RI24.socialMedia.title"
+    "id" : 10,
+    "imageId" : 107,
+    "text" : "product.BP2-BGL.socialMedia.text",
+    "title" : "product.BP2-BGL.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "RINGANAisi",
+  "supplementDescription" : "Skin care",
   "tabs" : [ {
-    "anchorName" : null,
-    "description" : "product.RI24.tabs0.description",
-    "id" : 85,
+    "anchorName" : "",
+    "description" : "product.BP2-BGL.tabs0.description",
+    "id" : 37,
     "showPrintButton" : false,
-    "title" : "product.RI24.tabs0.title"
+    "title" : "product.BP2-BGL.tabs0.title"
   }, {
-    "anchorName" : null,
-    "description" : "product.RI24.tabs1.description",
-    "id" : 86,
+    "anchorName" : "",
+    "description" : "product.BP2-BGL.tabs1.description",
+    "id" : 38,
     "showPrintButton" : true,
-    "title" : "product.RI24.tabs1.title"
+    "title" : "product.BP2-BGL.tabs1.title"
   }, {
-    "anchorName" : null,
-    "description" : "product.RI24.tabs2.description",
-    "id" : 87,
+    "anchorName" : "",
+    "description" : "product.BP2-BGL.tabs2.description",
+    "id" : 39,
     "showPrintButton" : false,
-    "title" : "product.RI24.tabs2.title"
+    "title" : "product.BP2-BGL.tabs2.title"
   }, {
-    "anchorName" : null,
-    "description" : "product.RI24.tabs3.description",
-    "id" : 88,
+    "anchorName" : "",
+    "description" : "product.BP2-BGL.tabs3.description",
+    "id" : 40,
     "showPrintButton" : false,
-    "title" : "product.RI24.tabs3.title"
+    "title" : "product.BP2-BGL.tabs3.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "RINGANAisi, Set of 2",
+  "title" : "FRESH skin care set medium - alternative toner",
   "unit" : "Set",
   "unitContents" : "ml",
   "unitContentsId" : 827,
   "unitId" : 43586,
-  "usp" : "product.RI24.usp",
-  "values" : [ {
-    "iconMediaId" : 1063,
-    "name" : "value.value8.name"
-  }, {
-    "iconMediaId" : 1099,
-    "name" : "value.value44.name"
-  }, {
-    "iconMediaId" : 1121,
-    "name" : "value.value66.name"
-  } ],
-  "variants" : [ {
-    "color" : null,
-    "custom" : null,
-    "id" : 27,
-    "language" : null,
-    "matchcode" : "RI12",
-    "name" : null,
-    "size" : 360,
-    "slug" : "ringanaisi",
-    "type" : 2,
-    "unit" : 6
-  }, {
-    "color" : null,
-    "custom" : null,
-    "id" : 28,
-    "language" : null,
-    "matchcode" : "RI24",
-    "name" : null,
-    "size" : 720,
-    "slug" : "ringanaisi-set",
-    "type" : 2,
-    "unit" : 6
-  } ]
+  "usp" : "product.BP2-BGL.usp",
+  "values" : [ ],
+  "variants" : [ ]
 }

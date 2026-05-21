@@ -1,17 +1,23 @@
 {
-  "matchcode" : "R-SG-RNX",
+  "matchcode" : "BP3-BHS",
   "additionalUnitPrice" : null,
   "awards" : [ ],
-  "blogPostIds" : [ ],
+  "blogPostIds" : [ 178302, 178339, 125090 ],
   "categories" : [ {
-    "id" : 16,
+    "id" : 496,
     "infoColorNeeded" : false,
-    "name" : "category.category16.name",
+    "name" : "category.category496.name",
     "primary" : true,
-    "slug" : "merchandise"
+    "slug" : "sets"
+  }, {
+    "id" : 98,
+    "infoColorNeeded" : false,
+    "name" : "category.category98.name",
+    "primary" : false,
+    "slug" : "skincare-sets"
   } ],
   "contentBlock" : null,
-  "contentsAmount" : "1",
+  "contentsAmount" : "330",
   "countryIso" : "DE",
   "currency" : "eur",
   "deliveryStatus" : null,
@@ -22,24 +28,24 @@
   "discountPercentage" : null,
   "disruptor" : null,
   "faqs" : [ ],
-  "firstHeadline" : "product.R-SG-RNX.firstHeadline",
-  "id" : 40,
+  "firstHeadline" : "",
+  "id" : 13,
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
-    "contentsAmount" : "125",
+    "contentsAmount" : "30",
     "currency" : "eur",
-    "description" : "after sun",
-    "imageId" : 7475,
-    "matchcode" : "SBA",
+    "description" : "overnight",
+    "imageId" : 679,
+    "matchcode" : "BCN",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 274.4,
+        "brutto" : 2713.3,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 34.3,
+        "brutto" : 81.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -50,10 +56,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 19.2
+        "provisionPoints" : 46.7
       },
       "partner" : {
-        "brutto" : 34.3,
+        "brutto" : 81.4,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -64,33 +70,33 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 19.2
+        "provisionPoints" : 46.7
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-after-sun",
-    "title" : "FRESH after sun & tan booster",
+    "slug" : "fresh-overnight-face-treatment",
+    "title" : "FRESH overnight face treatment",
     "unitContents" : "ml",
-    "usp" : "product.SBA.usp"
+    "usp" : "product.BCN.usp"
   }, {
     "additionalUnitPrice" : null,
     "contentsAmount" : "200",
     "currency" : "eur",
-    "description" : "sunscreen",
-    "imageId" : 13277,
-    "matchcode" : "BSB",
+    "description" : "scrub",
+    "imageId" : 8035,
+    "matchcode" : "FSC",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 249.5,
+        "brutto" : 194.8,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 49.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 38.96,
+        "bruttoWithoutDiscount" : 48.7,
+        "discountPercentage" : 20,
+        "discountUntil" : "2026-05-21T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -98,13 +104,13 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.2
+        "provisionPoints" : 20.88
       },
       "partner" : {
-        "brutto" : 49.9,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
+        "brutto" : 38.96,
+        "bruttoWithoutDiscount" : 48.7,
+        "discountPercentage" : 20,
+        "discountUntil" : "2026-05-21T21:59:59Z",
         "initialPurchase" : {
           "brutto" : null,
           "bruttoWithoutDiscount" : null,
@@ -112,30 +118,33 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 28.2
+        "provisionPoints" : 20.88
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-sunscreen-spf-25",
-    "title" : "FRESH sunscreen SPF 25",
+    "slug" : "fresh-scrub",
+    "title" : "FRESH scrub face & body",
     "unitContents" : "ml",
-    "usp" : "product.BSB.usp"
+    "usp" : "product.FSC.usp"
   }, {
-    "additionalUnitPrice" : null,
-    "contentsAmount" : "50",
+    "additionalUnitPrice" : {
+      "entity" : 90,
+      "type" : 1
+    },
+    "contentsAmount" : "37,1",
     "currency" : "eur",
-    "description" : "face",
-    "imageId" : 8037,
-    "matchcode" : "SSF",
+    "description" : "beauty & hair",
+    "imageId" : 8033,
+    "matchcode" : "CBH",
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 676,
-        "unit" : "ml",
-        "unitId" : 827
+        "brutto" : 1609.1,
+        "unit" : "g",
+        "unitId" : 812
       },
       "customer" : {
-        "brutto" : 33.8,
+        "brutto" : 59.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -146,10 +155,10 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 19.5
+        "provisionPoints" : 32.6
       },
       "partner" : {
-        "brutto" : 33.8,
+        "brutto" : 59.7,
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
@@ -160,33 +169,28 @@
           "discountUntil" : null,
           "provisionPoints" : null
         },
-        "provisionPoints" : 19.5
+        "provisionPoints" : 32.6
       }
     },
     "purchasePossible" : true,
-    "slug" : "fresh-sunscreen-face",
-    "title" : "FRESH sunscreen face",
-    "unitContents" : "ml",
-    "usp" : "product.SSF.usp"
+    "slug" : "caps-beautyhair",
+    "title" : "CAPS beauty & hair",
+    "unitContents" : "g",
+    "usp" : "product.CBH.usp"
   } ],
   "infoColor" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
-  "maxPerCart" : 12345,
+  "maxPerCart" : 100,
   "mediaGallery" : [ {
     "caption" : "",
     "captionLink" : null,
-    "id" : 74,
-    "mediaId" : 197,
-    "mediaType" : "image"
-  }, {
-    "caption" : "",
-    "captionLink" : null,
-    "id" : 75,
-    "mediaId" : 199,
+    "id" : 13,
+    "mediaId" : 5003,
     "mediaType" : "image"
   } ],
   "nemBackgroundColor" : null,
+  "notifyMeActive" : false,
   "partnerOnly" : false,
   "press" : null,
   "priceInformation" : {
@@ -197,7 +201,7 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 99,
+      "brutto" : 158.3,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -208,10 +212,10 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 78.8
     },
     "partner" : {
-      "brutto" : 99,
+      "brutto" : 158.3,
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
@@ -222,46 +226,58 @@
         "discountUntil" : null,
         "provisionPoints" : null
       },
-      "provisionPoints" : 0
+      "provisionPoints" : 78.8
     }
   },
   "purchasePossible" : true,
   "searchable" : true,
-  "secondHeadline" : "product.R-SG-RNX.secondHeadline",
+  "secondHeadline" : "",
   "setContents" : [ ],
-  "shortDescription" : "product.R-SG-RNX.shortDescription",
+  "shortDescription" : "product.BP3-BHS.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
-  "slug" : "sunglasses",
+  "slug" : "fresh-skin-care-set-rich-alternative-serum",
   "socialMedia" : {
-    "id" : 39,
-    "imageId" : 196,
-    "text" : "product.R-SG-RNX.socialMedia.text",
-    "title" : "product.R-SG-RNX.socialMedia.title"
+    "id" : 12,
+    "imageId" : 108,
+    "text" : "product.BP3-BHS.socialMedia.text",
+    "title" : "product.BP3-BHS.socialMedia.title"
   },
   "soldOut" : false,
-  "supplementDescription" : "glasses",
+  "supplementDescription" : "Skin care",
   "tabs" : [ {
-    "anchorName" : null,
-    "description" : "product.R-SG-RNX.tabs0.description",
-    "id" : 153,
+    "anchorName" : "",
+    "description" : "product.BP3-BHS.tabs0.description",
+    "id" : 45,
     "showPrintButton" : false,
-    "title" : "product.R-SG-RNX.tabs0.title"
+    "title" : "product.BP3-BHS.tabs0.title"
   }, {
-    "anchorName" : null,
-    "description" : "product.R-SG-RNX.tabs1.description",
-    "id" : 154,
+    "anchorName" : "",
+    "description" : "product.BP3-BHS.tabs1.description",
+    "id" : 46,
     "showPrintButton" : true,
-    "title" : "product.R-SG-RNX.tabs1.title"
+    "title" : "product.BP3-BHS.tabs1.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.BP3-BHS.tabs2.description",
+    "id" : 48,
+    "showPrintButton" : false,
+    "title" : "product.BP3-BHS.tabs2.title"
+  }, {
+    "anchorName" : "",
+    "description" : "product.BP3-BHS.tabs3.description",
+    "id" : 51,
+    "showPrintButton" : false,
+    "title" : "product.BP3-BHS.tabs3.title"
   } ],
   "teaserDots" : [ ],
-  "title" : "RINGANA sunglasses",
-  "unit" : "Stk.",
-  "unitContents" : "Stk.",
-  "unitContentsId" : 996,
-  "unitId" : 996,
-  "usp" : "product.R-SG-RNX.usp",
+  "title" : "FRESH skin care set rich - alternative serum",
+  "unit" : "Set",
+  "unitContents" : "ml",
+  "unitContentsId" : 827,
+  "unitId" : 43586,
+  "usp" : "product.BP3-BHS.usp",
   "values" : [ ],
   "variants" : [ ]
 }
