@@ -232,7 +232,19 @@
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
-  "setContents" : [ ],
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "BRM"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "BSA"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "BMF"
+  } ],
   "shortDescription" : "product.BP-MEN-BSA.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
