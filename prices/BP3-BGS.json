@@ -41,6 +41,10 @@
       "base" : {
         "amount" : 1000,
         "brutto" : 2713.3,
+        "gross" : 2713.3,
+        "grossPartner" : 2713.3,
+        "net" : null,
+        "netPartner" : null,
         "unit" : "ml",
         "unitId" : 827
       },
@@ -49,13 +53,10 @@
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
+        "gross" : 81.4,
+        "grossWithoutDiscount" : null,
+        "net" : null,
+        "netWithoutDiscount" : null,
         "provisionPoints" : 46.7
       },
       "partner" : {
@@ -63,13 +64,10 @@
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
+        "gross" : 81.4,
+        "grossWithoutDiscount" : null,
+        "net" : null,
+        "netWithoutDiscount" : null,
         "provisionPoints" : 46.7
       }
     },
@@ -89,6 +87,10 @@
       "base" : {
         "amount" : 1000,
         "brutto" : 243.5,
+        "gross" : 243.5,
+        "grossPartner" : 243.5,
+        "net" : null,
+        "netPartner" : null,
         "unit" : "ml",
         "unitId" : 827
       },
@@ -97,13 +99,10 @@
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
+        "gross" : 48.7,
+        "grossWithoutDiscount" : null,
+        "net" : null,
+        "netWithoutDiscount" : null,
         "provisionPoints" : 29
       },
       "partner" : {
@@ -111,13 +110,10 @@
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
+        "gross" : 48.7,
+        "grossWithoutDiscount" : null,
+        "net" : null,
+        "netWithoutDiscount" : null,
         "provisionPoints" : 29
       }
     },
@@ -140,6 +136,10 @@
       "base" : {
         "amount" : 1000,
         "brutto" : 1609.1,
+        "gross" : 1609.1,
+        "grossPartner" : 1609.1,
+        "net" : null,
+        "netPartner" : null,
         "unit" : "g",
         "unitId" : 812
       },
@@ -148,13 +148,10 @@
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
+        "gross" : 59.7,
+        "grossWithoutDiscount" : null,
+        "net" : null,
+        "netWithoutDiscount" : null,
         "provisionPoints" : 32.6
       },
       "partner" : {
@@ -162,13 +159,10 @@
         "bruttoWithoutDiscount" : null,
         "discountPercentage" : null,
         "discountUntil" : null,
-        "initialPurchase" : {
-          "brutto" : null,
-          "bruttoWithoutDiscount" : null,
-          "discountPercentage" : null,
-          "discountUntil" : null,
-          "provisionPoints" : null
-        },
+        "gross" : 59.7,
+        "grossWithoutDiscount" : null,
+        "net" : null,
+        "netWithoutDiscount" : null,
         "provisionPoints" : 32.6
       }
     },
@@ -197,6 +191,10 @@
     "base" : {
       "amount" : null,
       "brutto" : null,
+      "gross" : null,
+      "grossPartner" : null,
+      "net" : null,
+      "netPartner" : null,
       "unit" : null,
       "unitId" : null
     },
@@ -205,13 +203,10 @@
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
-      "initialPurchase" : {
-        "brutto" : null,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : null
-      },
+      "gross" : 174.2,
+      "grossWithoutDiscount" : null,
+      "net" : null,
+      "netWithoutDiscount" : null,
       "provisionPoints" : 87.1
     },
     "partner" : {
@@ -219,13 +214,10 @@
       "bruttoWithoutDiscount" : null,
       "discountPercentage" : null,
       "discountUntil" : null,
-      "initialPurchase" : {
-        "brutto" : null,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "provisionPoints" : null
-      },
+      "gross" : 174.2,
+      "grossWithoutDiscount" : null,
+      "net" : null,
+      "netWithoutDiscount" : null,
       "provisionPoints" : 87.1
     }
   },
