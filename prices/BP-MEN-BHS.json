@@ -3,6 +3,7 @@
   "additionalUnitPrice" : null,
   "awards" : [ ],
   "blogPostIds" : [ 44933, 181125, 191456 ],
+  "cardHoverEffectEnabled" : true,
   "categories" : [ {
     "id" : 496,
     "infoColorNeeded" : false,
@@ -224,7 +225,19 @@
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
-  "setContents" : [ ],
+  "setContents" : [ {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "BRM"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "BHS"
+  }, {
+    "amount" : 1,
+    "freeOfCharge" : false,
+    "matchcode" : "BMF"
+  } ],
   "shortDescription" : "product.BP-MEN-BHS.shortDescription",
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
