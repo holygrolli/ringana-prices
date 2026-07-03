@@ -41,35 +41,35 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 219.1,
-        "gross" : 219.1,
-        "grossPartner" : 219.1,
+        "brutto" : 243.5,
+        "gross" : 243.5,
+        "grossPartner" : 243.5,
         "net" : null,
         "netPartner" : null,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 43.83,
-        "bruttoWithoutDiscount" : 48.7,
-        "discountPercentage" : 10,
-        "discountUntil" : "2026-07-03T08:00:00Z",
-        "gross" : 43.83,
-        "grossWithoutDiscount" : 48.7,
+        "brutto" : 48.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "gross" : 48.7,
+        "grossWithoutDiscount" : null,
         "net" : null,
         "netWithoutDiscount" : null,
-        "provisionPoints" : 23.49
+        "provisionPoints" : 29
       },
       "partner" : {
-        "brutto" : 43.83,
-        "bruttoWithoutDiscount" : 48.7,
-        "discountPercentage" : 10,
-        "discountUntil" : "2026-07-03T08:00:00Z",
-        "gross" : 43.83,
-        "grossWithoutDiscount" : 48.7,
+        "brutto" : 48.7,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "gross" : 48.7,
+        "grossWithoutDiscount" : null,
         "net" : null,
         "netWithoutDiscount" : null,
-        "provisionPoints" : 23.49
+        "provisionPoints" : 29
       }
     },
     "purchasePossible" : true,
@@ -136,35 +136,35 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 2170.6,
-        "gross" : 2170.6,
-        "grossPartner" : 2170.6,
+        "brutto" : 2713.3,
+        "gross" : 2713.3,
+        "grossPartner" : 2713.3,
         "net" : null,
         "netPartner" : null,
         "unit" : "ml",
         "unitId" : 827
       },
       "customer" : {
-        "brutto" : 65.12,
-        "bruttoWithoutDiscount" : 81.4,
-        "discountPercentage" : 20,
-        "discountUntil" : "2026-07-02T21:59:59Z",
-        "gross" : 65.12,
-        "grossWithoutDiscount" : 81.4,
+        "brutto" : 81.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "gross" : 81.4,
+        "grossWithoutDiscount" : null,
         "net" : null,
         "netWithoutDiscount" : null,
-        "provisionPoints" : 33.62
+        "provisionPoints" : 46.7
       },
       "partner" : {
-        "brutto" : 65.12,
-        "bruttoWithoutDiscount" : 81.4,
-        "discountPercentage" : 20,
-        "discountUntil" : "2026-07-02T21:59:59Z",
-        "gross" : 65.12,
-        "grossWithoutDiscount" : 81.4,
+        "brutto" : 81.4,
+        "bruttoWithoutDiscount" : null,
+        "discountPercentage" : null,
+        "discountUntil" : null,
+        "gross" : 81.4,
+        "grossWithoutDiscount" : null,
         "net" : null,
         "netWithoutDiscount" : null,
-        "provisionPoints" : 33.62
+        "provisionPoints" : 46.7
       }
     },
     "purchasePossible" : true,
