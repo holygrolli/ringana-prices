@@ -31,6 +31,7 @@
   "faqs" : [ ],
   "firstHeadline" : "",
   "id" : 10,
+  "idealSupplementProductMatchcodes" : [ "BCN", "FSC", "CBH" ],
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
     "contentsAmount" : "30",
@@ -238,6 +239,7 @@
     "title" : "product.BP2-BSA.socialMedia.title"
   },
   "soldOut" : false,
+  "status" : 2,
   "supplementDescription" : "Skin care",
   "tabs" : [ {
     "anchorName" : "",
@@ -272,5 +274,6 @@
   "unitId" : 43586,
   "usp" : "product.BP2-BSA.usp",
   "values" : [ ],
+  "variantGroups" : [ ],
   "variants" : [ ]
 }

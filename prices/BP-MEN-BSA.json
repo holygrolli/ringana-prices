@@ -31,6 +31,7 @@
   "faqs" : [ ],
   "firstHeadline" : "",
   "id" : 6,
+  "idealSupplementProductMatchcodes" : [ "CMV", "BZO", "BDB" ],
   "idealSupplements" : [ {
     "additionalUnitPrice" : {
       "entity" : 90,
@@ -238,6 +239,7 @@
     "title" : "product.BP-MEN-BSA.socialMedia.title"
   },
   "soldOut" : false,
+  "status" : 2,
   "supplementDescription" : "Skin care",
   "tabs" : [ {
     "anchorName" : "",
@@ -272,5 +274,6 @@
   "unitId" : 43586,
   "usp" : "product.BP-MEN-BSA.usp",
   "values" : [ ],
+  "variantGroups" : [ ],
   "variants" : [ ]
 }

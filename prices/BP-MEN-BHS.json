@@ -31,6 +31,7 @@
   "faqs" : [ ],
   "firstHeadline" : "",
   "id" : 5,
+  "idealSupplementProductMatchcodes" : [ "FSC", "BDB", "CMV" ],
   "idealSupplements" : [ {
     "additionalUnitPrice" : null,
     "contentsAmount" : "200",
@@ -238,6 +239,7 @@
     "title" : "product.BP-MEN-BHS.socialMedia.title"
   },
   "soldOut" : false,
+  "status" : 2,
   "supplementDescription" : "Skin care",
   "tabs" : [ {
     "anchorName" : "",
@@ -272,6 +274,7 @@
   "unitId" : 43586,
   "usp" : "product.BP-MEN-BHS.usp",
   "values" : [ ],
+  "variantGroups" : [ ],
   "variants" : [ {
     "color" : "#e8d5ce",
     "custom" : null,
