@@ -122,6 +122,7 @@
         "provisionPoints" : 8.9
       }
     },
+    "pricePerUnitEnabled" : true,
     "purchasePossible" : true,
     "slug" : "fresh-tooth-oil",
     "title" : "FRESH tooth oil",
