@@ -73,6 +73,7 @@
         "provisionPoints" : 46.7
       }
     },
+    "pricePerUnitEnabled" : true,
     "purchasePossible" : true,
     "slug" : "fresh-overnight-face-treatment",
     "title" : "FRESH overnight face treatment",
