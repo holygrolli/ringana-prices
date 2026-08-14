@@ -45,37 +45,38 @@
     "priceInformation" : {
       "base" : {
         "amount" : 1000,
-        "brutto" : 1292.5,
-        "gross" : 1292.5,
-        "grossPartner" : 1292.5,
+        "brutto" : 1034,
+        "gross" : 1034,
+        "grossPartner" : 1034,
         "net" : null,
         "netPartner" : null,
         "unit" : "g",
         "unitId" : 812
       },
       "customer" : {
-        "brutto" : 59.2,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "gross" : 59.2,
-        "grossWithoutDiscount" : null,
+        "brutto" : 47.36,
+        "bruttoWithoutDiscount" : 59.2,
+        "discountPercentage" : 20,
+        "discountUntil" : "2026-08-15T21:59:59Z",
+        "gross" : 47.36,
+        "grossWithoutDiscount" : 59.2,
         "net" : null,
         "netWithoutDiscount" : null,
-        "provisionPoints" : 32.6
+        "provisionPoints" : 23.47
       },
       "partner" : {
-        "brutto" : 59.2,
-        "bruttoWithoutDiscount" : null,
-        "discountPercentage" : null,
-        "discountUntil" : null,
-        "gross" : 59.2,
-        "grossWithoutDiscount" : null,
+        "brutto" : 47.36,
+        "bruttoWithoutDiscount" : 59.2,
+        "discountPercentage" : 20,
+        "discountUntil" : "2026-08-15T21:59:59Z",
+        "gross" : 47.36,
+        "grossWithoutDiscount" : 59.2,
         "net" : null,
         "netWithoutDiscount" : null,
-        "provisionPoints" : 32.6
+        "provisionPoints" : 23.47
       }
     },
+    "pricePerUnitEnabled" : true,
     "purchasePossible" : true,
     "slug" : "caps-mascu",
     "title" : "CAPS mascu",
