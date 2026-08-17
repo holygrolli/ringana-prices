@@ -178,6 +178,7 @@
     "usp" : "product.BCN.usp"
   } ],
   "infoColor" : null,
+  "ingredientInformation" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
@@ -226,11 +227,13 @@
       "provisionPoints" : 87.1
     }
   },
+  "pricePerUnitEnabled" : true,
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
   "shortDescription" : "product.BP3.shortDescription",
+  "showLegalFootnote" : false,
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
@@ -277,11 +280,71 @@
   "unitId" : 43586,
   "usp" : "product.BP3.usp",
   "values" : [ ],
-  "variantGroups" : [ ],
+  "variantGroups" : [ {
+    "id" : 23,
+    "market" : null,
+    "type" : 1,
+    "variantItems" : [ {
+      "baseProductId" : 461,
+      "color" : "#dac8b1",
+      "custom" : null,
+      "id" : 82,
+      "language" : null,
+      "matchcode" : "BP3",
+      "name" : "rich",
+      "size" : null,
+      "slug" : "fresh-skin-care-set-rich",
+      "unit" : null
+    }, {
+      "baseProductId" : 56,
+      "color" : "#e8d5ce",
+      "custom" : null,
+      "id" : 83,
+      "language" : null,
+      "matchcode" : "BP1",
+      "name" : "light",
+      "size" : null,
+      "slug" : "fresh-skin-care-set-light",
+      "unit" : null
+    }, {
+      "baseProductId" : 448,
+      "color" : "#e8e0ce",
+      "custom" : null,
+      "id" : 84,
+      "language" : null,
+      "matchcode" : "BP2",
+      "name" : "medium",
+      "size" : null,
+      "slug" : "fresh-skin-care-set-medium",
+      "unit" : null
+    }, {
+      "baseProductId" : 52,
+      "color" : "#dfd9c8",
+      "custom" : null,
+      "id" : 85,
+      "language" : null,
+      "matchcode" : "BP-MEN-BHS",
+      "name" : "men",
+      "size" : null,
+      "slug" : "set-for-men",
+      "unit" : null
+    } ]
+  } ],
   "variants" : [ {
+    "color" : "#dac8b1",
+    "custom" : null,
+    "id" : 82,
+    "language" : null,
+    "matchcode" : "BP3",
+    "name" : "rich",
+    "size" : null,
+    "slug" : "fresh-skin-care-set-rich",
+    "type" : 1,
+    "unit" : null
+  }, {
     "color" : "#e8d5ce",
     "custom" : null,
-    "id" : 5,
+    "id" : 83,
     "language" : null,
     "matchcode" : "BP1",
     "name" : "light",
@@ -292,7 +355,7 @@
   }, {
     "color" : "#e8e0ce",
     "custom" : null,
-    "id" : 6,
+    "id" : 84,
     "language" : null,
     "matchcode" : "BP2",
     "name" : "medium",
@@ -301,20 +364,9 @@
     "type" : 1,
     "unit" : null
   }, {
-    "color" : "#dac8b1",
-    "custom" : null,
-    "id" : 7,
-    "language" : null,
-    "matchcode" : "BP3",
-    "name" : "rich",
-    "size" : null,
-    "slug" : "fresh-skin-care-set-rich",
-    "type" : 1,
-    "unit" : null
-  }, {
     "color" : "#dfd9c8",
     "custom" : null,
-    "id" : 8,
+    "id" : 85,
     "language" : null,
     "matchcode" : "BP-MEN-BHS",
     "name" : "men",

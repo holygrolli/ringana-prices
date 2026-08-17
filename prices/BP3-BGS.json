@@ -178,6 +178,7 @@
     "usp" : "product.CBH.usp"
   } ],
   "infoColor" : null,
+  "ingredientInformation" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
@@ -226,11 +227,13 @@
       "provisionPoints" : 87.1
     }
   },
+  "pricePerUnitEnabled" : true,
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
   "shortDescription" : "product.BP3-BGS.shortDescription",
+  "showLegalFootnote" : false,
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
