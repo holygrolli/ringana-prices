@@ -178,6 +178,7 @@
     "usp" : "product.BDB.usp"
   } ],
   "infoColor" : null,
+  "ingredientInformation" : null,
   "isFreshCosmeticsProduct" : false,
   "isMerchandise" : false,
   "maxPerCart" : 100,
@@ -226,11 +227,13 @@
       "provisionPoints" : 70.6
     }
   },
+  "pricePerUnitEnabled" : true,
   "purchasePossible" : true,
   "searchable" : true,
   "secondHeadline" : "",
   "setContents" : [ ],
   "shortDescription" : "product.BP-MEN-BSA.shortDescription",
+  "showLegalFootnote" : false,
   "showOnSpecialOffer" : 2,
   "singleShipmentOnly" : false,
   "skinTypes" : [ ],
