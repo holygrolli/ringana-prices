@@ -38,6 +38,7 @@
     "currency" : "eur",
     "description" : "overnight",
     "imageId" : 679,
+    "imperialQuantity" : null,
     "matchcode" : "BCN",
     "priceInformation" : {
       "base" : {
@@ -85,6 +86,7 @@
     "currency" : "eur",
     "description" : "scrub",
     "imageId" : 8035,
+    "imperialQuantity" : null,
     "matchcode" : "FSC",
     "priceInformation" : {
       "base" : {
@@ -135,6 +137,7 @@
     "currency" : "eur",
     "description" : "beauty & hair",
     "imageId" : 8033,
+    "imperialQuantity" : null,
     "matchcode" : "CBH",
     "priceInformation" : {
       "base" : {
@@ -177,6 +180,7 @@
     "unitContents" : "g",
     "usp" : "product.CBH.usp"
   } ],
+  "imperialQuantity" : null,
   "infoColor" : null,
   "ingredientInformation" : null,
   "isFreshCosmeticsProduct" : false,
@@ -205,26 +209,26 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 174.2,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
-      "gross" : 174.2,
-      "grossWithoutDiscount" : null,
+      "brutto" : 139.36,
+      "bruttoWithoutDiscount" : 174.2,
+      "discountPercentage" : 20,
+      "discountUntil" : "2026-09-16T08:00:00Z",
+      "gross" : 139.36,
+      "grossWithoutDiscount" : 174.2,
       "net" : null,
       "netWithoutDiscount" : null,
-      "provisionPoints" : 87.1
+      "provisionPoints" : 62.71
     },
     "partner" : {
-      "brutto" : 174.2,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
-      "gross" : 174.2,
-      "grossWithoutDiscount" : null,
+      "brutto" : 139.36,
+      "bruttoWithoutDiscount" : 174.2,
+      "discountPercentage" : 20,
+      "discountUntil" : "2026-09-16T08:00:00Z",
+      "gross" : 139.36,
+      "grossWithoutDiscount" : 174.2,
       "net" : null,
       "netWithoutDiscount" : null,
-      "provisionPoints" : 87.1
+      "provisionPoints" : 62.71
     }
   },
   "pricePerUnitEnabled" : true,

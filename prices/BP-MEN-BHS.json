@@ -38,6 +38,7 @@
     "currency" : "eur",
     "description" : "scrub",
     "imageId" : 8035,
+    "imperialQuantity" : null,
     "matchcode" : "FSC",
     "priceInformation" : {
       "base" : {
@@ -85,6 +86,7 @@
     "currency" : "eur",
     "description" : "body wash",
     "imageId" : 600,
+    "imperialQuantity" : null,
     "matchcode" : "BDB",
     "priceInformation" : {
       "base" : {
@@ -135,6 +137,7 @@
     "currency" : "eur",
     "description" : "CAPS mascu",
     "imageId" : 407,
+    "imperialQuantity" : null,
     "matchcode" : "CMV",
     "priceInformation" : {
       "base" : {
@@ -177,6 +180,7 @@
     "unitContents" : "g",
     "usp" : "product.CMV.usp"
   } ],
+  "imperialQuantity" : null,
   "infoColor" : null,
   "ingredientInformation" : null,
   "isFreshCosmeticsProduct" : false,
@@ -205,26 +209,26 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 122.9,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
-      "gross" : 122.9,
-      "grossWithoutDiscount" : null,
+      "brutto" : 98.32,
+      "bruttoWithoutDiscount" : 122.9,
+      "discountPercentage" : 20,
+      "discountUntil" : "2026-09-16T08:00:00Z",
+      "gross" : 98.32,
+      "grossWithoutDiscount" : 122.9,
       "net" : null,
       "netWithoutDiscount" : null,
-      "provisionPoints" : 62.4
+      "provisionPoints" : 44.93
     },
     "partner" : {
-      "brutto" : 122.9,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
-      "gross" : 122.9,
-      "grossWithoutDiscount" : null,
+      "brutto" : 98.32,
+      "bruttoWithoutDiscount" : 122.9,
+      "discountPercentage" : 20,
+      "discountUntil" : "2026-09-16T08:00:00Z",
+      "gross" : 98.32,
+      "grossWithoutDiscount" : 122.9,
       "net" : null,
       "netWithoutDiscount" : null,
-      "provisionPoints" : 62.4
+      "provisionPoints" : 44.93
     }
   },
   "pricePerUnitEnabled" : true,

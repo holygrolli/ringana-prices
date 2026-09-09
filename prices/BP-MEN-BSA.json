@@ -41,6 +41,7 @@
     "currency" : "eur",
     "description" : "CAPS mascu",
     "imageId" : 407,
+    "imperialQuantity" : null,
     "matchcode" : "CMV",
     "priceInformation" : {
       "base" : {
@@ -88,6 +89,7 @@
     "currency" : "eur",
     "description" : "tooth oil",
     "imageId" : 4634,
+    "imperialQuantity" : null,
     "matchcode" : "BZO",
     "priceInformation" : {
       "base" : {
@@ -135,6 +137,7 @@
     "currency" : "eur",
     "description" : "body wash",
     "imageId" : 600,
+    "imperialQuantity" : null,
     "matchcode" : "BDB",
     "priceInformation" : {
       "base" : {
@@ -177,6 +180,7 @@
     "unitContents" : "ml",
     "usp" : "product.BDB.usp"
   } ],
+  "imperialQuantity" : null,
   "infoColor" : null,
   "ingredientInformation" : null,
   "isFreshCosmeticsProduct" : false,
@@ -205,26 +209,26 @@
       "unitId" : null
     },
     "customer" : {
-      "brutto" : 138.8,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
-      "gross" : 138.8,
-      "grossWithoutDiscount" : null,
+      "brutto" : 111.04,
+      "bruttoWithoutDiscount" : 138.8,
+      "discountPercentage" : 20,
+      "discountUntil" : "2026-09-16T08:00:00Z",
+      "gross" : 111.04,
+      "grossWithoutDiscount" : 138.8,
       "net" : null,
       "netWithoutDiscount" : null,
-      "provisionPoints" : 70.6
+      "provisionPoints" : 50.83
     },
     "partner" : {
-      "brutto" : 138.8,
-      "bruttoWithoutDiscount" : null,
-      "discountPercentage" : null,
-      "discountUntil" : null,
-      "gross" : 138.8,
-      "grossWithoutDiscount" : null,
+      "brutto" : 111.04,
+      "bruttoWithoutDiscount" : 138.8,
+      "discountPercentage" : 20,
+      "discountUntil" : "2026-09-16T08:00:00Z",
+      "gross" : 111.04,
+      "grossWithoutDiscount" : 138.8,
       "net" : null,
       "netWithoutDiscount" : null,
-      "provisionPoints" : 70.6
+      "provisionPoints" : 50.83
     }
   },
   "pricePerUnitEnabled" : true,
